@@ -1,0 +1,17 @@
+---
+title: "Pathologe"
+output: html_notebook
+---
+
+
+
+
+Besonderheiten des Azinuszellkarzinoms des Pankreas
+
+https://link.springer.com/article/10.1007/s11377-018-0279-0
+
+Therapie adenoneuroendokriner Mischtumoren des Gastrointestinaltrakts
+
+https://link.springer.com/article/10.1007/s11377-018-0278-1
+
+

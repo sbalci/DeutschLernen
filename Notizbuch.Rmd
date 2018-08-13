@@ -1,0 +1,651 @@
+---
+title: "Das Notizbuch"
+output: html_notebook
+---
+
+# Wörterbuch {.tabset .tabset-fade .tabset-pills}
+
+## Leo
+
+https://www.leo.org/german-english
+
+---
+
+## Pons
+
+https://en.pons.com/translate
+
+---
+
+## Duden
+
+https://www.duden.de/
+
+---
+
+# Bibliothek {.tabset .tabset-fade .tabset-pills}
+
+## Mein Goethe
+
+https://my.goethe.de/
+
+---
+
+## Onleihe
+
+http://www2.onleihe.de/goethe-institut/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0.html?lK=656e
+
+---
+
+# Namen {.tabset .tabset-fade .tabset-pills}
+
+
+Registrierungscode  
+Stadt Städte 
+Städtenamen  
+die Taxis  
+
+
+
+## der
+<span style="color:blue">
+der Aufzug | die Aufzüge  
+der Supermarkt  
+der Dom  
+der Ausweis  
+der Weg | die Wege
+der Navigator | die Navigatoren  
+der Stadtplan | die Stadtpläne
+der Bahnof  
+der Brücke  
+
+
+</span>
+
+## die
+<span style="color:red">
+die Disco  
+die Sprachshule  
+die Post
+die Bank National  
+die Polizei  
+die Bank  
+die straße | die straßen
+die Ampel  
+die Bushaltestelle  
+
+</span>
+
+
+## das
+<span style="color:green">
+das Fahrrad  
+das Scwhimmbad  
+das Museum  
+das Politzeiauto  
+das Restaurant  
+das Auto | die Autos  
+das Hotel | die Hotels  
+das Zentrum  
+das Kino
+
+
+</span>
+
+---
+
+# Namen Dativ {.tabset .tabset-fade .tabset-pills}
+
+## die -> der
+
+die Bank -> der Bank  
+die Ampel -> der Ampel  
+die Brücke -> der Brücke  
+
+an dem Bahnof
+am Bahnoff  
+zwischen dem Supermarkt und dem Hotel
+hinter der Hãusern
+in dem Zentrum  
+im Zentrum  
+neben der Polizei  
+zwischen dem Bahnoff und der Post  
+vor der Bank
+hinter der Brücke  
+neben dem Museum
+
+
+
+# Verben {.tabset .tabset-fade .tabset-pills}
+
+suchen
+
+
+---
+
+## Trenbare
+
+anmachen
+einladen  
+aufhören  
+fernsehen  
+abgieben  
+umsteigen  
+mitbringen  
+ab fahren  
+
+
+---
+
+## Name + Verb
+
+---
+
+# Adjektiven {.tabset .tabset-fade .tabset-pills}
+
+---
+
+# Regel {.tabset .tabset-fade .tabset-pills}
+
+Lokale Pröpositionen + Dativ
+
+
+
+---
+
+# Frage {.tabset .tabset-fade .tabset-pills}
+
+## W frage {.tabset .tabset-fade .tabset-pills}
+
+Hallo.  
+Wie heißen Sie? Ich heiße ...
+Freut mich. Freut mich auch.
+
+Wer bist du?  
+
+Wer ist das? Das ist ...
+
+Wie ist Ihr Vorname? Mein Vorname ist ...
+
+Wie ist Ihr Familienname/Nachname?
+Mein Familienname ist ...
+
+Woher kommen Sie? Ich komme aus ...
+
+Wo wohnen Sie? Ich wohne in ...
+
+Wo alt bist du? Ich bin ... Jahre alt.
+
+Welche Sprachen sprechen Sie? Ich spreche gut Türkisch, flueßen Englisch und ein bisschen Deutsch.
+
+Was ist seine Telefonnummer? Meine telefonnummer ist ...
+
+Was heißt seine Deutschlehrerin? Wer ist seine Deutschlehrenin? Meine Deutschlehrenin heißt ...
+
+Was ist das? Das ist ein Buch. Das sind zwei Bücher.
+
+### Wo
+
+Ich suche die Disco. Wo ist sie, bitte?  
+Sie ist neben das Museum.  
+
+Wo ist die Maus?
+
+## Ja Nein Frage
+
+---
+
+# Thema {.tabset .tabset-fade .tabset-pills}
+
+## der Kalendar
+
+die Woche  
+der Tag  
+das Jahr  
+die Stunde  
+die Minute  
+der Monat  
+
+---
+
+##   
+
+Bitte links abbiegen  
+Bitte rechts abbiegen  
+Gehen/Fahren Sie geradeaus  
+Bitte wenden Sie  
+An der Ampel fahren Sie geradeaus  
+Gehen/Fahren Sie an der Kirche vorbei  
+Gehen/Fahren Sie die zweite Straße links  
+
+
+
+
+
+---
+
+# Präpositionen
+
+
+Ich suche die Disco. Wo ist sie, bitte?  
+Sie ist neben das Museum.  
+
+Wo ist die Maus?  
+Die Maus ist vor dem Käse.  
+Die Maus ist auf dem Käse.  
+Die Maus ist neben dem Käse.  
+Die Maus ist hinter dem Käse.  
+Die Maus ist zwischen dem Käse.  
+Die Maus ist an dem Käse.  
+Die Maus ist unter dem Käse.  
+Die Maus ist in dem Käse.  
+Die Maus ist über dem Käse.  
+
+
+Auf dem Sofa schläft ein Mann
+Vor dem Sofa ist ein Teppich  
+Auf dem Teppich ist ein kleiner Tisch  
+Unter dem Tisch ist eine Tasche  
+Hinter/ Über dem Sofa ist ein Bild  
+Neben dem Sofa ist ein Laptop  
+
+---
+
+# Zeitpräpositionen
+
+
+---
+
+# Zahlen 0 bis 20
+
+0 null
+1 eins (ei -> ai)
+2 zwei (z -> ts)
+3 drei
+4 vier (ie -> ii)
+5 fünf
+6 sechs
+7 sieben
+8 acht
+9 neum (eu -> oi)
+10 zehn (eh -> ee)
+11 elf
+12 zwölf
+13 dreizehn
+14 vierzehn
+15 fünfzehn
+16 sechzehn
+17 siebzehn
+18 achtzehn
+19 neunzehn
+20 zwanzig
+
+---
+
+#
+
+plus  +  
+minus  -  
+mal  *  
+durch  /  
+ist/gleich =  
+
+1+1 = 2 eins plus eins ist / gleich zwei  
+
+---
+# Gegenteil
+
+öffnen X schließen
+
+Ich öffne das Buch. Ich schließe das Buch.
+
+
+# Kurssprache
+
+# A1.1 online 
+
+# a
+
+Kann ich Sie etwas fragen?
+
+
+
+
+---
+
+Your answer is correct.
+Ball 1 ist neben dem Schrank.
+
+Ball 2 ist auf der Couch.
+
+Ball 3 ist im Schrank.
+
+Ball 4 ist unter der Couch.
+
+Ball 5 ist zwischen der Couch und dem Schrank.
+
+Ball 6 ist hinter dem Schrank.
+
+Ball 7 ist über der Couch.
+
+Ball 8 ist an dem Schrank.
+
+Ball 9 ist vor der Couch.
+
+Ball 9 ist auf dem Teppich.
+
+
+
+
+
+◆ Können Sie mir helfen? Wo ist das Café "Glockner"?
+
+◆ Tut mir leid, ich bin fremd hier. / ich bin nicht von hier.
+
+ 
+
+◆ Ja, das ist gleich die nächste Straße links.
+
+◆ Vielen Dank, das ist sehr nett.
+
+ 
+
+◆ Oh, tut mir leid. Das weiß ich nicht.
+
+◆ Schade. Trotzdem: Dankeschön.
+
+ 
+
+◆ Kann ich Sie etwas fragen? ich suche den Bahnhof.
+
+◆ Fahren Sie zwei Kilometer geradeaus. Dann sehen Sie schon den Bahnhof.
+
+ 
+
+◆ Kennen Sie das Restaurant "Schönblick"?
+
+◆ Ja, das ist ganz in der Nähe. Wenden Sie hier und fahren Sie zurück bis zur Ampel und dann links.
+
+
+
+1. Sie können hier essen.         	Answer
+Restaurant
+Correct
+2. Anderes Wort für Stadtmitte     
+
+Answer
+Zentrum
+Correct
+3. Hier fahren Züge ab und es kommen Züge an.	Answer
+Bahnhof
+Correct
+4. Hier bekommen Sie Geld.	Answer
+Bank
+Correct
+5. Hier können Sie Briefmarken kaufen.	Answer
+Post
+Correct
+6. Rot: Sie bleiben stehen. Grün: Sie können fahren.	Answer
+Ampel
+Correct
+7. Hier können Sie einen Tee oder Kaffee trinken.	Answer
+Café
+Correct
+ 
+ 
+ 
+
+Anzeige A
+
+Schöne 2-Zimmer-Wohnung frei ab 1.5.
+
+45 Quadratmeter mit großem Balkon
+
+Möbliert, mit Stellplatz in der Tiefgarage
+
+Miete 380.- € inkl. Nebenkosten
+
+Anzeige B
+
+2-Zimmer-Wohnung zu vermieten
+
+55 Quadratmeter, Balkon, Küche und Bad.
+
+Miete 450.- € + Nebenkosten
+
+
+Das ist Bruno. Bruno wohnt genau wie Otto und Vanilla in Glückstadt. 
+Sein Haus liegt neben Ottos Haus. Er ist geschieden, aber er wohnt nicht allein. In dem Haus wohnt auch seine
+neue Partnerin Mia. Mia hat zwei Kinder. 
+Ihre
+ Tochter heißt Sandra und ist 8 Jahre alt und 
+ihr
+ Sohn heißt Mark und ist 4 Jahre alt. Sandra und 
+ihr
+ Bruder wohnen im ersten Stock. Bruno liebt besonders 
+sein
+ Arbeitszimmer im Erdgeschoss. Dort steht 
+sein
+ Computer. Er surft gern im Internet und spielt gern Computerspiele. 
+Seine
+ Partnerin ist gern im Garten. Sie findet Computerspiele langweilig. Aber sie liebt 
+ihren
+ Garten und 
+ihre
+ Blumen.
+
+
+
+
+TRAUMWOHNUNG
+
+Traum
+
+Wohnung
+
+Meine Traumwohnung
+
+
+Ich lerne Deutsch.  Ich bin in einer Sprachenschule.
+
+
+1. Ich bin shoppen.	in einem 
+Laden
+
+2. Ich suche Bücher, aber ich kaufe sie nicht.	in
+einer Bibliothek
+
+3. Ich bin in einem Haus. Es ist sehr groß. Ich wohne hier nicht. Ich bin im Urlaub und sehe mir das Haus an.	
+in einem Schloss
+
+4. Ich gehe spazieren. Hier sind Bäume, aber ich bin nicht im Wald. Ich bin in einer Stadt.	
+in einem Park
+
+5. Ich bin in der Stadtmitte. An Donnerstag gibt es hier immer Obst und Gemüse.	
+auf einem Markt
+
+6. Ich bin in einer Kirche und habe einen Blick auf die Stadt von oben.	
+auf einem Turm
+
+7. Das Wetter ist schön und ich schwimme. Ich bin im Wasser, aber nicht im Meer.	
+in einem Fluss
+
+
+
+Hallo Maria und Pedro, wie geht es euch?
+    Danke, gut.
+
+1. Maria, kommst du ?
+    Ja, Pedro, ich komme gleich und helfe dir
+
+3. Wir haben Probleme mit den Hausaufgaben. Kannst du
+uns
+ helfen?
+    Ja, klar.
+4. Pedro, sind das deine Bücher? 
+    Nein, die  gehören nicht 
+mir
+ Sie gehören Maria.
+5.  Was machst du? 
+     Ich schreibe eine Postkarte an Sandra und danke 
+ihr
+ für die 
+     Einladung.
+6. Hast du am Sonntag Zeit? 
+Nein, Peter und Anja ziehen um und ich helfe 
+ihnen
+
+
+
+Lesen Sie Jans Blog. Sind die Sätze richtig oder falsch?
+
+Jans Blog 
+
+Hamburg - das Tor zur Welt
+
+Meine Lieblingsstadt ist Hamburg. Ich bin oft dort und besuche Freunde. Die Stadt hat 1.8 Millionen Einwohner und liegt in Norddeutschland an der Elbe. In Hamburg gibt es alles: Kunst und Kultur, Restaurants und Bars, Läden und Geschäfte - und viel Wasser. Ihr wollt Hamburg besuchen? Das müsst ihr sehen:
+
+Petra Schmidt/ pixelio.de	
+1 Hamburg am Wasser
+
+Besonders spanned sind der Hafen mit den Container-Schiffen aus der ganzen Welt und die Speicherstadt. Dort lagern Waren von den Schiffen: Kaffee, Tee, Gewürze, Kakao, elektronische Produkte, Teppiche und vieles mehr. Aber es gibt auch Museen, Ausstellungen, Lesungen und Theateraufführungen.
+
+Jan Bröckel/ pixelio.de
+
+2 Hamburg von oben
+
+Die Kirche St. Michaelis (die Hamburger nennen sie "Michel") ist das Wahrzeichen von Hamburg. Der Blick vom Kirchenturm (132 Meter hoch!) auf die Stadt und den Hafen ist einfach toll!
+
+Flown/ pixelio.de	
+3 Hamburg am Abend
+
+Natürlich gibt es in Hamburg überall viele Kneipen. Besonders gern mag ich aber die Atmosphäre am Großneumarkt, das ist ein Platz in der Hamburger Neustadt mit Kneipen, Cafes und Restaurants. Vielleicht sehen wir uns irgendwann mal?
+
+Ewa aus Krakau
+Danke für die Tipps, Jan! Dein Blog gefällt mir gut. Hamburg kenne ich noch nicht, aber jetzt möchte ich unbedingt hin und den Hafen sehen. Antworten
+
+
+
+
+
+Einwohner | Wappen | alt | 500 | Bern | spricht | Hauptstadt | Berlin
+Martin lebt in 
+Bern
+Bern hat 130.000 
+Einwohner
+ und ist die 
+Hauptstadt
+ der Schweiz. In Bern 
+spricht
+ man Berner Deutsch.
+
+Der Zytglogge, das ist der Zeitglockenturm, ist sehr 
+alt
+ Die Uhr ist 
+500
+ Jahre alt. Bern und  
+Berlin
+ haben etwas gemeinsam. Beide 
+Wappen
+ haben einen Bären.
+
+
+
+
+ZEITPRÄPOSITIONEN
+
+Lesen Sie die Sätze. "Vor" ist eine Präposition für vergangene Ereignisse, "für" ist eine Präposition für die Dauer, "in" ist für die zukünftige Ereignisse und "nach" für schon abgeschlossene Ereignisse.
+
+
+
+1. Peter möchte für ein Jahr nach Japan gehen. Er hat vor einem Jahr schon ein Praktikum in Japan gemacht.
+
+2. Anne möchte nach ihrem Medizinstudium in Afrika als Ärztin arbeiten.
+
+3. Barbara beginnt in drei Monaten mit dem Studium.
+
+4. Moritz hat vor einem halben Jahr mit seinem Ingenieur-Studium angefangen. In vier Jahren ist er fertig. Dann möchte er gern in einer Autofirma arbeiten.
+
+5. Maria möchte nach dem Deutschkurs die Prüfung machen.
+
+
+
+Was kann ich für Sie tun?
+
+
+Alfons Brunner ist 48 Jahre alt. 
+Nach  der Schule hat er Elektroinstallateur gelernt.
+Seit 16 arbeitet Herr Brunner als Hausmeister bei der Firma.
+Er kümmert sich um die Heizung, das Wasser und den Strom. Er repariert   Fenster und Türen. Außerdem schneidet er   Bãume, Büsche und Hecken. 
+Von   Montag bis Freitag arbeitet er immer von 8.00 bis 16 Uhr.
+Er hat Mittagspause von 12.00 bis 12.30 Uhr.
+Die Arbeit macht ihm Spaß.
+
+
+
+
+TERMINE VERSCHIEBEN
+
+
+Passt es Dir am Sonntag? – Alternativen vorschlagen,
+Am Sonntag habe ich Zeit. – Alternativen vorschlagen,
+Können wir den Termin verschieben? – Termine verschieben,
+Ich kann am Freitag. – Alternativen vorschlagen,
+Ich möchte den Termin verschieben. – Termine verschieben,
+Ab Samstag bin ich für 2 Wochen im Urlaub. – Pläne beschreiben,
+Wollen wir am Freitag ins Kino gehen? – Alternativen vorschlagen,
+Von Freitag bis Dienstag bin ich in Berlin. – Pläne beschreiben,
+Ich kann leider doch nicht ins Kino gehen/ kommen. – Termine verschieben,
+Am Montag bin ich aus dem Urlaub zurück. – Pläne beschreiben,
+Vor/ Nach dem Deutschkurs/ der Uni ... – Pläne beschreiben
+
+
+
+BEWERBUNGEN - AUSDRÜCKE
+
+anmelden - lesen - bekommen - schaffen - abschließen - beginnen - finden - aufnehmen - bestehen
+
+
+
+
+Im Sommer hat Sofie ihre Ausbildung als Friseurin abgeschlossen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
