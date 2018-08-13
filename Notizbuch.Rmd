@@ -3,6 +3,8 @@ title: "Das Notizbuch"
 output: html_notebook
 ---
 
+
+
 # Wörterbuch {.tabset .tabset-fade .tabset-pills}
 
 ## Leo
@@ -58,6 +60,9 @@ der Navigator | die Navigatoren
 der Stadtplan | die Stadtpläne
 der Bahnof  
 der Brücke  
+der Würfel  
+der Stab  
+die Stadtmitte  
 
 
 </span>
@@ -73,6 +78,11 @@ die Bank
 die straße | die straßen
 die Ampel  
 die Bushaltestelle  
+die Pyramide  
+die Brücke  
+die Beiden  
+die Nãhe  
+die Ferne  
 
 </span>
 
@@ -88,7 +98,7 @@ das Auto | die Autos
 das Hotel | die Hotels  
 das Zentrum  
 das Kino
-
+das Café  
 
 </span>
 
@@ -96,7 +106,9 @@ das Kino
 
 # Namen Dativ {.tabset .tabset-fade .tabset-pills}
 
-## die -> der
+
+
+
 
 die Bank -> der Bank  
 die Ampel -> der Ampel  
@@ -113,11 +125,42 @@ zwischen dem Bahnoff und der Post
 vor der Bank
 hinter der Brücke  
 neben dem Museum
+vor dem Restaurant
+
+
+
+## der -> dem
+der/ein Bahnhof | vor dem einem Bahnhof
+
+
+## das -> dem
+
+das ein Restaurant | vor dem einem Restaurant
+das Zentrum | in dem (im) Zentrum
+
+## die -> der
+
+die eine Ampel | vor der einer Ampel
+
+die Stadtmitte | in der Stadtmitte
+
+## die pl. -> den + n
+
+die Cafés/Hãuser | vor den Cafés/Hãusern
+
+
+
+
+
+
 
 
 
 # Verben {.tabset .tabset-fade .tabset-pills}
 
+verb | ich | du | er/sie/es | wir | ihr | sie/Sie
+|---|---|---|---|---|---|---|
+helfen | helfe | hilfst | hilft | helfen | | helfen
 suchen
 
 
@@ -147,7 +190,7 @@ ab fahren
 
 # Regel {.tabset .tabset-fade .tabset-pills}
 
-Lokale Pröpositionen + Dativ
+Lokale Pröpositionen + Dativ: Wo?
 
 
 
@@ -224,8 +267,9 @@ Gehen/Fahren Sie die zweite Straße links
 
 ---
 
-# Präpositionen
+# Lokale Präpositionen
 
+Lokale Pröpositionen + Dativ: Wo?
 
 Ich suche die Disco. Wo ist sie, bitte?  
 Sie ist neben das Museum.  
@@ -248,6 +292,9 @@ Auf dem Teppich ist ein kleiner Tisch
 Unter dem Tisch ist eine Tasche  
 Hinter/ Über dem Sofa ist ein Bild  
 Neben dem Sofa ist ein Laptop  
+
+Wo ist der Stab?
+
 
 ---
 
@@ -299,6 +346,7 @@ ist/gleich =
 
 Ich öffne das Buch. Ich schließe das Buch.
 
+die Nãhe  X die Ferne  
 
 # Kurssprache
 
@@ -309,11 +357,9 @@ Ich öffne das Buch. Ich schließe das Buch.
 Kann ich Sie etwas fragen?
 
 
-
-
 ---
 
-Your answer is correct.
+
 Ball 1 ist neben dem Schrank.
 
 Ball 2 ist auf der Couch.
@@ -335,12 +381,9 @@ Ball 9 ist vor der Couch.
 Ball 9 ist auf dem Teppich.
 
 
+Können Sie mir helfen? Wo ist das Café "Glockner"?
 
-
-
-◆ Können Sie mir helfen? Wo ist das Café "Glockner"?
-
-◆ Tut mir leid, ich bin fremd hier. / ich bin nicht von hier.
+Tut mir leid, ich bin fremd hier. / ich bin nicht von hier.
 
  
 
@@ -390,7 +433,6 @@ Ampel
 Correct
 7. Hier können Sie einen Tee oder Kaffee trinken.	Answer
 Café
-Correct
  
  
  
@@ -613,12 +655,51 @@ Im Sommer hat Sofie ihre Ausbildung als Friseurin abgeschlossen.
 
 
 
+Sie hatte große Angst vor der Prüfung.
+Aber zum Glück hat sie die Prüfung geschafft.
+Jetzt möchte sie endlich Geld verdienen.
+Dann möchte sie mit ihrem Freund Johnny ein Motorrad
+kaufen und durch Europa fahren. Zuerst macht sie aber noch den Führerschein.
+Sie möchten durch viele Länder reisen, die Welt und andere junge Leute kennenlernen.
+In ein paar Jahren möchten sie und Johnny heiraten und Kinder haben.
+
+
+WÜNSCHE UND PLÄNE
+
+Welche Wünsche haben die Leute?
+
+Ich will ...
+
+auf keinen Fall dick werden.
+bald heiraten.
+endlich wieder ohne Krücken gehen.
+Karriere machen.
+ein Fest nur für Frauen machen.
+nicht wie meine Mutter werden.
+Musik studieren.
+wenig arbeiten und viel Geld verdienen.
+mit dem Zug durch Europa fahren.
+ Model werden.
+ reich werden.
+ Tierärztin werden.
+ Pause machen.
 
 
 
+WOLLEN UND KÖNNEN
 
 
+Cherry will unbedingt Sängerin werden.
 
+Sara und Felix wollen auf keinen Fall heiraten.
+
+Nächstes Jahr will ich meine Ausbildung abschließen.
+
+Wir wollen unbedingt die Führerscheinprüfung schaffen.
+
+Dann können wir mit dem Motorrad durch Europa reisen.
+
+Vielleicht will Jan Liedermacher werden.
 
 
 
