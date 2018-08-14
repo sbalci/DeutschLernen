@@ -1,6 +1,8 @@
 ---
-title: "Das Notizbuch"
-output: html_notebook
+title: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)"
+output: 
+  html_notebook: 
+    fig_caption: yes
 ---
 
 
@@ -36,6 +38,24 @@ https://my.goethe.de/
 ## Onleihe
 
 http://www2.onleihe.de/goethe-institut/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0.html?lK=656e
+
+---
+
+# Media {.tabset .tabset-fade .tabset-pills}
+
+## N-TV
+
+https://www.n-tv.de/mediathek/livestream/
+
+---
+
+## YouTube
+
+Die Deutschen (The Germans) S01E09 'Bismarck und das Deutsche Reich' (Ger&Eng Subs)  
+https://www.youtube.com/watch?v=Tyeu2Z_p9sM
+
+
+
 
 ---
 
@@ -83,7 +103,11 @@ die Brücke
 die Beiden  
 die Nãhe  
 die Ferne  
-
+.  
+..heit  
+..keit  
+..ung  
+.  
 </span>
 
 
@@ -144,6 +168,8 @@ die eine Ampel | vor der einer Ampel
 
 die Stadtmitte | in der Stadtmitte
 
+---
+
 ## die pl. -> den + n
 
 die Cafés/Hãuser | vor den Cafés/Hãusern
@@ -155,13 +181,29 @@ die Cafés/Hãuser | vor den Cafés/Hãusern
 
 
 
+---
 
 # Verben {.tabset .tabset-fade .tabset-pills}
 
 verb | ich | du | er/sie/es | wir | ihr | sie/Sie
 |---|---|---|---|---|---|---|
 helfen | helfe | hilfst | hilft | helfen | | helfen
+tragen | trage | trãgst | trãgt | | | 
+
 suchen
+
+---
+
+## Modal Verben
+
+verb | ich | du | er/sie/es | wir | ihr | sie/Sie
+|---|---|---|---|---|---|---|
+sollen | soll | sollst | soll | sollen | sollt | sollen
+
+
+Du sollst diesen Tee trinken.  
+
+
 
 
 ---
@@ -182,6 +224,8 @@ ab fahren
 
 ## Name + Verb
 
+Husten haben  
+
 ---
 
 # Adjektiven {.tabset .tabset-fade .tabset-pills}
@@ -192,6 +236,8 @@ ab fahren
 
 Lokale Pröpositionen + Dativ: Wo?
 
+Imperativ -> Verb (1) + Subj + ...  
+Trinken Sie (doch) Tee! -> doch ist höflich
 
 
 ---
@@ -234,7 +280,7 @@ Sie ist neben das Museum.
 
 Wo ist die Maus?
 
-## Ja Nein Frage
+## Ja-Nein Frage
 
 ---
 
@@ -357,9 +403,6 @@ die Nãhe  X die Ferne
 Kann ich Sie etwas fragen?
 
 
----
-
-
 Ball 1 ist neben dem Schrank.
 
 Ball 2 ist auf der Couch.
@@ -387,15 +430,15 @@ Tut mir leid, ich bin fremd hier. / ich bin nicht von hier.
 
  
 
-◆ Ja, das ist gleich die nächste Straße links.
+Ja, das ist gleich die nächste Straße links.
 
-◆ Vielen Dank, das ist sehr nett.
+Vielen Dank, das ist sehr nett.
 
  
 
-◆ Oh, tut mir leid. Das weiß ich nicht.
+Oh, tut mir leid. Das weiß ich nicht.
 
-◆ Schade. Trotzdem: Dankeschön.
+Schade. Trotzdem: Dankeschön.
 
  
 
@@ -411,27 +454,22 @@ Tut mir leid, ich bin fremd hier. / ich bin nicht von hier.
 
 
 
-1. Sie können hier essen.         	Answer
-Restaurant
-Correct
-2. Anderes Wort für Stadtmitte     
+Sie können hier essen.         	Restaurant
 
-Answer
+Anderes Wort für Stadtmitte     
 Zentrum
-Correct
-3. Hier fahren Züge ab und es kommen Züge an.	Answer
+
+Hier fahren Züge ab und es kommen Züge an.
 Bahnhof
-Correct
-4. Hier bekommen Sie Geld.	Answer
+
+Hier bekommen Sie Geld.
 Bank
-Correct
-5. Hier können Sie Briefmarken kaufen.	Answer
-Post
-Correct
-6. Rot: Sie bleiben stehen. Grün: Sie können fahren.	Answer
+
+Hier können Sie Briefmarken kaufen.	Post
+Rot: Sie bleiben stehen. Grün: Sie können fahren
 Ampel
-Correct
-7. Hier können Sie einen Tee oder Kaffee trinken.	Answer
+
+Hier können Sie einen Tee oder Kaffee trinken.
 Café
  
  
@@ -547,19 +585,16 @@ Hamburg - das Tor zur Welt
 
 Meine Lieblingsstadt ist Hamburg. Ich bin oft dort und besuche Freunde. Die Stadt hat 1.8 Millionen Einwohner und liegt in Norddeutschland an der Elbe. In Hamburg gibt es alles: Kunst und Kultur, Restaurants und Bars, Läden und Geschäfte - und viel Wasser. Ihr wollt Hamburg besuchen? Das müsst ihr sehen:
 
-Petra Schmidt/ pixelio.de	
-1 Hamburg am Wasser
+Hamburg am Wasser
 
 Besonders spanned sind der Hafen mit den Container-Schiffen aus der ganzen Welt und die Speicherstadt. Dort lagern Waren von den Schiffen: Kaffee, Tee, Gewürze, Kakao, elektronische Produkte, Teppiche und vieles mehr. Aber es gibt auch Museen, Ausstellungen, Lesungen und Theateraufführungen.
 
-Jan Bröckel/ pixelio.de
 
-2 Hamburg von oben
+Hamburg von oben
 
 Die Kirche St. Michaelis (die Hamburger nennen sie "Michel") ist das Wahrzeichen von Hamburg. Der Blick vom Kirchenturm (132 Meter hoch!) auf die Stadt und den Hafen ist einfach toll!
 
-Flown/ pixelio.de	
-3 Hamburg am Abend
+Hamburg am Abend
 
 Natürlich gibt es in Hamburg überall viele Kneipen. Besonders gern mag ich aber die Atmosphäre am Großneumarkt, das ist ein Platz in der Hamburger Neustadt mit Kneipen, Cafes und Restaurants. Vielleicht sehen wir uns irgendwann mal?
 
@@ -702,10 +737,314 @@ Dann können wir mit dem Motorrad durch Europa reisen.
 Vielleicht will Jan Liedermacher werden.
 
 
+# Chapter {.tabset .tabset-fade .tabset-pills}
+
+
+## 18
+
+die Krankheit | die Krankheiten | hastalık    
+die Gesundheit | sağlık  
+die Fãhigkeit | die Fãhigkeiten | ability  
+
+das Thermometer | die Thermometer  
+die Hand | die Hãnde  
+
+husten  
+
+wehfun | Schmerzen haben
+
+ich tue weh  
+du tust weh  
+er tut weh  
+
+wehgetan (PII)  
+
+bleiben | stay  
+
+
+nicht mehr: Ich habe medikamente genommen und jetzt geht es mir gut. Das fieber ist weg, also es ist nicht mehr da.  
+
+immer noch: Ich habe seit zwei Tagen Fieber und jetzt auch. Es ist nicht weg. Ich habe Medikamante genommen aber es ist immer noch da.
+
+die Ambulanz  
+die Notaufnahme | emergency  
+Arzt  
+Hausarzt  
+
+Geben X Nemen
+
+Geben Sie ihm diesen Tee! -> Befahl, Empfehlung, Ausrufezeichen
+
+Geben Sie ihm diesen Tee? -> Ja, Nein Frage, Fragezeichen
+
+Trinken Sie viel wassar bitte!
+
+Trinken Sie Tee?
+
+Gehen Sie zum Arzt!
+
+Gehen Sie zum Arzt?
 
 
 
 
+
+Geben Sie ihm doch diesen Tee!
+
+Schwester  
+die Nonne | die Nonnen
+das Kraut | die Krãuter | herbal    
+die Blumen  
+der Korb | die Körbe
+
+das Kloster | die Klöster | manastır  
+Klosterladen  
+
+Sie trãgt die Körbe.
+
+Die Nonne liebt in das Kloster  
+Kommen Sie mit  
+
+krank X gesund (seid)  
+Ich bin krank. Ich bin gesund.  
+
+Kopfscmerzen haber
+
+Ich gehe zum Arzt.  
+
+Schmerzen geschrieben:  
+Mein Kopf tut weh  
+
+Ratshlãge geben:  
+Welche Ratshlãge gibt Schwester Angelika den Leuten?  
+Imperativ  
+Bleiben Sie doch im Bett!  
+Geben Sie ihm doch diesem Tee!  
+Trinken Sie (doch) viel Tee!  
+Gehen Sie (doch) zum Arzt!
+
+Was hat Schwester Angelika gesagt?  
+
+Sie sagt, du sollst im Bett bleiben.  
+Sie sagt, du sollst diesen Tee trinken.  
+Sie sagt, ich soll viel Tee trinken.  
+Sie sagt, ich zum Arzt gehen.  
+
+
+über Krankheiten sprechen:  
+Gegen Bauchschmerzen trinke ich ...  
+
+sollen -> Modalverb | should
+
+Ich soll dir diesen Tee geben.
+
+Du sollst diesen Tee trinken.  
+
+sollen
+soll
+sollst
+soll
+sollen
+sollt
+sollen
+
+
+der Ratschlag | die Ratschlãge | advice, suggestion
+
+der Ratgeber | die Ratgeber | advisor  
+die Ratgeberin | die Ratgeberinnen | advisor
+
+Wortfeld
+
+Körperteile  
+
+Gehen Sie zum Arzt!
+
+
+
+
+der Doktor  | die Doktoren  
+der Arzt  | die Ãrzte  
+die Apotheke  |  die Apotheken  
+das Medikament | die Medikamente  
+das Rezept  | die Rezepte  | ein Rezept verschieben  
+die Praxis  | die Praxen  
+der Husten  | die Husten | Husten haben
+das Fieber  | die Fieber  
+der Schnupfen | die Snupfen | Meine nose löft  
+der Schmarz | die Schmerzen  
+die Tablette  | die Tabletten   
+die Salbe  | die Salben  
+das Pflaster  | die Pflaster  
+
+der Arm | die Arme  | arm  
+das Bein | die Beine  | leg  
+
+Er hat keine Schmerzen in den Armen und Beinen   
+Das Fieber ist nicht sehr hoch.  
+Er hustet gar nicht.  
+Er hustet sehr viel.  
+Mein Kopf tut immer noch weh.  
+Mein Kopf tut nicht mehr weh.  
+Das Fieber ist immer noch hoch.  
+Das Fieber ist nicht mehr hoch.  
+
+bleiben  
+bleiben im Bett  
+
+
+das Skelett | die Skelette  
+das Teil | die Teile  
+der Körper | die Körper  
+
+der Kopf | Head    
+der Hals  | Neck  
+der Rücken  | Back  
+die Brust  |  Chest  
+der Bauch  | Back  
+der Arm    
+die Hand    
+der Finger
+das Bein  | Leg
+der Fuß  
+das Knie  
+das Ohr  | Ear  
+das Auge  | Eye  
+der Zahn  | Tooth | Zahnarzt
+die Nase  
+der Mund  | Mouth  
+
+
+
+Bianka: Hallo Lea, ich kann heute leider nicht zum Schwimmen kommen. Ich muss absagen.
+Lea:      Warum denn?
+Bianka: Ich bin 
+krank
+
+Lea:      Oh, was hast du denn?
+Bianka: Ich habe Kopfschmerzen
+und ich huste
+Lea:     Oh, das tut mir leid. Hast du auch
+Fieber
+?
+Bianka: Ja, es ist nicht sehr
+hoch. Aber gut geht es mir nicht. Und meine
+Arme
+ und Beine tun mir auch
+weh
+ 
+Lea:      Ach Mensch! Wie schade!
+Bianka: Ja, das finde ich auch. Also ich
+bleibe im Bett.
+
+
+
+
+Ihr Nachbar arbeitet ein halbes Jahr nicht. Geben Sie ihm Ratschläge mit "doch".
+Ä, ö, ü können Sie auch ae, oe, ue schreiben.
+
+Beispiel: 
+(durch Europa reisen)             Reisen Sie doch durch Europa! 
+(ins Ausland gehen) Gehen Sie doch ins Ausland!
+
+(ein Instrument lernen) Lernen Sie doch ein Instrument!
+
+(den Motorradführerschein machen) Machen Sie doch den Motorradführerschein!
+
+(noch eine Fremdsprache lernen) Lernen Sie doch noch eine Fremdsprache!
+
+
+Wie essen wir gesund?
+
+Der Ernährungswissenschaftler T. Lohmann sagt: "Essen Sie, was Sie wollen." Sie haben viel zum Thema Essen gelernt und gelesen? Vergessen Sie es! Es ist nicht wichtig. Es gibt keine gesunden und auch keine ungesunden Lebensmittel. Wir sollen fünfmal am Tag Obst und Gemüse essen? "Nicht unbedingt", sagt T. Lohmann. Möchten Sie Obst und Gemüse essen und schmeckt es Ihnen? Schön, dann essen Sie es. Sie möchten eigentlich gerade gar kein Obst und Gemüse essen? Dann sollen Sie es auch nicht tun. 
+Und wie essen wir dann gesund?
+T. Lohmanns Ratschlag lautet: "Ihr Körper weiß es." Sie frühstücken immer morgens um 7.00 Uhr? Das sollen Sie nicht tun. Essen Sie nicht zu festen Zeiten! Fragen Sie immer Ihren Körper: habe ich gerade Hunger?
+Und was sollen wir essen?" Auch das ist ganz leicht. Fragen Sie sich: "Was möchte ich gerade gern essen?" Unser Körper braucht viele verschiedene Nahrungsmittel und kann uns immer sagen, was gut für ihn ist.
+
+
+
+
+
+
+| **Artikel**                   | **Nominativ** | **Akkusativ**   | **Dativ**       |
+| -----------------             | --------      | --------        | --------        |
+| **bestimmter Artikel**        | der           | den             | dem             |
+|                               | die           | die             | der             |
+|                               | das           | das             | dem             |
+|                               | die (Pl)      | die (Pl)        | den (Pl)        |
+| **unbestimmter Artikel**      | ein (der)     | einen           | einem           |
+|                               | ein (das)     | ein             | einem           |
+|                               | eine (die)    | eine            | einer           |
+| **Posseessiv Artikel "mein"** | mein (der)    | meinen          | meinem          |
+|                               | mein (das)    | mein            | meinem          |
+|                               | meine (die)   | meine           | meiner          |
+|                               | meine (Pl)    | meine (Pl)      | meinen (Pl) + n |
+| **Posseessiv Artikel "dein"** | dein          | deinen          | deinem          |
+|                               | deine         | deine           | deiner          |
+|                               | dein          | dein            | deinem          |
+|                               | deine (Pl)    | deine (Pl)      | deinen (Pl)     |
+| **Posseessiv Artikel "sein"** | sein          | seinen          | seinem          |
+|                               | sein          | sein            | seinem          |
+|                               | seine         | seine           | seiner          |
+|                               | seine (Pl)    | seine (Pl)      | seinen (Pl)     |
+| **Posseessiv Artikel "ihr"**  | ihr           | ihren           | ihrem           |
+|                               | ihr           | ihr             | ihrem           |
+|                               | ihre          | ihre            | ihrer           |
+|                               | ihre (Pl)     | ihre (Pl)       | ihren (Pl)      |
+
+
+
+---
+
+## 1
+
+
+## 2
+
+
+## 3
+
+
+## 4
+
+
+## 5
+
+
+## 6
+
+
+## 7
+
+
+## 8
+
+
+## 9
+
+
+## 10
+
+
+## 11
+
+
+## 12
+
+
+## 13
+
+
+## 14
+
+
+## 15
+
+
+## 16
+
+
+## 17
 
 
 
