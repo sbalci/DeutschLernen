@@ -295,9 +295,8 @@ die Stunde
 die Minute  
 der Monat  
 
----
 
-##   
+## weg  
 
 Bitte links abbiegen  
 Bitte rechts abbiegen  
@@ -309,9 +308,6 @@ Gehen/Fahren Sie die zweite Straße links
 
 
 
-
-
----
 
 # Lokale Präpositionen
 
@@ -373,9 +369,8 @@ Wo ist der Stab?
 19 neunzehn
 20 zwanzig
 
----
 
-#
+# gleich
 
 plus  +  
 minus  -  
@@ -386,6 +381,7 @@ ist/gleich =
 1+1 = 2 eins plus eins ist / gleich zwei  
 
 ---
+
 # Gegenteil
 
 öffnen X schließen
@@ -720,7 +716,6 @@ mit dem Zug durch Europa fahren.
  Pause machen.
 
 
-
 WOLLEN UND KÖNNEN
 
 
@@ -736,6 +731,7 @@ Dann können wir mit dem Motorrad durch Europa reisen.
 
 Vielleicht will Jan Liedermacher werden.
 
+---
 
 # Chapter {.tabset .tabset-fade .tabset-pills}
 
