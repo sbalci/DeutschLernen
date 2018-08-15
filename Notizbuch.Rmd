@@ -217,7 +217,21 @@ fernsehen
 abgieben  
 umsteigen  
 mitbringen  
-ab fahren  
+abfahren  
+
+
+
+*Nicht trenbare verben:  *
+be-  
+ver-  
+er-  
+ent-  
+miss-  
+zer-  
+emp-  
+ge-  
+
+
 
 
 ---
@@ -238,6 +252,59 @@ Lokale Pröpositionen + Dativ: Wo?
 
 Imperativ -> Verb (1) + Subj + ...  
 Trinken Sie (doch) Tee! -> doch ist höflich
+
+
+emotion -> null artikel  habe angst  
+
+*Nicht trenbare verben:  *
+be-  
+ver-  
+er-  
+ent-  
+miss-  
+zer-  
+emp-  
+ge-  
+
+
+
+---
+
+# Artikel
+
+
+
+
+| **Artikel**                   | **Nominativ** | **Akkusativ**   | **Dativ**       |
+| -----------------             | --------      | --------        | --------        |
+| **bestimmter Artikel**        | der           | den             | dem             |
+|                               | die           | die             | der             |
+|                               | das           | das             | dem             |
+|                               | die (Pl)      | die (Pl)        | den (Pl)        |
+| **unbestimmter Artikel**      | ein (der)     | einen           | einem           |
+|                               | ein (das)     | ein             | einem           |
+|                               | eine (die)    | eine            | einer           |
+| **Posseessiv Artikel "mein"** | mein (der)    | meinen          | meinem          |
+|                               | mein (das)    | mein            | meinem          |
+|                               | meine (die)   | meine           | meiner          |
+|                               | meine (Pl)    | meine (Pl)      | meinen (Pl) + n |
+| **Posseessiv Artikel "dein"** | dein          | deinen          | deinem          |
+|                               | deine         | deine           | deiner          |
+|                               | dein          | dein            | deinem          |
+|                               | deine (Pl)    | deine (Pl)      | deinen (Pl)     |
+| **Posseessiv Artikel "sein"** | sein          | seinen          | seinem          |
+|                               | sein          | sein            | seinem          |
+|                               | seine         | seine           | seiner          |
+|                               | seine (Pl)    | seine (Pl)      | seinen (Pl)     |
+| **Posseessiv Artikel "ihr"**  | ihr           | ihren           | ihrem           |
+|                               | ihr           | ihr             | ihrem           |
+|                               | ihre          | ihre            | ihrer           |
+|                               | ihre (Pl)     | ihre (Pl)       | ihren (Pl)      |
+
+
+
+
+
 
 
 ---
@@ -736,6 +803,86 @@ Vielleicht will Jan Liedermacher werden.
 # Chapter {.tabset .tabset-fade .tabset-pills}
 
 
+## 24
+
+
+## 23
+
+## 22
+
+
+
+
+
+## 21
+
+## 20
+
+
+
+
+## 19
+
+über etwas sprechen  
+
+über etwas / Thema / Nachbarin / das Buch / das Bild / Leute sprechen  
+
+So war Walter früher.
+
+sein + adj
+
+1990 -> Er war dick. Er hatte keine Bart. Er hatte kurze haare. Er war klein.  
+2018 -> Er is dünn. Er hat eine Bart.  
+
+
+das Harr | die Harre  
+
+
+
+Ich bin gegangen.  
+Ich bin gelesen.  
+Ich war. | Ich bin gewesen.  
+Ich hatte. | Ich habe gehabt.  
+
+aussehen (trenbare verb)  
+Sie sieht hübsh aus.  
+Wie sieht er aus?  
+Wie finden Sie er?  
+
+das Aussehen | outlook  
+
+
+Nicht trenbare verben:  
+be-  
+ver-  
+er-  
+ent-  
+miss-  
+zer-  
+emp-  
+ge-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 18
 
 die Krankheit | die Krankheiten | hastalık    
@@ -894,10 +1041,10 @@ das Teil | die Teile
 der Körper | die Körper  
 
 der Kopf | Head    
-der Hals  | Neck  
+der Hals  | Throat  
 der Rücken  | Back  
 die Brust  |  Chest  
-der Bauch  | Back  
+der Bauch  | Stomach  
 der Arm    
 die Hand    
 der Finger
@@ -958,35 +1105,61 @@ T. Lohmanns Ratschlag lautet: "Ihr Körper weiß es." Sie frühstücken immer mo
 Und was sollen wir essen?" Auch das ist ganz leicht. Fragen Sie sich: "Was möchte ich gerade gern essen?" Unser Körper braucht viele verschiedene Nahrungsmittel und kann uns immer sagen, was gut für ihn ist.
 
 
+Gehen : yayalar için  gehen links  
+Fahren: araçlar için  fahren links  
+
+an die XXstraße
+
+die zahnpasta | diş macunu  
+
+Was tut dir weh?  
+Was tut Ihnen weh?  
+Mein Kompf tut weh. | Ich habe Kopfschmerzen. | Mir tut der kompf weh.  
+
+Was fehlt dir?  
+Was fehlen Ihnen?  
 
 
+der Witze:  
+Meine nose lãuft.  
+Dann halt sie doch fest.  (fest halten)  
+
+das Heilkraut | die Heilkrãuter  
+die Naturmedizin  
+
+glauben an Gott  
+glauben an Naturmedizin  
+Ich glaube (nicht) an Naturmedizin.  
 
 
-| **Artikel**                   | **Nominativ** | **Akkusativ**   | **Dativ**       |
-| -----------------             | --------      | --------        | --------        |
-| **bestimmter Artikel**        | der           | den             | dem             |
-|                               | die           | die             | der             |
-|                               | das           | das             | dem             |
-|                               | die (Pl)      | die (Pl)        | den (Pl)        |
-| **unbestimmter Artikel**      | ein (der)     | einen           | einem           |
-|                               | ein (das)     | ein             | einem           |
-|                               | eine (die)    | eine            | einer           |
-| **Posseessiv Artikel "mein"** | mein (der)    | meinen          | meinem          |
-|                               | mein (das)    | mein            | meinem          |
-|                               | meine (die)   | meine           | meiner          |
-|                               | meine (Pl)    | meine (Pl)      | meinen (Pl) + n |
-| **Posseessiv Artikel "dein"** | dein          | deinen          | deinem          |
-|                               | deine         | deine           | deiner          |
-|                               | dein          | dein            | deinem          |
-|                               | deine (Pl)    | deine (Pl)      | deinen (Pl)     |
-| **Posseessiv Artikel "sein"** | sein          | seinen          | seinem          |
-|                               | sein          | sein            | seinem          |
-|                               | seine         | seine           | seiner          |
-|                               | seine (Pl)    | seine (Pl)      | seinen (Pl)     |
-| **Posseessiv Artikel "ihr"**  | ihr           | ihren           | ihrem           |
-|                               | ihr           | ihr             | ihrem           |
-|                               | ihre          | ihre            | ihrer           |
-|                               | ihre (Pl)     | ihre (Pl)       | ihren (Pl)      |
+die Erkãltung  
+die Grippe  
+die Warmflasche | sıcak su torbası  
+
+Ich gehe warmduschen. | Ich dusche warm. | Ich nehme eine warm dusche.  
+
+[Warmduscher](https://dict.leo.org/german-english/Warmduscher) | looser
+Mimose 
+
+
+Schau mal, hier sind die Fotos von früher:
+Da war mein Bruder, ich war
+sechs und meine Schwester
+war zehn Jahre alt. Ich 
+hatte schon ein Fahrrad und 
+war sehr glücklich mit meinem Rad! Mein Bruder und ich 
+waren immer fröhlich und wir zwei 
+hatten immer viel Spaß. Aber meine große Schwester 
+war immer nur mit ihren Freundinnen zusammen. Die 
+waren nicht so sympathisch und haben nie mit uns gespielt.
+
+
+Warum hast du dich bei Simon nicht entschuldigt?  
+Haben Sie die E-Mail von Professor Klüger schon bekommen?  
+Wie hat Ihnen das Konzert gefallen?  
+War das Essen wirklich schlecht? Hast du dich beschwert?  
+Ich muss noch einmal ins Büro gehen. Ich habe mein Handy vergessen.  
+Das Auto hat mir früher gehört.   
 
 
 
