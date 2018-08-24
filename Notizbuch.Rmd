@@ -47,29 +47,94 @@ http://www2.onleihe.de/goethe-institut/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0
 
 https://www.n-tv.de/mediathek/livestream/
 
+
+## DW
+
+- A1 SEVİYESİ
+
+https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/a1-seviyesi-i%C3%A7in-%C3%B6%C4%9Frenme-imk%C3%A2nlar%C4%B1/s-30095
+
+- Placement Test
+
+https://learngerman.dw.com/en/placementDashboard
+
+- A1, A2, B1 | Deutsch Interaktiv
+
+https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/deutsch-interaktiv/s-11205
+
+- A1, A2, B1 | Deutsch – warum nicht?
+
+https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/deutsch-warum-nicht/s-2609
+
+- A1 | Mission Europe
+
+https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/mission-europe/s-11206
+
+- A1 | Radio D – Bölüm 1
+
+https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/radio-d-1-b%C3%B6l%C3%BCm/s-11211
+
+- A1, A2 | SES DOSYALARI EŞLİĞİNDE ALMANCA
+
+https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/audiotrainer/s-11213
+
+
+
+
 ---
 
 ## YouTube
 
-Die Deutschen (The Germans) S01E09 'Bismarck und das Deutsche Reich' (Ger&Eng Subs)  
+- Die Deutschen (The Germans) S01E09 'Bismarck und das Deutsche Reich' (Ger&Eng Subs)  
 https://www.youtube.com/watch?v=Tyeu2Z_p9sM
 
 
-
+- National Geographic  
+https://www.youtube.com/watch?v=4J5i3yxH1ks&list=PLfBYdQ3Qs3IrRDjHUv-ny-t8_usQfP1PB
 
 ---
 
 # Namen {.tabset .tabset-fade .tabset-pills}
 
+## Namen Nominativ
+
+Genus (Gender)  
+maskuline der Tisch  
+neutral das Bild  
+feminine die Lampe
 
 Registrierungscode  
 Stadt Städte 
 Städtenamen  
 die Taxis  
+Pause  
+Gesprãch  
+ein paar Hande  
+ehepaar  
+
+
+Mann | Mãnner  
+Frau | Frauen  
+Visitenkarte | Visitenkarten  
+Beruf | Berufe  
+Buch | Bücher  
+Lehrerin | Lehreninnen  
+Lehrer | Lehrer  
+Kursteilnehmerin | Kursteilnehmerinnen  
+Kursteilnehmer | Kursteilnehmer  
+Fenster | Fenster  
+Tisch | Tische  
+
+
+das Haus + die Frau -> die Hausfrau  
+
+Was ist der Artikel von ... ?  
+DEr Artikel von Ball ist der.  
 
 
 
-## der
+
+### der
 <span style="color:blue">
 der Aufzug | die Aufzüge  
 der Supermarkt  
@@ -82,12 +147,12 @@ der Bahnof
 der Brücke  
 der Würfel  
 der Stab  
-die Stadtmitte  
-
-
+ | die Stadtmitte  
+der Tisch
+der Ball
 </span>
 
-## die
+### die
 <span style="color:red">
 die Disco  
 die Sprachshule  
@@ -103,6 +168,8 @@ die Brücke
 die Beiden  
 die Nãhe  
 die Ferne  
+die Lampe  
+die Tasche  
 .  
 ..heit  
 ..keit  
@@ -111,7 +178,7 @@ die Ferne
 </span>
 
 
-## das
+### das
 <span style="color:green">
 das Fahrrad  
 das Scwhimmbad  
@@ -123,13 +190,18 @@ das Hotel | die Hotels
 das Zentrum  
 das Kino
 das Café  
+das Teppichmesser (Maket bıçağı)  
+das Handy  
+das Bild  
+das Möbel  
+das Bett  
+
 
 </span>
 
 ---
 
-# Namen Dativ {.tabset .tabset-fade .tabset-pills}
-
+## Namen Dativ {.tabset .tabset-fade .tabset-pills}
 
 
 
@@ -153,16 +225,16 @@ vor dem Restaurant
 
 
 
-## der -> dem
+### der -> dem
 der/ein Bahnhof | vor dem einem Bahnhof
 
 
-## das -> dem
+### das -> dem
 
 das ein Restaurant | vor dem einem Restaurant
 das Zentrum | in dem (im) Zentrum
 
-## die -> der
+### die -> der
 
 die eine Ampel | vor der einer Ampel
 
@@ -170,7 +242,7 @@ die Stadtmitte | in der Stadtmitte
 
 ---
 
-## die pl. -> den + n
+### die pl. -> den + n
 
 die Cafés/Hãuser | vor den Cafés/Hãusern
 
@@ -185,20 +257,60 @@ die Cafés/Hãuser | vor den Cafés/Hãusern
 
 # Verben {.tabset .tabset-fade .tabset-pills}
 
-verb | ich | du | er/sie/es | wir | ihr | sie/Sie
-|---|---|---|---|---|---|---|
-helfen | helfe | hilfst | hilft | helfen | | helfen
-tragen | trage | trãgst | trãgt | | | 
 
-suchen
+kommen  
+verbstamm (komm)  
+endung (en)  
+
+
+
+
+
+
+
+- **Konjugieren**
+
+| **verb**    | **ich**     | **du**      | **er/sie/es**   | **wir**     | **ihr**     | **sie/Sie**     |
+|---          |---          |---          |---              |---          |---          |---              |
+| kommen      | komme       | kommst      | kommt           | kommen      | kommt       | kommen          | 
+| heißen      | heiße       | heißt       | heißt           | heißen      | heißt       | heißen          | 
+| wohnen      | wohne       | wohnst      | wohnt           | wohnen      | wohnt       | wohnen          | 
+| arbeiten    | arbeite     | arbeitest   | arbeitet        | arbeiten    | arbeitet    | arbeiten        | 
+| leben       | lebe        | lebst       | lebt            | leben       | lebt        | leben           | 
+| kennen      | kenne       | kennst      | kennt           | kennen      | kennt       | kennen          | 
+
+
+suchen  
+zahlen  
+
+
+## Verb mit Vokalwechsel
+
+e -> i (2-3 singular)
+
+
+| **verb**    | **ich**     | **du**      | **er/sie/es**   | **wir**     | **ihr**     | **sie/Sie**     |
+|---          |---          |---          |---              |---          |---          |---              |
+| sprechen    | spreche     | sprichst    | spricht         | sprechen    | sprecht     | sprechen        |
+| helfen      | helfe       | hilfst      | hilft           | helfen      |             | helfen          |
+| tragen      | trage       | trãgst      | trãgt           |             |             |                 |
+
+
+
+
+
 
 ---
 
 ## Modal Verben
 
-verb | ich | du | er/sie/es | wir | ihr | sie/Sie
-|---|---|---|---|---|---|---|
-sollen | soll | sollst | soll | sollen | sollt | sollen
+| **verb**    | **ich**   | **du**    | **er/sie/es** | **wir**   | **ihr**   | **sie/Sie**   |
+|---          |---        |---        |---            |---        |---        |---            |
+| sein        | bin       | bist      | ist           | sind      | seid      | sind          |
+| haben       | habe      | hast      | hat           | haben     | habt      | haben         |
+| sollen      | soll      | sollst    | soll          | sollen    | sollt     | sollen        |
+
+
 
 
 Du sollst diesen Tee trinken.  
@@ -218,6 +330,10 @@ abgieben
 umsteigen  
 mitbringen  
 abfahren  
+aufstehen  
+auskommen  
+
+
 
 
 
@@ -247,6 +363,53 @@ Husten haben
 ---
 
 # Regel {.tabset .tabset-fade .tabset-pills}
+
+## Artikel  
+
+das Haus + die Frau -> die Hausfrau 
+
+
+## Doch  
+
+Woher kommen Sie? Ich komme aus Ankara.  
+
+Kommen Sie aus Ankara? -> (+) Ja, ich komme aus Ankara. (-) Nein, ich komme nicht aus Ankara.  
+Kommen Sie nicht aus Ankara? -> (+) Doch, ich komme aus Ankara. (-) Nein, ich komme nicht aus Ankara.
+
+
+
+
+## nicht keine
+
+nicht: negation adjektive  
+keine: negation name  
+
+Ich bin nicht verheiratet.  
+Ich habe keine kinder.  
+
+
+st -> ş  
+sch -> ş  
+sport -> şport
+
+Verb in position 2:  
+
+Frage:  
+Wer ist das?  
+Wie heißen Sie?  
+Woher kommst du?  
+
+Antwort / aussage  
+Ich bin Paco.  
+Ich komme aus Österreich.  
+Mein Name ist Valerie.  
+
+
+
+
+
+
+
 
 Lokale Pröpositionen + Dativ: Wo?
 
@@ -303,6 +466,24 @@ ge-
 
 
 
+der / ein / kein  
+die / eine / keine  
+das / ein / kein  
+
+
+
+---
+
+Personal Pronomen  
+ich du er sie es wir ihr sie Sie
+
+
+| **Definit Artikel**           | **Indefinit Artikel** | **Personal Pronomen** |
+| -----------------             | --------              | --------              |
+| der Schrim                    | Das ist ein Schrim    | Er ist grün           |
+| das Buch                      | Das ist ein Buch      | Es ist rot            |
+| die Uhr                       | Das ist eine Uhr      | Sie ist braun         |
+
 
 
 
@@ -332,7 +513,9 @@ Wo wohnen Sie? Ich wohne in ...
 
 Wo alt bist du? Ich bin ... Jahre alt.
 
-Welche Sprachen sprechen Sie? Ich spreche gut Türkisch, flueßen Englisch und ein bisschen Deutsch.
+
+
+### Was 
 
 Was ist seine Telefonnummer? Meine telefonnummer ist ...
 
@@ -340,18 +523,281 @@ Was heißt seine Deutschlehrerin? Wer ist seine Deutschlehrenin? Meine Deutschle
 
 Was ist das? Das ist ein Buch. Das sind zwei Bücher.
 
+
 ### Wo
 
 Ich suche die Disco. Wo ist sie, bitte?  
 Sie ist neben das Museum.  
 
-Wo ist die Maus?
+Wo ist die Maus?  
+
+Wo arbeitest du?  
+Wo arbeiten Sie?  
+Ich arbeite bei ...  
+
+### Wer
+
+- Wer bist du?  
+- Ich bin ...
+
+- Wer sind Sie?  
+- Ich bin Herr/Frau ...
+
+- Wer kennt Brad Pitt?  
+Ich kenne Brad Pitt.  
+
+
+
+### Wie
+
+- Wie heißen Sie?  
+
+- Wie geht's dir?  
+Wie geht es dir?  
+
+- Wie geht's Ihnen?  
+Wie geht es Ihnen?  
+Danke, sehr gut. Und Ihnen?
+
+
+- Danke sehr gut / super / toll
+gut/prima  
+es geht  
+nicht so gut  
+schlecht  
+
+
+- Wie bitte?  
+
+- Wie alt sind Sie?  
+- Wie alt bist du?  
+Ich bin zwanzig Jahre alt.
+
+
+
+### Wie viele
+
+Wie viele Tische sind hier? (Frage)    
+Hier sind fünf Tische. (Antwort)  
+
+Wie viele kinder haben Sie?  
+Wie viele kinder hast du?  
+Ich habe ein kind.  
+
+
+### Woher
+
+Woher kommst du? (informell)  
+Woher kommen Sie? (formell)  
+Woher kommt sie?  
+Woher kommt er?  
+Woher kommen Sie?  
+
+kommen + aus + land/stadt  
+Ich komme aus Mexiko  
+Sie kommt aus Deutscland  
+Er kommt aus Frankreich  
+Sie kommen aus Spaninen  
+der Türkei  
+der Schweiz  
+dem Iran  
+dem Irak  
+
+
+### Welche
+
+Welche Sprachen sprechen Sie? Ich spreche gut Türkisch, flueßen Englisch und ein bisschen Deutsch.
+
+
 
 ## Ja-Nein Frage
+
+Sind Sie verheiratet?  
+Ja, ich bin verheiratet.  
+Nein, ich bin nicht verheiratet.  
+Nein, ich bin ledig.  
+
+Haben Sie Kinder?  
+Hast du Kinder?  
+
+Ja, ich habe ein kind.  
+Nein, ich habe keine kinder.  
+
+
+Kennen Sie Brad Pitt?  
+Ja, ich kenne Brad.
+Nein, ich kenne Brad nicht.  
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
 # Thema {.tabset .tabset-fade .tabset-pills}
+
+
+## Sprache
+
+Sprache | Sprachen  
+Deutsch  
+Türkisch  
+Englisch  
+
+Ich spreche sehr gut Deutsch. (100%)  
+Ich spreche gut / fließend Englisch und Türkisch. (80%)  
+Ich spreche ein bisschen Spanisch. (20%)  
+
+
+Welche Sprachen sprichst du?  
+Welche Sprachen sprechen Sie?  
+
+Ich spreche Deutsch.  
+Englisch  
+Italienisch  
+Spanisch  
+Französich  
+Dãnisch  
+Niederlãndisch  
+Belgisch  
+Polnisch  
+Russisch  
+Arabisch  
+Chienesisch  
+
+Deutsch ist meine Muttersprache.  
+
+die Fremdsprache  
+
+
+
+
+
+## Familie
+
+Eheman + Ehefrau -> Ehepaar  
+Enkel + Enkelin -> Enkelkinder  
+
+Familie  
+Eltern  
+Opa  
+Schwester  
+Mutter Mama  
+Vater Papa  
+
+
+| Maskulin | Feminine | Plural |
+| --- | --- | --- |
+| mein | meine | meine |
+| dein | deine | deine |
+| Vater | Mutter | Eltern |
+| Sohn | Tochter | Kinder |
+| Bruder | Schwester | Geschwister |
+| Großvater | Großmutter | Großeltern |  
+
+meine Eltern  
+meine Enkelin
+meine Familie  
+
+
+Bruder | Brüder  
+Tochter | Töchter  
+Sohn | Söhne  
+Enkel | Enkel  
+Familie | Familien
+
+
+Wie ist deine Telefonnummer?  
+Wie ist Ihre Telefonnummer?  
+
+Familienmitglied (Family member)  
+
+Wie heißt Ihre Mutter?  
+Wie heißt deine Mutter?  
+
+Was macht sie Beruflich?
+Was macht deine Mutter Beruflich?
+
+Wie alt ist deine Mutter?  
+
+Wo wohnt deine Mutter?  
+
+Ist deine Mutter verheiratet?  
+
+Wie viele kinder hat deine Mutter?  
+
+
+
+## Familienstand
+
+Vorname  
+Familienstand  
+
+Ich bin verheiratet.  
+Sie ist verheiratet.  
+ledig (bekar)  
+verliebt (sevgili)  
+verlobt (sözlü/nişanlı)  
+verheiratet (evli)  
+geschieden (boşanmış)  
+verwitwet (dul)  
+
+
+## Beruf
+
+Ich bin + Beruf  
+Ich arbeite als + Beruf (iş)  
+Ich arbeite bei + Firma  
+Ich arbeite bei + Arbeitgeber (işveren)  
+
+Was sind Sie von Beruf?  
+Was bist du von Beruf?  
+
+Was machen Sie Beruflich?  
+Was machst du Beruflich?  
+
+
+Was studieren Sie?  
+Was studierst du?  
+
+Ich studiere Musik auf lehramt.  
+Physik  
+Mathemtaik  
+
+Ich bin arbeitslos.  (işsiz)  
+
+Ingenieurwesen  
+Wirtschaftswissenschaften  
+Rechtswissenschaften  
+Biologie  
+Chemie  
+Naturwissenschaft  
+
+Ich bin Student / Studentin. Universitãt  
+Ich bin Sculer / Schülerin. Schule  
+
+ein Praktikum machen  
+Ich mache ein Praktikum bei ... / als ...  
+
+eine Ausbildung machen (a long education)  
+Ich mache eine Ausbildung bei ... / als ...
+
+Ich habe einen Job als (Beruf) bei (Firma)  
+
+Anwalt | Anwãltin (avukat)  
+Biologe | Biologin
+
+
+
+
 
 ## der Kalendar
 
@@ -412,7 +858,7 @@ Wo ist der Stab?
 
 ---
 
-# Zahlen 0 bis 20
+# Zahlen 0 bis 30
 
 0 null
 1 eins (ei -> ai)
@@ -423,7 +869,7 @@ Wo ist der Stab?
 6 sechs
 7 sieben
 8 acht
-9 neum (eu -> oi)
+9 neun (eu -> oi)
 10 zehn (eh -> ee)
 11 elf
 12 zwölf
@@ -435,6 +881,56 @@ Wo ist der Stab?
 18 achtzehn
 19 neunzehn
 20 zwanzig
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+40
+50
+60
+70
+80
+90
+100 ein hundert
+
+34
+43
+52
+61
+75
+86
+97
+
+
+
+
+
+
+# Zahlen
+
+100 (ein)hundert
+101 (ein)hunderteins
+200 zweihundert
+300 dreihundert
+400 vierhundert
+500 fünfhundert
+600 sechshundert
+1000 (ein)tausend
+2000 zweitausend
+10000 zehntausend
+20000 zwanzigtausend
+100000 (ein)hunderttausend
+1000000 eine Million
+
+248999 | zweihundertachtundvierzigtausendneunhundertneunundneunzig
+
+
 
 
 # gleich
@@ -457,11 +953,92 @@ Ich öffne das Buch. Ich schließe das Buch.
 
 die Nãhe  X die Ferne  
 
+Was ist das Gegenteil von groß?  
+Das Gegenteil von groß ist klein.  
+
+
+
+
+groß X klein  
+Schön X Hãsslich  
+Schauer X leicht  
+Lang X kurz  
+
+
+
 # Kurssprache
+
+
+- Schreiben Sie Bitte  
+- Sprechen Sie Bitte  
+- Buchstabieren Sie Bitte  
+- Fragen Sie Bitte  
+- Öffnen Sie die Bücher bitte  
+- Scließen Sie die Bücher bitte  
+- Hören Sie bitte  
+- Zãhlen Sie bitte  (to count)  
+- Antworten sie bitte  
+- Stehen sie bitte auf  
+- Schaun Sie bitte  
+- eine moment bitte  
+- Konjugieren Sie bitte  
+- Ich habe eine Frage  
+- Lesen Sie bitte  
+- Ordnen Sie bitte zu  (Order)  
+- Kontrollieren Sie bitte
+- Merkieren sie bitte  
+- Was heißt "...." auf Deutsch?  
+- Was ist das Gegential von "..."?  
+- Was ist der Artikel von ... ?  
+- Entschuldigung  
+- Wie schreibt man ... ?  
+- Wie geht's ihnen?  
+Mir geht's gut.  
+Danke, gut.    
+- Wie heißt die Pluralform von ... ?  
+Die pluralform von Tache heißt/ist Taschen.   
+- Wie heißt der Plural von ... ?  
+Der Plural von Tasche ist/heißt TAschen.  
+- Können Sie das lesen?  
+- Wie bitten Sie um Hilfe?  
+- Ich verstehe das nicht.  
+- Wie schreibt man das?  
+- Was heißt das?  
+- Wie spricht man das aus?  
+- Was wollen wir tun?  (tun -> machen, What should we do?)  
+- Bitte helfen Sie mir.  
+
+
+
+
+
+
 
 # A1.1 online 
 
-# a
+# A1.1
+
+
+
+Angelas Buch  
+Sie ist Angelas Kind.  
+Das ist Julias Buch.  
+Das ist Yunus' Buch.  
+Das ist Aziz' Buch.  
+
+
+
+
+Herkunff  
+
+Ich wohne in Kizilay in Ankara in der Turkei.
+
+
+
+Ich lerne Deutsch.  
+Wir lernen das Alphabet.  
+
+
 
 Kann ich Sie etwas fragen?
 
@@ -1175,6 +1752,77 @@ Das Auto hat mir früher gehört.
 
 
 ## 4
+
+
+Möbel  
+Tisch  
+Lampe  
+Bett  
+
+
+Ich glaube Sie sind (nicht) verheiratet.
+
+Möbelhaus (like IKEA)
+
+Das bild kostet 15 €. Das ist billig.  
+Das bild kostet 1000 €. Das ist teuer.  
+
+Brauchen Sie hilfe?  
+Ja, bitte.  
+Nein, danke.  
+
+Wie viel kostet der Tisch?  
+Was kostet der Tisch?  
+
+der Preis  
+der Fernsheer  
+
+Der Tisch kostet 1478 € | eintausendvierhundertachtundsiebzig euro
+
+
+Die Couch  
+Die Couch kostet ...
+Sie kostet ...
+Sie kommt aus Italien.  
+Sie ist sehr teuer.  
+
+
+Materialen  
+das Holz  
+das Metall  
+das Glas  
+das Popier  
+der Kunstoff  
+das Plastik (die Plastik sanat eserleri için kullanılır)
+
+Farben  
+rot
+grün
+orange
+schwarz
+blau
+gelb
+weiß
+braun
+
+Formen
+echig (köşeli)
+rund
+sternfürmig (starshaped)
+wolkenformig (bulut şekli)
+
+der stern
+die Wolke  
+
+aus + Material (keine artikel)  
+Frau Klums Brille ist aus Kunststoff.  
+Das ist Pinocchio. Er ist aus Holz.  
+Die Flasche ist aus Plastik.  
+
+verkaufen  
+
+
+
 
 
 ## 5
