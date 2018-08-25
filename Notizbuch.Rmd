@@ -1436,156 +1436,14 @@ Kann ich Sie etwas fragen?
 
 
 
-Können Sie mir helfen? Wo ist das Café "Glockner"?
-
-Tut mir leid, ich bin fremd hier. / ich bin nicht von hier.
-
- 
-
-Ja, das ist gleich die nächste Straße links.
-
-Vielen Dank, das ist sehr nett.
-
- 
-
-Oh, tut mir leid. Das weiß ich nicht.
-
-Schade. Trotzdem: Dankeschön.
-
- 
-
-◆ Kann ich Sie etwas fragen? ich suche den Bahnhof.
-
-◆ Fahren Sie zwei Kilometer geradeaus. Dann sehen Sie schon den Bahnhof.
-
- 
-
-◆ Kennen Sie das Restaurant "Schönblick"?
-
-◆ Ja, das ist ganz in der Nähe. Wenden Sie hier und fahren Sie zurück bis zur Ampel und dann links.
 
 
-
-Sie können hier essen.         	Restaurant
-
-Anderes Wort für Stadtmitte     
-Zentrum
-
-Hier fahren Züge ab und es kommen Züge an.
-Bahnhof
-
-Hier bekommen Sie Geld.
-Bank
-
-Hier können Sie Briefmarken kaufen.	Post
-Rot: Sie bleiben stehen. Grün: Sie können fahren
-Ampel
-
-Hier können Sie einen Tee oder Kaffee trinken.
-Café
- 
  
  
 
-Anzeige A
-
-Schöne 2-Zimmer-Wohnung frei ab 1.5.
-
-45 Quadratmeter mit großem Balkon
-
-Möbliert, mit Stellplatz in der Tiefgarage
-
-Miete 380.- € inkl. Nebenkosten
-
-Anzeige B
-
-2-Zimmer-Wohnung zu vermieten
-
-55 Quadratmeter, Balkon, Küche und Bad.
-
-Miete 450.- € + Nebenkosten
-
-
-Das ist Bruno. Bruno wohnt genau wie Otto und Vanilla in Glückstadt. 
-Sein Haus liegt neben Ottos Haus. Er ist geschieden, aber er wohnt nicht allein. In dem Haus wohnt auch seine
-neue Partnerin Mia. Mia hat zwei Kinder. 
-Ihre
- Tochter heißt Sandra und ist 8 Jahre alt und 
-ihr
- Sohn heißt Mark und ist 4 Jahre alt. Sandra und 
-ihr
- Bruder wohnen im ersten Stock. Bruno liebt besonders 
-sein
- Arbeitszimmer im Erdgeschoss. Dort steht 
-sein
- Computer. Er surft gern im Internet und spielt gern Computerspiele. 
-Seine
- Partnerin ist gern im Garten. Sie findet Computerspiele langweilig. Aber sie liebt 
-ihren
- Garten und 
-ihre
- Blumen.
 
 
 
-
-TRAUMWOHNUNG
-
-Traum
-
-Wohnung
-
-Meine Traumwohnung
-
-
-Ich lerne Deutsch.  Ich bin in einer Sprachenschule.
-
-
-1. Ich bin shoppen.	in einem 
-Laden
-
-2. Ich suche Bücher, aber ich kaufe sie nicht.	in
-einer Bibliothek
-
-3. Ich bin in einem Haus. Es ist sehr groß. Ich wohne hier nicht. Ich bin im Urlaub und sehe mir das Haus an.	
-in einem Schloss
-
-4. Ich gehe spazieren. Hier sind Bäume, aber ich bin nicht im Wald. Ich bin in einer Stadt.	
-in einem Park
-
-5. Ich bin in der Stadtmitte. An Donnerstag gibt es hier immer Obst und Gemüse.	
-auf einem Markt
-
-6. Ich bin in einer Kirche und habe einen Blick auf die Stadt von oben.	
-auf einem Turm
-
-7. Das Wetter ist schön und ich schwimme. Ich bin im Wasser, aber nicht im Meer.	
-in einem Fluss
-
-
-
-Hallo Maria und Pedro, wie geht es euch?
-    Danke, gut.
-
-1. Maria, kommst du ?
-    Ja, Pedro, ich komme gleich und helfe dir
-
-3. Wir haben Probleme mit den Hausaufgaben. Kannst du
-uns
- helfen?
-    Ja, klar.
-4. Pedro, sind das deine Bücher? 
-    Nein, die  gehören nicht 
-mir
- Sie gehören Maria.
-5.  Was machst du? 
-     Ich schreibe eine Postkarte an Sandra und danke 
-ihr
- für die 
-     Einladung.
-6. Hast du am Sonntag Zeit? 
-Nein, Peter und Anja ziehen um und ich helfe 
-ihnen
 
 
 
@@ -1874,6 +1732,121 @@ Ball 9 ist vor der Couch.
 Ball 9 ist auf dem Teppich.
 
 
+- Können Sie mir helfen? Wo ist das Café "Glockner"?  
+- Tut mir leid, ich bin fremd hier. / ich bin nicht von hier.  
+
+
+- Ja, das ist gleich die nächste Straße links.  
+- Vielen Dank, das ist sehr nett.  
+
+- Oh, tut mir leid. Das weiß ich nicht.  
+- Schade. Trotzdem: Dankeschön.  
+
+- Kann ich Sie etwas fragen? ich suche den Bahnhof.  
+- Fahren Sie zwei Kilometer geradeaus. Dann sehen Sie schon den Bahnhof.  
+
+- Kennen Sie das Restaurant "Schönblick"?  
+- Ja, das ist ganz in der Nähe. Wenden Sie hier und fahren Sie zurück bis zur Ampel und dann links.  
+
+
+
+
+
+- Wo ist das Nationalmuseum?  
+- Wie kann man dahin fahren/ gehen?  
+- Was kann man noch in Ihrem Heimatland/ Ihrer Heimatstadt besuchen?  
+
+Das Museum ist sehr nah/ weit vom Bahnhof.  
+Da kannst zu Fuß gehen/ Da musst du den Bus oder die U-Bahn nehmen.  
+Du gehst geradeaus bis zur (fem.) / zum (mask./neutrum) ...  
+Dann gehst du die erste/zweite/nächste Straße links/rechts.  
+Nach ... Metern findest du das Museum links/ rechts.  
+Du nimmt den Bus oder die U-Bahn Nummer .... Du steigst an der Station .... aus.  
+
+
+Sie können hier essen -> Restaurant  
+Anderes Wort für Stadtmitte -> Zentrum  
+Hier fahren Züge ab und es kommen Züge an -> Bahnhof  
+Hier bekommen Sie Geld -> Bank  
+Hier können Sie Briefmarken kaufen -> Post  
+Rot: Sie bleiben stehen. Grün: Sie können fahren -> Ampel  
+Hier können Sie einen Tee oder Kaffee trinken --> Café  
+ 
+
+
+Anzeige  
+Schöne 2-Zimmer-Wohnung frei ab 1.5.  
+45 Quadratmeter mit großem Balkon  
+Möbliert, mit Stellplatz in der Tiefgarage  
+Miete 380.- € inkl. Nebenkosten  
+
+2-Zimmer-Wohnung zu vermieten  
+55 Quadratmeter, Balkon, Küche und Bad.  
+Miete 450.- € + Nebenkosten  
+
+
+
+Das ist Bruno. Bruno wohnt genau *wie* Otto und Vanilla in Glückstadt. 
+*Sein Haus* liegt *neben* Ottos Haus. Er ist geschieden, aber er wohnt nicht allein. *In dem Haus* wohnt auch *seine* neue Partnerin Mia. Mia hat zwei Kinder. *Ihre Tochter* heißt Sandra und ist 8 Jahre alt und *ihr Sohn* heißt Mark und ist 4 Jahre alt. Sandra und *ihr Bruder* wohnen *im ersten Stock*. Bruno liebt besonders *sein Arbeitszimmer* *im Erdgeschoss*. Dort steht *sein Computer*. Er surft gern im Internet und spielt gern Computerspiele. *Seine Partnerin* ist gern im Garten. Sie findet Computerspiele langweilig. Aber sie liebt *ihren Garten* und *ihre Blumen*.
+
+
+das Haus  
+sein Haus  
+in dem Haus  
+
+
+der Partner | die Partnerin  
+seine Partnerin  
+
+
+die Tochter  
+ihre Tochter  
+
+der Sohn  
+ihr Sohn  
+
+der Bruder  
+ihr Bruder  
+
+im ersten Stock  
+
+sein Arbeitszimmer  
+
+der Garten  
+ihren Garten  
+
+die Blumen  
+ihre Blumen  
+
+
+
+TRAUMWOHNUNG  
+
+Traum  
+
+Wohnung  
+
+Meine Traumwohnung  
+
+
+Ich lerne Deutsch -->  Ich bin *in einer Sprachenschule*.  
+
+Ich bin shoppen -->	*in einem Laden*    
+
+Ich suche Bücher, aber ich kaufe sie nicht --> *in einer Bibliothek*    
+
+Ich bin in einem Haus. Es ist sehr groß. Ich wohne hier nicht. Ich bin im Urlaub und sehe mir das Haus an --> *in einem Schloss*  
+
+Ich gehe spazieren. Hier sind Bäume, aber ich bin nicht im Wald. Ich bin in einer Stadt. --> *in einem Park*  
+
+Ich bin in der Stadtmitte. An Donnerstag gibt es hier immer Obst und Gemüse. --> *auf einem Markt*
+
+Ich bin in einer Kirche und habe einen Blick auf die Stadt von oben. --> *auf einem Turm*  
+
+Das Wetter ist schön und ich schwimme. Ich bin im Wasser, aber nicht im Meer. --> *in einem Fluss*
+
+
+
 
 
 
@@ -1883,6 +1856,28 @@ Ball 9 ist auf dem Teppich.
 ## 14
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l14/index.php
+
+
+Schlafzimmer  
+Kinderzimmer  
+Arbeitszimmer  
+Bad  
+erster Stock  
+Arbeitszimmer  
+Erdgeschoss  
+Küche  
+Wohnzimmer  
+Flur  
+Toilette  
+Schlafzimmer    
+Kinderzimmer  
+Bad  
+
+
+
+
+
+
 
 **Genetiv :** Name + s
 
@@ -2071,6 +2066,36 @@ auf dem Tür
 
 Du gefãllst mir.  
 Du gehörst mir.  
+
+
+
+**Personalpronomen im Dativ**
+
+Hallo Maria und Pedro, wie geht es euch?  
+Danke, gut.  
+
+Maria, kommst du ?  
+Ja, Pedro, ich komme gleich und helfe dir  
+
+Wir haben Probleme mit den Hausaufgaben. Kannst du
+uns
+ helfen?
+    Ja, klar.
+4. Pedro, sind das deine Bücher? 
+    Nein, die  gehören nicht 
+mir
+ Sie gehören Maria.
+5.  Was machst du? 
+     Ich schreibe eine Postkarte an Sandra und danke 
+ihr
+ für die 
+     Einladung.
+6. Hast du am Sonntag Zeit? 
+Nein, Peter und Anja ziehen um und ich helfe 
+ihnen
+
+
+
 
 
 ---
