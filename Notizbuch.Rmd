@@ -3116,6 +3116,114 @@ verkaufen
 
 
 
+Frühling   | Sommer |  Herbst  | Winter
+
+Marz          Juni    September  Dezember
+April         Juli    Oktober    Januar
+Mai           August  November   Februar
+
+
+
+Was haben Sie | letzten Freitag | gemacht
+              | letzte  Woche   |
+              | letztes Jahre   |
+
+der Tag,e
+die Woche,n
+das Jahr,r
+der Schulabschluss,'s
+der Bachelor
+der Bachelorprüfung,en
+der Master
+die Fachochschule,n
+der Würfel
+der Stab,'e
+die Pyramide,n
+
+ 
+ hatte
+ ______
+ ich hatte
+ du  hattest
+ er/sie hatte
+ wir    hatten
+ ihr    hattet
+ wir    hatten
+ 
+? Was haben Sie gestern gemacht?
+  +Ich habe gestern Hausaufgabe gemacht
+
+__________________________________________________________
+
+Wo ist Sie ?
+ Wie komme ich zum Bahnhof.
+
+auf üstünde                                   NOMİNATİV                 DATİV
+an yanında                                    der/ein Bahnhof     | vor  dem einem
+neben yanında(temas yok)                      das/ein Resteurant  |      dem einem
+vor önünde                                    die/eine Ampel      |      der einer
+hinter                                        die/- Cafe's Hauser |      den - Hausern
+zwischen
+über
+unter
+in
+
+in dem = im
+an dem = am
+
+Was ist das Hotel Marrhim ?
+ +Das hotel ist neben der bank.
+ 
+ LOKALE PRAPOSİHİMEN MİT DATİV
+ 
+ regel PRASPOSİTON + ARTİKEL -R --->DEM
+ 
+ Die Pyramide ist auf dem Würfel.
+ Der Würfel ist neben dem Haus.
+ Der Würfel ist neben der Pyramide.
+ 
+ WO?-----> die--->der
+ 
+ der Stadtplang,'e                                          rechts abbiegen
+ die Strasse,n                                              wenden
+ der Navigator,en                                           zurückfahren
+ das Hotel,s                                                geradeaus fahren
+ anmachen                                                   links abbiegen
+ ausmachen
+ die Stadmitte
+ das Zentrum
+ der Polizist,en
+ die Polizistin,nen
+ die Wand,'e
+
+ Stimm+nicht ---->false
+ 
+ Der Kalender hangt an der Wand(die Wand).
+ Das Auto ist zwischen den Hausern.
+ 
+ Wo?
+ die-----> den+Nomen +'n'
+ 
+ Die Frau ist in dem(im) Cafe'.
+ 
+ Die Lehrerin ist an dem (am) Tisch.
+ 
+ Egehan ist am Fenster
+ 
+ Dann kommen Sie unter einer Brücke durch.(durchkommen)
+ 
+ Maritim ist in dem(im) Zentrum ?
+
+An den Cafe's fahren Sie
+
+Bitte links abbiegen
+
+Bitte rechts abbiegen
+Gehen/Fahren Sie geradeaus
+Bitte wenden Sie
+An der Ampel fahren Sie geradeaus.
+Gehen/Fahren Sie an der Kirche vorbei
+Gehen/Fahren Sie die zweite Strasse links.
 
 
 
