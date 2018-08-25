@@ -3116,17 +3116,18 @@ verkaufen
 
 
 
-Frühling   | Sommer |  Herbst  | Winter
-
-Marz          Juni    September  Dezember
-April         Juli    Oktober    Januar
-Mai           August  November   Februar
+| **Frühling**   | **Sommer**   |  **Herbst**   | **Winter**    |
+| ---            | ---          | ---           | ---           |
+| Marz           |  Juni        | September     | Dezember      |
+| April          |  Juli        | Oktober       | Januar        |
+| Mai            |  August      | November      | Februar       |
 
 
 
 Was haben Sie | letzten Freitag | gemacht
               | letzte  Woche   |
               | letztes Jahre   |
+
 
 der Tag,e
 die Woche,n
@@ -3143,6 +3144,7 @@ die Pyramide,n
  
  hatte
  ______
+ 
  ich hatte
  du  hattest
  er/sie hatte
@@ -3154,6 +3156,7 @@ die Pyramide,n
   +Ich habe gestern Hausaufgabe gemacht
 
 __________________________________________________________
+
 
 Wo ist Sie ?
  Wie komme ich zum Bahnhof.
@@ -3224,10 +3227,6 @@ Bitte wenden Sie
 An der Ampel fahren Sie geradeaus.
 Gehen/Fahren Sie an der Kirche vorbei
 Gehen/Fahren Sie die zweite Strasse links.
-
-
-
-
 
 
 
