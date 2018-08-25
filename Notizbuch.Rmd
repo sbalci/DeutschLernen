@@ -9,6 +9,8 @@ output:
 
 # Wörterbuch {.tabset .tabset-fade .tabset-pills}
 
+---
+
 ## Leo
 
 https://www.leo.org/german-english
@@ -27,7 +29,17 @@ https://www.duden.de/
 
 ---
 
+## Hueber
+
+https://www.hueber.de/woerterbuch/online
+
+http://www.hueber.de/drop-a-word-go/
+
+---
+
 # Bibliothek {.tabset .tabset-fade .tabset-pills}
+
+---
 
 ## Mein Goethe
 
@@ -43,10 +55,13 @@ http://www2.onleihe.de/goethe-institut/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0
 
 # Media {.tabset .tabset-fade .tabset-pills}
 
+---
+
 ## N-TV
 
 https://www.n-tv.de/mediathek/livestream/
 
+---
 
 ## DW
 
@@ -96,7 +111,9 @@ https://www.youtube.com/watch?v=4J5i3yxH1ks&list=PLfBYdQ3Qs3IrRDjHUv-ny-t8_usQfP
 
 # Namen {.tabset .tabset-fade .tabset-pills}
 
-## Namen Nominativ
+---
+
+## Namen Nominativ  {.tabset .tabset-fade .tabset-pills}
 
 Genus (Gender)  
 maskuline der Tisch  
@@ -108,12 +125,12 @@ Stadt Städte
 Städtenamen  
 die Taxis  
 Pause  
-Gesprãch  
+Gespräch  
 ein paar Hande  
 ehepaar  
 
 
-Mann | Mãnner  
+Mann | Männer  
 Frau | Frauen  
 Visitenkarte | Visitenkarten  
 Beruf | Berufe  
@@ -133,6 +150,7 @@ DEr Artikel von Ball ist der.
 
 
 
+---
 
 ### der
 <span style="color:blue">
@@ -152,6 +170,12 @@ der Tisch
 der Ball
 </span>
 
+
+
+
+
+---
+
 ### die
 <span style="color:red">
 die Disco  
@@ -166,7 +190,7 @@ die Bushaltestelle
 die Pyramide  
 die Brücke  
 die Beiden  
-die Nãhe  
+die Nähe  
 die Ferne  
 die Lampe  
 die Tasche  
@@ -177,6 +201,9 @@ die Tasche
 .  
 </span>
 
+
+
+---
 
 ### das
 <span style="color:green">
@@ -195,9 +222,16 @@ das Handy
 das Bild  
 das Möbel  
 das Bett  
-
+das Haus | die Häuser  
 
 </span>
+
+---
+
+---
+
+## Namen Akkusativ {.tabset .tabset-fade .tabset-pills}
+
 
 ---
 
@@ -213,7 +247,7 @@ die Brücke -> der Brücke
 an dem Bahnof
 am Bahnoff  
 zwischen dem Supermarkt und dem Hotel
-hinter der Hãusern
+hinter der Häusern
 in dem Zentrum  
 im Zentrum  
 neben der Polizei  
@@ -224,17 +258,23 @@ neben dem Museum
 vor dem Restaurant
 
 
+---
 
-### der -> dem
+### der -> dem  {.tabset .tabset-fade .tabset-pills}
+
 der/ein Bahnhof | vor dem einem Bahnhof
 
 
-### das -> dem
+---
+
+### das -> dem  {.tabset .tabset-fade .tabset-pills}
 
 das ein Restaurant | vor dem einem Restaurant
 das Zentrum | in dem (im) Zentrum
 
-### die -> der
+---
+
+### die -> der  {.tabset .tabset-fade .tabset-pills}
 
 die eine Ampel | vor der einer Ampel
 
@@ -242,9 +282,9 @@ die Stadtmitte | in der Stadtmitte
 
 ---
 
-### die pl. -> den + n
+### die pl. -> den + n  {.tabset .tabset-fade .tabset-pills}
 
-die Cafés/Hãuser | vor den Cafés/Hãusern
+die Cafés/Häuser | vor den Cafés/Häusern
 
 
 
@@ -266,35 +306,38 @@ endung (en)
 
 
 
+---
 
+## Konjugieren  
 
-- **Konjugieren**
-
-| **verb**    | **ich**     | **du**      | **er/sie/es**   | **wir**     | **ihr**     | **sie/Sie**     |
-|---          |---          |---          |---              |---          |---          |---              |
-| kommen      | komme       | kommst      | kommt           | kommen      | kommt       | kommen          | 
-| heißen      | heiße       | heißt       | heißt           | heißen      | heißt       | heißen          | 
-| wohnen      | wohne       | wohnst      | wohnt           | wohnen      | wohnt       | wohnen          | 
-| arbeiten    | arbeite     | arbeitest   | arbeitet        | arbeiten    | arbeitet    | arbeiten        | 
-| leben       | lebe        | lebst       | lebt            | leben       | lebt        | leben           | 
-| kennen      | kenne       | kennst      | kennt           | kennen      | kennt       | kennen          | 
-
+| **verb**      | **ich**     | **du**      | **er/sie/es**   | **wir**     | **ihr**     | **sie/Sie**     |
+|---            |---          |---          |---              |---          |---          |---              |
+| *kommen*      | komme       | kommst      | kommt           | kommen      | kommt       | kommen          | 
+| *heißen*      | heiße       | heißt       | heißt           | heißen      | heißt       | heißen          | 
+| *wohnen*      | wohne       | wohnst      | wohnt           | wohnen      | wohnt       | wohnen          | 
+| *arbeiten*    | arbeite     | arbeitest   | arbeitet        | arbeiten    | arbeitet    | arbeiten        | 
+| *leben*       | lebe        | lebst       | lebt            | leben       | lebt        | leben           | 
+| *kennen*      | kenne       | kennst      | kennt           | kennen      | kennt       | kennen          | 
+| *hängen*      | hänge       | hängst      | hängt           | hängen      | hängt       | hängen          | 
 
 suchen  
 zahlen  
 
 
-## Verb mit Vokalwechsel
+
+---
+
+## Verb mit Vokal wechsel
 
 e -> i (2-3 singular)
 
 
-| **verb**    | **ich**     | **du**      | **er/sie/es**   | **wir**     | **ihr**     | **sie/Sie**     |
-|---          |---          |---          |---              |---          |---          |---              |
-| sprechen    | spreche     | sprichst    | spricht         | sprechen    | sprecht     | sprechen        |
-| helfen      | helfe       | hilfst      | hilft           | helfen      |             | helfen          |
-| tragen      | trage       | trãgst      | trãgt           |             |             |                 |
-
+| **verb**      | **ich**     | **du**      | **er/sie/es**   | **wir**     | **ihr**     | **sie/Sie**     |
+|---            |---          |---          |---              |---          |---          |---              |
+| *sprechen*    | spreche     | sprichst    | spricht         | sprechen    | sprecht     | sprechen        |
+| *helfen*      | helfe       | hilfst      | hilft           | helfen      | helft       | helfen          |
+| *tragen*      | trage       | trägst      | trägt           |             |             |                 |
+| *gefallen*    | gefalle     | gefãllst    | gefãllt         | gefaşşen    | gefallt     | gefallen        |
 
 
 
@@ -304,17 +347,25 @@ e -> i (2-3 singular)
 
 ## Modal Verben
 
-| **verb**    | **ich**   | **du**    | **er/sie/es** | **wir**   | **ihr**   | **sie/Sie**   |
-|---          |---        |---        |---            |---        |---        |---            |
-| sein        | bin       | bist      | ist           | sind      | seid      | sind          |
-| haben       | habe      | hast      | hat           | haben     | habt      | haben         |
-| sollen      | soll      | sollst    | soll          | sollen    | sollt     | sollen        |
+| **verb**      | **ich**   | **du**    | **er/sie/es** | **wir**   | **ihr**   | **sie/Sie**   |
+|---            |---        |---        |---            |---        |---        |---            |
+| *sein*        | bin       | bist      | ist           | sind      | seid      | sind          |
+| *haben*       | habe      | hast      | hat           | haben     | habt      | haben         |
+| *sollen*      | soll      | sollst    | soll          | sollen    | sollt     | sollen        |
+| *können*      | kann      | kannst    | kann          | können    | könnt     | können        |
+| *wollen*      | will      | willst    | will          | wollen    | wollt     | wollen        |
+| *werden*      | werde     | wirst     | wird          | werden    | werdet    | werden        |
 
 
 
 
 Du sollst diesen Tee trinken.  
 
+Fabian will lieder macher werden.  
+Ich möchte ... (Beruf) weden.  
+
+Ich will ein Auto kaufen.  
+Ich will durch Europa reisen.  
 
 
 
@@ -322,7 +373,17 @@ Du sollst diesen Tee trinken.
 
 ## Trenbare
 
-anmachen
+
+| **verb**      | **ich**   | **du**    | **er/sie/es** | **wir**   | **ihr**   | **sie/Sie**   |
+|---            |---        |---        |---            |---        |---        |---            |
+| anfangen      | fange an  | fängst an | fängt an      | fangen an | fangt an  | fangen an     |
+
+
+
+
+anfangen
+anmachen X ausmachen  
+anmachen X aufmachen  
 einladen  
 aufhören  
 fernsehen  
@@ -356,18 +417,45 @@ ge-
 
 Husten haben  
 
+
+
+
+
+
 ---
 
 # Adjektiven {.tabset .tabset-fade .tabset-pills}
+
+
+
+
+
 
 ---
 
 # Regel {.tabset .tabset-fade .tabset-pills}
 
+
+
+
+
+
+
+
+---
+
 ## Artikel  
 
 das Haus + die Frau -> die Hausfrau 
 
+
+
+
+
+
+
+
+---
 
 ## Doch  
 
@@ -378,6 +466,12 @@ Kommen Sie nicht aus Ankara? -> (+) Doch, ich komme aus Ankara. (-) Nein, ich ko
 
 
 
+
+
+
+
+
+---
 
 ## nicht keine
 
@@ -431,6 +525,16 @@ ge-
 
 
 
+
+
+
+
+
+
+
+
+
+
 ---
 
 # Artikel
@@ -472,9 +576,7 @@ das / ein / kein
 
 
 
----
-
-Personal Pronomen  
+**Personal Pronomen**  
 ich du er sie es wir ihr sie Sie
 
 
@@ -491,6 +593,11 @@ ich du er sie es wir ihr sie Sie
 ---
 
 # Frage {.tabset .tabset-fade .tabset-pills}
+
+
+
+
+---
 
 ## W frage {.tabset .tabset-fade .tabset-pills}
 
@@ -515,6 +622,9 @@ Wo alt bist du? Ich bin ... Jahre alt.
 
 
 
+
+---
+
 ### Was 
 
 Was ist seine Telefonnummer? Meine telefonnummer ist ...
@@ -523,6 +633,12 @@ Was heißt seine Deutschlehrerin? Wer ist seine Deutschlehrenin? Meine Deutschle
 
 Was ist das? Das ist ein Buch. Das sind zwei Bücher.
 
+
+
+
+
+
+---
 
 ### Wo
 
@@ -534,6 +650,14 @@ Wo ist die Maus?
 Wo arbeitest du?  
 Wo arbeiten Sie?  
 Ich arbeite bei ...  
+
+
+
+
+
+
+
+---
 
 ### Wer
 
@@ -547,6 +671,13 @@ Ich arbeite bei ...
 Ich kenne Brad Pitt.  
 
 
+
+
+
+
+
+
+---
 
 ### Wie
 
@@ -575,6 +706,17 @@ Ich bin zwanzig Jahre alt.
 
 
 
+
+
+
+
+
+
+
+
+
+---
+
 ### Wie viele
 
 Wie viele Tische sind hier? (Frage)    
@@ -584,6 +726,16 @@ Wie viele kinder haben Sie?
 Wie viele kinder hast du?  
 Ich habe ein kind.  
 
+
+
+
+
+
+
+
+
+
+---
 
 ### Woher
 
@@ -604,11 +756,54 @@ dem Iran
 dem Irak  
 
 
+
+
+
+
+
+
+
+
+
+
+---
+
 ### Welche
 
 Welche Sprachen sprechen Sie? Ich spreche gut Türkisch, flueßen Englisch und ein bisschen Deutsch.
 
 
+
+
+
+
+
+
+
+
+
+
+---
+
+### Wem
+
+Wem gehört die Uhr?  
+Die Uhr gehört ihm.
+
+Wem gehören die Bücher?  
+Die Bücher gehören ihm. 
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ## Ja-Nein Frage
 
@@ -629,7 +824,9 @@ Ja, ich kenne Brad.
 Nein, ich kenne Brad nicht.  
 
 
-
+Hast du kein Kinder?  
+Doch, ich habe zwei kinder.  
+Nein, ich habe keine kinder.  
 
 
 
@@ -644,6 +841,15 @@ Nein, ich kenne Brad nicht.
 
 # Thema {.tabset .tabset-fade .tabset-pills}
 
+
+
+
+
+
+
+
+
+---
 
 ## Sprache
 
@@ -665,8 +871,8 @@ Englisch
 Italienisch  
 Spanisch  
 Französich  
-Dãnisch  
-Niederlãndisch  
+Dänisch  
+Niederländisch  
 Belgisch  
 Polnisch  
 Russisch  
@@ -680,6 +886,14 @@ die Fremdsprache
 
 
 
+
+
+
+
+
+
+
+---
 
 ## Familie
 
@@ -736,6 +950,16 @@ Wie viele kinder hat deine Mutter?
 
 
 
+
+
+
+
+
+
+
+
+---
+
 ## Familienstand
 
 Vorname  
@@ -750,6 +974,18 @@ verheiratet (evli)
 geschieden (boşanmış)  
 verwitwet (dul)  
 
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ## Beruf
 
@@ -781,7 +1017,7 @@ Biologie
 Chemie  
 Naturwissenschaft  
 
-Ich bin Student / Studentin. Universitãt  
+Ich bin Student / Studentin. Universität  
 Ich bin Sculer / Schülerin. Schule  
 
 ein Praktikum machen  
@@ -792,12 +1028,26 @@ Ich mache eine Ausbildung bei ... / als ...
 
 Ich habe einen Job als (Beruf) bei (Firma)  
 
-Anwalt | Anwãltin (avukat)  
+Anwalt | Anwältin (avukat)  
 Biologe | Biologin
 
+Kriminalrecht  
+Studentiche Hilfskraft  
+Bauingeniur  
+Ingeniurweiss  
+Biomedizin  
 
 
 
+
+
+
+
+
+
+
+
+---
 
 ## der Kalendar
 
@@ -809,6 +1059,14 @@ die Minute
 der Monat  
 
 
+
+
+
+
+
+
+---
+
 ## weg  
 
 Bitte links abbiegen  
@@ -819,12 +1077,76 @@ An der Ampel fahren Sie geradeaus
 Gehen/Fahren Sie an der Kirche vorbei  
 Gehen/Fahren Sie die zweite Straße links  
 
+erste  (first)  
+nãchste  (next)  
+zweite  (second)  
+dritte (third)  
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 # Lokale Präpositionen
 
 Lokale Pröpositionen + Dativ: Wo?
+
+**der -> dem  das -> dem  die -> der die(Pl) -> den + n**
+
+
+der Würfel:  
+Die pyrmide ist auf dem Würfel.
+
+das Haus:  
+Der Würfel ist neben dem Haus.
+
+die Pyramide:  
+Der Würfel ist neben der Pyramide.
+
+die Häuser (Pl.):  
+Das Auto ist zwischen den Häusern.
+
+die Pyramiden (Pl.):  
+Das Auto ist zwischen den Pyramiden.  
+Das Auto ist zwischen den Taxis.  
+
+
+in dem -> im  
+
+das Café | die Cafés  
+
+Die Frau ist in dem Café.  (Özellikle vurgulanmak istenirse bu da kullanılabilir)  
+Die Frau ist im Café.  
+
+
+an dem -> am  
+
+Die Lehrenin ist an dem Tisch.  
+Die Lehrenin ist am Tisch.  
+
+Ali stieht am Fenster.  
+
+die Wand | die Wände  
+
+Der Kalender ist an der Wand.  
+Der Kalendar hängt an der Wand.  
+
+
+
+
+
+
 
 Ich suche die Disco. Wo ist sie, bitte?  
 Sie ist neben das Museum.  
@@ -854,6 +1176,19 @@ Wo ist der Stab?
 ---
 
 # Zeitpräpositionen
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
@@ -911,6 +1246,7 @@ Wo ist der Stab?
 
 
 
+---
 
 # Zahlen
 
@@ -933,6 +1269,19 @@ Wo ist der Stab?
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # gleich
 
 plus  +  
@@ -943,6 +1292,15 @@ ist/gleich =
 
 1+1 = 2 eins plus eins ist / gleich zwei  
 
+
+
+
+
+
+
+
+
+
 ---
 
 # Gegenteil
@@ -951,7 +1309,7 @@ ist/gleich =
 
 Ich öffne das Buch. Ich schließe das Buch.
 
-die Nãhe  X die Ferne  
+die Nähe  X die Ferne  
 
 Was ist das Gegenteil von groß?  
 Das Gegenteil von groß ist klein.  
@@ -960,11 +1318,25 @@ Das Gegenteil von groß ist klein.
 
 
 groß X klein  
-Schön X Hãsslich  
+Schön X Hässlich  
 Schauer X leicht  
 Lang X kurz  
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 # Kurssprache
 
@@ -976,7 +1348,7 @@ Lang X kurz
 - Öffnen Sie die Bücher bitte  
 - Scließen Sie die Bücher bitte  
 - Hören Sie bitte  
-- Zãhlen Sie bitte  (to count)  
+- Zählen Sie bitte  (to count)  
 - Antworten sie bitte  
 - Stehen sie bitte auf  
 - Schaun Sie bitte  
@@ -1014,7 +1386,26 @@ Der Plural von Tasche ist/heißt TAschen.
 
 
 
+
+
+
+
+
+
+
+---
+
 # A1.1 online 
+
+
+
+
+
+
+
+
+
+---
 
 # A1.1
 
@@ -1043,25 +1434,6 @@ Wir lernen das Alphabet.
 Kann ich Sie etwas fragen?
 
 
-Ball 1 ist neben dem Schrank.
-
-Ball 2 ist auf der Couch.
-
-Ball 3 ist im Schrank.
-
-Ball 4 ist unter der Couch.
-
-Ball 5 ist zwischen der Couch und dem Schrank.
-
-Ball 6 ist hinter dem Schrank.
-
-Ball 7 ist über der Couch.
-
-Ball 8 ist an dem Schrank.
-
-Ball 9 ist vor der Couch.
-
-Ball 9 ist auf dem Teppich.
 
 
 Können Sie mir helfen? Wo ist das Café "Glockner"?
@@ -1293,7 +1665,7 @@ Was kann ich für Sie tun?
 Alfons Brunner ist 48 Jahre alt. 
 Nach  der Schule hat er Elektroinstallateur gelernt.
 Seit 16 arbeitet Herr Brunner als Hausmeister bei der Firma.
-Er kümmert sich um die Heizung, das Wasser und den Strom. Er repariert   Fenster und Türen. Außerdem schneidet er   Bãume, Büsche und Hecken. 
+Er kümmert sich um die Heizung, das Wasser und den Strom. Er repariert   Fenster und Türen. Außerdem schneidet er   Bäume, Büsche und Hecken. 
 Von   Montag bis Freitag arbeitet er immer von 8.00 bis 16 Uhr.
 Er hat Mittagspause von 12.00 bis 12.30 Uhr.
 Die Arbeit macht ihm Spaß.
@@ -1377,67 +1749,7 @@ Vielleicht will Jan Liedermacher werden.
 
 ---
 
-# Chapter {.tabset .tabset-fade .tabset-pills}
-
-
-## 24
-
-
-## 23
-
-## 22
-
-
-
-
-
-## 21
-
-## 20
-
-
-
-
-## 19
-
-über etwas sprechen  
-
-über etwas / Thema / Nachbarin / das Buch / das Bild / Leute sprechen  
-
-So war Walter früher.
-
-sein + adj
-
-1990 -> Er war dick. Er hatte keine Bart. Er hatte kurze haare. Er war klein.  
-2018 -> Er is dünn. Er hat eine Bart.  
-
-
-das Harr | die Harre  
-
-
-
-Ich bin gegangen.  
-Ich bin gelesen.  
-Ich war. | Ich bin gewesen.  
-Ich hatte. | Ich habe gehabt.  
-
-aussehen (trenbare verb)  
-Sie sieht hübsh aus.  
-Wie sieht er aus?  
-Wie finden Sie er?  
-
-das Aussehen | outlook  
-
-
-Nicht trenbare verben:  
-be-  
-ver-  
-er-  
-ent-  
-miss-  
-zer-  
-emp-  
-ge-  
+# Kapitel {.tabset .tabset-fade .tabset-pills}
 
 
 
@@ -1451,6 +1763,512 @@ ge-
 
 
 
+
+
+---      
+
+## 13
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l13/index.php
+
+
+
+das Auto | die Autos  
+das Hotel | die Hotels  
+
+die Straße | die Straßen  
+
+der Navigator | die Navigatoren  
+der Stadtplan | die Stadtpläne  
+
+
+Beiden (çift)  
+Fussgenger (yaya)    
+
+suchen X finden  
+stimmt (richtig)  
+stimmt nicht (falsch)  
+
+
+anmachen X ausmachen (turn on X turn off)
+
+Ich mache den CD-Player an.  
+Ich mache die Lampe an.  
+Die Frau macht den Navigator an.  
+
+
+rechts abbiegen (turn right)  
+links abbiegen (turn left)  
+wenden (U turn)  
+zürückfahren (aksi yönde gidin)  
+hindfahren  
+geradeaus fahren (go directly)
+
+
+Wo ist das Hotel M... ?  
+Das Hotel ist neben der Bank.  
+
+der Würfel | die Würfel (kutu, zar)  
+der Stab | die Stäbe (silindir)  
+die Pyramide | die Pyramiden  
+
+Wo ist ... ?
+
+Wo sind ... ?
+
+Wo hãngt der Kalender?
+Wo hãngen .. ?
+Wo liegt der Stift?  
+Wo liegen der Stift?  
+sitzt  
+sitzen  
+steht  
+stehen  
+
+
+- neben dem Haus
+
+| Nominativ | Dativ |
+| --- | --- | --- |
+| der Würfel | dem Würfel |
+| die Pyramide | der Pyramide |
+| das Haus | dem Haus |
+| die Würfel | den Würfel | 
+
+
+Können Sie bitte das Licht anmachen?  
+Können Sie bitte das Fenster aufmachen?  
+
+
+*Zuerst* + Verb + Subjekt  
+
+*Zuerst* gehen Sie immer geradeaus und
+*dann* gehen Sie links. ...  
+*danach* + Verb + Subjekt  
+
+forbeifahren (kein stop)  
+
+ ... dann fahren Sie an den Cafés vorbei ... 
+
+
+
+
+Ball 1 ist neben dem Schrank.
+
+Ball 2 ist auf der Couch.
+
+Ball 3 ist im Schrank.
+
+Ball 4 ist unter der Couch.
+
+Ball 5 ist zwischen der Couch und dem Schrank.
+
+Ball 6 ist hinter dem Schrank.
+
+Ball 7 ist über der Couch.
+
+Ball 8 ist an dem Schrank.
+
+Ball 9 ist vor der Couch.
+
+Ball 9 ist auf dem Teppich.
+
+
+
+
+
+
+---
+
+## 14
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l14/index.php
+
+**Genetiv :** Name + s
+
+Das ist der Ball von Frank.  
+Das ist Franks Ball.  
+
+*Name'* (bei s, ss, ß, z, c, x)  
+Andreas' Vater  
+Aziz' Ball  
+Hans' Vater
+
+Der Ball von Deniz -> Deniz' Ball  
+Die Mutter von Lena -> Lenas Mutter
+
+
+| **♂** | **Nominativ** | **Akkusativ** | 
+| --- | --- | --- |
+| *der* | Das ist sein Ball. | Er mag sein*en* Ball. |
+| das | Das ist sein Auto. | Er mag sein Auto. |
+| *die* | Das ist seine Flasche. | Er mag sein*e* Flasche. |
+| *die (Pl.)* | Das sind seine Flaschen. | Er mag sein*e* Flaschen |
+
+
+Ich mag Franks Ball. Ich mag seinen Ball.  
+
+das Haus
+
+Wie findest du Ottos Haus?  
+Das Haus von Otto finde ich schön.  
+Sein Haus finde ich schön.  
+
+der Garten
+
+Ich finde den Garten von Otto schön.  
+Ich finde seinen Garten schön.  
+
+die Küche  
+
+Ich finde die Küche von Otto schön.  
+Ich finde seine Küche schön.  
+
+
+die Telefonnummer  
+
+Wie ist seine Telefonnummer?  
+Wie ist ihre Telefonnummer?  
+Formell Frage: Wie ist Ihre Telefonnummer?  
+
+
+
+
+| **♀** | **Nominativ** | **Akkusativ** | 
+| --- | --- | --- |
+| *der* | Das ist ihr Schuh. | Sie mag ihr*en* Schuh. |
+| das | Das ist ihr Kleid. | Sie mag ihr Kleid. |
+| *die* | Das ist ihre Flasche. | Sie mag ihr*e* Flasche. |
+| *die (Pl.)* | Das sind ihre Shuhe. | Sie mag ihr*e* Schuhe. |
+
+
+
+Hoch X Tiet (High X Low)  
+
+
+
+
+die Miete (rent)  
+die Warmmiete | die Warmmieten | miete mit Nebenkosten (rent with water, electricity, ... )  
+die Kaltmiete | die Kaltmieten  
+
+
+der Balkon -> einen Balkon  
+
+Hat die Wohnung einen Balkon?  
+
+Wie viele Zimmer hat die Wohnung?  
+Wie groß ist die Wohnung?  
+Wie groß ist deine Wohnung?  
+Wie goß ist Ihre Wohnung?  
+
+3 Zimmer, Küche, Bad  
+Meine Wohnung ist 100 m^2^ groß. quadratmeter
+
+umziehen + sein | umgezogen  (to move)  
+Ich bin umgezogen.  
+
+Wie hoch ist die Miete?  
+Wie viel kostet die Miete?  
+
+die Miete | die Mieten (kira)  
+mieten (kiralamak)  
+der Mieter (kiracı)  
+die Mieterin (kiracı)  
+
+vermieten (kiraya vermek)  
+der Vermieter  (ev sahibi)  
+die Vermieterin  (ev sahibesi)  
+
+bezahlen (to pay)  
+
+die Zeitung | die Zeitungen  
+die Anzeige | die Anzeigen (ilan)  
+
+
+
+---
+
+## 15
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l15/index.php
+
+
+Hallbergmass bei München  
+Das ist Darf (village)  
+aud dem Land lieben (köye yaşıyor)  
+in der Stadt leben  
+
+Was sehen Sie aus Ihrem Fenster?  
+
+die Moschee | die Moscheen  
+der Pool  
+
+Lesen Sie Blogs?  
+Welche Blogger kennen Sie?  
+
+
+**Wo + Dativ**  (Nere?)  
+**Wohin + Akkusativ**  (Nereye?)  
+
+Ich fliege ins Ausland / nach Deutschalnd / in die Türkei / in den  
+
+
+es gigt + Akkusativ  
+Es gibt drei Bücher hier.  
+
+wenig X viel (az X çok)   
+
+denken glauben meinen (think)
+
+Ich denke ...  
+Ich glaube ...  
+Ich meine ...  
+Vielleicht (perhaps) ...   
+
+
+
+Kellner fragt: Zusammen oder getrennt? (hesap birlikte mi ayrı mı)  
+
+lieben + Akkusativ  
+Ich liebe dich.  
+
+gehören + personal pronomen dativ  
+meine possessive pronomen  
+
+Die Tasche gehört mir = Das ist meine Tasche  
+
+gefallen + Dativ  
+gehören + Dativ  
+
+Die Tasche gefãllt mir = Ich finde die Tasche schön  
+
+helfen + personal pronomen dativ  
+danken + personal pronomen dativ  
+
+Ich helfe dir.  
+Ich danke dir.  
+Ich glaube dir.  
+
+
+Die Tasche gehört mir. (ich -> mir)  
+Die Tasche gehört dir. (du -> dir)  
+
+Die Tasche gehört dem Mann.  
+Die Tasche gehört ihm. (er -> ihm)  
+
+Die Tasche gehört dem Kind.  
+Die Tasche gehört ihm. (es -> ihm)  
+
+wir -> uns  
+ihr -> euch  
+sie/Sie -> ihnen/Ihnen  
+
+auf (üstü açık alanlarda in yerine auf kullanılır)  
+auf dem Markt  
+auf dem Tür  
+
+
+Du gefãllst mir.  
+Du gehörst mir.  
+
+
+---
+
+## 16
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l16/index.php
+
+
+Hilfe rufen  
+warten  
+
+die Angst | die Ãngste    
+Angst haben  
+
+genervt sein  
+
+
+nichts tun (hiçbirşey yapmadan beklemek)  
+Sie tunnst nicht.  
+
+warten  
+Hilfe rufen
+
+die Aufzugfirma | die Aufzugfirmen  
+
+der Techniker | die Technikerin  
+
+reparieren
+
+
+der Kopf | die Köpfe  
+das Feld | die Felder  (field)  
+
+Wie geht's dir / Ihnen ?  
+Mir geht's gut.
+Uns geht's gut.  
+
+Wem gehört die Uhr?  
+Die Uhr gehört ihm.
+
+Wem gehören die Bücher?  
+Die Bücher gehören ihm. 
+
+
+
+**einen Termin vereinbaren**
+
+Passt es Ihnen heute Nachmittag um 16 Uhr?  
+Ich habe einen anderen Termin um 11 Uhr.
+Kann ich um 14 Uhr kommen?  
+
+**den Termin verschieben**  
+ich verschiebe den Termin von Freitag auf Deinstag.  
+
+Ich habe einen Termin um 11 Uhr. Ich kann aber leider nicht kommen.  
+
+**einen Termin absagen** (cancel)
+Ich sage den Termin ab.  
+
+
+
+**Wo + in Dativ**  
+
+*der*: Ich komme in ein*em* Monat zurück.  
+*das*: Ich komme in ein*em* Jahr zurück.  
+*die*: Ich komme in ein*er* Stunde zurück.  
+*Pl.*: Ich komme in zwei Wochen zurück.
+
+
+- Wann kommst du zurück?  
+In einem Monat.  
+
+
+**vor X nach** (before X after)  
+
+Wann kommt er?  
+
+*der*: Er kommt vor *dem* Kurs.  
+*das*: Er kommt nach *dem* Essen.  
+*die*: Er kommt nach *der* Uni.  
+*Pl.*: Er kommt vor *den* Hausaufgaben.  
+
+
+(Für) Wie lange kommen Sie?  
+(Für) Wie lange bleiben Sie?  
+Ich komme für einen Monat.  
+Ich bleibe für einen Monat.  
+
+bleiben (stay)  
+
+
+
+Tut mir leid, der Bus ist nicht gekommen.  
+Entschuldigung, ich habe zu lang geschlafen.  
+Tut mir leid, ich war in einer anderen straße.  
+Ich habe keine Taxi gefunden.  
+Ich war gestern krank.  
+
+Ich glaube ihm.  
+
+Hast du am Sonntag zeit?  
+Ja, ich habe zeit.  (vereinbaren)
+Nein, ich habe keine zeit.  
+
+Ich kann doch nicht (absagen).  
+
+
+**sein | gewewsen**  
+
+Bist du in Köln gewesen -> *Warst du .... in Köln?*
+
+
+in Wann + Dativ  
+nach - vor Wann + Dativ  
+(für) wie lange + Akkusativ  
+
+ab Wann? Abwann?  
+
+Abwann ist die Party?  
+Wann ist die Party?  
+
+um wie viel uhr?  (Wann)  
+am Wann?  
+
+von .. bis  Von wann bis wann? Wann?
+
+
+anfangen | angefangen  (to begin)  
+
+Der Deutschkurs hat von einer Woche angefangen.  
+
+Wann gehen Sie einkaufen?  
+Ich gehe nach dem Kurs einkaufen.  
+
+
+"Das war eine schwere Geburt" (çok zor bir iş için kullanılan deyim)    
+"Ich verstehe nur Bahnof" (hiç bir şey anlamadım deyim)  
+
+
+
+
+---
+
+## 17
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l17/index.php
+
+
+*in + Dativ*  
+Wann ist die Pause?  
+in 5 minuten  
+in einer Stunde  
+in einem Tag  
+in einem Jahr  
+
+
+**mit + Dativ**
+
+Fabian geht mit dem Hut in die Prüfung.  
+Fabian geht mit der Gitarre in die Prüfung.  
+Fabian geht mit dem Kursbuch in die Prüfung.  
+Fabian geht mit den Blumen in die Prüfung.  
+
+
+der -> dem  mein -> meinem  
+die -> der  mein -> meiner  
+
+seinem Hut  
+seiner Gitarre  
+seinem Kursbuch  
+seinen Blumen  
+meinen Blumen  
+ihren Blumen  
+
+
+
+
+**ohne + Akkusativ**
+
+der -> den  mein -> meinen  
+
+Cherry geht ohne den Hut / meinen Hut in die Prüfung.  
+die Gitarre / meine Gitarre  
+das Kursbuch / mein Kursbuch  
+die Blume / meine Blumen  
+
+
+Was nehmen Sie in den Urlaub mit?  
+Ich fahre mit meinem / dem Handy in den Urlaub.  
+Ich fahre ohne meinen / den Wecker in den Urlaub.  
+
+
+Fabian will lieder macher werden.  
+Ich möchte ... (Beruf) weden.  
+
+Ich will ein Auto kaufen.  
+Ich will durch Europa reisen.  
 
 
 
@@ -1462,16 +2280,18 @@ ge-
 
 ## 18
 
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l18/index.php
+
 die Krankheit | die Krankheiten | hastalık    
 die Gesundheit | sağlık  
-die Fãhigkeit | die Fãhigkeiten | ability  
+die Fähigkeit | die Fähigkeiten | ability  
 
 das Thermometer | die Thermometer  
-die Hand | die Hãnde  
+die Hand | die Hände  
 
 husten  
 
-wehfun | Schmerzen haben
+wehtun | Schmerzen haben
 
 ich tue weh  
 du tust weh  
@@ -1479,7 +2299,7 @@ er tut weh
 
 wehgetan (PII)  
 
-bleiben | stay  
+bleiben  (stay)  
 
 
 nicht mehr: Ich habe medikamente genommen und jetzt geht es mir gut. Das fieber ist weg, also es ist nicht mehr da.  
@@ -1513,14 +2333,14 @@ Geben Sie ihm doch diesen Tee!
 
 Schwester  
 die Nonne | die Nonnen
-das Kraut | die Krãuter | herbal    
+das Kraut | die Kräuter | herbal    
 die Blumen  
 der Korb | die Körbe
 
 das Kloster | die Klöster | manastır  
 Klosterladen  
 
-Sie trãgt die Körbe.
+Sie trägt die Körbe.
 
 Die Nonne liebt in das Kloster  
 Kommen Sie mit  
@@ -1535,8 +2355,8 @@ Ich gehe zum Arzt.
 Schmerzen geschrieben:  
 Mein Kopf tut weh  
 
-Ratshlãge geben:  
-Welche Ratshlãge gibt Schwester Angelika den Leuten?  
+Ratshläge geben:  
+Welche Ratshläge gibt Schwester Angelika den Leuten?  
 Imperativ  
 Bleiben Sie doch im Bett!  
 Geben Sie ihm doch diesem Tee!  
@@ -1569,7 +2389,7 @@ sollt
 sollen
 
 
-der Ratschlag | die Ratschlãge | advice, suggestion
+der Ratschlag | die Ratschläge | advice, suggestion
 
 der Ratgeber | die Ratgeber | advisor  
 die Ratgeberin | die Ratgeberinnen | advisor
@@ -1584,7 +2404,7 @@ Gehen Sie zum Arzt!
 
 
 der Doktor  | die Doktoren  
-der Arzt  | die Ãrzte  
+der Arzt  | die ärzte  
 die Apotheke  |  die Apotheken  
 das Medikament | die Medikamente  
 das Rezept  | die Rezepte  | ein Rezept verschieben  
@@ -1698,10 +2518,10 @@ Was fehlen Ihnen?
 
 
 der Witze:  
-Meine nose lãuft.  
+Meine nose läuft.  
 Dann halt sie doch fest.  (fest halten)  
 
-das Heilkraut | die Heilkrãuter  
+das Heilkraut | die Heilkräuter  
 die Naturmedizin  
 
 glauben an Gott  
@@ -1709,7 +2529,7 @@ glauben an Naturmedizin
 Ich glaube (nicht) an Naturmedizin.  
 
 
-die Erkãltung  
+die Erkältung  
 die Grippe  
 die Warmflasche | sıcak su torbası  
 
@@ -1740,16 +2560,376 @@ Das Auto hat mir früher gehört.
 
 
 
+
+
+
+
+
+
+
+---
+
+## 19
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l19/index.php
+
+
+über etwas sprechen  
+
+über etwas / Thema / Nachbarin / das Buch / das Bild / Leute sprechen  
+
+So war Walter früher.
+
+sein + adj
+
+1990 -> Er war dick. Er hatte keine Bart. Er hatte kurze haare. Er war klein.  
+2018 -> Er is dünn. Er hat eine Bart.  
+
+
+das Harr | die Harre  
+
+
+
+Ich bin gegangen.  
+Ich bin gelesen.  
+Ich war. | Ich bin gewesen.  
+Ich hatte. | Ich habe gehabt.  
+
+aussehen (trenbare verb)  
+Sie sieht hübsh aus.  
+Wie sieht er aus?  
+Wie finden Sie er?  
+
+das Aussehen | outlook  
+
+
+Nicht trenbare verben:  
+be-  
+ver-  
+er-  
+ent-  
+miss-  
+zer-  
+emp-  
+ge-  
+
+
+
+
+
+verlieren | verloren  (to lose)  
+wehtun | wehgetan (to hurt)  
+
+Mein Arm hat mir wehgetan.  
+
+
+
+
+
+---
+
+## 20
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l20/index.php
+
+
+
+**runter X auf** (down X up)
+
+runterfallen  
+runtergehen X raufgehen  
+runtersehen X raufsehen  
+
+Komm soft runter!  
+
+
+**raus X rein** (out X in)  
+
+rausbringen X reinbringen   
+
+Putzfrau  
+
+
+
+**Informel Imperativ**
+
+
+Du deckts den Tisch -> Deck den Tisch!  
+
+Ihr deckt den Tisch -> Deckt den Tisch!  
+
+Du machst das Bett -> Mach das Bett! Mach bitte das Bett!  
+
+Ihr macht das Bett -> Macht das Bett! Macht bitte das Bett!  
+
+
+| **Du** | **Ihr** | 
+| --- | --- | 
+| Schlaf! | Schlaft! |
+| Du schlãfst viel -> Schlaf nicht zu/so viel | Ihr schlaft viel -> Schlaft nicht viel | 
+| Du rãumst aus -> Rãum aus | Ihr rãumt aus -> Rãumt aus | 
+| Sei! | Seid! |
+| Du bist fleißig -> Sei fleißig | Ihr seid fleißig -> Seid Fleißig | 
+| Hab! | Habt!| 
+| Hab keine angst | Habt keine angst |
+| | Seid leise bitte |
+| | Seid loud bitte |
+
+
+**Drei Imperativ**  
+Du  
+Ihr  
+Sie  
+
+
+
+| **decken**            | **Imperativ**     |  
+| ---                   | ---               |
+| ~~decke~~             |                   |
+| ~~Du~~ deck~~st~~     |      Deck!        |
+| ~~deck~~              |                   |
+| ~~decken~~            |                   |
+| ~~Ihr~~ deckt         |   Deckt!          |
+| Sie decken            | Decken Sie bitte! |
+
+
+Du deckts den Tisch -> Deck den Tisch  
+Ihr deckt den Tisch -> Deckt den Tisch  
+Sie decken den Tisch -> Decken Sie bitte den Tisch (formel)  
+
+
+**schlafen (vokal wechsel a -> ã) -> du schlãfst (ã -> a) -> schlaf**   
+
+du schlãfst -> schlaf
+
+
+fahren -> du fãhrst -> fahr  
+
+sprechen -> du scprichst > sprich  
+
+lesen -> du liest -> lies  
+lesen -> ihr lest -> lest  
+
+essen -> Sie essen -> Essen Sie!  
+essen -> ihr esst -> Esst!  
+essen -> Du isst -> Iss!  
+
+ausrãumen -> du rãumst aus -> Rãum aus!  
+schlafen -> Du schlãfst -> Schlaf!  
+vergessen -> vergisst -> vergiss  
+
+still sein = leise  
+aufpassen -> Pass auf!  
+aufpassen -> Passt auf!
+
+Geduld haben (patience)  
+
+
+
+**treffen + Wen akkusativ**  
+
+Ich habe meinen Vater getroffen.  
+Ich habe meine Mutter getroffen.  
+Ich habe einen Freund getroffen.  
+
+Ich treffe ein Freund.  
+Ich habe Ali getroffen.  
+
+
+
+Alex putzt das Bad.  
+Er putzt es.  
+
+Subj + Verb + Akk Obj  
+
+Sara ruft Peter an.  
+Sie ruft ihn an.  
+
+
+Vergiss es.  
+
+günstig / billig X teuer  
+freiwillig X unfreiwillig  
+
+
+---
+
+## 21
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l21/index.php
+
+
+**erlaubt X verbaten** (izinli X yasak)
+
+
+hupen (korna)
+
+
+der Fußgãnger | die Fußganger  
+der Fahrradfahren | die Fahrradfahren  
+der Straßenverkehr | die Straßenverkehr  
+die Ampel | die Ampeln  
+der Bürgersteig | die Bürgersteig  
+
+zu Fuß gehen  
+
+Als Autofahrer fahre ich immer bei Grün über die Ampel.  
+Zu Fuß gehe immer / nie bei Rot über die Ampel.  
+
+Mit dem Auto fahre ich ...   
+Mit dem Fahrrad fahre ich nie bei Rot über die Ampel.  
+
+
+Bei grün in Ampel gehen ist erlaubt.  
+
+Die Kinder hier spielt an der Straße.  
+Die Kinder darf aber nicht neben der Straße spielen.  
+Die Eltern muss auf Kinder achten.  
+
+Die familie hier grillen.  
+Man darf nicht grillen in den Park.  
+Man darf im Pool nicht Wasser trinken.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 22
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l22/index.php
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 23
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l23/index.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 24
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l24/index.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 1
 
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l01/index.php
+
+
+
+
+
+
+
+
+
+
+---
 
 ## 2
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 3
 
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ## 4
 
@@ -1824,48 +3004,180 @@ verkaufen
 
 
 
+---
 
 ## 5
 
 
+
+
+
+---
+
 ## 6
 
+
+
+
+
+
+
+---
 
 ## 7
 
 
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ## 9
 
 
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 10
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 
 ## 11
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 ## 12
 
 
-## 13
-
-
-## 14
-
-
-## 15
-
-
-## 16
-
-
-## 17
 
 
 
 
+
+
+
+
+
+
+---
+
+# A2
+
+https://hueber.de/shared/uebungen/menschen/kb/a2/menu.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+# B1
+
+https://hueber.de/shared/uebungen/menschen/kb/b1/menu.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+# B2- C1
+
+https://www.hueber.de/shared/livebook/menschen-im-beruf/medizin/b2-c1/html5.html
+
+
+https://www.hueber.de/lernen/deutsch-als-fremdsprache
 
 
 
