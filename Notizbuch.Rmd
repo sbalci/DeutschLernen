@@ -15,6 +15,8 @@ output:
 
 https://www.leo.org/german-english
 
+https://dict.leo.org/trainer/joinGroup.php?token=30XGI2UJ&lp=ende&lang=en
+
 ---
 
 ## Pons
@@ -842,12 +844,20 @@ Nein, ich habe keine kinder.
 # Thema {.tabset .tabset-fade .tabset-pills}
 
 
+Angelas Buch  
+Sie ist Angelas Kind.  
+Das ist Julias Buch.  
+Das ist Yunus' Buch.  
+Das ist Aziz' Buch.  
 
+Herkunff  
 
+Ich wohne in Kizilay in Ankara in der Turkei.
 
+Ich lerne Deutsch.  
+Wir lernen das Alphabet.  
 
-
-
+Kann ich Sie etwas fragen?
 
 ---
 
@@ -1380,172 +1390,9 @@ Der Plural von Tasche ist/heißt TAschen.
 - Was wollen wir tun?  (tun -> machen, What should we do?)  
 - Bitte helfen Sie mir.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-# A1.1 online 
-
-
-
-
-
-
-
-
-
----
-
-# A1.1
-
-
-
-Angelas Buch  
-Sie ist Angelas Kind.  
-Das ist Julias Buch.  
-Das ist Yunus' Buch.  
-Das ist Aziz' Buch.  
-
-
-
-
-Herkunff  
-
-Ich wohne in Kizilay in Ankara in der Turkei.
-
-
-
-Ich lerne Deutsch.  
-Wir lernen das Alphabet.  
-
-
-
-Kann ich Sie etwas fragen?
-
-
-
-
-
-
- 
- 
-
-
-
-
-
-
-
-Lesen Sie Jans Blog. Sind die Sätze richtig oder falsch?
-
-Jans Blog 
-
-Hamburg - das Tor zur Welt
-
-Meine Lieblingsstadt ist Hamburg. Ich bin oft dort und besuche Freunde. Die Stadt hat 1.8 Millionen Einwohner und liegt in Norddeutschland an der Elbe. In Hamburg gibt es alles: Kunst und Kultur, Restaurants und Bars, Läden und Geschäfte - und viel Wasser. Ihr wollt Hamburg besuchen? Das müsst ihr sehen:
-
-Hamburg am Wasser
-
-Besonders spanned sind der Hafen mit den Container-Schiffen aus der ganzen Welt und die Speicherstadt. Dort lagern Waren von den Schiffen: Kaffee, Tee, Gewürze, Kakao, elektronische Produkte, Teppiche und vieles mehr. Aber es gibt auch Museen, Ausstellungen, Lesungen und Theateraufführungen.
-
-
-Hamburg von oben
-
-Die Kirche St. Michaelis (die Hamburger nennen sie "Michel") ist das Wahrzeichen von Hamburg. Der Blick vom Kirchenturm (132 Meter hoch!) auf die Stadt und den Hafen ist einfach toll!
-
-Hamburg am Abend
-
-Natürlich gibt es in Hamburg überall viele Kneipen. Besonders gern mag ich aber die Atmosphäre am Großneumarkt, das ist ein Platz in der Hamburger Neustadt mit Kneipen, Cafes und Restaurants. Vielleicht sehen wir uns irgendwann mal?
-
-Ewa aus Krakau
-Danke für die Tipps, Jan! Dein Blog gefällt mir gut. Hamburg kenne ich noch nicht, aber jetzt möchte ich unbedingt hin und den Hafen sehen. Antworten
-
-
-
-
-
-Einwohner | Wappen | alt | 500 | Bern | spricht | Hauptstadt | Berlin
-Martin lebt in 
-Bern
-Bern hat 130.000 
-Einwohner
- und ist die 
-Hauptstadt
- der Schweiz. In Bern 
-spricht
- man Berner Deutsch.
-
-Der Zytglogge, das ist der Zeitglockenturm, ist sehr 
-alt
- Die Uhr ist 
-500
- Jahre alt. Bern und  
-Berlin
- haben etwas gemeinsam. Beide 
-Wappen
- haben einen Bären.
-
-
-
-
-ZEITPRÄPOSITIONEN
-
-Lesen Sie die Sätze. "Vor" ist eine Präposition für vergangene Ereignisse, "für" ist eine Präposition für die Dauer, "in" ist für die zukünftige Ereignisse und "nach" für schon abgeschlossene Ereignisse.
-
-
-
-1. Peter möchte für ein Jahr nach Japan gehen. Er hat vor einem Jahr schon ein Praktikum in Japan gemacht.
-
-2. Anne möchte nach ihrem Medizinstudium in Afrika als Ärztin arbeiten.
-
-3. Barbara beginnt in drei Monaten mit dem Studium.
-
-4. Moritz hat vor einem halben Jahr mit seinem Ingenieur-Studium angefangen. In vier Jahren ist er fertig. Dann möchte er gern in einer Autofirma arbeiten.
-
-5. Maria möchte nach dem Deutschkurs die Prüfung machen.
-
-
-
-Was kann ich für Sie tun?
-
-
-Alfons Brunner ist 48 Jahre alt. 
-Nach  der Schule hat er Elektroinstallateur gelernt.
-Seit 16 arbeitet Herr Brunner als Hausmeister bei der Firma.
-Er kümmert sich um die Heizung, das Wasser und den Strom. Er repariert   Fenster und Türen. Außerdem schneidet er   Bäume, Büsche und Hecken. 
-Von   Montag bis Freitag arbeitet er immer von 8.00 bis 16 Uhr.
-Er hat Mittagspause von 12.00 bis 12.30 Uhr.
-Die Arbeit macht ihm Spaß.
-
-
-
-
-TERMINE VERSCHIEBEN
-
-
-Passt es Dir am Sonntag? – Alternativen vorschlagen,
-Am Sonntag habe ich Zeit. – Alternativen vorschlagen,
-Können wir den Termin verschieben? – Termine verschieben,
-Ich kann am Freitag. – Alternativen vorschlagen,
-Ich möchte den Termin verschieben. – Termine verschieben,
-Ab Samstag bin ich für 2 Wochen im Urlaub. – Pläne beschreiben,
-Wollen wir am Freitag ins Kino gehen? – Alternativen vorschlagen,
-Von Freitag bis Dienstag bin ich in Berlin. – Pläne beschreiben,
-Ich kann leider doch nicht ins Kino gehen/ kommen. – Termine verschieben,
-Am Montag bin ich aus dem Urlaub zurück. – Pläne beschreiben,
-Vor/ Nach dem Deutschkurs/ der Uni ... – Pläne beschreiben
-
+# A1
 
 
 BEWERBUNGEN - AUSDRÜCKE
@@ -2071,30 +1918,58 @@ Du gehörst mir.
 
 **Personalpronomen im Dativ**
 
-Hallo Maria und Pedro, wie geht es euch?  
-Danke, gut.  
+- Hallo Maria und Pedro, wie geht es *euch*?  
+- Danke, gut.  
 
-Maria, kommst du ?  
-Ja, Pedro, ich komme gleich und helfe dir  
+- Maria, kommst du ?  
+- Ja, Pedro, ich komme gleich und helfe *dir*  
 
-Wir haben Probleme mit den Hausaufgaben. Kannst du
-uns
- helfen?
-    Ja, klar.
-4. Pedro, sind das deine Bücher? 
-    Nein, die  gehören nicht 
-mir
- Sie gehören Maria.
-5.  Was machst du? 
-     Ich schreibe eine Postkarte an Sandra und danke 
-ihr
- für die 
-     Einladung.
-6. Hast du am Sonntag Zeit? 
-Nein, Peter und Anja ziehen um und ich helfe 
-ihnen
+- Wir haben Probleme mit den Hausaufgaben. Kannst du *uns* helfen?  
+- Ja, klar.  
+
+- Sind das *deine* Bücher? 
+- Nein, die gehören nicht *mir*. Sie gehören Maria.
+
+- Was machst du?   
+- Ich schreibe eine Postkarte an Sandra und danke *ihr* für die Einladung.  
+
+- Hast du am Sonntag Zeit?  
+- Nein, Peter und Anja ziehen um und ich helfe *ihnen*  
 
 
+
+
+
+Lesen Sie Blog. Sind die Sätze richtig oder falsch?  
+
+Hamburg - das Tor zur Welt  
+
+Meine Lieblingsstadt ist Hamburg. Ich bin oft dort und besuche Freunde. Die Stadt hat 1.8 Millionen Einwohner und liegt in Norddeutschland an der Elbe. In Hamburg gibt es alles: Kunst und Kultur, Restaurants und Bars, Läden und Geschäfte - und viel Wasser. Ihr wollt Hamburg besuchen? Das müsst ihr sehen.  
+
+Hamburg am Wasser  
+
+Besonders spanned sind der Hafen mit den Container-Schiffen aus der ganzen Welt und die Speicherstadt. Dort lagern Waren von den Schiffen: Kaffee, Tee, Gewürze, Kakao, elektronische Produkte, Teppiche und vieles mehr. Aber es gibt auch Museen, Ausstellungen, Lesungen und Theateraufführungen.  
+
+Hamburg von oben  
+
+Die Kirche St. Michaelis (die Hamburger nennen sie "Michel") ist das Wahrzeichen von Hamburg. Der Blick vom Kirchenturm (132 Meter hoch!) auf die Stadt und den Hafen ist einfach toll!  
+
+Hamburg am Abend  
+
+Natürlich gibt es in Hamburg überall viele Kneipen. Besonders gern mag ich aber die Atmosphäre am Großneumarkt, das ist ein Platz in der Hamburger Neustadt mit Kneipen, Cafes und Restaurants. Vielleicht sehen wir uns irgendwann mal?  
+
+Ewa aus Krakau  
+
+Danke für die Tipps, Jan! Dein Blog gefällt mir gut. Hamburg kenne ich noch nicht, aber jetzt möchte ich unbedingt hin und den Hafen sehen.    
+
+
+
+Einwohner | Wappen | alt | 500 | Bern | spricht | Hauptstadt | Berlin  
+Martin lebt in Bern  
+Bern hat 130.000 Einwohner und ist die Hauptstadt der Schweiz.  
+In Bern spricht man Berner Deutsch.  
+Der Zytglogge, das ist der Zeitglockenturm, ist sehr alt. Die Uhr ist 500 Jahre alt.  
+Bern und Berlin haben etwas gemeinsam. Beide Wappen haben einen Bären.  
 
 
 
@@ -2233,7 +2108,82 @@ Ich gehe nach dem Kurs einkaufen.
 
 
 "Das war eine schwere Geburt" (çok zor bir iş için kullanılan deyim)    
-"Ich verstehe nur Bahnof" (hiç bir şey anlamadım deyim)  
+"Ich verstehe nur Bahnof" (hiç bir şey anlamadım anlamında deyim)  
+
+
+
+
+**ZEITPRÄPOSITIONEN**
+
+Lesen Sie die Sätze.  
+"Vor" ist eine Präposition für vergangene Ereignisse, (vergangene Ereignisse: past event)    
+"für" ist eine Präposition für die Dauer, (Dauer: period)    
+"in" ist für die zukünftige Ereignisse und (zukünftige: future)    
+"nach" für schon abgeschlossene Ereignisse. (abgeschlossene: terminated)  
+
+
+
+Peter möchte *für* ein Jahr nach Japan gehen.  
+Er hat *vor* einem Jahr schon ein Praktikum in Japan gemacht.  
+Anne möchte *nach* ihrem Medizinstudium in Afrika als Ärztin arbeiten.  
+Barbara beginnt *in* drei Monaten mit dem Studium.  
+Moritz hat *vor* einem halben Jahr mit seinem Ingenieur-Studium angefangen.  
+*In* vier Jahren ist er fertig. Dann möchte er gern in einer Autofirma arbeiten.  
+Maria möchte *nach* dem Deutschkurs die Prüfung machen.  
+
+
+
+Was kann ich für Sie tun?
+
+*Nach* der Schule hat er Elektroinstallateur gelernt.  
+Seit 16 arbeitet Herr Brunner als Hausmeister bei der Firma.  
+Er kümmert sich um die Heizung, das Wasser und den Strom.  
+Er repariert Fenster und Türen. Außerdem schneidet er Bäume, Büsche und Hecken. 
+*Von* Montag *bis* Freitag arbeitet er immer *von* 8.00 *bis* 16 Uhr.
+Er hat Mittagspause *von* 12.00 *bis* 12.30 Uhr.  
+Die Arbeit macht *ihm* Spaß.
+
+
+
+**TERMIN**
+
+*Termine verschieben*
+
+- Ich kann leider doch nicht ins Kino gehen/ kommen.   
+- Können wir den Termin verschieben?  
+- Ich möchte den Termin verschieben.  
+
+
+*Pläne beschreiben*
+
+- Vor/ Nach dem Deutschkurs/ der Uni ...  
+- Ab Samstag bin ich für 2 Wochen im Urlaub.  
+- Am Montag bin ich aus dem Urlaub zurück.  
+- Von Freitag bis Dienstag bin ich in Berlin.  
+
+
+
+*Alternativen vorschlagen*
+
+- Ich kann am Freitag.  
+- Am Sonntag habe ich Zeit.  
+- Passt es Dir am Sonntag?  
+- Wollen wir am Freitag ins Kino gehen?  
+
+
+*Ihre Tandem-Partnerin schreibt Ihnen folgende Mail und möchte einen Termin vereinbaren.*   
+
+Lieber/ Liebe ....   
+wollen wir uns diese Woche endlich mal treffen? Ich habe aber leider ein volles Programm. Von Montag bis Freitag bin ich auf einer Tagung in Berlin. Am Donnerstag Vormittag gehe ich zur Uni und am Abend habe einen Spanischkurs. Am Samstag Nachmittag besuche ich meine Großeltern und ab Sonntag fahre ich für eine Woche in Urlaub auf Sylt. Am Freitag habe ich aber den ganzen Tag frei. Treffen wir uns im Cafe "Luxus" um fünf? Hast du da Zeit?  
+Ich freue mich schon auf Freitag.   
+Liebe Grüße  
+
+
+
+
+
+
+
 
 
 
