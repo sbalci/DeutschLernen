@@ -2,7 +2,10 @@
 title: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)"
 output: 
   html_notebook: 
+    code_folding: hide
     fig_caption: yes
+    toc: yes
+    toc_float: yes
 ---
 
 
