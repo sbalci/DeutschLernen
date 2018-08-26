@@ -339,7 +339,10 @@ e -> i (2-3 singular)
 | *sprechen*    | spreche     | sprichst    | spricht         | sprechen    | sprecht     | sprechen        |
 | *helfen*      | helfe       | hilfst      | hilft           | helfen      | helft       | helfen          |
 | *tragen*      | trage       | trägst      | trägt           |             |             |                 |
-| *gefallen*    | gefalle     | gefãllst    | gefãllt         | gefaşşen    | gefallt     | gefallen        |
+| *gefallen*    | gefalle     | gefãllst    | gefãllt         | gefallen    | gefallt     | gefallen        |
+| *werden*      | werde       | wirst       | wird            | werden      | werdet      | werden          |
+
+
 
 
 
@@ -1395,79 +1398,9 @@ Der Plural von Tasche ist/heißt TAschen.
 # A1
 
 
-BEWERBUNGEN - AUSDRÜCKE
-
-anmelden - lesen - bekommen - schaffen - abschließen - beginnen - finden - aufnehmen - bestehen
-
-
-
-
-Im Sommer hat Sofie ihre Ausbildung als Friseurin abgeschlossen.
-
-
-
-
-Sie hatte große Angst vor der Prüfung.
-Aber zum Glück hat sie die Prüfung geschafft.
-Jetzt möchte sie endlich Geld verdienen.
-Dann möchte sie mit ihrem Freund Johnny ein Motorrad
-kaufen und durch Europa fahren. Zuerst macht sie aber noch den Führerschein.
-Sie möchten durch viele Länder reisen, die Welt und andere junge Leute kennenlernen.
-In ein paar Jahren möchten sie und Johnny heiraten und Kinder haben.
-
-
-WÜNSCHE UND PLÄNE
-
-Welche Wünsche haben die Leute?
-
-Ich will ...
-
-auf keinen Fall dick werden.
-bald heiraten.
-endlich wieder ohne Krücken gehen.
-Karriere machen.
-ein Fest nur für Frauen machen.
-nicht wie meine Mutter werden.
-Musik studieren.
-wenig arbeiten und viel Geld verdienen.
-mit dem Zug durch Europa fahren.
- Model werden.
- reich werden.
- Tierärztin werden.
- Pause machen.
-
-
-WOLLEN UND KÖNNEN
-
-
-Cherry will unbedingt Sängerin werden.
-
-Sara und Felix wollen auf keinen Fall heiraten.
-
-Nächstes Jahr will ich meine Ausbildung abschließen.
-
-Wir wollen unbedingt die Führerscheinprüfung schaffen.
-
-Dann können wir mit dem Motorrad durch Europa reisen.
-
-Vielleicht will Jan Liedermacher werden.
-
 ---
 
 # Kapitel {.tabset .tabset-fade .tabset-pills}
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---      
@@ -2180,14 +2113,6 @@ Liebe Grüße
 
 
 
-
-
-
-
-
-
-
-
 ---
 
 ## 17
@@ -2246,7 +2171,75 @@ Ich will ein Auto kaufen.
 Ich will durch Europa reisen.  
 
 
+BEWERBUNG (application)
 
+anmelden (register)  
+lesen  
+bekommen
+
+schaffen (accomplsih)
+
+abschließen (finish, complete)
+
+beginnen
+
+finden
+aufnehmen
+
+bestehen
+
+werden  
+
+
+
+Im Sommer hat Sofie ihre Ausbildung als Friseurin abgeschlossen.  
+Sie hatte große Angst vor der Prüfung.  
+Aber zum Glück hat sie die Prüfung geschafft.  
+Jetzt möchte sie endlich Geld verdienen.  
+Dann möchte sie mit ihrem Freund Johnny ein Motorrad kaufen und durch Europa fahren.  
+Zuerst macht sie aber noch den Führerschein.  
+Sie möchten durch viele Länder reisen, die Welt und andere junge Leute kennenlernen.  
+In ein paar Jahren möchten sie und Johnny heiraten und Kinder haben.  
+
+
+
+*WÜNSCHE UND PLÄNE*
+
+Welche Wünsche hast du?
+
+Welche Wünsche haben die Leute?
+
+Ich will ...  
+
+auf keinen Fall dick werden.  
+bald heiraten.  
+endlich wieder ohne Krücken gehen.  
+Karriere machen.  
+ein Fest nur für Frauen machen.  
+nicht wie meine Mutter werden.  
+Musik studieren.   
+wenig arbeiten und viel Geld verdienen.  
+mit dem Zug durch Europa fahren.  
+Model werden.  
+reich werden.  
+Tierärztin werden.  
+Pause machen.  
+
+
+*WOLLEN UND KÖNNEN*
+
+
+Cherry *will* unbedingt Sängerin werden.  
+
+Sara und Felix *wollen* auf keinen Fall heiraten.
+
+Nächstes Jahr *will* ich meine Ausbildung abschließen.
+
+Wir *wollen* unbedingt die Führerscheinprüfung schaffen.
+
+Dann *können* wir mit dem Motorrad durch Europa reisen.
+
+Vielleicht *will* Jan Liedermacher werden.
 
 
 
@@ -2430,57 +2423,48 @@ die Nase
 der Mund  | Mouth  
 
 
+Rund um die Gesundheit  
 
-Bianka: Hallo Lea, ich kann heute leider nicht zum Schwimmen kommen. Ich muss absagen.
-Lea:      Warum denn?
-Bianka: Ich bin 
-krank
+*Telefongespräch*
 
-Lea:      Oh, was hast du denn?
-Bianka: Ich habe Kopfschmerzen
-und ich huste
-Lea:     Oh, das tut mir leid. Hast du auch
-Fieber
-?
-Bianka: Ja, es ist nicht sehr
-hoch. Aber gut geht es mir nicht. Und meine
-Arme
- und Beine tun mir auch
-weh
- 
-Lea:      Ach Mensch! Wie schade!
-Bianka: Ja, das finde ich auch. Also ich
-bleibe im Bett.
+- Hallo Lea, ich kann heute leider nicht zum Schwimmen kommen. Ich muss absagen.  
+- Warum denn?  
+- Ich bin krank  
+- Oh, was hast du denn?  
+- Ich habe Kopfschmerzen und ich huste  
+- Oh, das tut mir leid. Hast du auch Fieber ?  
+- Ja, es ist nicht sehr hoch. Aber gut geht es mir nicht. Und meine Arme und Beine tun mir auch weh  
+- Ach Mensch! Wie schade!  
+- Ja, das finde ich auch. Also ich bleibe im Bett.  
 
 
 
+*Ratschläge* (advice)  
 
 Ihr Nachbar arbeitet ein halbes Jahr nicht. Geben Sie ihm Ratschläge mit "doch".
 Ä, ö, ü können Sie auch ae, oe, ue schreiben.
 
-Beispiel: 
-(durch Europa reisen)             Reisen Sie doch durch Europa! 
-(ins Ausland gehen) Gehen Sie doch ins Ausland!
-
-(ein Instrument lernen) Lernen Sie doch ein Instrument!
-
-(den Motorradführerschein machen) Machen Sie doch den Motorradführerschein!
-
-(noch eine Fremdsprache lernen) Lernen Sie doch noch eine Fremdsprache!
+ 
+durch Europa reisen -> Reisen Sie doch durch Europa!   
+ins Ausland gehen -> Gehen Sie doch ins Ausland!  
+ein Instrument lernen -> Lernen Sie doch ein Instrument!  
+den Motorradführerschein machen -> Machen Sie doch den Motorradführerschein!  
+noch eine Fremdsprache lernen -> Lernen Sie doch noch eine Fremdsprache!  
 
 
-Wie essen wir gesund?
 
-Der Ernährungswissenschaftler T. Lohmann sagt: "Essen Sie, was Sie wollen." Sie haben viel zum Thema Essen gelernt und gelesen? Vergessen Sie es! Es ist nicht wichtig. Es gibt keine gesunden und auch keine ungesunden Lebensmittel. Wir sollen fünfmal am Tag Obst und Gemüse essen? "Nicht unbedingt", sagt T. Lohmann. Möchten Sie Obst und Gemüse essen und schmeckt es Ihnen? Schön, dann essen Sie es. Sie möchten eigentlich gerade gar kein Obst und Gemüse essen? Dann sollen Sie es auch nicht tun. 
-Und wie essen wir dann gesund?
-T. Lohmanns Ratschlag lautet: "Ihr Körper weiß es." Sie frühstücken immer morgens um 7.00 Uhr? Das sollen Sie nicht tun. Essen Sie nicht zu festen Zeiten! Fragen Sie immer Ihren Körper: habe ich gerade Hunger?
-Und was sollen wir essen?" Auch das ist ganz leicht. Fragen Sie sich: "Was möchte ich gerade gern essen?" Unser Körper braucht viele verschiedene Nahrungsmittel und kann uns immer sagen, was gut für ihn ist.
+*Wie essen wir gesund?*
+
+Der Ernährungswissenschaftler T. Lohmann sagt: "Essen Sie, was Sie wollen." Sie haben viel zum Thema Essen gelernt und gelesen? Vergessen Sie es! Es ist nicht wichtig. Es gibt keine gesunden und auch keine ungesunden Lebensmittel. Wir sollen fünfmal am Tag Obst und Gemüse essen? "Nicht unbedingt", sagt T. Lohmann. Möchten Sie Obst und Gemüse essen und schmeckt es Ihnen? Schön, dann essen Sie es. Sie möchten eigentlich gerade gar kein Obst und Gemüse essen? Dann sollen Sie es auch nicht tun.   
+Und wie essen wir dann gesund?  
+T. Lohmanns Ratschlag lautet: "Ihr Körper weiß es." Sie frühstücken immer morgens um 7.00 Uhr? Das sollen Sie nicht tun. Essen Sie nicht zu festen Zeiten! Fragen Sie immer Ihren Körper: habe ich gerade Hunger?  
+Und was sollen wir essen?" Auch das ist ganz leicht. Fragen Sie sich: "Was möchte ich gerade gern essen?" Unser Körper braucht viele verschiedene Nahrungsmittel und kann uns immer sagen, was gut für ihn ist.  
 
 
 Gehen : yayalar için  gehen links  
 Fahren: araçlar için  fahren links  
 
-an die XXstraße
+an die ...straße
 
 die zahnpasta | diş macunu  
 
@@ -2532,13 +2516,6 @@ Wie hat Ihnen das Konzert gefallen?
 War das Essen wirklich schlecht? Hast du dich beschwert?  
 Ich muss noch einmal ins Büro gehen. Ich habe mein Handy vergessen.  
 Das Auto hat mir früher gehört.   
-
-
-
-
-
-
-
 
 
 
@@ -2601,6 +2578,34 @@ Mein Arm hat mir wehgetan.
 
 
 
+
+*Präteritum von haben und sein*
+
+Schau mal, hier sind die Fotos von früher: Da *war* mein Bruder 4, ich *war* sechs und meine Schwester *war* zehn Jahre alt. Ich *hatte* schon ein Fahrrad und *war* sehr glücklich mit meinem Rad! Mein Bruder und ich *waren* immer fröhlich und wir zwei *hatten* immer viel Spaß. Aber meine große Schwester *war* immer nur mit ihren Freundinnen zusammen. Die *waren* nicht so sympathisch und haben nie mit uns gespielt 
+
+
+*Perfekt von nicht trennbaren Verben*
+
+
+sich entschuldigen - gehören - gefallen - beschweren - vergessen - bekommen  
+
+
+Warum hast du dich bei Simon nicht entschuldigt?  
+Haben Sie die E-Mail von Professor Klüger schon bekommen?  
+Wie hat Ihnen das Konzert gefallen?  
+War das Essen wirklich schlecht? Hast du dich beschwert?  
+Ich muss noch einmal ins Büro gehen. Ich habe mein Handy vergessen.  
+Das Auto hat mir früher gehört.  
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 20
@@ -2638,23 +2643,25 @@ Du machst das Bett -> Mach das Bett! Mach bitte das Bett!
 Ihr macht das Bett -> Macht das Bett! Macht bitte das Bett!  
 
 
-| **Du** | **Ihr** | 
-| --- | --- | 
-| Schlaf! | Schlaft! |
-| Du schlãfst viel -> Schlaf nicht zu/so viel | Ihr schlaft viel -> Schlaft nicht viel | 
-| Du rãumst aus -> Rãum aus | Ihr rãumt aus -> Rãumt aus | 
-| Sei! | Seid! |
-| Du bist fleißig -> Sei fleißig | Ihr seid fleißig -> Seid Fleißig | 
-| Hab! | Habt!| 
-| Hab keine angst | Habt keine angst |
-| | Seid leise bitte |
-| | Seid loud bitte |
+| **Du**                                                | **Ihr**                                   | 
+| ---                                                   | ---                                       | 
+| Schlaf!                                               | Schlaft!                                  |
+| Du schlãfst viel -> Schlaf nicht zu/so viel           | Ihr schlaft viel -> Schlaft nicht viel    | 
+| Du rãumst aus -> Rãum aus                             | Ihr rãumt aus -> Rãumt aus                | 
+| Sei!                                                  | Seid!                                     |
+| Du bist fleißig -> Sei fleißig                        | Ihr seid fleißig -> Seid Fleißig          | 
+| Hab!                                                  | Habt!                                     | 
+| Hab keine angst                                       | Habt keine angst                          |
+|                                                       | Seid leise bitte                          |
+|                                                       | Seid loud bitte                           |
+
+
+
+
 
 
 **Drei Imperativ**  
-Du  
-Ihr  
-Sie  
+Du  | Ihr  | Sie  
 
 
 
@@ -2725,6 +2732,67 @@ Vergiss es.
 
 günstig / billig X teuer  
 freiwillig X unfreiwillig  
+
+
+
+
+*Was sollen Carla und Tim im Haushalt machen?*  
+
+Tim, *reparier* bitte Carlas Fahrrad!  
+*Bring* den Abfall *raus*.  
+Carla, *räum* bitte unbedingt dein Zimmer *auf*  
+*Wasch* bitte die Wäsche!  
+Tim und Carla, *Putzt* bitte die Fenster in der Küche!  
+*Geht* zusammen einkaufen! Und *schickt* mir mal eine E-Mail.  
+Ich vermisse euch schon jetzt!   
+Eure Mama  
+
+| Imperativ     | du            | ihr           |
+| ---           | ---           | ---           |
+| gehen         | Geh           | Geht          |
+| schicken      | Schick        | Schickt       |
+| reparieren    | reparier      | repariert     |
+| rausbringen   | bring raus    | bringt raus   |
+| putzen        | putz          | putzt         |
+| aufräumen     | räum auf      | räumt auf     |
+| waschen       | wasch         | wascht        |
+
+
+**Personalpronomen im Akkusativ**
+
+- *Die Tür* ist auf. Kannst du *sie* bitte zumachen?  
+- Ja gerne.  
+
+- Susanne und Peter, habt *ihr* am Samstag Zeit? Ich möchte *euch* zum Essen einladen.  
+
+- Wo ist *Dominik*? Ich habe *ihn* nicht gesehen.  
+- *Er* ist bei Max.  
+
+- Wann kommt *ihr*?
+- Um 13.34 Uhr.Kannst du *uns* bitte abholen?  
+
+- Die Verbindung ist so schlecht, *Daniel*. Ich kann *dich* nicht hören.  
+
+- *Deine Eltern* haben angerufen.
+- Wirklich? Ich rufe *sie* gleich zurück.  
+
+
+
+**Personalpronomen**
+
+
+| *Nominativ*   | *Akkusativ*   |
+| ---           | ---           |
+| Ich           | mich          |
+| du            | dich          |
+| er            | ihn           |
+| sie           | sie           |
+| es            | es            |
+| wir           | uns           |
+| ihr           | euch          |
+| sie / Sie     | sie / Sie     |
+
+
 
 
 ---
