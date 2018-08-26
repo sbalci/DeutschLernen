@@ -350,7 +350,7 @@ e -> i (2-3 singular)
 
 ---
 
-## Modal Verben
+## Modalverben
 
 | **verb**      | **ich**   | **du**    | **er/sie/es** | **wir**   | **ihr**   | **sie/Sie**   |
 |---            |---        |---        |---            |---        |---        |---            |
@@ -359,15 +359,16 @@ e -> i (2-3 singular)
 | *sollen*      | soll      | sollst    | soll          | sollen    | sollt     | sollen        |
 | *können*      | kann      | kannst    | kann          | können    | könnt     | können        |
 | *wollen*      | will      | willst    | will          | wollen    | wollt     | wollen        |
-| *werden*      | werde     | wirst     | wird          | werden    | werdet    | werden        |
+| *dürfen*      | darf      | darfst    | darf          | dürfen    | dürft     | dürfen        |
+| *müssen*      | muss      | musst     | muss          | müssen    | müsst     | müssen        |
 
 
-
+möchten
 
 Du sollst diesen Tee trinken.  
 
 Fabian will lieder macher werden.  
-Ich möchte ... (Beruf) weden.  
+Ich möchte ... (Beruf) werden.  
 
 Ich will ein Auto kaufen.  
 Ich will durch Europa reisen.  
@@ -2794,6 +2795,22 @@ Eure Mama
 
 
 
+Hallo .....,  
+dein Angebot finde ich toll. Ich heiße Gert, bin 27 Jahre alt und studiere Architektur. Und ich bin (nicht/sehr) ordentlich und putze (oft/selten) und (gründlich/ oberflächlich). Ich koche wahnsinnig gern. Dein perfekter Mitbewohner also!   
+Ich freue mich schon auf Deine Antwort.  
+Liebe Grüße  
+
+
+
+Liebe ...,  
+deine Wohnung ist im Zentrum und sieht sehr gut. Das Zimmer gefällt mir.  
+Ich heiße Serdar und bin 38 Jahre alt. Für sechs Monate in Ankara möchte Ich ein Ausbildung machen.  
+Ich kann nicht kochen gut aber ich kann die Spülmaschine ein und ausräumen. Ich putze die Küche gern, ich staubsauge und wische den Boden.  
+Ich bin sehr ordentlich und leise.  
+Ich freue mich schon auf Deine Antwort.  
+Viele Grüße
+
+
 
 ---
 
@@ -2834,14 +2851,41 @@ Man darf nicht grillen in den Park.
 Man darf im Pool nicht Wasser trinken.  
 
 
+**Der Ampelmann**
+
+ie Regeln für Ampeln sind einfach. Bei Rot müssen Sie stehen bleiben, bei Grün dürfen Sie gehen.  
+Autofahrer und Fahrradfahrer müssen auf Ampeln achten - und natürlich auch auf Fußgänger.   
+Die Ampeln für Fußgänger sehen aber besonders aus:  
+Sie haben einen "Ampelmann". Dieser Ampelmann ist in Deutschland sehr bekannt. Es gibt ihn seit 1961, er ist also über 50 Jahre alt.    
+Viele Länder haben einen Ampelmann. Sie sehen verschieden aus.  
+Manchmal ist er dick oder dünn, manchmal schiebt er ein Fahrrad oder trägt einen Hut, und manchmal gibt es auch eine Ampelfrau.  
 
 
+*Modelverben*
+
+können - wollen - sollen - dürfen - müssen
+
+Wir *müssen* früh aufstehen. Die Prüfung fängt schon um 7.00 Uhr an.  
+Ich *kann* heute leider nicht kommen. *Können* wir den Termin verschieben?  
+Sara *will* unbedingt ihren Führerschein machen, aber sie *darf* noch nicht. Sie ist erst 16.  
+Du *musst* noch abwaschen. Heute Abend haben wir Gäste.  
+Die Ärztin sagt, ich *soll* viel schlafen, aber ich *will* tanzen gehen.
 
 
+- *Kannst* du Tennis spielen?  
+- Ja, aber ich *darf* im Moment nicht spielen. Ich habe Probleme mit meinem Rücken.  
 
+- *Willst* du heute mit mir Fußball spielen?  
+- Nein, ich habe leider keine Zeit. Ich *muss* arbeiten.  
 
+- Der Doktor sagt, du *sollst* viel trinken.   
+- Ich habe aber keinen Durst.  
 
+- *Darf* ich hier rauchen?  
+- Nein, tut mir Leid. Das ist hier nicht erlaubt.  
 
+- Ich *muss* heute noch Hausaufgaben machen. *Kannst* du mir helfen?   
+- Ja, kein Problem.  
 
 
 
