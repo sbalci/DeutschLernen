@@ -58,6 +58,15 @@ http://www2.onleihe.de/goethe-institut/frontend/welcome,51-0-0-100-0-0-1-0-0-0-0
 
 ---
 
+## Ankara Bibliothek
+
+
+https://ankara.bibliothek.goethe.de 
+
+
+---
+
+
 # Media {.tabset .tabset-fade .tabset-pills}
 
 ---
@@ -3020,6 +3029,23 @@ Ich mag Fabians Kostüm.
 
 
 
+*Komparativ und Superlativ*  
+
+Peters Haus ist *größer als* Kais Haus, aber *am größten* ist Pauls Haus.  
+Peters Haus ist *kleiner als* Pauls Haus. Am *kleinsten* ist Kais Haus.  
+Kais Haus ist *am ältesten*. Pauls Haus ist *am modernsten*.  
+Pauls Haus kostet *viel*. *Am billigsten* ist Kais Haus.  
+In Kais Garten gibt es *mehr* Bäume *als* in Pauls Garten. Kais Garten ist *viel schöner*  
+
+
+
+Der Hut gefällt mir besser als die Mütze.    
+Schau mal, die Bluse kostet genauso viel wie das T-Shirt.  
+Die Jacke finde ich schöner als den Mantel.  
+Die Hose finde ich nicht schön. Nimm doch die Jeans hier. Die finde ich viel besser als die Hose.  
+Ich mag T-Shirts genauso gern wie Blusen.  
+
+
 
 
 
@@ -3043,10 +3069,82 @@ https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l23/index.php
 
 
 
+ Natascha und Ella singen und schreiben Lieder. 	
+Sie würden gern eine CD machen.
+  
+  
+
+2. Klaus hat kein Auto.	
+Aber er würde gern den Führerschein machen.
+
+
+3. Meine Tochter fährt gern Motorrad.	
+Ich würde ihr gern ein Motorrad schenken.
+
+
+4. Am Freitag spielt unsere Lieblingsband in Berlin und es gibt keine Tickets mehr.
+Wie schade! Wir würden gern zum Konzert gehen.
+
+
+5. Ich war noch nie in Deutschland.
+Ich würde gern Berlin besuchen.
+
+
+
+Zeitpräpositionen
+
+Am Mittwoch hat Isabella Prüfung. Wir treffen uns um 17.00 vor der Schule und wollen ihr gratulieren.
+
+Frau Stern hat am 17. August Geburtstag. Von 15.00 Uhr bis 16.00 Uhr gibt es Kaffee und Kuchen in ihrem Büro.
+
+im Juli hat Herr Bellmann Urlaub, vom 5. Juli bis zum 19. Juli 
+
+nach dem Urlaub zieht er dann mit seiner Familie um.
+
+in vier Wochen ist schon wieder Weihnachten. Und ich habe noch keine Geschenke.
+ 
+ab Montag bin ich für drei Wochen im Urlaub.
 
 
 
 
+Anrede – Liebe ... (weiblich)/ Lieber ... (männlich), Briefanfang – ich freue mich sehr auf die Einladung zum deiner Geburtstagsparty. Herzlichen Glückwunsch!, Brieftext  – Ich hätte hier eine Frage: Soll ich etwas mitbringen?, Briefschluss – Liebe/ Viele/ Herzliche Grüße, Unterschrift – Name des Absenders
+
+
+Sie bekommen eine Einladung von Josh Weller aus dem Fachschaftsrat an Ihrer Universität.
+
+Lesen Sie die Einladung und schreiben Sie eine Antwort.
+
+Bielefeld, 15 Juni 2013
+
+Liebe Studentinnen und Studenten ,
+
+am 28. Juli wollen wir das Semesterende feiern.
+
+Wie jedes Jahr wollen wir ein Picknick machen und natürlich viel Spaß haben. Dieses Jahr haben wir auch ein Programm vorbereitet. 
+
+Wir freuen uns schon sehr!
+
+Wir treffen uns um 10.00 Uhr am Hauptbahnhof und fahren mit Bussen an den Kalmbacher See. Macht ihr auch dieses Jahr mit? 
+Bitte gebt uns bis zum 30. Juni Bescheid.
+
+Viele Grüße
+
+Josh Weller
+
+Schreiben Sie einen Text von 50 Wörter zu den drei Punkten.
+
+- Danken Sie für die Einladung.
+
+- Sagen Sie: Sie kommen gern zum Fest.
+
+- Fragen Sie: Sollen Sie etwas mitbringen?
+
+Tipp: 
+Sie möchten einen Brief schreiben. Was ist besonders wichtig?
+- Vergessen Sie nicht das Datum, die Anrede und den Gruß.
+- Überlegen Sie vor dem Schreiben: Kenne ich die Person gut? Soll ich "du" oder "Sie" sagen?
+- Schreiben Sie zu jedem Punkt 1-2 Sätze.
 
 
 
