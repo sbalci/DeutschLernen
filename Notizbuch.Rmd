@@ -433,6 +433,16 @@ Husten haben
 
 ---
 
+## Pz II
+
+gewinnen | gewonnen
+
+
+
+
+
+---
+
 # Adjektiven {.tabset .tabset-fade .tabset-pills}
 
 
@@ -445,6 +455,12 @@ Husten haben
 # Regel {.tabset .tabset-fade .tabset-pills}
 
 
+dann, dannach, leider (position 1)  
+aber, und (position 0)  
+
+dann bin ich ... (dann + V in pos 2 + Subj)
+
+aber ich bin ... (aber + sub + V in pos 2)
 
 
 
@@ -1099,6 +1115,9 @@ nãchste  (next)
 zweite  (second)  
 dritte (third)  
 
+einbahnstraße  
+
+
 
 
 
@@ -1397,14 +1416,28 @@ Der Plural von Tasche ist/heißt TAschen.
 - Was wollen wir tun?  (tun -> machen, What should we do?)  
 - Bitte helfen Sie mir.  
 
----
-
-# A1
 
 
 ---
 
-# Kapitel {.tabset .tabset-fade .tabset-pills}
+# Anderes
+
+
+Wie waren Ihre Feiertage?  
+Wie waren deine Feiertage?  
+
+Meine Feiertage waren schön.  
+
+Was haben Sie gemacht?
+
+
+
+
+
+
+---
+
+# A1 {.tabset .tabset-fade .tabset-pills}
 
 
 ---      
@@ -2920,6 +2953,76 @@ Die Ärztin sagt, ich *soll* viel schlafen, aber ich *will* tanzen gehen.
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l22/index.php
 
 
+verrücht (crazy)  
+bunt (colorful)  
+
+Mottoparty ()
+
+
+anhaben -> Was hat Fabian an?  
+tragt   -> Was trãgt Fabian?  
+
+*anhaben + Akkusativ*   
+
+*tragen + infinitiv*  
+
+
+Er trãgt eine Hose. Die Hose ist kurz.  
+
+Was hat mãdchen links neben / von ihm?  
+
+
+Ich finde das T-shirt besser als ...  
+Ich finde Alis briller besser als Velis (brille).  
+
+
+Regel: genauso + Adjektiv + wie  
+++  -> ++  
++   -> +
+
+Janas Hose gefãllt mir genauso gut wie ihre Bluse.  
+Janas Hose (Nominativ) gefãllt mir (Dativ) genauso gut wie ihre Bluse (Nominativ).  
+
+Ich mag Pizza genauso gern wie Sphagetti.  
+
+
+Regel: Komperativ + als  
+++  -> +  
+
+
+Ich finde Fabians Hase besser als sein Hemd.  
+Ich mag Tee lieber als Kaffee.  
+
+Wen + Akk
+
+
+**gut gefallen**  
+**gut finden**  
+**gern mögen**  
+
+
+
+
+Ich finde Harrys Kostüm besser als Fabians (Kostüm).  
+Veras Kleid gefãllt mir besser als Jasmins.  
+Ich mag lila genauso gern wie rosa.  
+
+| Ich | finde | Fabians Kostüm | gut. |
+| --- | --- | --- | --- | 
+| Subj Nominativ | Verb Pos 2 | Akk Obj | |
+
+
+Fabians Kostüm gefãllt mir.  
+(Sub Nominativ Wer? + Verb + Dativ)  
+
+Ich mag Fabians Kostüm.  
+(Subj + Verb + Akk Obj)  
+
+
+
+
+
+
 
 
 
@@ -3376,7 +3479,11 @@ https://www.hueber.de/shared/livebook/menschen-im-beruf/medizin/b2-c1/html5.html
 
 https://www.hueber.de/lernen/deutsch-als-fremdsprache
 
+---
 
+# Deutsch im Krankenhaus Neu
+
+https://www.klett-sprachen.de/deutsch-im-krankenhaus-neu/r-1/78#reiter=titel&niveau=A2-B2
 
 
 
