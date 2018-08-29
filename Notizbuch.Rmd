@@ -324,6 +324,46 @@ kommen
 verbstamm (komm)  
 endung (en)  
 
+## regelmaßige Verben
+ haben--gehabt
+machen--gemacht
+sagen--gesagt
+üben--geübt
+antworten--geantwortet
+arbeiten--gearbeitet
+kochen--gekocht
+lernen--gelernt
+
+ ## unregelmaßige verben
+  
+ sprechen--gesprachen
+ scgreiben--geschieben
+ treffen--getroffen
+ nehmen--genommen
+ trinken--getrunken
+ singen--gesungen
+ finden--gefunden
+ essen-gegessen
+ sehen--gesehen
+ lesen--gelesen
+ backen-gebacken
+ 
+## Regelmaßige trennbare verben
+ --ge---t
+ aufraumen--aufgeräumt
+einkaufen--eingekauf
+abholen--abgeholt
+
+ ## unreglmäßige trennbare verben
+ anrufen-angerufen
+einladen--eingeladen
+fernsehen--ferngesehen
+
+ ## verben auf -ieren
+ telefonieren--telefoniert
+fotografieren-fotografiert
+markieren--markiert
+
 
 
 
