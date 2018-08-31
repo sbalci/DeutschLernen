@@ -3364,25 +3364,25 @@ Welches Datum ist heute /morgen /übermorgen / in einer Woche ?
    
    Ich muss Benzin kaufen.
    
-   Ich muss unbedingt Benzin kaufen. --nicht sofort.
+  Ich muss unbedingt Benzin kaufen. --nicht sofort.
 
 
-das Geschenk,e
-die Einweihungsparty,s
-die Tradition,en
-das Brot,e
-das Salz,e
-Weihnachten
-das Ostern
-die Prüfung,en
-bestanden
-die Einweihungsparty,s
-das Silvester
-der Karneval
-die Hochzeit,en
-das Neujahr
-der Geburstag,e
-das Geschenk,e
+  das Geschenk,e
+  die Einweihungsparty,s
+  die Tradition,en
+  das Brot,e
+  das Salz,e
+  Weihnachten
+  das Ostern
+  die Prüfung,en
+  bestanden
+  die Einweihungsparty,s
+  das Silvester
+  der Karneval
+  die Hochzeit,en
+  das Neujahr
+  der Geburstag,e
+  das Geschenk,e
 
 das Band
 die Band
@@ -3393,13 +3393,19 @@ das Schere,n
 schneiden
 einpacken
 das Geschenkpapier,e
-das Examen,-                                              1-6
-die Examina                                               1-sehr gut
-feiern                                                    2-gut
-                                                          3-befriedigen
-                                                          4-Gusreichend
-                                                          5-mongelhaft
-                                                          6-unganügend 
+das Examen,-                                             
+die Examina                                              
+feiern                               
+
+1-6
+1-sehr gut
+2-gut
+3-befriedigen
+4-Gusreichend
+5-mongelhaft
+6-unganügend 
+
+                                                          
                                                            
 ---
 
