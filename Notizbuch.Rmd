@@ -3368,20 +3368,35 @@ Welches Datum ist heute /morgen /übermorgen / in einer Woche ?
 
 
   das Geschenk,e
+  
   die Einweihungsparty,s
+  
   die Tradition,en
+  
   das Brot,e
+  
   das Salz,e
+  
   Weihnachten
+  
   das Ostern
+  
   die Prüfung,en
+  
   bestanden
+  
   die Einweihungsparty,s
+  
   das Silvester
+  
   der Karneval
+  
   die Hochzeit,en
+  
   das Neujahr
+  
   der Geburstag,e
+  
   das Geschenk,e
 
 das Band
