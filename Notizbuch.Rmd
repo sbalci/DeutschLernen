@@ -53,9 +53,7 @@ http://www.hueber.de/drop-a-word-go/
 # Bibliothek {.tabset .tabset-fade .tabset-pills}
 
 ---
-## Easy German
 
-https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ
 
 ## Mein Goethe
 
@@ -131,6 +129,10 @@ https://www.youtube.com/watch?v=Tyeu2Z_p9sM
 
 - National Geographic  
 https://www.youtube.com/watch?v=4J5i3yxH1ks&list=PLfBYdQ3Qs3IrRDjHUv-ny-t8_usQfP1PB
+
+- Easy German
+
+https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ
 
 ---
 
@@ -3554,10 +3556,112 @@ Wie bitte ?
 ## 2
 
 
+Ich wohne in ....
 
+            Beruf
 
+Mann- Manner
+Frau-Framen
+Visitenkarte-Visitenkarten
+Beruf-Berufe
 
+Ich bin + *Beruf
 
+Ich arbeite als + *Beruf
+
+Ich arbeite bei + *Firma Arbeitgeber
+
+Was sind Sie von Beruf ?
+    bist du
+    
+Was machen Sie beruflich ?
+    machst du
+    
+*arbeiten
+arbeite/arbeitest/arbeitet/arbeiten
+
+KONJUGİEREN SİE BİTTE
+
+Was machen Sie beruflich ?
+  Ich bin Student
+  
+Was Studieren Sie ?
+    Studierst du ?
+ Ich Studiere Musik auflehramt.
+                    Ingenieurwesen.
+                    
+Ich bin arbeitslos.
+        Wirtshaftswissenschaften- BWL
+        Rechtswissenschaften
+        Biologie
+        Chemie
+        Naturwissenschaften
+        Biologe/Biologin
+        Anwaltin/Anwalt
+
+ein Praktikum machen
+Ich mache ein Pratikum. bei .... / als..
+
+eine Ausbildung machen
+Ich mache eine Ausbildung bei.../als...
+
+REGEL einen Job haben / als Beruf
+                        bei Firma
+                        
+                        
+st---->şt
+sch---->ş
+sp---->şp
+
+27-siebenundzwanzig
+30-dreißig
+21-einundzwanzig
+22-zwaiundzwanzig
+34-vierunddreißig
+43-deriundvierzig
+
+Wie alt sind Sie?
+        bist du?
+        
+ Ich bin ... Jahre alt.
+ 
+ledig
+verliebt
+verlobt
+verheirotet
+verheirotet
+geschieden
+verwitwet
+
+Bist du verheriratet ?
+Sins sie verheiratet
+
+ Ja,Ich bin vergeiratet
+ Nein,Ich bin nicht verheiratet
+ Nein,Ich bin ledig.
+
+sein
+Ich *bin
+du  *bist
+Sie *sind
+er/Sie *ist
+
+leben      wohnen
+*lebe      *wohne
+*lebst      *wohnst
+*leben      *wohnen
+*lebt       *wohnt
+
+Ich habe ein kind / Kinder
+
+Wie viele Kinder haben Sie ?
+                 hast du ?
+                 
+Haben Sie Kinder?
+Hast du Kinder ?
+
+keine  Ja, Ich habe ein kind.
+       Nein,Ich habe keine kinder.
 
 
 
@@ -3572,15 +3676,79 @@ Wie bitte ?
 ## 3
 
 
+Wo arbeiten Sie ?
+   arbeite bei Siemens
+   
+   
+Jahr-Jahre
 
 
+Simones Buch
+Emirs Buch
+Yunus' Buch
+Aziz' Buch
 
+kennen
+*kenne
+*kennst
+*kennt
+*kennen
+*kennt
+*kennen
 
+Drehbuch
+Ausschnitt
 
+Kennen Sie Brad Pitt?
 
+Wer kennt Diester Bahlen ?
 
+Possesivartikel
+     maskulin feminin Plural
+Ich   mein    meine   meine
+du    dien    deine   deine
 
+Vater / Mutter / Eltern
+Sohn/Schwester/Geschwester
+Großmutter/ Großfather/Großeltern
 
+Bruder/Tochter/Enkelin
+(Ehe)Mann / (ehe) Frau
+
+Vater+Mutter=Eltern
+Sohn+Tochter=Kinder
+Bruder+Schwester=Geschwester
+Großvater+Großmutter=Großeltern
+Enkel + Enkelin=Enelkinder
+Ehemann + Ehe frau = Ehepaar-singular
+
+Brüder Brüder
+Tochter Töchter
+Sohn    Söhne
+Enkel   Enkel
+familie  familien
+
+Kommen Sie nich aus Ankara ?
+
++ Doch Ich komme aus Ankara.
+
+-Nein Ich komme nich aus Ankara.
+
+Kommen Sie aus Ankara ?
+
++Ja, Ich komme aus Ankara
+-Nein, Ich komme nicht aus Ankara
+
+Position 2
+
+W-Frage -Woher kommen Sie ?
+Aussage -Ich komme aus Ankara.
+
+                  -Antwort=Nein
+Regel  +Frage     +Antwort=Ja
+       -Frage     -Antwort=Nein
+                  +Antwort=Doch
+                  
 
 ---
 
@@ -3653,6 +3821,8 @@ Das ist Pinocchio. Er ist aus Holz.
 Die Flasche ist aus Plastik.  
 
 verkaufen  
+
+
 
 
 
