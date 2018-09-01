@@ -3432,11 +3432,120 @@ feiern
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l01/index.php
 
 
+Wer ist das ?
+ +Das ist Ayşe/Frau Öztürk
+         |vorname|  |familienname|
+
+Wie ist ihr Vorname ?
+ +Meine Vorname ist....
+ 
+Wie ist ihr Familienname
+            Nachname
+ +Mein Familienname ist...
+ 
+ Wie heißen Sie ?
+ +Ich heiße ...
+  -Freut mich
+   -Freut mich auch
+   
+ 0-null  
+ 1-eins
+ 2-zwei
+ 3-drei
+ 4-vier
+ 5-fünf
+ 6-sechs
+ 7-sieben
+ 8-acht
+ 9-neun
+ 10-zehn
+ 11-elf
+ 12-zwölf
+ .
+ .
+ 15-fünfzehn
+ 16-sechzehn
+ 17-siebzehn
+ 18-achtzehn
+ 19-neunzehn
+ 20-zwanzig
+ 
+ Arbeitsblatt- çalışma sayfası
+ 
+ Was ist das ?
+  Das ist ein Buch
+  Das sind zwei Bücher
+  
+  Ich öffnen das Buch
+  Ich schließe das Buch
+
+-Stadt-Stadte
+
+-Hello ,wer bist du ? - informell
+  Ich bin Simone
+  
+-Wer sind Sie ?
+  Ich bin Simone H....
+  
+ Woher kommen Sie ?
+ 
+ Woher kommst du ?
+ 
+W-Fragen V 2 position
+          -Wer ist das ?
+           Wie heißen Sie?
+           Woher kommst du?
+
+Antwort/Aussage
+
+Buch Bücher
+Lehrerin Lehrerinnen
+Lehrer  Lehrer
+Kursteilnahmerin  Kursteilnehmerinnen
+Kursteilnehmer  Kursterilnehmer
+Fenster Fenster
+Tisch Tische
+
+Wie viele Tische sind hier?
+-Hier sind .... Tische
+
+kommen + aus + Land/Lander Stadt Stadte
+
+Ich komme aus Spannien
+              -der Turkei
+              -der Schweiz
+              -dem Iran
+              -dem Irak
+
+Personalpronomen kommme/komsst/kommen/kommt
+
+Woher kommt sie/er ?
+*Sie kommmen
+
+Wie geht's dir ?
+    geht es
+    
+Wie geht's Ihnen
+    geht es
+    
+Danke |sehr gut/super/toll
+       gut/prima
+       es geht
+       nicht so gut
+       schlecht
+
+kommen    heißen
+komme     heiße
+kommst    heißt
+kommen    heißen
+kommt     heißt
+
+Wie bitte ?
 
 
-
-
-
+              
+  
+  
 
 
 
