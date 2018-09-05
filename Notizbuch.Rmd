@@ -54,6 +54,7 @@ http://www.hueber.de/drop-a-word-go/
 
 ---
 
+
 ## Mein Goethe
 
 https://my.goethe.de/
@@ -128,6 +129,10 @@ https://www.youtube.com/watch?v=Tyeu2Z_p9sM
 
 - National Geographic  
 https://www.youtube.com/watch?v=4J5i3yxH1ks&list=PLfBYdQ3Qs3IrRDjHUv-ny-t8_usQfP1PB
+
+- Easy German
+
+https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ
 
 ---
 
@@ -323,6 +328,46 @@ die Cafés/Häuser | vor den Cafés/Häusern
 kommen  
 verbstamm (komm)  
 endung (en)  
+
+## regelmaßige Verben
+ haben--gehabt
+machen--gemacht
+sagen--gesagt
+üben--geübt
+antworten--geantwortet
+arbeiten--gearbeitet
+kochen--gekocht
+lernen--gelernt
+
+ ## unregelmaßige verben
+  
+ sprechen--gesprachen
+ scgreiben--geschieben
+ treffen--getroffen
+ nehmen--genommen
+ trinken--getrunken
+ singen--gesungen
+ finden--gefunden
+ essen-gegessen
+ sehen--gesehen
+ lesen--gelesen
+ backen-gebacken
+ 
+## Regelmaßige trennbare verben
+ --ge---t
+ aufraumen--aufgeräumt
+einkaufen--eingekauf
+abholen--abgeholt
+
+ ## unreglmäßige trennbare verben
+ anrufen-angerufen
+einladen--eingeladen
+fernsehen--ferngesehen
+
+ ## verben auf -ieren
+ telefonieren--telefoniert
+fotografieren-fotografiert
+markieren--markiert
 
 
 
@@ -1707,7 +1752,7 @@ Schlafzimmer
 Kinderzimmer  
 Bad  
 
-
+Wohngemeinschaft
 
 
 
@@ -3075,17 +3120,35 @@ Ich mag T-Shirts genauso gern wie Blusen.
 
 
 
+-nach s-, d- t-, ss- , ß-, sch-, s-, z-
+
+-esten größten
+
+Ist NY so groß wie Hongkong?
+
+-Nein ,NY ist nicht so groß wie HK.
+
+HK hat aber meher Einwohner als HK.
+
+HK hat weniger Einwohner als NY.
 
 
 
+dunkel-dunkler-am dunelsten
 
+lang - länger - am längsten
 
+gut - besser - am besten
 
+hoch - höher - am höchsten
 
+teuer - teurer-am teuersten
 
+schnell-schneller-am schnellsten
 
+viel-mehr-am meisten
 
-
+gern-lieber-liebsten
 
 ---
 
@@ -3177,9 +3240,92 @@ Sie möchten einen Brief schreiben. Was ist besonders wichtig?
 - Schreiben Sie zu jedem Punkt 1-2 Sätze.
 
 
+Jahreszeiten
 
 
+Ins Wasser gefallen ?
 
+ Pfütze,n
+ Wohnmobil
+ der Wohnwagen
+ das Zelt
+ das Wetter
+ unmöglich
+ campen
+ zelten
+ 
+ die Sonne
+ der Schnee 
+ der Regen 
+ die Wolke
+ der Wind 
+ der Nebel 
+ das Gewitter 
+ Der Donner
+ der Blitz
+ der Sturm.-stürmig
+ der Grund,'e
+ 
+ Südtirol
+ zwei Grad
+ nicht weit genug
+ Hausdach
+ Zum Glück haben wir noch am selben Tag
+ selben Tag = gelichen Tag
+ Glück X Pech
+ brauchbaren
+ farblos
+ Traumwetter
+ Schwarzwald
+ 
+ Der Norden
+ Der Westen
+ Der Süden
+ der Osten
+ 
+ Niemals ohne seife waschen!!
+ 
+ wolkenlos
+ arbeitlos
+ 
+ Wir hatten Lust auf Frühling.
+ 
+ Wie ist das Wetter ? der Winter der Herbst Der Sommer Der Frühlig
+ 
+ Es Regnet.---der Regen
+ Es schneit.---das Schnee
+ Es ist sonnig.--die Sonne
+ Es ist windig.--der Wind
+ Es ist bewölkt.--die Wolke
+ Es ist neblig.--der Nebel
+ Es donnert un blitzt..--das Gewitter
+ 
+ 
+ Es ist warm Es sind 25 Grad.
+ 
+ Es ist kalt.Es sind minus -2 Grad.
+ 
+ Es ist kühl.Es sind plus + 8 Grad.
+
+In Herbst ist es kalt. || Im Herbst ist es kühl.
+
+                          Im Früglig regnet es.
+
+Unser Ziel war Südtirol,denn dort ist es im März schon oft sehr warm.
+Leider waren wir nur ein paar denn dann ist d Unwetter gekommen.
+Es war perfekt,denn wir hatten ein Traumwetter.
+Nächstes Jahr fahren wir lieber ans Mittelmeer,deen dort ist es auch im Herbst noch schön warm.
+
+
+da ist es immer so windig.Ich möchte lieber im Cafê in der Sonne sitzen
+
+Hier es regnet schon seit dre Tagen schon,seit drei Tagen.
+
+Wir haben wunderschönes Frühlingswetter.Es ist warm und sonnig.
+
+In den Bergen ist es kalt und es gibt viel schnee.
+
+Heute Nachmittag gibt es Gewitter.
 
 ---
 
@@ -3190,18 +3336,117 @@ https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l24/index.php
 
 
 
+Welches Datum war gestern/vorgestern/voreiner Wocher?
+  
+  Gestern / Vorsgestern / Vor einer Woche
+  
+Welches Datum ist heute /morgen /übermorgen / in einer Woche ?
+
+  Heute /Morgen/Übermorgen/In einer
+  
+  Woche ist der ......
+  
+  Welche datum war Mittwoch for einer Woche
+  
+  Welche datum ist nächsten Freitag.
+  
+  Heute ist der siebste August.
+  
+  Heute ist der siebste Achte
+  
+  Ich fahre am achten August/Achten nach Berlin
+  
+  Ich fahre vom sechzehnten bis(zum) dreiundzwanzigsten August/Achten nach Berlin.
+  
+  Welcher Tag ist heute ? 
+  
+  -der achtundzwanzigste Februar.
+  
+  Ich würde gern mit der feiern.
+  
+  würden
+  ıch  | würden
+  du   | würdest
+  er/sie/es | würde
+  wir | würden
+  ihr | würdet
+  sie/Sie | würden
+  
+  Ich würde dich gern ins Kino einladen.
+  
+  Ich würde gern viel Geld haben.
+  
+  Wir würden das gern mit dir feiern.
+  
+  Ich würde gern Glüklich sein.
+  
+  Was würden Sie am liebsten jeden Tag machen ?
+   +Ich würde gern jeden Morgen spät aufstehen
+   
+   Am liebsten würde ich jeden Tag schwimmen gehen.Ich würde gern um die Welt.
+   
+   Ich würde gern mit dir in einer Altbauwohnung wohnen.2 zimmer , Küche ,Bad und einem (und'nem) kleinen Balkon.
+   
+   Ich muss Benzin kaufen.
+   
+  Ich muss unbedingt Benzin kaufen. --nicht sofort.
 
 
+  das Geschenk,e
+  
+  die Einweihungsparty,s
+  
+  die Tradition,en
+  
+  das Brot,e
+  
+  das Salz,e
+  
+  Weihnachten
+  
+  das Ostern
+  
+  die Prüfung,en
+  
+  bestanden
+  
+  die Einweihungsparty,s
+  
+  das Silvester
+  
+  der Karneval
+  
+  die Hochzeit,en
+  
+  das Neujahr
+  
+  der Geburstag,e
+  
+  das Geschenk,e
 
+das Band
+die Band
+der Band
 
+das Geschankband,''er                           
+das Schere,n
+schneiden
+einpacken
+das Geschenkpapier,e
+das Examen,-                                             
+die Examina                                              
+feiern                               
 
+1-6
+1-sehr gut
+2-gut
+3-befriedigen
+4-Gusreichend
+5-mongelhaft
+6-unganügend 
 
-
-
-
-
-
-
+                                                          
+                                                           
 ---
 
 ## 1
@@ -3209,11 +3454,120 @@ https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l24/index.php
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l01/index.php
 
 
+Wer ist das ?
+ +Das ist Ayşe/Frau Öztürk
+         |vorname|  |familienname|
+
+Wie ist ihr Vorname ?
+ +Meine Vorname ist....
+ 
+Wie ist ihr Familienname
+            Nachname
+ +Mein Familienname ist...
+ 
+ Wie heißen Sie ?
+ +Ich heiße ...
+  -Freut mich
+   -Freut mich auch
+   
+ 0-null  
+ 1-eins
+ 2-zwei
+ 3-drei
+ 4-vier
+ 5-fünf
+ 6-sechs
+ 7-sieben
+ 8-acht
+ 9-neun
+ 10-zehn
+ 11-elf
+ 12-zwölf
+ .
+ .
+ 15-fünfzehn
+ 16-sechzehn
+ 17-siebzehn
+ 18-achtzehn
+ 19-neunzehn
+ 20-zwanzig
+ 
+ Arbeitsblatt- çalışma sayfası
+ 
+ Was ist das ?
+  Das ist ein Buch
+  Das sind zwei Bücher
+  
+  Ich öffnen das Buch
+  Ich schließe das Buch
+
+-Stadt-Stadte
+
+-Hello ,wer bist du ? - informell
+  Ich bin Simone
+  
+-Wer sind Sie ?
+  Ich bin Simone H....
+  
+ Woher kommen Sie ?
+ 
+ Woher kommst du ?
+ 
+W-Fragen V 2 position
+          -Wer ist das ?
+           Wie heißen Sie?
+           Woher kommst du?
+
+Antwort/Aussage
+
+Buch Bücher
+Lehrerin Lehrerinnen
+Lehrer  Lehrer
+Kursteilnahmerin  Kursteilnehmerinnen
+Kursteilnehmer  Kursterilnehmer
+Fenster Fenster
+Tisch Tische
+
+Wie viele Tische sind hier?
+-Hier sind .... Tische
+
+kommen + aus + Land/Lander Stadt Stadte
+
+Ich komme aus Spannien
+              -der Turkei
+              -der Schweiz
+              -dem Iran
+              -dem Irak
+
+Personalpronomen kommme/komsst/kommen/kommt
+
+Woher kommt sie/er ?
+*Sie kommmen
+
+Wie geht's dir ?
+    geht es
+    
+Wie geht's Ihnen
+    geht es
+    
+Danke |sehr gut/super/toll
+       gut/prima
+       es geht
+       nicht so gut
+       schlecht
+
+kommen    heißen
+komme     heiße
+kommst    heißt
+kommen    heißen
+kommt     heißt
+
+Wie bitte ?
 
 
-
-
-
+              
+  
+  
 
 
 
@@ -3222,10 +3576,112 @@ https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l01/index.php
 ## 2
 
 
+Ich wohne in ....
 
+            Beruf
 
+Mann- Manner
+Frau-Framen
+Visitenkarte-Visitenkarten
+Beruf-Berufe
 
+Ich bin + *Beruf
 
+Ich arbeite als + *Beruf
+
+Ich arbeite bei + *Firma Arbeitgeber
+
+Was sind Sie von Beruf ?
+    bist du
+    
+Was machen Sie beruflich ?
+    machst du
+    
+*arbeiten
+arbeite/arbeitest/arbeitet/arbeiten
+
+KONJUGİEREN SİE BİTTE
+
+Was machen Sie beruflich ?
+  Ich bin Student
+  
+Was Studieren Sie ?
+    Studierst du ?
+ Ich Studiere Musik auflehramt.
+                    Ingenieurwesen.
+                    
+Ich bin arbeitslos.
+        Wirtshaftswissenschaften- BWL
+        Rechtswissenschaften
+        Biologie
+        Chemie
+        Naturwissenschaften
+        Biologe/Biologin
+        Anwaltin/Anwalt
+
+ein Praktikum machen
+Ich mache ein Pratikum. bei .... / als..
+
+eine Ausbildung machen
+Ich mache eine Ausbildung bei.../als...
+
+REGEL einen Job haben / als Beruf
+                        bei Firma
+                        
+                        
+st---->şt
+sch---->ş
+sp---->şp
+
+27-siebenundzwanzig
+30-dreißig
+21-einundzwanzig
+22-zwaiundzwanzig
+34-vierunddreißig
+43-deriundvierzig
+
+Wie alt sind Sie?
+        bist du?
+        
+ Ich bin ... Jahre alt.
+ 
+ledig
+verliebt
+verlobt
+verheirotet
+verheirotet
+geschieden
+verwitwet
+
+Bist du verheriratet ?
+Sins sie verheiratet
+
+ Ja,Ich bin vergeiratet
+ Nein,Ich bin nicht verheiratet
+ Nein,Ich bin ledig.
+
+sein
+Ich *bin
+du  *bist
+Sie *sind
+er/Sie *ist
+
+leben      wohnen
+*lebe      *wohne
+*lebst      *wohnst
+*leben      *wohnen
+*lebt       *wohnt
+
+Ich habe ein kind / Kinder
+
+Wie viele Kinder haben Sie ?
+                 hast du ?
+                 
+Haben Sie Kinder?
+Hast du Kinder ?
+
+keine  Ja, Ich habe ein kind.
+       Nein,Ich habe keine kinder.
 
 
 
@@ -3240,15 +3696,79 @@ https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l01/index.php
 ## 3
 
 
+Wo arbeiten Sie ?
+   arbeite bei Siemens
+   
+   
+Jahr-Jahre
 
 
+Simones Buch
+Emirs Buch
+Yunus' Buch
+Aziz' Buch
 
+kennen
+*kenne
+*kennst
+*kennt
+*kennen
+*kennt
+*kennen
 
+Drehbuch
+Ausschnitt
 
+Kennen Sie Brad Pitt?
 
+Wer kennt Diester Bahlen ?
 
+Possesivartikel
+     maskulin feminin Plural
+Ich   mein    meine   meine
+du    dien    deine   deine
 
+Vater / Mutter / Eltern
+Sohn/Schwester/Geschwester
+Großmutter/ Großfather/Großeltern
 
+Bruder/Tochter/Enkelin
+(Ehe)Mann / (ehe) Frau
+
+Vater+Mutter=Eltern
+Sohn+Tochter=Kinder
+Bruder+Schwester=Geschwester
+Großvater+Großmutter=Großeltern
+Enkel + Enkelin=Enelkinder
+Ehemann + Ehe frau = Ehepaar-singular
+
+Brüder Brüder
+Tochter Töchter
+Sohn    Söhne
+Enkel   Enkel
+familie  familien
+
+Kommen Sie nich aus Ankara ?
+
++ Doch Ich komme aus Ankara.
+
+-Nein Ich komme nich aus Ankara.
+
+Kommen Sie aus Ankara ?
+
++Ja, Ich komme aus Ankara
+-Nein, Ich komme nicht aus Ankara
+
+Position 2
+
+W-Frage -Woher kommen Sie ?
+Aussage -Ich komme aus Ankara.
+
+                  -Antwort=Nein
+Regel  +Frage     +Antwort=Ja
+       -Frage     -Antwort=Nein
+                  +Antwort=Doch
+                  
 
 ---
 
@@ -3321,6 +3841,8 @@ Das ist Pinocchio. Er ist aus Holz.
 Die Flasche ist aus Plastik.  
 
 verkaufen  
+
+
 
 
 
