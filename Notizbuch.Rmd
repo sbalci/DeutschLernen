@@ -4603,12 +4603,16 @@ Wan fährst du zu Hause ab ?
 -Ich fahre um 16:00 Uhr ab.
 
 unsteigen
-          |------------------------||----------------|
-Ich fahre | täglich                || mit  denn Fahrad|
-          | 2 bis 3 mal die Woche  || zur Arbeit      |
-          | nur am Wochenende      || zum Einkaufen   |
-          | fast nie               || ins Cafê        |
-          | nie                    || Ins Kino        |
+___________________________________________________________________________________________
+|        |            |                        ||                 |
+|--------|            |------------------------||---------------- |
+|Ich fahre|           | täglich                || mit  denn Fahrad|
+|        |            | 2 bis 3 mal die Woche  || zur Arbeit      |
+|        |            | nur am Wochenende      || zum Einkaufen   |
+|        |            | fast nie               || ins Cafê        |
+|        |            | nie                    || Ins Kino        |
+          
+___________________________________________________________________________________________
 
 Wie oft ? Wohin ?
 
@@ -4624,6 +4628,7 @@ Ich habe Deutsch gelernt.
 Wann hast du Deutsch gelernt ?
 
 Hast du Deutsch gelernt. Ja/Nein Frage
+___________________________________________________________________________________________
 
 das Gleis
 der Bahnof
@@ -4652,7 +4657,7 @@ das Cello
 das Instrument,3
 der Terminkalender,-
 das Geschenk,e
-
+___________________________________________________________________________________________
 
 
 
