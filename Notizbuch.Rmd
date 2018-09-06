@@ -4605,7 +4605,7 @@ Wan fährst du zu Hause ab ?
 unsteigen
 ___________________________________________________________________________________________
 |        |            |                        ||                 |
-|--------|            |------------------------||---------------- |
+| ---    |            |          ---           ||     ---         |
 |Ich fahre|           | täglich                || mit  denn Fahrad|
 |        |            | 2 bis 3 mal die Woche  || zur Arbeit      |
 |        |            | nur am Wochenende      || zum Einkaufen   |
