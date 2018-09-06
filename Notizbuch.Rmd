@@ -4375,9 +4375,97 @@ die Uhrzeit,en
 
 
 
+Wieder ?
+
+am Nachmittag oder in der Nacht ?
+
+am Nachmittag um 14:00 Uhr.
 
 
+Liebe**r** ....,
+  hast du am Sonnertag zeit ? Können wir ski fahren gehen oder vielleicht können wir in die Bibliothek gehen.
+  Leibe Grüße
+  
+  Viele Grüße
+  Freundliche Grüße
+  
+  Sehr geehte**r** Frau Freundenburg
+  
+  der Onkel,-
+  die tante,n
+  der Kühlschrank,"e
+  der Hunger
+  der Durst
+  der Pilz,e
+  das Ei,er
+  der Olive
+  das Obst
+  das Gemüse
+  
+  Er hat Hunre ?
+  -Haben Sie Hunger
+  -Hast Du
+  
+  Ich habe auch Hunger
+  Nein Ich habe keinen Durst.
+  
+  Bist du durstig ?
+          hungrig?
+ +Ja,Ich bin durstig.
+ -Nein,Ich bin nicht durstig.
+ 
+ immer--%100
+ fast immer--%85
+ oft--%60
+ manchmal--%50
+ fast nie--%20
+ nie--%0
+ 
+ 
+ Ich esse gern = Ich mag
+ 
+ Ich mag Schokolade
+         Kucher
+         
+         
+Ich mag keinen Hamburger Spinat.
 
+schon=sehr früh (çok erken)
+erst = sehr spüt ( çok geç)
+
+Was möchten Sie essen ?
+-Ich möchte eine Fischsuppe essen.
+
+Er trinkt keinen kaffee.
+-Sie einen kaffee ?
+-Ich möchte einen kaffee trinken.
+-Marie möchte heute Abend tanzen.
+
+Was ist dein Lieblingsessen ?
+-Mein Lieblingsessen ist .....
+
+Nominativ - der -ein degişmiyor
+Akusativ der-einen
+
+Was isst du gein.
+
+|möchten|
+|-------|
+|möchte|
+|möchtest|
+|möchte|
+|möchten|
+|möchtet|
+|möchten|
+
+|mögen|
+|-------|
+|mag|
+|magst|
+|mag|
+|mögen|
+|mögt|
+|mögen|
 
 
 
@@ -4391,9 +4479,98 @@ die Uhrzeit,en
 
 
 
+das flugzeug
+die Sonnenbrille,n
+der Blindenstock,"e
+der Gehstock,"e
 
+Ich komme um 22 Uhr um zu Hause an. ankommen
 
+Du kommst um 22 Uhr zu Hause an.
 
+Er/sie/es kommt um 22 Uhr zu Hause an.
+
+Ich kaufe im supermarkt ein.--einkaufen
+
+Du kaufst im supermarkt ein.
+
+Ich rufe dich an.--anrufen
+
+Wann rufst du mich an ?
+
+Regel konjugiere Verb  Prafix am
+        Position 2      Ende 
+        
+        
+Rufst du mich an ? -- Ja/Nein Frage
+
+Wann rufst du ?
+--Ich rufe die Lehrerin an
+
+Hast du mich ab ?
+
+Won holst du ab ?
+--Ich hole dich ab ?
+meine
+
+Was halst du ab ?
+-Ich hole das Paket ab.
+
+Holst du mich ab ?
+
+meinen Sohn
+meine Frendin
+eine Freundin
+die Abfahrt
+die Ankunft
+
+Ich hole dich ab.
+Ich hole meine Tochter ab
+Ich hole Zeyeb ab.
+Ich hole meinen Sohn ab.
+
+Was brinst du
+Wen bringst du
+
+Mein Bus fährt um 21:00 Uhr ab.
+
+Mein/Der Bus kommt um 21:00 Uhr am
+
+Halbst du mich ab ?
+Kannst du mich abholen ?
+
+halst du mich ab ?
+Ich habe dich ab 
+
+Wen halst du ab ?
+
+alle 20 minuten fährt dir S-Bahn
+
+Wan sind wir an Flughafen ?
+Wie heißt der nächste Halt ?
+
+Vor sicht an der Bahnsteigkante Der Zug fährt ab.
+
+Ich suche die U2 zum Olympiazentum.
+
+Die Bahn fährt gerade am Bahnsteig 5 ein.
+
+Steight ihr am Goetheplatz ein ?
+x Wann telefonierst du mit Oma.
+Heute Abend sehen wir fern.Kommst du auch ?
+Wo steigt ihr um ?
+x Bekomme ich bitte einen Kaffee ?
+Vielleicht bringe ich am Samstag meine Freundin mit.
+x Am Sonntag frühstüke ich erst um 12 Uhr.
+
+x nicht trennbar
+-trennbar
+
+Wann kommst du an ?
+-Ich komme um 12 Uhr 45 an
+
+Wo steigst du ein ?
+-Ich steige auf Gleis 10 ein.
 
 
 
@@ -4411,14 +4588,70 @@ die Uhrzeit,en
 
 
 
+Wohin ?
+    In+Akkıstiv
+    
+Wo ?
+    In + dativ
+    die-->der
+
+Wen ?
+Wenn
+die Nuss,"e
+
+Wan fährst du zu Hause ab ?
+-Ich fahre um 16:00 Uhr ab.
+
+unsteigen
+          |------------------------||----------------|
+Ich fahre | täglich                || mit  denn Fahrad|
+          | 2 bis 3 mal die Woche  || zur Arbeit      |
+          | nur am Wochenende      || zum Einkaufen   |
+          | fast nie               || ins Cafê        |
+          | nie                    || Ins Kino        |
+
+Wie oft ? Wohin ?
+
+Gestern
+  Ich habe Hausaufgaben gemacht
+      hilfstverb        partizip 2
+  Tempus=Perfekt
+  
+  Perfekt-->kommunikation
 
 
+Ich habe Deutsch gelernt.
+Wann hast du Deutsch gelernt ?
 
+Hast du Deutsch gelernt. Ja/Nein Frage
 
+das Gleis
+der Bahnof
+der Flughafen
+die S-Bahn
+der Zug
+die Straßenbahn
+die U-Bahn
+Der Bahnsteig
+das Taxi
+der Bus
+die Haltestelle
+das Flugzeug
+der Koffer
+die Tasche
+das Gepäck
 
-
-
-
+Mach's gut
+Oass auf dich auf
+Verkehrsmittel
+Gepäck
+am Bahnhof
+das Fahrrad,"er
+die Celli
+das Cello
+das Instrument,3
+der Terminkalender,-
+das Geschenk,e
 
 
 
