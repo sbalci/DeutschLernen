@@ -4604,13 +4604,22 @@ Wan fährst du zu Hause ab ?
 
 unsteigen
 ___________________________________________________________________________________________
-|        |            |                        ||                 |
-| ---    |            |          ---           ||     ---         |
-|Ich fahre|           | täglich                || mit  denn Fahrad|
-|        |            | 2 bis 3 mal die Woche  || zur Arbeit      |
-|        |            | nur am Wochenende      || zum Einkaufen   |
-|        |            | fast nie               || ins Cafê        |
-|        |            | nie                    || Ins Kino        |
+|        |            |                        |                 |
+| ---    |            |          ---           |     ---         |
+|Ich fahre|           | täglich                | mit  denn Fahrad|
+|        |            | 2 bis 3 mal die Woche  | zur Arbeit      |
+|        |            | nur am Wochenende      | zum Einkaufen   |
+|        |            | fast nie               | ins Cafê        |
+|        |            | nie                    | Ins Kino        |
+
+
+| **Subject Verb**   | **-**   |  **-**   |
+| ---                  | ---                           | ---               | 
+| Ich fahre            |  täglich                      | mit  denn Fahrad  |
+| Ich fahre            |  2 bis 3 mal die Woche        |zur Arbeit         |
+| Ich fahre            |  nur am Wochenende            | zum Einkaufen     | 
+
+
           
 ___________________________________________________________________________________________
 
