@@ -9,7 +9,6 @@ output:
 ---
 
 
-
 # Wörterbuch {.tabset .tabset-fade .tabset-pills}
 
 ---
