@@ -3886,7 +3886,10 @@ die Tasche
 
 ---
 
+
 ## 5
+
+
 
 *ausweis
 *mit freundlichen grüßen
@@ -4026,12 +4029,16 @@ Ich habe ..... ein
                
 ---
 
+
+
 ## 6
 
 
-|Sich meiden  |  Sich meiden             | Sich verabschieden
---------------------------------------------------------------
-|Firma + Name | Guten Tag                | Tschüss
+
+| Sich meiden  |  Sich meiden             | Sich verabschieden
+| --- | --- | --- |
+
+| Firma + Name | Guten Tag                | Tschüss
 |             |  hier ist Marlene Neumann|Auf Widerhören
 |             |  Hallo hier ist ....     |Auf widersehen
 
@@ -4113,7 +4120,10 @@ Mein Hobby ist singen,Basketball spielen.
 
 ---
 
+
+
 ## 7
+
 
 tauchen
 die Harpune,n
@@ -4844,8 +4854,6 @@ https://www.hueber.de/lernen/deutsch-als-fremdsprache
 # Deutsch im Krankenhaus Neu
 
 https://www.klett-sprachen.de/deutsch-im-krankenhaus-neu/r-1/78#reiter=titel&niveau=A2-B2
-
-
 
 
 
