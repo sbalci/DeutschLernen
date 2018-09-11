@@ -13,7 +13,7 @@ output:
 
 https://hueber.de/shared/uebungen/menschen/kb/a2/menu.php
 
-
+https://www.hueber.de/media/36/Menschen_Loesungen_AB_A2.pdf
 
 ---
 
@@ -100,6 +100,16 @@ streiten
 
 
 
+Meine Schwester und ich haben als Kinder viel gestritten (streiten).  
+
+Es gab ein Unwetter, aber wir hatten Glück. Es ist nichts passiert.  
+
+Ich habe dich gerufen, aber du hast mich leider nicht gehört.  
+
+Jan hat mir gesagt, Alina hat ihre Prüfung bestanden.  
+
+Letzte Woche haben wir Xaver und Michele besucht. Sie sind umgezogen.  
+
 
 
 
@@ -156,7 +166,44 @@ der Teppich | die Teppiche
 bis: bis hin  
 das Deckenlischt | die Deckenlichter  
 
-direkt  
+direkt  X indirekt  
+dunkel  X hell  
+
+
+die Domizil-Redaktion | die Domizil-Redaktionen  
+
+
+die Geschmackssache  
+das Heft | die Hefte  
+
+der Klassiker | die Klassiker  
+die Kuschel-Ecke  
+
+das Möbelstück | die Möbelstücke  
+das Regal | die Regale  
+
+der Romantiker | die Romantiker  
+die Romantikerin | die Romantikerinnen  
+
+die Sofa-Landschaft | die Sofa-Landschaften  
+
+gemütlich X ungemütlich  
+
+das Urlaub-Souvenir | die Urlaub-Souvenirs  
+
+der Spiegel | die Spiegel  
+
+das Werkzeug | die Werkzeuge  
+
+der Einrichtungstipp | die Einrichtungstipps  
+Einrichtungstipp geben  
+
+der Magazintext | die Magazintexte  
+der Umzug | die Umzuge  
+
+die Wechelprãposition | die Wechelprãpositionen  
+
+
 
 
 
@@ -188,6 +235,11 @@ direkt
 ---
 
 ## 3
+
+Hier finden Sie Ruhe und Erholung  
+
+
+
 
 
 
