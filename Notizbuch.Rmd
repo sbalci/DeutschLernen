@@ -5,6 +5,7 @@ output:
     code_folding: hide
     fig_caption: yes
     toc: yes
+    toc_depth: 4
     toc_float: yes
 ---
 
@@ -1344,8 +1345,77 @@ Nein, ich habe keine kinder.
 
 ---
 
-# Thema {.tabset .tabset-fade .tabset-pills}
+# Bildwörter {.tabset .tabset-fade .tabset-pills}
 
+## Körper und Gesundheit
+
+der Körper  
+der Kopf | die Köpfe  
+die Brust | die Brüste (göğüs)  
+das Bein | die Beine  
+der Fuß | die Füße  
+der Hals | die Hãlse (boyun)  
+der Bauch | die Bauche (batın)  
+das Kine | die Knie  
+der Zeh | die Zehen (Toe)  
+der Rücken (bel)  
+die Schulter | die Schulterin (omuz)  
+der Arm | die Arme  
+der Ellbogen | die Ellbogen (dirsek)  
+der Po | die Pos  
+die Hand | die Hãnde  
+der Finger | die Finger  
+das Gesicht | die Gesichter  
+das Haar | die Haare  
+die Nase | die Nasen  
+der Mund | die Münder  
+die Lippe | die Lippen  
+der Zahn | die Zãhne  
+die Zunge | die Zungen  
+das Ohr | die Ohren  
+das Auge | die Augen  
+
+
+die Seife | die Seifen  
+das Shampoo | die Shampoos  
+das Handtuch | die Hãndtucher  
+die Zahnbürste | die Zahnbürsten  
+die Zahnpasta | die Zahnpastas die Zahnpastas  
+die Creme | die Cremes  
+
+der Schmerz | die Schmerzen  
+das Fieber  
+das Blut  
+das Pflaster | die Pflaster  
+das Medikament | die Medikamente  
+die Tablette | die Tabletten  
+der Arzt | die Ãzte  
+die Ãrztin | die Ãrztinnen  
+die Krankenschwester  
+der Patient | die Patienten  
+die Patientin | die Patientinnen  
+die Versichertenkarte | die Versichertenkarten  
+die Praxis | die Praxen  
+das Krankenhaus | die Krankenhãuser  
+der Krankenwagen die Krankenwagen  
+
+
+duschen | hat geduscht  
+baden | hat gebadet  
+sich kãmmen | hat sich gekãmmt  (comb hair)  
+sich rasieren | hat sich rasiert (shave)  
+
+gesund | gesünder | am gesündesten  
+krank | krãnker | am krãnkesten  
+tot  
+
+
+## Kleidung
+
+
+
+
+## Anderes
 
 Angelas Buch  
 Sie ist Angelas Kind.  
@@ -1362,7 +1432,7 @@ Wir lernen das Alphabet.
 
 Kann ich Sie etwas fragen?
 
----
+
 
 ## Sprache
 
@@ -1399,14 +1469,6 @@ die Fremdsprache
 
 
 
-
-
-
-
-
-
-
----
 
 ## Familie
 
@@ -1466,12 +1528,6 @@ Wie viele kinder hat deine Mutter?
 
 
 
-
-
-
-
-
----
 
 ## Familienstand
 
