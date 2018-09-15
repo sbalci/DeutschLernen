@@ -688,16 +688,16 @@ das Haus | die Häuser
 ## Namen Akkusativ {.tabset .tabset-fade .tabset-pills}
 
 | **DATİV**      | **Dativ oder Akkusativ**     | **AKKUSATIV**      | 
-|---             |---               |---          |---              |
-| aus      | **an**             | durch     | 
-| bei      | **auf**            | für       | 
-| mit      | **hinter**         | gegen     | 
-| nach     | **in**             | ohne      | 
-| seit     | **neben**          | um        | 
-| von      | **über**           |           | 
-| zu       | **unter**          |           | 
-|          | **vor**            |           | 
-|          | **zwischen**       |           |
+|---             |---                           |---                 |
+| aus            | **an**                       | durch              | 
+| bei            | **auf**                      | für                | 
+| mit            | **hinter**                   | gegen              | 
+| nach           | **in**                       | ohne               | 
+| seit           | **neben**                    | um                 | 
+| von            | **über**                     |                    | 
+| zu             | **unter**                    |                    | 
+|                | **vor**                      |                    | 
+|                | **zwischen**                 |                    |
 
 **Wo---> DATİV**
 
