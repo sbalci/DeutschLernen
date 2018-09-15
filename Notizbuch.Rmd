@@ -571,9 +571,9 @@ https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ
 ## Namen Nominativ  {.tabset .tabset-fade .tabset-pills}
 
 Genus (Gender)  
-maskuline der Tisch  
-neutral das Bild  
-feminine die Lampe
+*maskuline* der Tisch  
+*neutral* das Bild  
+*feminine* die Lampe
 
 Registrierungscode  
 Stadt Städte 
@@ -601,7 +601,7 @@ Tisch | Tische
 das Haus + die Frau -> die Hausfrau  
 
 Was ist der Artikel von ... ?  
-DEr Artikel von Ball ist der.  
+Der Artikel von Ball ist der.  
 
 
 
@@ -758,7 +758,8 @@ verbstamm (komm)
 endung (en)  
 
 ## regelmaßige Verben
- haben--gehabt
+
+haben--gehabt
 machen--gemacht
 sagen--gesagt
 üben--geübt
@@ -767,7 +768,7 @@ arbeiten--gearbeitet
 kochen--gekocht
 lernen--gelernt
 
- ## unregelmaßige verben
+## unregelmaßige verben
   
  sprechen--gesprachen
  scgreiben--geschieben
@@ -782,18 +783,21 @@ lernen--gelernt
  backen-gebacken
  
 ## Regelmaßige trennbare verben
+
  --ge---t
- aufraumen--aufgeräumt
+aufraumen--aufgeräumt
 einkaufen--eingekauf
 abholen--abgeholt
 
- ## unreglmäßige trennbare verben
- anrufen-angerufen
+## unreglmäßige trennbare verben
+
+anrufen-angerufen
 einladen--eingeladen
 fernsehen--ferngesehen
 
- ## verben auf -ieren
- telefonieren--telefoniert
+## verben auf -ieren
+
+telefonieren--telefoniert
 fotografieren-fotografiert
 markieren--markiert
 
@@ -898,6 +902,7 @@ auskommen
 
 
 *Nicht trenbare verben:  *
+
 be-  
 ver-  
 er-  
@@ -960,6 +965,7 @@ aber ich bin ... (aber + sub + V in pos 2)
 ---
 
 ## Artikel  
+
 
 das Haus + die Frau -> die Hausfrau 
 
@@ -1028,7 +1034,7 @@ Trinken Sie (doch) Tee! -> doch ist höflich
 
 emotion -> null artikel  habe angst  
 
-*Nicht trenbare verben:  *
+*Nicht trenbare verben:*  
 be-  
 ver-  
 er-  
@@ -2029,7 +2035,1353 @@ Was haben Sie gemacht?
 # A1 {.tabset .tabset-fade .tabset-pills}
 
 
----      
+---
+
+## 1
+
+https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l01/index.php
+
+
+Wer ist das ?
+ +Das ist Ayşe/Frau Öztürk
+         |vorname|  |familienname|
+
+Wie ist ihr Vorname ?
+ +Meine Vorname ist....
+ 
+Wie ist ihr Familienname
+            Nachname
+ +Mein Familienname ist...
+ 
+ Wie heißen Sie ?
+ +Ich heiße ...
+  -Freut mich
+   -Freut mich auch
+   
+ 0-null  
+ 1-eins
+ 2-zwei
+ 3-drei
+ 4-vier
+ 5-fünf
+ 6-sechs
+ 7-sieben
+ 8-acht
+ 9-neun
+ 10-zehn
+ 11-elf
+ 12-zwölf
+ .
+ .
+ 15-fünfzehn
+ 16-sechzehn
+ 17-siebzehn
+ 18-achtzehn
+ 19-neunzehn
+ 20-zwanzig
+ 
+ Arbeitsblatt- çalışma sayfası
+ 
+ Was ist das ?
+  Das ist ein Buch
+  Das sind zwei Bücher
+  
+  Ich öffnen das Buch
+  Ich schließe das Buch
+
+-Stadt-Stadte
+
+-Hello ,wer bist du ? - informell
+  Ich bin Simone
+  
+-Wer sind Sie ?
+  Ich bin Simone H....
+  
+ Woher kommen Sie ?
+ 
+ Woher kommst du ?
+ 
+W-Fragen V 2 position
+          -Wer ist das ?
+           Wie heißen Sie?
+           Woher kommst du?
+
+Antwort/Aussage
+
+Buch Bücher
+Lehrerin Lehrerinnen
+Lehrer  Lehrer
+Kursteilnahmerin  Kursteilnehmerinnen
+Kursteilnehmer  Kursterilnehmer
+Fenster Fenster
+Tisch Tische
+
+Wie viele Tische sind hier?
+-Hier sind .... Tische
+
+kommen + aus + Land/Lander Stadt Stadte
+
+Ich komme aus Spannien
+              -der Turkei
+              -der Schweiz
+              -dem Iran
+              -dem Irak
+
+Personalpronomen kommme/komsst/kommen/kommt
+
+Woher kommt sie/er ?
+*Sie kommmen
+
+Wie geht's dir ?
+    geht es
+    
+Wie geht's Ihnen
+    geht es
+    
+Danke |sehr gut/super/toll
+       gut/prima
+       es geht
+       nicht so gut
+       schlecht
+
+kommen    heißen
+komme     heiße
+kommst    heißt
+kommen    heißen
+kommt     heißt
+
+Wie bitte ?
+
+
+              
+  
+  
+
+
+
+---
+
+## 2
+
+
+Ich wohne in ....
+
+            Beruf
+
+Mann- Manner
+Frau-Framen
+Visitenkarte-Visitenkarten
+Beruf-Berufe
+
+Ich bin + *Beruf
+
+Ich arbeite als + *Beruf
+
+Ich arbeite bei + *Firma Arbeitgeber
+
+Was sind Sie von Beruf ?
+    bist du
+    
+Was machen Sie beruflich ?
+    machst du
+    
+*arbeiten
+arbeite/arbeitest/arbeitet/arbeiten
+
+KONJUGİEREN SİE BİTTE
+
+Was machen Sie beruflich ?
+  Ich bin Student
+  
+Was Studieren Sie ?
+    Studierst du ?
+ Ich Studiere Musik auflehramt.
+                    Ingenieurwesen.
+                    
+Ich bin arbeitslos.
+        Wirtshaftswissenschaften- BWL
+        Rechtswissenschaften
+        Biologie
+        Chemie
+        Naturwissenschaften
+        Biologe/Biologin
+        Anwaltin/Anwalt
+
+ein Praktikum machen
+Ich mache ein Pratikum. bei .... / als..
+
+eine Ausbildung machen
+Ich mache eine Ausbildung bei.../als...
+
+REGEL einen Job haben / als Beruf
+                        bei Firma
+                        
+                        
+st---->şt
+sch---->ş
+sp---->şp
+
+27-siebenundzwanzig
+30-dreißig
+21-einundzwanzig
+22-zwaiundzwanzig
+34-vierunddreißig
+43-deriundvierzig
+
+Wie alt sind Sie?
+        bist du?
+        
+ Ich bin ... Jahre alt.
+ 
+ledig
+verliebt
+verlobt
+verheirotet
+verheirotet
+geschieden
+verwitwet
+
+Bist du verheriratet ?
+Sins sie verheiratet
+
+ Ja,Ich bin vergeiratet
+ Nein,Ich bin nicht verheiratet
+ Nein,Ich bin ledig.
+
+sein
+Ich *bin
+du  *bist
+Sie *sind
+er/Sie *ist
+
+leben      wohnen
+*lebe      *wohne
+*lebst      *wohnst
+*leben      *wohnen
+*lebt       *wohnt
+
+Ich habe ein kind / Kinder
+
+Wie viele Kinder haben Sie ?
+                 hast du ?
+                 
+Haben Sie Kinder?
+Hast du Kinder ?
+
+keine  Ja, Ich habe ein kind.
+       Nein,Ich habe keine kinder.
+
+
+
+
+
+
+
+
+
+---
+
+## 3
+
+
+Wo arbeiten Sie ?
+   arbeite bei Siemens
+   
+   
+Jahr-Jahre
+
+
+Simones Buch
+Emirs Buch
+Yunus' Buch
+Aziz' Buch
+
+kennen
+*kenne
+*kennst
+*kennt
+*kennen
+*kennt
+*kennen
+
+Drehbuch
+Ausschnitt
+
+Kennen Sie Brad Pitt?
+
+Wer kennt Diester Bahlen ?
+
+Possesivartikel
+     maskulin feminin Plural
+Ich   mein    meine   meine
+du    dien    deine   deine
+
+Vater / Mutter / Eltern
+Sohn/Schwester/Geschwester
+Großmutter/ Großfather/Großeltern
+
+Bruder/Tochter/Enkelin
+(Ehe)Mann / (ehe) Frau
+
+Vater+Mutter=Eltern
+Sohn+Tochter=Kinder
+Bruder+Schwester=Geschwester
+Großvater+Großmutter=Großeltern
+Enkel + Enkelin=Enelkinder
+Ehemann + Ehe frau = Ehepaar-singular
+
+Brüder Brüder
+Tochter Töchter
+Sohn    Söhne
+Enkel   Enkel
+familie  familien
+
+Kommen Sie nich aus Ankara ?
+
++ Doch Ich komme aus Ankara.
+
+-Nein Ich komme nich aus Ankara.
+
+Kommen Sie aus Ankara ?
+
++Ja, Ich komme aus Ankara
+-Nein, Ich komme nicht aus Ankara
+
+Position 2
+
+W-Frage -Woher kommen Sie ?
+Aussage -Ich komme aus Ankara.
+
+                  -Antwort=Nein
+Regel  +Frage     +Antwort=Ja
+       -Frage     -Antwort=Nein
+                  +Antwort=Doch
+                  
+
+---
+
+## 4
+
+
+Möbel  
+Tisch  
+Lampe  
+Bett  
+
+
+Ich glaube Sie sind (nicht) verheiratet.
+
+Möbelhaus (like IKEA)
+
+Das bild kostet 15 €. Das ist billig.  
+Das bild kostet 1000 €. Das ist teuer.  
+
+Brauchen Sie hilfe?  
+Ja, bitte.  
+Nein, danke.  
+
+Wie viel kostet der Tisch?  
+Was kostet der Tisch?  
+
+der Preis  
+der Fernsheer  
+
+Der Tisch kostet 1478 € | eintausendvierhundertachtundsiebzig euro
+
+
+Die Couch  
+Die Couch kostet ...
+Sie kostet ...
+Sie kommt aus Italien.  
+Sie ist sehr teuer.  
+
+
+Materialen  
+das Holz  
+das Metall  
+das Glas  
+das Popier  
+der Kunstoff  
+das Plastik (die Plastik sanat eserleri için kullanılır)
+
+Farben  
+rot
+grün
+orange
+schwarz
+blau
+gelb
+weiß
+braun
+
+Formen
+echig (köşeli)
+rund
+sternfürmig (starshaped)
+wolkenformig (bulut şekli)
+
+der stern
+die Wolke  
+
+aus + Material (keine artikel)  
+Frau Klums Brille ist aus Kunststoff.  
+Das ist Pinocchio. Er ist aus Holz.  
+Die Flasche ist aus Plastik.  
+
+verkaufen  
+
+
+
+Das ist Brille von Top-Designerm S.A.H
+Die Brille ist stemförmig,blau-gelb und aus Plastik
+Mein Goethe-Sonderundebot nur 21 Euro.
+
+das Etikett
+der Zustand
+Versteigern
+neu gebraucht
+Ich bieten ....!
+
+Wie schreibt man ?
+Wie heißt das auf Deutsch.
+
+Entsculdigung , Wie heißt das auf Deutsch ?
+
+Definitartikel |  Indefinit artikel   | Personelpronomt
+
+Der Schrim        Das ist ein Schrim    Er ist grün   (m)
+Das Buch          Das ist ein Buch      Es ist rot    (n)
+Die Uhr           Das ist eine Uhr      Sie ist braun (f)
+
+einmal benutzt ---1 kez kullanılmış
+
+*durchsichtig
+
+der (Regel) Schrem
+das Streichholz
+die Geldbörse
+die Seife
+der Bleistift
+die Brille
+das Buch
+die Flasche
+das Feuerzeug
+der Fotoapparat
+die Katte
+der Kugelschreiber
+der Schüssel
+die Tasche
+
+
+
+---
+
+
+## 5
+
+
+
+*ausweis
+*mit freundlichen grüßen
+
+Wie geth's ?
+-Mir geht's gut.
+
+die Zeitung--ung--->DİE
+
+Auktion
+rückwärts
+s Meer
+e Freundin,nen
+r Freund,e
+e Kollegin,in
+bestellen
+e Bestellung
+r Kollege,n
+r Chef,s
+e Chefin,nen
+e Postwärts
+r Arbeitsplatz
+r Platz
+glücklich
+Termin
+
+Wie heißt die Plural form von ... ?
+          der Plural
+
+
+Die Pluralform von Tache heißt/ist Taschen
+Der Plural
+
+zigaretten rauchen
+wasse trinken
+
+Namen + Verb kombinotion
+
+Wer sucht Rechnungen ?
+
+Wer braucht Stiftel ?
+
+Was ist das Handy ?
+
+Wo sind die Handys ?
+
+Wo ist denn der Schlüssel ?
+Wo ist der Schlüssel ?
+       die Maus ?
+       das Formular ?
+       
+Hier ist der Schlüssel.
+         die Maus.
+         das Formular.
+
+
+Hier sind die Formulare.
+
+
+Wo sind die Schlüssel ?
++Hier | ist | die | Tasche   |
+      |verb |     | Subjeckt |
+
+Was suchen Sie ?
+
++Ich suche das | Kursbuch |.
+               | Objekt   |
+               
+Ich suche | den Schlüssel
+          | die Maus
+          | das Formular.
+
+der---->den  den Laptop
+             die Briefmarke
+             das Formular
+             
+
+Alle subjekte sind immer im Nominativ.
+
+  *Der schlüssel ist klein. Was
+  *Die Lahrerin ist groß. Wer
+
+Verben+ Akkusativ
+
+öffnen 
+machen
+schließen
+hören
+schreiben
+sprechen
+haben
+finden
+suchen
+lesen
+markieren
+buchstabieren
+fragen
+brauchen
+lieben
+konjugieren
+ergänzen
+finden
+schreiben
+
+Ich haben den Schlüssel.
+    suche
+    finde
+
+
+Was suchst du ?
+Ich suche den Lehrer. Wen ?
+
+Wen suchst du ?
+Ich suche den mann.
+
+Du suchst den Laptop 
+Den Laptop suchst du.
+
+Ich brauche den Laptop
+            einen Laptop
+            
+    Nominativ    Akkusativ
+Der| kein      |    keinen|
+Die| keine     |    keine |
+Das| kein      |    kein  |
+Die| keine     |    keine |
+            
+            
+Wie viele ... haben Sie ?
+
+Ich habe ..... ein
+               kein
+               eine
+               keine
+               einen
+               keinen
+               
+---
+
+
+
+## 6
+
+
+
+| Sich meiden  |  Sich meiden             | Sich verabschieden
+| --- | --- | --- |
+
+| Firma + Name | Guten Tag                | Tschüss
+|             |  hier ist Marlene Neumann|Auf Widerhören
+|             |  Hallo hier ist ....     |Auf widersehen
+
+
+Das Gewitter
+der Donner
+der Blitz
+der Regen
+das Stück,e
+der Autor,en
+handeln
+gebraucht
+der Trödel,-
+der Trödler,-
+der Trödlerin,nen
+der Koch,"e
+die Köchin,nen
+-kochen
+
+Spazieren gehen
+Rad Fahren
+Scach spielen
+Musik hören
+Freunde treffen
+lesen
+fotografieren
+schwimmen
+Im ınternet surfen
+singen
+kochen
+schnellxlangsam
+Postkarte
+Händler
+Teller
+Tasse
+Handtuch
+König
+Puppe
+Schlüsselanhänger
+der Nachtflohmarkt
+Nummer eins
+Sachsen
+
+Du kannst wirklich gut Tenis spielen
+-Sie können gut Tennis spielen
+
+Wow! Du kannst ja super tanzer.
+-Sie können super tanzen.
+
+Du kannst wirklich toll kochen.
+   
+*Modalverb 2. ---------- Infinite   
+
+ *Du kochest sehr gut.
+ 
+können
+Ich kann
+du kannst
+er/sie kann
+wir können
+ihr könnt
+sie/Sie können
+
+Du spielst wirklich gut Gitarre.
+Du kann wirklich gut Gitarre spielen.
+
+Was sind deine Hobbys ?
+         ihre  Hobbys ?
+
+
+Was ist dein Hobby ?
+        Ihr  Hobbys ?
+        
+        
+Meine Hobbys sind fußball spielen
+Mein Hobby ist singen,Basketball spielen.
+
+
+
+---
+
+
+
+## 7
+
+
+tauchen
+die Harpune,n
+Jagen
+die Brücke,n
+Lösung
+der Ausflug,"e
+einen Ausflugmachen
+
+fußball spielen macht Spaß!
+kochen macht  Spaß!
+
+Klavier Spielen Lieblingsänger.
+  Fahren Sie gern Ski ?
+  Fährst du
+  
+  +Ja , Ich fahre gern Ski.
+  -Nein,Ich fahre nicht gern Ski.
+  
+  Verben mit lokol wechsel
+  
+| **verb**      | **ich**     | **du**      | **er/sie/es**   | **wir**     | **ihr**     | **sie/Sie**     |
+|---            |---          |---          |---              |---          |---          |---              |
+| *fahren*      | fahre       | fährst      |   fährt         | fahren      | fahrt       | fahren          |
+| *lesen*       | lese        | liest       | liest           | lesen       | lest        | lesen           |
+| *treffen*     | treffe      | triffst     | trifft          |   treffen   | trefft      | treffen         |
+| *sprechen*    | spreche     | sprichst    | spricht         | sprechen    | sprecht     | sprechen        |
+| *sehen*       | sehe        | siehst      | sieht           | sehen       | seht        | sehen           |
+
+Ich spiele gern Gitarre.Ich arbeite gern.
+
+Was machst du in der Freizeit ?
+    machen Sie
+   Leider habe ich kein Zeit
+   Ich habe lider keine Zeit.
+   Am wochende habe ich .....
+    
+Ich spiele gern Gitarre.
+Ich backe gern
+Ich arbeite gern
+Ich mache gern Hausofgaben.
+
+Fährst du gern Rad ?
+Liest du gern Bücher ?
+Triffst du gern Freunde ?
+
+Wie oft gehst du ins Theater.
++Ich gehe |immer| ins Theater.
+          |-----|
+          |oft|
+          |manchmal|
+          |fast nie|
+          |nie|
+          
+der Würfel
+würfeln -zar atmak
+das Wörterbuch,"es
+die Pantomime,n
+Möglichkeit
+
+Können Sie bitte die Fenster öffnen.
+Kann ich mal telefonieren ?
+Kann ich das feuerzeug haben ?
+Leider habe ich doch keine zeit .
+Können Felix und Katja kochen ?
+  +Ja,felix und Katja können super kocher.
+  
+nicht so gut    
+super
+toll ein bisschen
+nicht so gut
+nicht
+gar nicht
+
+
+senkrecht
+waagerecht ---->>>
+diagonal
+
+Spielst du sehr oft fußball ?
+  +Ja,Ich spiele sehr oft Fußball ?
+  -Nein,Ich spiele nur manchmal fußball.
+
+Wie oft schwimmst du ?
++Ich swimme fast nie.
+
+
+
+---
+
+## 8
+
+Ich kann Bücker lesen.
+Ich lese leiber.
+Kannst du Schach spielen.
+Ich verstehe das nicht.
+Wie shreibt man das.
+Wie spricht man das aus ?
+Was sollen wir tun ?
+Bitte helfen Sie mir.
+
+
+
+der Kalender
+das Wochenende,n
+das Ende,n
+die Woche,n
+
+Heute Nachmittag gehe ich ins Schwimbad.
+---------------       ---       ------
+   Wann ?             Wer?       Wohin ?
+
+Regel Wohin ? ---->in+Akkusativ
+    in + das = ins
+    in + die = Kneipe
+    in + den = Zoo
+    
+Wohin gehen Sie morgen Abend ?
+  Ich gehe morgen ins Cafê
+  morgen abend gens in -----> in den Zoo / in die Disk / ins Kino
+  
+  
+Wohin gehen Sie gern ?
+
+Haben Sie heute Nachmittag zeit ?
+  -Nein , leider habe ich keine zeit.
+
+Wie spät ist es ? -- formel
+  Es ist 11:40 Uhr.
+
+Es ist fünf noch sieben 7:05
+Halb acht - 7:30
+
+
+7:30 - Halb acht
+8:30 - Halb neun
+7:35- fünf nach
+7:25- fünf vor halb acht
+7:45- vietel vor acht
+7:28- Kurz vor halb acht
+7:32- Kurz nach halb acht
+04:03 kurz nach vier
+
+
+der Morgen
+der Kurs,e
+Fluss
+Fußball
+
+
+Weiß ich nach nicht---henüz bilmiyorum
+
+|wissen|
+|------|
+| weißt|
+| weiß |
+|wissen|
+|wisst |
+|wissen|
+
+Ich weiß nicht.
+Ich weiß nicht was du meinst.
+
+
+Lust Haben.....
+
+Lust auf  Schwimmbad ?
+          Kino ?
+          Disco ?
+          
+Lust Haben .....
+  +Ich habe Lust
+  -Ich habe keine Lust
+  
+ Hast du Lust auf ?
+ 
+ Möchtest du ins Schwimmbad gehen ?
+ 
+ spät x früh
+ 
+ um 19:99 Uhr
+ am Montag
+ am Dienstag
+ am Mittwoch
+ am Donnerstag
+ am Freitag
+ am Samstag   am
+ am Sonntag   Wochanende
+ 
+ Ich gehe am Montag um 19:00 ins Kino.
+          ------------------  ------
+              Wann ?          Wohin ?
+              
+              
+              
+ Subjekt + Verb +Zeit + Wohin/Ort
+ 
+ einen Vorschlang machen -- öneride bulunmak
+ 
+ reagieren
+ E Reaktion,en
+ R Vorschlang,"e
+ +Passt es dir  | um 18:00 Uhr
+                | am Montag ?
+  
+
+Hast du heute Nachmittag Zeit ?
+Ja,Warum
+-Wir könen heute Schach spielen
+  -Lust auf Schach spielen.
+  -Gehen wir ins Kino
+  -Gehen wir ins die Ausstellung ?
+  
+  Ich habe keine Lust
+  -Gehen wir ins Konzert ?
+  Ka,wann denn ?
+  Um acht Uhr.-Ich habe um 20:00 Uhr keine Zeit.Passt es dir um 18:00 Uhr
+  -Okay
+  
+  Gehen wir am Wochenende tanzen ?
+  
+  schlafen gehen
+  höflich
+  unhöflich
+  die Einladung,en
+  eine Ausstellung
+  
+    Wann haben wir wieder Kurs.
+    Am Mittwoch haben wir wieder Deutsch kurs.
+    Am Wochenende ist kein Kurs.
+
+am-------> Wochentage
+          Tageszeiten
+          
+          
+Am Abend/Morgen lerne ich gern Deutsch
+**In der Nacht** spiele ich gern ....
+Am Dienstagnacjmittag gehe ins Shimmbad
+
+
+*etwas vorschlagen*
+Vielleicht können wir morgen Abend ins Theater gehen.
+Vielleicht könen wir später zusammen kaffee trinken.
+
+Heute Nachmittag gehe ich ins Museum
+Heute Nachmittag male ich.
+Ich gehe heute Nachmittag ins Museum.
+
+die Uhrzeit,en
+
+
+
+  
+
+---
+
+## 9
+
+
+
+Wieder ?
+
+am Nachmittag oder in der Nacht ?
+
+am Nachmittag um 14:00 Uhr.
+
+
+Liebe**r** ....,
+  hast du am Sonnertag zeit ? Können wir ski fahren gehen oder vielleicht können wir in die Bibliothek gehen.
+  Leibe Grüße
+  
+  Viele Grüße
+  Freundliche Grüße
+  
+  Sehr geehte**r** Frau Freundenburg
+  
+  der Onkel,-
+  die tante,n
+  der Kühlschrank,"e
+  der Hunger
+  der Durst
+  der Pilz,e
+  das Ei,er
+  der Olive
+  das Obst
+  das Gemüse
+  
+  Er hat Hunre ?
+  -Haben Sie Hunger
+  -Hast Du
+  
+  Ich habe auch Hunger
+  Nein Ich habe keinen Durst.
+  
+  Bist du durstig ?
+          hungrig?
+ +Ja,Ich bin durstig.
+ -Nein,Ich bin nicht durstig.
+ 
+ immer--%100
+ fast immer--%85
+ oft--%60
+ manchmal--%50
+ fast nie--%20
+ nie--%0
+ 
+ 
+ Ich esse gern = Ich mag
+ 
+ Ich mag Schokolade
+         Kucher
+         
+         
+Ich mag keinen Hamburger Spinat.
+
+schon=sehr früh (çok erken)
+erst = sehr spüt ( çok geç)
+
+Was möchten Sie essen ?
+-Ich möchte eine Fischsuppe essen.
+
+Er trinkt keinen kaffee.
+-Sie einen kaffee ?
+-Ich möchte einen kaffee trinken.
+-Marie möchte heute Abend tanzen.
+
+Was ist dein Lieblingsessen ?
+-Mein Lieblingsessen ist .....
+
+Nominativ - der -ein degişmiyor
+Akusativ der-einen
+
+Was isst du gein.
+
+|möchten|
+|-------|
+|möchte|
+|möchtest|
+|möchte|
+|möchten|
+|möchtet|
+|möchten|
+
+|mögen|
+|-------|
+|mag|
+|magst|
+|mag|
+|mögen|
+|mögt|
+|mögen|
+
+
+
+
+
+
+
+---
+
+## 10
+
+
+
+das flugzeug
+die Sonnenbrille,n
+der Blindenstock,"e
+der Gehstock,"e
+
+Ich komme um 22 Uhr um zu Hause an. ankommen
+
+Du kommst um 22 Uhr zu Hause an.
+
+Er/sie/es kommt um 22 Uhr zu Hause an.
+
+Ich kaufe im supermarkt ein.--einkaufen
+
+Du kaufst im supermarkt ein.
+
+Ich rufe dich an.--anrufen
+
+Wann rufst du mich an ?
+
+Regel konjugiere Verb  Prafix am
+        Position 2      Ende 
+        
+        
+Rufst du mich an ? -- Ja/Nein Frage
+
+Wann rufst du ?
+--Ich rufe die Lehrerin an
+
+Hast du mich ab ?
+
+Won holst du ab ?
+--Ich hole dich ab ?
+meine
+
+Was halst du ab ?
+-Ich hole das Paket ab.
+
+Holst du mich ab ?
+
+meinen Sohn
+meine Frendin
+eine Freundin
+die Abfahrt
+die Ankunft
+
+Ich hole dich ab.
+Ich hole meine Tochter ab
+Ich hole Zeyeb ab.
+Ich hole meinen Sohn ab.
+
+Was brinst du
+Wen bringst du
+
+Mein Bus fährt um 21:00 Uhr ab.
+
+Mein/Der Bus kommt um 21:00 Uhr am
+
+Halbst du mich ab ?
+Kannst du mich abholen ?
+
+halst du mich ab ?
+Ich habe dich ab 
+
+Wen halst du ab ?
+
+alle 20 minuten fährt dir S-Bahn
+
+Wan sind wir an Flughafen ?
+Wie heißt der nächste Halt ?
+
+Vor sicht an der Bahnsteigkante Der Zug fährt ab.
+
+Ich suche die U2 zum Olympiazentum.
+
+Die Bahn fährt gerade am Bahnsteig 5 ein.
+
+Steight ihr am Goetheplatz ein ?
+x Wann telefonierst du mit Oma.
+Heute Abend sehen wir fern.Kommst du auch ?
+Wo steigt ihr um ?
+x Bekomme ich bitte einen Kaffee ?
+Vielleicht bringe ich am Samstag meine Freundin mit.
+x Am Sonntag frühstüke ich erst um 12 Uhr.
+
+x nicht trennbar
+-trennbar
+
+Wann kommst du an ?
+-Ich komme um 12 Uhr 45 an
+
+Wo steigst du ein ?
+-Ich steige auf Gleis 10 ein.
+
+
+
+
+
+
+---
+
+## 11
+
+
+
+Wohin ?
+    In+Akkıstiv
+    
+Wo ?
+    In + dativ
+    die-->der
+
+Wen ?
+Wenn
+die Nuss,"e
+
+Wan fährst du zu Hause ab ?
+-Ich fahre um 16:00 Uhr ab.
+
+unsteigen
+___________________________________________________________________________________________
+
+| **Subject Verb**   | **-**   |  **-**   |
+| ---                  | ---                           | ---               | 
+| Ich fahre            |  täglich                      | mit  denn Fahrad  |
+| Ich fahre            |  2 bis 3 mal die Woche        |zur Arbeit         |
+| Ich fahre            |  nur am Wochenende            | zum Einkaufen     | 
+| Ich fahre            |  fast nie                     | ins Cafê          | 
+| Ich fahre            |  nie                          | Ins Kino          | 
+          
+___________________________________________________________________________________________
+
+Wie oft ? Wohin ?
+
+Gestern
+  Ich habe Hausaufgaben gemacht
+      hilfstverb        partizip 2
+  Tempus=Perfekt
+  
+  Perfekt-->kommunikation
+
+
+Ich habe Deutsch gelernt.
+Wann hast du Deutsch gelernt ?
+
+Hast du Deutsch gelernt. Ja/Nein Frage
+___________________________________________________________________________________________
+
+das Gleis
+der Bahnof
+der Flughafen
+die S-Bahn
+der Zug
+die Straßenbahn
+die U-Bahn
+Der Bahnsteig
+das Taxi
+der Bus
+die Haltestelle
+das Flugzeug
+der Koffer
+die Tasche
+das Gepäck
+
+Mach's gut
+Oass auf dich auf
+Verkehrsmittel
+Gepäck
+am Bahnhof
+das Fahrrad,"er
+die Celli
+das Cello
+das Instrument,3
+der Terminkalender,-
+das Geschenk,e
+___________________________________________________________________________________________
+
+
+
+
+
+---
+
+## 12
+
+
+
+| **Frühling**   | **Sommer**   |  **Herbst**   | **Winter**    |
+| ---            | ---          | ---           | ---           |
+| Marz           |  Juni        | September     | Dezember      |
+| April          |  Juli        | Oktober       | Januar        |
+| Mai            |  August      | November      | Februar       |
+
+
+
+Was haben Sie | letzten Freitag | gemacht
+              | letzte  Woche   |
+              | letztes Jahre   |
+
+
+der Tag,e
+die Woche,n
+das Jahr,r
+der Schulabschluss,'s
+der Bachelor
+der Bachelorprüfung,en
+der Master
+die Fachochschule,n
+der Würfel
+der Stab,'e
+die Pyramide,n
+
+ 
+ hatte
+ ______
+ 
+ ich hatte
+ du  hattest
+ er/sie hatte
+ wir    hatten
+ ihr    hattet
+ wir    hatten
+ 
+? Was haben Sie gestern gemacht?
+  +Ich habe gestern Hausaufgabe gemacht
+
+__________________________________________________________
+
+
+Wo ist Sie ?
+ Wie komme ich zum Bahnhof.
+
+auf üstünde                                   NOMİNATİV                 DATİV
+an yanında                                    der/ein Bahnhof     | vor  dem einem
+neben yanında(temas yok)                      das/ein Resteurant  |      dem einem
+vor önünde                                    die/eine Ampel      |      der einer
+hinter                                        die/- Cafe's Hauser |      den - Hausern
+zwischen
+über
+unter
+in
+
+in dem = im
+an dem = am
+
+Was ist das Hotel Marrhim ?
+ +Das hotel ist neben der bank.
+ 
+ LOKALE PRAPOSİHİMEN MİT DATİV
+ 
+ regel PRASPOSİTON + ARTİKEL -R --->DEM
+ 
+ Die Pyramide ist auf dem Würfel.
+ Der Würfel ist neben dem Haus.
+ Der Würfel ist neben der Pyramide.
+ 
+ WO?-----> die--->der
+ 
+ der Stadtplang,'e                                          rechts abbiegen
+ die Strasse,n                                              wenden
+ der Navigator,en                                           zurückfahren
+ das Hotel,s                                                geradeaus fahren
+ anmachen                                                   links abbiegen
+ ausmachen
+ die Stadmitte
+ das Zentrum
+ der Polizist,en
+ die Polizistin,nen
+ die Wand,'e
+
+ Stimm+nicht ---->false
+ 
+ Der Kalender hangt an der Wand(die Wand).
+ Das Auto ist zwischen den Hausern.
+ 
+ Wo?
+ die-----> den+Nomen +'n'
+ 
+ Die Frau ist in dem(im) Cafe'.
+ 
+ Die Lehrerin ist an dem (am) Tisch.
+ 
+ Egehan ist am Fenster
+ 
+ Dann kommen Sie unter einer Brücke durch.(durchkommen)
+ 
+ Maritim ist in dem(im) Zentrum ?
+
+An den Cafe's fahren Sie
+
+Bitte links abbiegen
+
+Bitte rechts abbiegen
+Gehen/Fahren Sie geradeaus
+Bitte wenden Sie
+An der Ampel fahren Sie geradeaus.
+Gehen/Fahren Sie an der Kirche vorbei
+Gehen/Fahren Sie die zweite Strasse links.
+
+
+
+
+
+---
+
 
 ## 13
 
@@ -3972,1354 +5324,15 @@ feiern
 5-mongelhaft
 6-unganügend 
 
-                                                          
-                                                           
----
 
-## 1
 
-https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l01/index.php
 
 
-Wer ist das ?
- +Das ist Ayşe/Frau Öztürk
-         |vorname|  |familienname|
 
-Wie ist ihr Vorname ?
- +Meine Vorname ist....
- 
-Wie ist ihr Familienname
-            Nachname
- +Mein Familienname ist...
- 
- Wie heißen Sie ?
- +Ich heiße ...
-  -Freut mich
-   -Freut mich auch
-   
- 0-null  
- 1-eins
- 2-zwei
- 3-drei
- 4-vier
- 5-fünf
- 6-sechs
- 7-sieben
- 8-acht
- 9-neun
- 10-zehn
- 11-elf
- 12-zwölf
- .
- .
- 15-fünfzehn
- 16-sechzehn
- 17-siebzehn
- 18-achtzehn
- 19-neunzehn
- 20-zwanzig
- 
- Arbeitsblatt- çalışma sayfası
- 
- Was ist das ?
-  Das ist ein Buch
-  Das sind zwei Bücher
-  
-  Ich öffnen das Buch
-  Ich schließe das Buch
 
--Stadt-Stadte
 
--Hello ,wer bist du ? - informell
-  Ich bin Simone
-  
--Wer sind Sie ?
-  Ich bin Simone H....
-  
- Woher kommen Sie ?
- 
- Woher kommst du ?
- 
-W-Fragen V 2 position
-          -Wer ist das ?
-           Wie heißen Sie?
-           Woher kommst du?
 
-Antwort/Aussage
 
-Buch Bücher
-Lehrerin Lehrerinnen
-Lehrer  Lehrer
-Kursteilnahmerin  Kursteilnehmerinnen
-Kursteilnehmer  Kursterilnehmer
-Fenster Fenster
-Tisch Tische
-
-Wie viele Tische sind hier?
--Hier sind .... Tische
-
-kommen + aus + Land/Lander Stadt Stadte
-
-Ich komme aus Spannien
-              -der Turkei
-              -der Schweiz
-              -dem Iran
-              -dem Irak
-
-Personalpronomen kommme/komsst/kommen/kommt
-
-Woher kommt sie/er ?
-*Sie kommmen
-
-Wie geht's dir ?
-    geht es
-    
-Wie geht's Ihnen
-    geht es
-    
-Danke |sehr gut/super/toll
-       gut/prima
-       es geht
-       nicht so gut
-       schlecht
-
-kommen    heißen
-komme     heiße
-kommst    heißt
-kommen    heißen
-kommt     heißt
-
-Wie bitte ?
-
-
-              
-  
-  
-
-
-
----
-
-## 2
-
-
-Ich wohne in ....
-
-            Beruf
-
-Mann- Manner
-Frau-Framen
-Visitenkarte-Visitenkarten
-Beruf-Berufe
-
-Ich bin + *Beruf
-
-Ich arbeite als + *Beruf
-
-Ich arbeite bei + *Firma Arbeitgeber
-
-Was sind Sie von Beruf ?
-    bist du
-    
-Was machen Sie beruflich ?
-    machst du
-    
-*arbeiten
-arbeite/arbeitest/arbeitet/arbeiten
-
-KONJUGİEREN SİE BİTTE
-
-Was machen Sie beruflich ?
-  Ich bin Student
-  
-Was Studieren Sie ?
-    Studierst du ?
- Ich Studiere Musik auflehramt.
-                    Ingenieurwesen.
-                    
-Ich bin arbeitslos.
-        Wirtshaftswissenschaften- BWL
-        Rechtswissenschaften
-        Biologie
-        Chemie
-        Naturwissenschaften
-        Biologe/Biologin
-        Anwaltin/Anwalt
-
-ein Praktikum machen
-Ich mache ein Pratikum. bei .... / als..
-
-eine Ausbildung machen
-Ich mache eine Ausbildung bei.../als...
-
-REGEL einen Job haben / als Beruf
-                        bei Firma
-                        
-                        
-st---->şt
-sch---->ş
-sp---->şp
-
-27-siebenundzwanzig
-30-dreißig
-21-einundzwanzig
-22-zwaiundzwanzig
-34-vierunddreißig
-43-deriundvierzig
-
-Wie alt sind Sie?
-        bist du?
-        
- Ich bin ... Jahre alt.
- 
-ledig
-verliebt
-verlobt
-verheirotet
-verheirotet
-geschieden
-verwitwet
-
-Bist du verheriratet ?
-Sins sie verheiratet
-
- Ja,Ich bin vergeiratet
- Nein,Ich bin nicht verheiratet
- Nein,Ich bin ledig.
-
-sein
-Ich *bin
-du  *bist
-Sie *sind
-er/Sie *ist
-
-leben      wohnen
-*lebe      *wohne
-*lebst      *wohnst
-*leben      *wohnen
-*lebt       *wohnt
-
-Ich habe ein kind / Kinder
-
-Wie viele Kinder haben Sie ?
-                 hast du ?
-                 
-Haben Sie Kinder?
-Hast du Kinder ?
-
-keine  Ja, Ich habe ein kind.
-       Nein,Ich habe keine kinder.
-
-
-
-
-
-
-
-
-
----
-
-## 3
-
-
-Wo arbeiten Sie ?
-   arbeite bei Siemens
-   
-   
-Jahr-Jahre
-
-
-Simones Buch
-Emirs Buch
-Yunus' Buch
-Aziz' Buch
-
-kennen
-*kenne
-*kennst
-*kennt
-*kennen
-*kennt
-*kennen
-
-Drehbuch
-Ausschnitt
-
-Kennen Sie Brad Pitt?
-
-Wer kennt Diester Bahlen ?
-
-Possesivartikel
-     maskulin feminin Plural
-Ich   mein    meine   meine
-du    dien    deine   deine
-
-Vater / Mutter / Eltern
-Sohn/Schwester/Geschwester
-Großmutter/ Großfather/Großeltern
-
-Bruder/Tochter/Enkelin
-(Ehe)Mann / (ehe) Frau
-
-Vater+Mutter=Eltern
-Sohn+Tochter=Kinder
-Bruder+Schwester=Geschwester
-Großvater+Großmutter=Großeltern
-Enkel + Enkelin=Enelkinder
-Ehemann + Ehe frau = Ehepaar-singular
-
-Brüder Brüder
-Tochter Töchter
-Sohn    Söhne
-Enkel   Enkel
-familie  familien
-
-Kommen Sie nich aus Ankara ?
-
-+ Doch Ich komme aus Ankara.
-
--Nein Ich komme nich aus Ankara.
-
-Kommen Sie aus Ankara ?
-
-+Ja, Ich komme aus Ankara
--Nein, Ich komme nicht aus Ankara
-
-Position 2
-
-W-Frage -Woher kommen Sie ?
-Aussage -Ich komme aus Ankara.
-
-                  -Antwort=Nein
-Regel  +Frage     +Antwort=Ja
-       -Frage     -Antwort=Nein
-                  +Antwort=Doch
-                  
-
----
-
-## 4
-
-
-Möbel  
-Tisch  
-Lampe  
-Bett  
-
-
-Ich glaube Sie sind (nicht) verheiratet.
-
-Möbelhaus (like IKEA)
-
-Das bild kostet 15 €. Das ist billig.  
-Das bild kostet 1000 €. Das ist teuer.  
-
-Brauchen Sie hilfe?  
-Ja, bitte.  
-Nein, danke.  
-
-Wie viel kostet der Tisch?  
-Was kostet der Tisch?  
-
-der Preis  
-der Fernsheer  
-
-Der Tisch kostet 1478 € | eintausendvierhundertachtundsiebzig euro
-
-
-Die Couch  
-Die Couch kostet ...
-Sie kostet ...
-Sie kommt aus Italien.  
-Sie ist sehr teuer.  
-
-
-Materialen  
-das Holz  
-das Metall  
-das Glas  
-das Popier  
-der Kunstoff  
-das Plastik (die Plastik sanat eserleri için kullanılır)
-
-Farben  
-rot
-grün
-orange
-schwarz
-blau
-gelb
-weiß
-braun
-
-Formen
-echig (köşeli)
-rund
-sternfürmig (starshaped)
-wolkenformig (bulut şekli)
-
-der stern
-die Wolke  
-
-aus + Material (keine artikel)  
-Frau Klums Brille ist aus Kunststoff.  
-Das ist Pinocchio. Er ist aus Holz.  
-Die Flasche ist aus Plastik.  
-
-verkaufen  
-
-
-
-Das ist Brille von Top-Designerm S.A.H
-Die Brille ist stemförmig,blau-gelb und aus Plastik
-Mein Goethe-Sonderundebot nur 21 Euro.
-
-das Etikett
-der Zustand
-Versteigern
-neu gebraucht
-Ich bieten ....!
-
-Wie schreibt man ?
-Wie heißt das auf Deutsch.
-
-Entsculdigung , Wie heißt das auf Deutsch ?
-
-Definitartikel |  Indefinit artikel   | Personelpronomt
-
-Der Schrim        Das ist ein Schrim    Er ist grün   (m)
-Das Buch          Das ist ein Buch      Es ist rot    (n)
-Die Uhr           Das ist eine Uhr      Sie ist braun (f)
-
-einmal benutzt ---1 kez kullanılmış
-
-*durchsichtig
-
-der (Regel) Schrem
-das Streichholz
-die Geldbörse
-die Seife
-der Bleistift
-die Brille
-das Buch
-die Flasche
-das Feuerzeug
-der Fotoapparat
-die Katte
-der Kugelschreiber
-der Schüssel
-die Tasche
-
-
-
----
-
-
-## 5
-
-
-
-*ausweis
-*mit freundlichen grüßen
-
-Wie geth's ?
--Mir geht's gut.
-
-die Zeitung--ung--->DİE
-
-Auktion
-rückwärts
-s Meer
-e Freundin,nen
-r Freund,e
-e Kollegin,in
-bestellen
-e Bestellung
-r Kollege,n
-r Chef,s
-e Chefin,nen
-e Postwärts
-r Arbeitsplatz
-r Platz
-glücklich
-Termin
-
-Wie heißt die Plural form von ... ?
-          der Plural
-
-
-Die Pluralform von Tache heißt/ist Taschen
-Der Plural
-
-zigaretten rauchen
-wasse trinken
-
-Namen + Verb kombinotion
-
-Wer sucht Rechnungen ?
-
-Wer braucht Stiftel ?
-
-Was ist das Handy ?
-
-Wo sind die Handys ?
-
-Wo ist denn der Schlüssel ?
-Wo ist der Schlüssel ?
-       die Maus ?
-       das Formular ?
-       
-Hier ist der Schlüssel.
-         die Maus.
-         das Formular.
-
-
-Hier sind die Formulare.
-
-
-Wo sind die Schlüssel ?
-+Hier | ist | die | Tasche   |
-      |verb |     | Subjeckt |
-
-Was suchen Sie ?
-
-+Ich suche das | Kursbuch |.
-               | Objekt   |
-               
-Ich suche | den Schlüssel
-          | die Maus
-          | das Formular.
-
-der---->den  den Laptop
-             die Briefmarke
-             das Formular
-             
-
-Alle subjekte sind immer im Nominativ.
-
-  *Der schlüssel ist klein. Was
-  *Die Lahrerin ist groß. Wer
-
-Verben+ Akkusativ
-
-öffnen 
-machen
-schließen
-hören
-schreiben
-sprechen
-haben
-finden
-suchen
-lesen
-markieren
-buchstabieren
-fragen
-brauchen
-lieben
-konjugieren
-ergänzen
-finden
-schreiben
-
-Ich haben den Schlüssel.
-    suche
-    finde
-
-
-Was suchst du ?
-Ich suche den Lehrer. Wen ?
-
-Wen suchst du ?
-Ich suche den mann.
-
-Du suchst den Laptop 
-Den Laptop suchst du.
-
-Ich brauche den Laptop
-            einen Laptop
-            
-    Nominativ    Akkusativ
-Der| kein      |    keinen|
-Die| keine     |    keine |
-Das| kein      |    kein  |
-Die| keine     |    keine |
-            
-            
-Wie viele ... haben Sie ?
-
-Ich habe ..... ein
-               kein
-               eine
-               keine
-               einen
-               keinen
-               
----
-
-
-
-## 6
-
-
-
-| Sich meiden  |  Sich meiden             | Sich verabschieden
-| --- | --- | --- |
-
-| Firma + Name | Guten Tag                | Tschüss
-|             |  hier ist Marlene Neumann|Auf Widerhören
-|             |  Hallo hier ist ....     |Auf widersehen
-
-
-Das Gewitter
-der Donner
-der Blitz
-der Regen
-das Stück,e
-der Autor,en
-handeln
-gebraucht
-der Trödel,-
-der Trödler,-
-der Trödlerin,nen
-der Koch,"e
-die Köchin,nen
--kochen
-
-Spazieren gehen
-Rad Fahren
-Scach spielen
-Musik hören
-Freunde treffen
-lesen
-fotografieren
-schwimmen
-Im ınternet surfen
-singen
-kochen
-schnellxlangsam
-Postkarte
-Händler
-Teller
-Tasse
-Handtuch
-König
-Puppe
-Schlüsselanhänger
-der Nachtflohmarkt
-Nummer eins
-Sachsen
-
-Du kannst wirklich gut Tenis spielen
--Sie können gut Tennis spielen
-
-Wow! Du kannst ja super tanzer.
--Sie können super tanzen.
-
-Du kannst wirklich toll kochen.
-   
-*Modalverb 2. ---------- Infinite   
-
- *Du kochest sehr gut.
- 
-können
-Ich kann
-du kannst
-er/sie kann
-wir können
-ihr könnt
-sie/Sie können
-
-Du spielst wirklich gut Gitarre.
-Du kann wirklich gut Gitarre spielen.
-
-Was sind deine Hobbys ?
-         ihre  Hobbys ?
-
-
-Was ist dein Hobby ?
-        Ihr  Hobbys ?
-        
-        
-Meine Hobbys sind fußball spielen
-Mein Hobby ist singen,Basketball spielen.
-
-
-
----
-
-
-
-## 7
-
-
-tauchen
-die Harpune,n
-Jagen
-die Brücke,n
-Lösung
-der Ausflug,"e
-einen Ausflugmachen
-
-fußball spielen macht Spaß!
-kochen macht  Spaß!
-
-Klavier Spielen Lieblingsänger.
-  Fahren Sie gern Ski ?
-  Fährst du
-  
-  +Ja , Ich fahre gern Ski.
-  -Nein,Ich fahre nicht gern Ski.
-  
-  Verben mit lokol wechsel
-  
-| **verb**      | **ich**     | **du**      | **er/sie/es**   | **wir**     | **ihr**     | **sie/Sie**     |
-|---            |---          |---          |---              |---          |---          |---              |
-| *fahren*      | fahre       | fährst      |   fährt         | fahren      | fahrt       | fahren          |
-| *lesen*       | lese        | liest       | liest           | lesen       | lest        | lesen           |
-| *treffen*     | treffe      | triffst     | trifft          |   treffen   | trefft      | treffen         |
-| *sprechen*    | spreche     | sprichst    | spricht         | sprechen    | sprecht     | sprechen        |
-| *sehen*       | sehe        | siehst      | sieht           | sehen       | seht        | sehen           |
-
-Ich spiele gern Gitarre.Ich arbeite gern.
-
-Was machst du in der Freizeit ?
-    machen Sie
-   Leider habe ich kein Zeit
-   Ich habe lider keine Zeit.
-   Am wochende habe ich .....
-    
-Ich spiele gern Gitarre.
-Ich backe gern
-Ich arbeite gern
-Ich mache gern Hausofgaben.
-
-Fährst du gern Rad ?
-Liest du gern Bücher ?
-Triffst du gern Freunde ?
-
-Wie oft gehst du ins Theater.
-+Ich gehe |immer| ins Theater.
-          |-----|
-          |oft|
-          |manchmal|
-          |fast nie|
-          |nie|
-          
-der Würfel
-würfeln -zar atmak
-das Wörterbuch,"es
-die Pantomime,n
-Möglichkeit
-
-Können Sie bitte die Fenster öffnen.
-Kann ich mal telefonieren ?
-Kann ich das feuerzeug haben ?
-Leider habe ich doch keine zeit .
-Können Felix und Katja kochen ?
-  +Ja,felix und Katja können super kocher.
-  
-nicht so gut    
-super
-toll ein bisschen
-nicht so gut
-nicht
-gar nicht
-
-
-senkrecht
-waagerecht ---->>>
-diagonal
-
-Spielst du sehr oft fußball ?
-  +Ja,Ich spiele sehr oft Fußball ?
-  -Nein,Ich spiele nur manchmal fußball.
-
-Wie oft schwimmst du ?
-+Ich swimme fast nie.
-
-
-
----
-
-## 8
-
-Ich kann Bücker lesen.
-Ich lese leiber.
-Kannst du Schach spielen.
-Ich verstehe das nicht.
-Wie shreibt man das.
-Wie spricht man das aus ?
-Was sollen wir tun ?
-Bitte helfen Sie mir.
-
-
-
-der Kalender
-das Wochenende,n
-das Ende,n
-die Woche,n
-
-Heute Nachmittag gehe ich ins Schwimbad.
----------------       ---       ------
-   Wann ?             Wer?       Wohin ?
-
-Regel Wohin ? ---->in+Akkusativ
-    in + das = ins
-    in + die = Kneipe
-    in + den = Zoo
-    
-Wohin gehen Sie morgen Abend ?
-  Ich gehe morgen ins Cafê
-  morgen abend gens in -----> in den Zoo / in die Disk / ins Kino
-  
-  
-Wohin gehen Sie gern ?
-
-Haben Sie heute Nachmittag zeit ?
-  -Nein , leider habe ich keine zeit.
-
-Wie spät ist es ? -- formel
-  Es ist 11:40 Uhr.
-
-Es ist fünf noch sieben 7:05
-Halb acht - 7:30
-
-
-7:30 - Halb acht
-8:30 - Halb neun
-7:35- fünf nach
-7:25- fünf vor halb acht
-7:45- vietel vor acht
-7:28- Kurz vor halb acht
-7:32- Kurz nach halb acht
-04:03 kurz nach vier
-
-
-der Morgen
-der Kurs,e
-Fluss
-Fußball
-
-
-Weiß ich nach nicht---henüz bilmiyorum
-
-|wissen|
-|------|
-| weißt|
-| weiß |
-|wissen|
-|wisst |
-|wissen|
-
-Ich weiß nicht.
-Ich weiß nicht was du meinst.
-
-
-Lust Haben.....
-
-Lust auf  Schwimmbad ?
-          Kino ?
-          Disco ?
-          
-Lust Haben .....
-  +Ich habe Lust
-  -Ich habe keine Lust
-  
- Hast du Lust auf ?
- 
- Möchtest du ins Schwimmbad gehen ?
- 
- spät x früh
- 
- um 19:99 Uhr
- am Montag
- am Dienstag
- am Mittwoch
- am Donnerstag
- am Freitag
- am Samstag   am
- am Sonntag   Wochanende
- 
- Ich gehe am Montag um 19:00 ins Kino.
-          ------------------  ------
-              Wann ?          Wohin ?
-              
-              
-              
- Subjekt + Verb +Zeit + Wohin/Ort
- 
- einen Vorschlang machen -- öneride bulunmak
- 
- reagieren
- E Reaktion,en
- R Vorschlang,"e
- +Passt es dir  | um 18:00 Uhr
-                | am Montag ?
-  
-
-Hast du heute Nachmittag Zeit ?
-Ja,Warum
--Wir könen heute Schach spielen
-  -Lust auf Schach spielen.
-  -Gehen wir ins Kino
-  -Gehen wir ins die Ausstellung ?
-  
-  Ich habe keine Lust
-  -Gehen wir ins Konzert ?
-  Ka,wann denn ?
-  Um acht Uhr.-Ich habe um 20:00 Uhr keine Zeit.Passt es dir um 18:00 Uhr
-  -Okay
-  
-  Gehen wir am Wochenende tanzen ?
-  
-  schlafen gehen
-  höflich
-  unhöflich
-  die Einladung,en
-  eine Ausstellung
-  
-    Wann haben wir wieder Kurs.
-    Am Mittwoch haben wir wieder Deutsch kurs.
-    Am Wochenende ist kein Kurs.
-
-am-------> Wochentage
-          Tageszeiten
-          
-          
-Am Abend/Morgen lerne ich gern Deutsch
-**In der Nacht** spiele ich gern ....
-Am Dienstagnacjmittag gehe ins Shimmbad
-
-
-*etwas vorschlagen*
-Vielleicht können wir morgen Abend ins Theater gehen.
-Vielleicht könen wir später zusammen kaffee trinken.
-
-Heute Nachmittag gehe ich ins Museum
-Heute Nachmittag male ich.
-Ich gehe heute Nachmittag ins Museum.
-
-die Uhrzeit,en
-
-
-
-  
-
----
-
-## 9
-
-
-
-Wieder ?
-
-am Nachmittag oder in der Nacht ?
-
-am Nachmittag um 14:00 Uhr.
-
-
-Liebe**r** ....,
-  hast du am Sonnertag zeit ? Können wir ski fahren gehen oder vielleicht können wir in die Bibliothek gehen.
-  Leibe Grüße
-  
-  Viele Grüße
-  Freundliche Grüße
-  
-  Sehr geehte**r** Frau Freundenburg
-  
-  der Onkel,-
-  die tante,n
-  der Kühlschrank,"e
-  der Hunger
-  der Durst
-  der Pilz,e
-  das Ei,er
-  der Olive
-  das Obst
-  das Gemüse
-  
-  Er hat Hunre ?
-  -Haben Sie Hunger
-  -Hast Du
-  
-  Ich habe auch Hunger
-  Nein Ich habe keinen Durst.
-  
-  Bist du durstig ?
-          hungrig?
- +Ja,Ich bin durstig.
- -Nein,Ich bin nicht durstig.
- 
- immer--%100
- fast immer--%85
- oft--%60
- manchmal--%50
- fast nie--%20
- nie--%0
- 
- 
- Ich esse gern = Ich mag
- 
- Ich mag Schokolade
-         Kucher
-         
-         
-Ich mag keinen Hamburger Spinat.
-
-schon=sehr früh (çok erken)
-erst = sehr spüt ( çok geç)
-
-Was möchten Sie essen ?
--Ich möchte eine Fischsuppe essen.
-
-Er trinkt keinen kaffee.
--Sie einen kaffee ?
--Ich möchte einen kaffee trinken.
--Marie möchte heute Abend tanzen.
-
-Was ist dein Lieblingsessen ?
--Mein Lieblingsessen ist .....
-
-Nominativ - der -ein degişmiyor
-Akusativ der-einen
-
-Was isst du gein.
-
-|möchten|
-|-------|
-|möchte|
-|möchtest|
-|möchte|
-|möchten|
-|möchtet|
-|möchten|
-
-|mögen|
-|-------|
-|mag|
-|magst|
-|mag|
-|mögen|
-|mögt|
-|mögen|
-
-
-
-
-
-
-
----
-
-## 10
-
-
-
-das flugzeug
-die Sonnenbrille,n
-der Blindenstock,"e
-der Gehstock,"e
-
-Ich komme um 22 Uhr um zu Hause an. ankommen
-
-Du kommst um 22 Uhr zu Hause an.
-
-Er/sie/es kommt um 22 Uhr zu Hause an.
-
-Ich kaufe im supermarkt ein.--einkaufen
-
-Du kaufst im supermarkt ein.
-
-Ich rufe dich an.--anrufen
-
-Wann rufst du mich an ?
-
-Regel konjugiere Verb  Prafix am
-        Position 2      Ende 
-        
-        
-Rufst du mich an ? -- Ja/Nein Frage
-
-Wann rufst du ?
---Ich rufe die Lehrerin an
-
-Hast du mich ab ?
-
-Won holst du ab ?
---Ich hole dich ab ?
-meine
-
-Was halst du ab ?
--Ich hole das Paket ab.
-
-Holst du mich ab ?
-
-meinen Sohn
-meine Frendin
-eine Freundin
-die Abfahrt
-die Ankunft
-
-Ich hole dich ab.
-Ich hole meine Tochter ab
-Ich hole Zeyeb ab.
-Ich hole meinen Sohn ab.
-
-Was brinst du
-Wen bringst du
-
-Mein Bus fährt um 21:00 Uhr ab.
-
-Mein/Der Bus kommt um 21:00 Uhr am
-
-Halbst du mich ab ?
-Kannst du mich abholen ?
-
-halst du mich ab ?
-Ich habe dich ab 
-
-Wen halst du ab ?
-
-alle 20 minuten fährt dir S-Bahn
-
-Wan sind wir an Flughafen ?
-Wie heißt der nächste Halt ?
-
-Vor sicht an der Bahnsteigkante Der Zug fährt ab.
-
-Ich suche die U2 zum Olympiazentum.
-
-Die Bahn fährt gerade am Bahnsteig 5 ein.
-
-Steight ihr am Goetheplatz ein ?
-x Wann telefonierst du mit Oma.
-Heute Abend sehen wir fern.Kommst du auch ?
-Wo steigt ihr um ?
-x Bekomme ich bitte einen Kaffee ?
-Vielleicht bringe ich am Samstag meine Freundin mit.
-x Am Sonntag frühstüke ich erst um 12 Uhr.
-
-x nicht trennbar
--trennbar
-
-Wann kommst du an ?
--Ich komme um 12 Uhr 45 an
-
-Wo steigst du ein ?
--Ich steige auf Gleis 10 ein.
-
-
-
-
-
-
----
-
-## 11
-
-
-
-Wohin ?
-    In+Akkıstiv
-    
-Wo ?
-    In + dativ
-    die-->der
-
-Wen ?
-Wenn
-die Nuss,"e
-
-Wan fährst du zu Hause ab ?
--Ich fahre um 16:00 Uhr ab.
-
-unsteigen
-___________________________________________________________________________________________
-
-| **Subject Verb**   | **-**   |  **-**   |
-| ---                  | ---                           | ---               | 
-| Ich fahre            |  täglich                      | mit  denn Fahrad  |
-| Ich fahre            |  2 bis 3 mal die Woche        |zur Arbeit         |
-| Ich fahre            |  nur am Wochenende            | zum Einkaufen     | 
-| Ich fahre            |  fast nie                     | ins Cafê          | 
-| Ich fahre            |  nie                          | Ins Kino          | 
-          
-___________________________________________________________________________________________
-
-Wie oft ? Wohin ?
-
-Gestern
-  Ich habe Hausaufgaben gemacht
-      hilfstverb        partizip 2
-  Tempus=Perfekt
-  
-  Perfekt-->kommunikation
-
-
-Ich habe Deutsch gelernt.
-Wann hast du Deutsch gelernt ?
-
-Hast du Deutsch gelernt. Ja/Nein Frage
-___________________________________________________________________________________________
-
-das Gleis
-der Bahnof
-der Flughafen
-die S-Bahn
-der Zug
-die Straßenbahn
-die U-Bahn
-Der Bahnsteig
-das Taxi
-der Bus
-die Haltestelle
-das Flugzeug
-der Koffer
-die Tasche
-das Gepäck
-
-Mach's gut
-Oass auf dich auf
-Verkehrsmittel
-Gepäck
-am Bahnhof
-das Fahrrad,"er
-die Celli
-das Cello
-das Instrument,3
-der Terminkalender,-
-das Geschenk,e
-___________________________________________________________________________________________
-
-
-
-
-
----
-
-## 12
-
-
-
-| **Frühling**   | **Sommer**   |  **Herbst**   | **Winter**    |
-| ---            | ---          | ---           | ---           |
-| Marz           |  Juni        | September     | Dezember      |
-| April          |  Juli        | Oktober       | Januar        |
-| Mai            |  August      | November      | Februar       |
-
-
-
-Was haben Sie | letzten Freitag | gemacht
-              | letzte  Woche   |
-              | letztes Jahre   |
-
-
-der Tag,e
-die Woche,n
-das Jahr,r
-der Schulabschluss,'s
-der Bachelor
-der Bachelorprüfung,en
-der Master
-die Fachochschule,n
-der Würfel
-der Stab,'e
-die Pyramide,n
-
- 
- hatte
- ______
- 
- ich hatte
- du  hattest
- er/sie hatte
- wir    hatten
- ihr    hattet
- wir    hatten
- 
-? Was haben Sie gestern gemacht?
-  +Ich habe gestern Hausaufgabe gemacht
-
-__________________________________________________________
-
-
-Wo ist Sie ?
- Wie komme ich zum Bahnhof.
-
-auf üstünde                                   NOMİNATİV                 DATİV
-an yanında                                    der/ein Bahnhof     | vor  dem einem
-neben yanında(temas yok)                      das/ein Resteurant  |      dem einem
-vor önünde                                    die/eine Ampel      |      der einer
-hinter                                        die/- Cafe's Hauser |      den - Hausern
-zwischen
-über
-unter
-in
-
-in dem = im
-an dem = am
-
-Was ist das Hotel Marrhim ?
- +Das hotel ist neben der bank.
- 
- LOKALE PRAPOSİHİMEN MİT DATİV
- 
- regel PRASPOSİTON + ARTİKEL -R --->DEM
- 
- Die Pyramide ist auf dem Würfel.
- Der Würfel ist neben dem Haus.
- Der Würfel ist neben der Pyramide.
- 
- WO?-----> die--->der
- 
- der Stadtplang,'e                                          rechts abbiegen
- die Strasse,n                                              wenden
- der Navigator,en                                           zurückfahren
- das Hotel,s                                                geradeaus fahren
- anmachen                                                   links abbiegen
- ausmachen
- die Stadmitte
- das Zentrum
- der Polizist,en
- die Polizistin,nen
- die Wand,'e
-
- Stimm+nicht ---->false
- 
- Der Kalender hangt an der Wand(die Wand).
- Das Auto ist zwischen den Hausern.
- 
- Wo?
- die-----> den+Nomen +'n'
- 
- Die Frau ist in dem(im) Cafe'.
- 
- Die Lehrerin ist an dem (am) Tisch.
- 
- Egehan ist am Fenster
- 
- Dann kommen Sie unter einer Brücke durch.(durchkommen)
- 
- Maritim ist in dem(im) Zentrum ?
-
-An den Cafe's fahren Sie
-
-Bitte links abbiegen
-
-Bitte rechts abbiegen
-Gehen/Fahren Sie geradeaus
-Bitte wenden Sie
-An der Ampel fahren Sie geradeaus.
-Gehen/Fahren Sie an der Kirche vorbei
-Gehen/Fahren Sie die zweite Strasse links.
-
-
-
-
-
----
 
 ---
 
