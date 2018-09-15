@@ -239,6 +239,15 @@ die Wechelprãposition | die Wechelprãpositionen
 
 Hier finden Sie Ruhe und Erholung  
 
+Grüzei mitenand  
+Tach  
+
+"Tach" und "Grüzei mitenand" bedeutet "Guten Tag".
+
+die Region | die Regionen  
+
+
+
 
 Michael steht um 8.15 Uhr auf.
 Michael ist um 8.15 Uhr aufgestanden.
@@ -1411,6 +1420,52 @@ tot
 
 
 ## Kleidung
+
+die Kleidung  
+die Hose | die Hosen  
+der Rock | die Röcke (etek)  
+das Kleid | die Kleider  
+die Bluse | die Blusen  
+das Hemd | die Hemden (gömlek)  
+der Anzug | die Anzüge (takım elbise)  
+die Krawatte | die Krawatten  
+das Kostüm | die Kostüme  
+der Pullover | die Pullover (kazak)  
+die Weste | die Westen (cepken)  
+das T-shirt | die T-shirts  
+die Jeans | die Jeans  
+die Jacke | die Jacken  
+der Mantel | die Mãntel  
+die Mütze | die Mützen (bere)  
+der Handschuh | die Handschuhe  
+der Schal | die Schals die Schale (atkı)  
+der Gürtel | die Gürtel (kemer)  
+der Schuh | die Schuhe  
+der Stiefel | die Stiefel (çizme)  
+der Strumpf | die Strümpfe (çorap)  
+das Unterhemd | die Unterhemden (atlet)  
+die Unterhose | die Unterhosen  
+der Unterrock | die Unterröcke  
+
+sich ausziehen | hat sich ausgezogen (soyunmak)    
+sich anziehen | hat sich angezogen (giyinmek)  
+
+
+## Essen und Trinken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
