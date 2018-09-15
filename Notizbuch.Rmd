@@ -828,6 +828,45 @@ das Haus | die Häuser
 
 ## Namen Akkusativ {.tabset .tabset-fade .tabset-pills}
 
+| **DATİV**      | **Dativ oder Akkusativ**     | **AKKUSATIV**      | 
+|---             |---                           |---                 |
+| aus            | **an**                       | durch              | 
+| bei            | **auf**                      | für                | 
+| mit            | **hinter**                   | gegen              | 
+| nach           | **in**                       | ohne               | 
+| seit           | **neben**                    | um                 | 
+| von            | **über**                     |                    | 
+| zu             | **unter**                    |                    | 
+|                | **vor**                      |                    | 
+|                | **zwischen**                 |                    |
+
+**Wo---> DATİV**
+
+z.B
+
+der Schrank -- > in dem Schrank
+die Tasche --> in der Tasche
+das Regal --> in dem Regal
+die Autos --> in den Autos
+
+an dem --> am
+bei dem -->beim
+in dem --> im
+von dem -->vom
+zu dem -->zum / zu der --> zur
+
+**Wohin?-----> Akkusativ**
+
+der Schrank --> in den Schrank
+die Tasche --> in die Tasche
+das Regal --> in das Regal
+die Autos --> in die Autos
+
+an das --> ans
+in das --> ins
+
+## Namen Akkusativ {.tabset .tabset-fade .tabset-pills}
+
 
 ---
 
