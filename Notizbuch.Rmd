@@ -1680,7 +1680,7 @@ die Brombeere | die Brombeeren (blueberry)
 
 das Gemüse | die Gemüse (sebze)  
 die Aubergine | die Auberginen (patlıcan)  
-
+die Paprika | die Paprika die Paprikas
 
 
 
