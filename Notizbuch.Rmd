@@ -850,7 +850,7 @@ das Regal --> in dem Regal
 die Autos --> in den Autos
 
 an dem --> am
-bei dem -->beim
+bei dem --> beim
 in dem --> im
 von dem -->vom
 zu dem -->zum / zu der --> zur
@@ -1638,6 +1638,48 @@ sich anziehen | hat sich angezogen (giyinmek)
 
 
 ## Essen und Trinken
+
+der Hunger  
+der Durst  
+
+essen | hat gegessen  
+trinken | hat getrunken  
+frühstücken | hat gefrühstück  
+
+
+satt (tok)  
+
+
+das Frühstück | die Frühstücke  
+das Mittagessen | die Mittagessen  
+das Abendessen | die Abendessen  
+die Lebensmittel (erzak)  
+die Butter  
+der Kãse | die Kãse  
+die Wurst | die Würste  
+das Ei | die Eier  
+das Mehl (un)  
+der Pfeffer  
+das Salz  
+der Zucker  (şeker)  
+
+das Obst (meyve)  
+der Apfel | die Ãpfel  
+die Birne | die Birnen  
+die Orange | die Orangen  
+die Traube | die Trauben (üzüm)  
+die Banane | die Bananen  
+die Zitrone | die Zitronen  
+die Ananas | die Ananas / die Ananasse  
+die Kirsche | die Kirschen  (kiraz)  
+die Pflaume | die Pflaumen  (erik)  
+die Aprikose | die Aprikosen  (kayısı)  
+die Erdbeere | die Erdbeeren  (çilek)  
+die Himbeere | die Himbeeren  (redberry)  
+die Brombeere | die Brombeeren (blueberry)  
+
+das Gemüse | die Gemüse (sebze)  
+die Aubergine | die Auberginen (patlıcan)  
 
 
 
