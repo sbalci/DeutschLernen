@@ -20,7 +20,7 @@ https://www.hueber.de/media/36/Menschen_Loesungen_AB_A2.pdf
 
 ## 1
 
-Mein Opa war auch schon Bãcker.
+Mein Opa war auch schon Bäcker.
 
 die Brezel | die Brezeln  
 
@@ -32,7 +32,7 @@ der Teig | die Teige
 
 das Studium  
 
-das Einrad | die Einrãder  
+das Einrad | die Einräder  
 
 das Fußballbild | die Fußballbilder  
 
@@ -45,28 +45,28 @@ das Skateboard | die Skateboards
 die Süßigkeiten  
 
 
-auf Bãume klettern  
+auf Bäume klettern  
 Comics lesen  
 Computerspiel spielen  
 draußen übernachten  
 Einrad fahren  
 Sachen auf dem Flohmarkt verkaufen  
 mit Puppet spielen  
-Geschicten erzãhlen  
+Geschicten erzählen  
 Fußballbilder sammeln  
 zeichnen  
-Witze erzãhlen  
+Witze erzählen  
 Süßigkeiten essen  
 Skateboard fahren  
 
 der Ausschnitt | die Ausschnitte    
-der Bãcker | die Bãcker  
-die Bãckerin | die Bãckerinnen  
+der Bäcker | die Bäcker  
+die Bäckerin | die Bäckerinnen  
 der Cousin | die Cousins  
 der Neffe | die Neffen  
 die Nichte | die Nichten  
 der Schwiegersohn | die Schwiegersöhne  
-der Schwiegervater | die Schwiegervãter  
+der Schwiegervater | die Schwiegerväter  
 
 
 übergeben  
@@ -94,7 +94,7 @@ die Abstimmung | die Abstimmungen
 das Ereignis | die Ereignisse  
 
 die Familiengeschichte  
-Familiengeschichten erzãhlen  
+Familiengeschichten erzählen  
 die Geschichte | die Geschichten  
 
 streiten  
@@ -137,8 +137,8 @@ renovieren
 
 diskutieren  
 
-das Fernsehgerãt | die Fernsehgerãte  
-hãngen  
+das Fernsehgerät | die Fernsehgeräte  
+hängen  
 das Kissen | die Kissen  
 verstecken  
 
@@ -147,15 +147,15 @@ die Gemeinsamkeit | die Gemeinsamkeiten
 **Im Zimmer**  
 
 die Kommode | die Kommoden  
-die Wand | die Wãnde  
+die Wand | die Wände  
 das Regal | die Regale  
 die Lampe | die Lampen  
-das Fernsehgerãt | die Fernsehgerãte  
+das Fernsehgerät | die Fernsehgeräte  
 der Schreibtisch | die Schribetische  
 der Stuhl | die Stühle  
 der Tisch | die Tische  
-der Schrank | die Schrãnke  
-der Vorhang | die Vorhãnge  
+der Schrank | die Schränke  
+der Vorhang | die Vorhänge  
 das Bett | die Betten  
 das Kissen | die Kissen  
 das Sofa | die Sofas  
@@ -202,7 +202,7 @@ Einrichtungstipp geben
 der Magazintext | die Magazintexte  
 der Umzug | die Umzuge  
 
-die Wechelprãposition | die Wechelprãpositionen  
+die Wechelpräposition | die Wechelpräpositionen  
 
 
 
@@ -265,11 +265,11 @@ Ich bin sportlich aktiv
 
 anders gehen  
 
-der Anfãnger | die Anfãnger  (beginner, amateur)  
+der Anfänger | die Anfänger  (beginner, amateur)  
 der/die Fortgeschrittene | die Fortgeschritennen (advanced learner)  
 
 
-die Anfãngerin | die Anfãngerinnen  
+die Anfängerin | die Anfängerinnen  
 die Anstrengung | die Ansterngungen  (effort)  
 die Ausrüstung | die Ausrüstungen (equipment)  
 außerdem  (also, in addition)  
@@ -277,9 +277,9 @@ der Bauernhof | die Bauernhofe  (farm)
 
 beraten (advice)  
 die Beratung | die Beratungen  (consultation)  
-der Bergkrãuterre | die Bergkrãutertees  (çiçek çayı)  
+der Bergkräuterre | die Bergkräutertees  (çiçek çayı)  
 der Bodensee  (Lake Constance)  
-der Campaignplatz | die Campaignplãtze  
+der Campaignplatz | die Campaignplätze  
 der Einkaufsbummel  
 
 enden  
@@ -306,7 +306,7 @@ das Inntal  (Valley of Inn)
 der/das Kajak | die Kajaks (kano)  
 das Kite-Surfen  (windsurf)  
 die Landschaftsreise | die Landschaftreisen  
-die Stãdtreise | die Stãdtreisen  
+die Städtreise | die Städtreisen  
 die Motivation | die Motivationen  
 
 die Naturliebhaberin | die Natürliebhaberinnen  
@@ -351,7 +351,31 @@ das Stichwort | die Stichwörter (keyword)
 
 der Trend | die Trends  
 
-die Geschãftsidee | die Geschãftsideen  
+die Geschäftsidee | die Geschäftsideen  
+der Reiseveranstalter (seyhat oragnizatörü)  
+Veranstalter(in) (organizatör)  
+der Rodel (kızak)  
+die Schlittenfahrt | die Schlittenfahrten  (kızak kaymak)  
+die Shikurs | die Shikurse  
+
+ausdrücken  (yazdırmak)  
+bewerten  (değerlendirmek)  
+buchen  
+touristisch  
+
+überhaupt (eninde sonunda) X überhaupt nicht (asla)  
+Mir gefãllt das Angebot überhaupt nicht  
+
+die Vorliebe | die Vorlieben (eğilim)  
+die Werbebroschüre | die Werbebroschüren  (reklam broşürü)  
+
+50er-Jahre  
+auswandern  
+besitzen  (to possess)  
+
+
+
+
 
 
 
@@ -1016,7 +1040,7 @@ e -> i (2-3 singular)
 | *sprechen*    | spreche     | sprichst    | spricht         | sprechen    | sprecht     | sprechen        |
 | *helfen*      | helfe       | hilfst      | hilft           | helfen      | helft       | helfen          |
 | *tragen*      | trage       | trägst      | trägt           |             |             |                 |
-| *gefallen*    | gefalle     | gefãllst    | gefãllt         | gefallen    | gefallt     | gefallen        |
+| *gefallen*    | gefalle     | gefällst    | gefällt         | gefallen    | gefallt     | gefallen        |
 | *werden*      | werde       | wirst       | wird            | werden      | werdet      | werden          |
 
 
@@ -1549,7 +1573,7 @@ der Kopf | die Köpfe
 die Brust | die Brüste (göğüs)  
 das Bein | die Beine  
 der Fuß | die Füße  
-der Hals | die Hãlse (boyun)  
+der Hals | die Hälse (boyun)  
 der Bauch | die Bauche (batın)  
 das Kine | die Knie  
 der Zeh | die Zehen (Toe)  
@@ -1558,14 +1582,14 @@ die Schulter | die Schulterin (omuz)
 der Arm | die Arme  
 der Ellbogen | die Ellbogen (dirsek)  
 der Po | die Pos  
-die Hand | die Hãnde  
+die Hand | die Hände  
 der Finger | die Finger  
 das Gesicht | die Gesichter  
 das Haar | die Haare  
 die Nase | die Nasen  
 der Mund | die Münder  
 die Lippe | die Lippen  
-der Zahn | die Zãhne  
+der Zahn | die Zähne  
 die Zunge | die Zungen  
 das Ohr | die Ohren  
 das Auge | die Augen  
@@ -1573,7 +1597,7 @@ das Auge | die Augen
 
 die Seife | die Seifen  
 das Shampoo | die Shampoos  
-das Handtuch | die Hãndtucher  
+das Handtuch | die Händtucher  
 die Zahnbürste | die Zahnbürsten  
 die Zahnpasta | die Zahnpastas die Zahnpastas  
 die Creme | die Cremes  
@@ -1584,24 +1608,24 @@ das Blut
 das Pflaster | die Pflaster  
 das Medikament | die Medikamente  
 die Tablette | die Tabletten  
-der Arzt | die Ãzte  
-die Ãrztin | die Ãrztinnen  
+der Arzt | die äzte  
+die ärztin | die ärztinnen  
 die Krankenschwester  
 der Patient | die Patienten  
 die Patientin | die Patientinnen  
 die Versichertenkarte | die Versichertenkarten  
 die Praxis | die Praxen  
-das Krankenhaus | die Krankenhãuser  
+das Krankenhaus | die Krankenhäuser  
 der Krankenwagen die Krankenwagen  
 
 
 duschen | hat geduscht  
 baden | hat gebadet  
-sich kãmmen | hat sich gekãmmt  (comb hair)  
+sich kämmen | hat sich gekämmt  (comb hair)  
 sich rasieren | hat sich rasiert (shave)  
 
 gesund | gesünder | am gesündesten  
-krank | krãnker | am krãnkesten  
+krank | kränker | am kränkesten  
 tot  
 
 
@@ -1621,7 +1645,7 @@ die Weste | die Westen (cepken)
 das T-shirt | die T-shirts  
 die Jeans | die Jeans  
 die Jacke | die Jacken  
-der Mantel | die Mãntel  
+der Mantel | die Mäntel  
 die Mütze | die Mützen (bere)  
 der Handschuh | die Handschuhe  
 der Schal | die Schals die Schale (atkı)  
@@ -1655,7 +1679,7 @@ das Mittagessen | die Mittagessen
 das Abendessen | die Abendessen  
 die Lebensmittel (erzak)  
 die Butter  
-der Kãse | die Kãse  
+der Käse | die Käse  
 die Wurst | die Würste  
 das Ei | die Eier  
 das Mehl (un)  
@@ -1664,7 +1688,7 @@ das Salz
 der Zucker  (şeker)  
 
 das Obst (meyve)  
-der Apfel | die Ãpfel  
+der Apfel | die äpfel  
 die Birne | die Birnen  
 die Orange | die Orangen  
 die Traube | die Trauben (üzüm)  
@@ -1681,6 +1705,81 @@ die Brombeere | die Brombeeren (blueberry)
 das Gemüse | die Gemüse (sebze)  
 die Aubergine | die Auberginen (patlıcan)  
 die Paprika | die Paprika die Paprikas
+der Spinat    
+die Bohne (fasülye)  
+die Erbse | die Erbsen (bezelye)  
+die Karotte  
+der Mais (mısır)  
+die Kartoffel | die Kartoffeln  
+die Tomate | die Tomaten  
+die Gurke | die Gurken (salatalık)  
+die Zwiebel | die Zwiebeln  (soğan)  
+die Zucchini | die Zucchini  (kabak)  
+der Pilz | die Pilze (mantar)  
+die Nuss | die Nüsse (ceviz)  
+der Salat | die Salate  
+das Öl | die Öle  
+der Essig | die Essige (sirke)  
+die Nudeln  
+der Reis  
+
+der Fisch | die Fische  
+das Fleisch  
+das Geflügel  (tavuk)  
+das Brot | die Brote  
+das Brötchen | die Brötchen  
+der Kuchen | die Kuchen (kek)  
+die Suppe | die Suppen  
+die Pommes frites  
+
+die Schokolade | die Schokoladen  
+das Eis | die Eis (dondurma)  
+die Getränke  
+das Bier | die Biere  
+der Wein | die Weine  
+der Kaffee | die Kaffes  
+der Tee | die Tees  
+die Milch  
+der Saft | die Sãfte  
+
+
+das Glas | die Glãser  
+die Flasche | die Flaschen  
+das Geschirr (tabak çanak)  
+die Tasse | die Tassen (fincan)  
+die Untertasse | die Untertassen  
+der Teller | die Teller (tabak)  
+das Besteck | die Bestecke (çatal bıçak)  
+das Messer | die Messer (bıçak)  
+die Gabel | die Gabeln (çatal)  
+der Löffel | die Löffel (kaşık)  
+der Teelöffel | die Teelöffel  
+
+der Geschmack | die Geschmãcke (tat)  
+
+sauer | saurer | am sauresten (ekşi)  
+süß | süßer | am süeßten (tatlı)  
+scharf | schãrfer | am schrãfsten (acı)  
+salzig | salziger | am salzigsten (tuzlu)  
+
+die Küche | die Küchen  
+der Herd | die Herde (ocak)  
+der Ofen | die Öfen (fırın)  
+
+kochen | hat gecoht  
+backen | hat gebacken
+
+das Restaurant | die Resraurants  
+der Kellner | die Kellner (garson)  
+die Kellnerin | die Kellnerinnen  
+die Speisekarte | die Spaisekarten (yemek listesi)
+
+bestellen | hat bestellt  (sipariş vermek)
+
+
+## Die Farben
+
+
 
 
 
@@ -1930,7 +2029,7 @@ Gehen/Fahren Sie an der Kirche vorbei
 Gehen/Fahren Sie die zweite Straße links  
 
 erste  (first)  
-nãchste  (next)  
+nächste  (next)  
 zweite  (second)  
 dritte (third)  
 
@@ -3654,8 +3753,8 @@ Wo ist ... ?
 
 Wo sind ... ?
 
-Wo hãngt der Kalender?
-Wo hãngen .. ?
+Wo hängt der Kalender?
+Wo hängen .. ?
 Wo liegt der Stift?  
 Wo liegen der Stift?  
 sitzt  
@@ -4016,7 +4115,7 @@ Die Tasche gehört mir = Das ist meine Tasche
 gefallen + Dativ  
 gehören + Dativ  
 
-Die Tasche gefãllt mir = Ich finde die Tasche schön  
+Die Tasche gefällt mir = Ich finde die Tasche schön  
 
 helfen + personal pronomen dativ  
 danken + personal pronomen dativ  
@@ -4044,7 +4143,7 @@ auf dem Markt
 auf dem Tür  
 
 
-Du gefãllst mir.  
+Du gefällst mir.  
 Du gehörst mir.  
 
 
@@ -4116,7 +4215,7 @@ https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l16/index.php
 Hilfe rufen  
 warten  
 
-die Angst | die Ãngste    
+die Angst | die ängste    
 Angst haben  
 
 genervt sein  
@@ -4846,8 +4945,8 @@ Ihr macht das Bett -> Macht das Bett! Macht bitte das Bett!
 | **Du**                                                | **Ihr**                                   | 
 | ---                                                   | ---                                       | 
 | Schlaf!                                               | Schlaft!                                  |
-| Du schlãfst viel -> Schlaf nicht zu/so viel           | Ihr schlaft viel -> Schlaft nicht viel    | 
-| Du rãumst aus -> Rãum aus                             | Ihr rãumt aus -> Rãumt aus                | 
+| Du schläfst viel -> Schlaf nicht zu/so viel           | Ihr schlaft viel -> Schlaft nicht viel    | 
+| Du räumst aus -> Räum aus                             | Ihr räumt aus -> Räumt aus                | 
 | Sei!                                                  | Seid!                                     |
 | Du bist fleißig -> Sei fleißig                        | Ihr seid fleißig -> Seid Fleißig          | 
 | Hab!                                                  | Habt!                                     | 
@@ -4880,12 +4979,12 @@ Ihr deckt den Tisch -> Deckt den Tisch
 Sie decken den Tisch -> Decken Sie bitte den Tisch (formel)  
 
 
-**schlafen (vokal wechsel a -> ã) -> du schlãfst (ã -> a) -> schlaf**   
+**schlafen (vokal wechsel a -> ä) -> du schläfst (ä -> a) -> schlaf**   
 
-du schlãfst -> schlaf
+du schläfst -> schlaf
 
 
-fahren -> du fãhrst -> fahr  
+fahren -> du fährst -> fahr  
 
 sprechen -> du scprichst > sprich  
 
@@ -4896,8 +4995,8 @@ essen -> Sie essen -> Essen Sie!
 essen -> ihr esst -> Esst!  
 essen -> Du isst -> Iss!  
 
-ausrãumen -> du rãumst aus -> Rãum aus!  
-schlafen -> Du schlãfst -> Schlaf!  
+ausräumen -> du räumst aus -> Räum aus!  
+schlafen -> Du schläfst -> Schlaf!  
 vergessen -> vergisst -> vergiss  
 
 still sein = leise  
@@ -5044,7 +5143,7 @@ https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l21/index.php
 hupen (korna)
 
 
-der Fußgãnger | die Fußganger  
+der Fußgänger | die Fußganger  
 der Fahrradfahren | die Fahrradfahren  
 der Straßenverkehr | die Straßenverkehr  
 die Ampel | die Ampeln  
@@ -5143,16 +5242,16 @@ Mottoparty ()
 
 
 anhaben -> Was hat Fabian an?  
-tragt   -> Was trãgt Fabian?  
+tragt   -> Was trägt Fabian?  
 
 *anhaben + Akkusativ*   
 
 *tragen + infinitiv*  
 
 
-Er trãgt eine Hose. Die Hose ist kurz.  
+Er trägt eine Hose. Die Hose ist kurz.  
 
-Was hat mãdchen links neben / von ihm?  
+Was hat mädchen links neben / von ihm?  
 
 
 Ich finde das T-shirt besser als ...  
@@ -5163,8 +5262,8 @@ Regel: genauso + Adjektiv + wie
 ++  -> ++  
 +   -> +
 
-Janas Hose gefãllt mir genauso gut wie ihre Bluse.  
-Janas Hose (Nominativ) gefãllt mir (Dativ) genauso gut wie ihre Bluse (Nominativ).  
+Janas Hose gefällt mir genauso gut wie ihre Bluse.  
+Janas Hose (Nominativ) gefällt mir (Dativ) genauso gut wie ihre Bluse (Nominativ).  
 
 Ich mag Pizza genauso gern wie Sphagetti.  
 
@@ -5187,7 +5286,7 @@ Wen + Akk
 
 
 Ich finde Harrys Kostüm besser als Fabians (Kostüm).  
-Veras Kleid gefãllt mir besser als Jasmins.  
+Veras Kleid gefällt mir besser als Jasmins.  
 Ich mag lila genauso gern wie rosa.  
 
 | Ich | finde | Fabians Kostüm | gut. |
@@ -5195,7 +5294,7 @@ Ich mag lila genauso gern wie rosa.
 | Subj Nominativ | Verb Pos 2 | Akk Obj | |
 
 
-Fabians Kostüm gefãllt mir.  
+Fabians Kostüm gefällt mir.  
 (Sub Nominativ Wer? + Verb + Dativ)  
 
 Ich mag Fabians Kostüm.  
