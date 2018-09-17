@@ -1994,6 +1994,24 @@ bestellen | hat bestellt  (sipariş vermek)
 
 ## Die Farben
 
+die Farbe | die Farben  
+
+rot  
+gelb  
+blau  
+grün  
+braun  
+grau  
+schwarz  
+weiß  
+rosa  
+orange  
+lila  
+
+
+## Gebãude und Wohnen  
+
+die Stadt | die Stãdte  
 
 
 
