@@ -418,6 +418,69 @@ die Werbebroschüre | die Werbebroschüren  (reklam broşürü)
 50er-Jahre  
 auswandern  
 besitzen  (to possess)  
+das Börek  
+
+erraten (to guess)  
+
+der Hautarzt  (dermatologist)  
+die Hauartzin  
+die Medizin  
+
+mütterlicherseits (anne tarafı)  
+vaterlicherseits (baba tarafı)  
+
+verbringen | verbracht (spend time)  
+
+der Zwilling | die Zwillinge (twins)  
+
+stolz (auf) (proud)  
+Ich bin sehr stolz auf meine Familie.  
+
+
+das Jobangebot | die Jobangebote  (job offer)  
+der Schlüsselbund | die Schlüsselbunde  
+der Schlüsseldienst | die Schlüsseldienste (çilingir)  
+
+der Glückbringer  
+das Pech  
+die Scherbe | die Scherben (broken fragment)  
+Scherben bringen Glück  
+
+emigrieren  
+das Heimatland | die Heimatlãnder (homeland)  
+
+der Kaufmann Kaufleute  
+die Literatur | die Literaturen  
+der Nobelpreis | die Nobelpreise  
+der Professor | die Profesoren  
+die Professorin | die Professorinnen  
+der Roman | die Romane
+der Schriftsteller (author)    
+die Schriftstellerin  
+der Untertan https://de.wikipedia.org/wiki/Der_Untertan  
+
+
+der Gartenzwerg | die Gartenzwerge  
+die Gartenzwergfrau | die Gartenzwergfrauen  
+die Gartenzwergin | die Gartenzverginnen  
+der Gartnezwergmann | die Gartenzwergmãnner  
+das Pupenhaus | die Pupenhãuser  
+die Unterwelt | die Unterwelten  (underworld)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -939,8 +1002,18 @@ https://www.youtube.com/watch?v=Tyeu2Z_p9sM
 https://www.youtube.com/watch?v=4J5i3yxH1ks&list=PLfBYdQ3Qs3IrRDjHUv-ny-t8_usQfP1PB
 
 - Easy German
-
 https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ
+
+
+---
+
+## Podcast
+
+- Deutsch – warum nicht?
+
+https://www.dw.com/tr/almanca-öğrenin/deutsch-warum-nicht/s-2609?maca=tur-DKpodcast_dwn1_tur-3803-xml-mrss
+
+
 
 ---
 
@@ -5930,6 +6003,13 @@ https://www.hueber.de/lernen/deutsch-als-fremdsprache
 https://www.klett-sprachen.de/deutsch-im-krankenhaus-neu/r-1/78#reiter=titel&niveau=A2-B2
 
 
+---
+
+# Coursera
+
+## Sprachtechnologie in den Digital Humanities
+
+https://www.coursera.org/learn/digital-humanities/home/welcome
 
 
 
