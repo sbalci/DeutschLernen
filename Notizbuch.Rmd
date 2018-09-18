@@ -225,7 +225,7 @@ das Möbelhaus
 
 legen  
 stellen  
-hãngen
+hängen
 
 Ich lege die Zeitung auf die Couch.
 
@@ -233,13 +233,13 @@ Wir stellen das Geschirr in die Küchenschränke.
 
 Legst du bitte den Bleistift neben das Papier?
 
-Julia hãngt die Lampe über den Tisch.
+Julia hängt die Lampe über den Tisch.
 
 
 *Im Möbelhaus*
 
 Das ist doch ein toll*es* Bild. Das können wir *über das Sofa* hängen.
-Aber bei uns hãngen doch schon so viele Bilder *über dem Sofa*.
+Aber bei uns hängen doch schon so viele Bilder *über dem Sofa*.
 
 
 Der Teppich ist schön und nicht mal teuer. *Den* legen wir *in das Schlafzimmer*.
@@ -410,7 +410,7 @@ buchen
 touristisch  
 
 überhaupt (eninde sonunda) X überhaupt nicht (asla)  
-Mir gefãllt das Angebot überhaupt nicht  
+Mir gefällt das Angebot überhaupt nicht  
 
 die Vorliebe | die Vorlieben (eğilim)  
 die Werbebroschüre | die Werbebroschüren  (reklam broşürü)  
@@ -447,7 +447,7 @@ die Scherbe | die Scherben (broken fragment)
 Scherben bringen Glück  
 
 emigrieren  
-das Heimatland | die Heimatlãnder (homeland)  
+das Heimatland | die Heimatländer (homeland)  
 
 der Kaufmann Kaufleute  
 die Literatur | die Literaturen  
@@ -463,8 +463,8 @@ der Untertan https://de.wikipedia.org/wiki/Der_Untertan
 der Gartenzwerg | die Gartenzwerge  
 die Gartenzwergfrau | die Gartenzwergfrauen  
 die Gartenzwergin | die Gartenzverginnen  
-der Gartnezwergmann | die Gartenzwergmãnner  
-das Pupenhaus | die Pupenhãuser  
+der Gartnezwergmann | die Gartenzwergmänner  
+das Pupenhaus | die Pupenhäuser  
 die Unterwelt | die Unterwelten  (underworld)  
 
 
@@ -641,7 +641,7 @@ hungrig X satt
 sonst (else, otherwise)  
 
 die Banane | die Bananen  
-der Apfel | die Ãpfel  
+der Apfel | die äpfel  
 die Birne | die Birnen  
 die Bohne | die Bohnen  (fasülye)  
 das Bonbon | die Bonbons  
@@ -664,7 +664,7 @@ die Buttermilch
 die Essgewohnheiten  (eating habbits)  
 das Fett | die Fette  
 fettarm  
-der Frischkãse  
+der Frischkäse  
 das Gramm  
 das Kilogram  
 die Magermilch  
@@ -674,15 +674,15 @@ das Pfund (500 gr)
 
 roh X gecoht (raw X cooked)  
 
-der Supermarkt | die Supermãrkte  
+der Supermarkt | die Supermärkte  
 
 weich X hart (soft X hard)  
-weichen Kãse  
-harten Kãse  
+weichen Käse  
+harten Käse  
 
 mithilfe  
 
-das Einkaufsgesprãch  
+das Einkaufsgespräch  
 der Obst und Gemüseladen  (manav)  
 der Teeladen  (tee shop)  
 die Wursttheke | die Wursttheken (et reyonu)  
@@ -711,15 +711,15 @@ das Rührei | die Rühreier  (omlet)
 die Scheibe | die Scheiben  (slice)  
 eine Scheibe Brot  
 
-die Adjektivedeklination nach indefinitem Artikel: einen milden Kãse  
+die Adjektivedeklination nach indefinitem Artikel: einen milden Käse  
 
 das Gewicht | die Gewichte  
 
 mager  (skinny)  
-Ich hãtte gern einen mageren Schinken  
+Ich hätte gern einen mageren Schinken  
 
 mild  
-Bitte einen milden Kãse  
+Bitte einen milden Käse  
 
 die Verpackung | die Verpackungen  
 
@@ -746,7 +746,7 @@ der Prospekt | die Prospekte
 der Reiseführer | die Reiseführer  
 die Reiseführerin | die Reiseführerinnen  
 
-der Rudgang | die Rudgãnge  
+der Rudgang | die Rudgänge  
 Rudgang machen  
 
 die Schiffahrt | die Schiffahrten  
@@ -775,8 +775,8 @@ abgeben | hat abgegeben (return)
 
 abstrakt (soyut)  
 
-ãrgern (sich)  
-Charlotte ãrgert sich  
+ärgern (sich)  
+Charlotte ärgert sich  
 
 berühmt (famous)  
 bunt (colorful)  
@@ -1248,6 +1248,8 @@ https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ
 - Deutsch – warum nicht?
 
 https://www.dw.com/tr/almanca-öğrenin/deutsch-warum-nicht/s-2609?maca=tur-DKpodcast_dwn1_tur-3803-xml-mrss
+
+http://rss.dw.com/xml/DKpodcast_dwn1_tur
 
 
 
@@ -2264,10 +2266,10 @@ der Wein | die Weine
 der Kaffee | die Kaffes  
 der Tee | die Tees  
 die Milch  
-der Saft | die Sãfte  
+der Saft | die Säfte  
 
 
-das Glas | die Glãser  
+das Glas | die Gläser  
 die Flasche | die Flaschen  
 das Geschirr (tabak çanak)  
 die Tasse | die Tassen (fincan)  
@@ -2279,11 +2281,11 @@ die Gabel | die Gabeln (çatal)
 der Löffel | die Löffel (kaşık)  
 der Teelöffel | die Teelöffel  
 
-der Geschmack | die Geschmãcke (tat)  
+der Geschmack | die Geschmäcke (tat)  
 
 sauer | saurer | am sauresten (ekşi)  
 süß | süßer | am süeßten (tatlı)  
-scharf | schãrfer | am schrãfsten (acı)  
+scharf | schärfer | am schräfsten (acı)  
 salzig | salziger | am salzigsten (tuzlu)  
 
 die Küche | die Küchen  
@@ -2318,9 +2320,143 @@ orange
 lila  
 
 
-## Gebãude und Wohnen  
+## Gebäude und Wohnen  
 
-die Stadt | die Stãdte  
+die Stadt | die Städte  
+das Dorf | die Dörfer  
+die Kirche | die Kirchen  
+das Hotel | die Hotels  
+das Einzelzimmer | die Einzelzimmer  
+das Doppelzimmer | die Doppelzimmer  
+die Jugenherberge | die Jugenherbergen  
+der Platz | die Plãtze  
+die Garage | die Garagen  
+das Haus | die Hãuser  
+das Dach | die Dãcher (çatı)  
+der Dachboden | die Dachböden  
+das Fenster | die Fenster  
+der Balkon | die Balkons / die Balkone  
+die Tür | die Türen  
+der Garten | die Gãrten  
+Erdgeschoss | Erdgeschosse  
+der Keller | die Keller  
+die Wohnung | die Wohnungen  
+
+der Umzug | die Umzüge  
+
+umziehen | ist umgezogen
+ausziehen | ist ausgezohen  
+einziehen | ist eingezogen  
+
+der Eingang | die Eingãnge (giriş)  
+der Ausgang | die Ausgãnge (çıkış)  
+
+das Zimmer | die Zimmer  
+das Schlafzimmer  
+das Wohnzimmer  
+das Bad | die Bãder  
+die Dusche | die Duschen  
+die Toilette | die Toiletten  
+das Toilettenpapier  
+die Möbel  
+das Bett | die Betten  
+der Schrank | die Schrãnke (dolap)    
+das Regal | die Regale (raflık)  
+der Tisch | die Tische  
+der Stuhl | die Stuhle  
+die Bank | die Bãnke  
+der Sessel | die Sessel  
+das Sofa | die Sofas  
+die Lampe | die Lampen  
+der Teppich | die Teppiche  
+das Bild | die Bilder  
+der Schlüssel | die Schlüssel  
+
+
+## Die Zahlen
+
+
+Zahlen 0 bis 30
+
+0 null
+1 eins (ei -> ai)
+2 zwei (z -> ts)
+3 drei
+4 vier (ie -> ii)
+5 fünf
+6 sechs
+7 sieben
+8 acht
+9 neun (eu -> oi)
+10 zehn (eh -> ee)
+11 elf
+12 zwölf
+13 dreizehn
+14 vierzehn
+15 fünfzehn
+16 sechzehn
+17 siebzehn
+18 achtzehn
+19 neunzehn
+20 zwanzig
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+40
+50
+60
+70
+80
+90
+100 ein hundert
+
+34
+43
+52
+61
+75
+86
+97
+
+
+
+
+
+
+100 (ein)hundert
+101 (ein)hunderteins
+200 zweihundert
+300 dreihundert
+400 vierhundert
+500 fünfhundert
+600 sechshundert
+1000 (ein)tausend
+2000 zweitausend
+10000 zehntausend
+20000 zwanzigtausend
+100000 (ein)hunderttausend
+1000000 eine Million
+
+248999 | zweihundertachtundvierzigtausendneunhundertneunundneunzig
+
+
+
+
+
+plus  +  
+minus  -  
+mal  *  
+durch  /  
+ist/gleich =  
+
+1+1 = 2 eins plus eins ist / gleich zwei  
 
 
 
@@ -2339,22 +2475,9 @@ die Stadt | die Stãdte
 
 
 
-## Anderes
 
-Angelas Buch  
-Sie ist Angelas Kind.  
-Das ist Julias Buch.  
-Das ist Yunus' Buch.  
-Das ist Aziz' Buch.  
 
-Herkunff  
 
-Ich wohne in Kizilay in Ankara in der Turkei.
-
-Ich lerne Deutsch.  
-Wir lernen das Alphabet.  
-
-Kann ich Sie etwas fragen?
 
 
 
@@ -2682,121 +2805,6 @@ Wo ist der Stab?
 
 
 
-
-
-
-
-
----
-
-# Zahlen 0 bis 30
-
-0 null
-1 eins (ei -> ai)
-2 zwei (z -> ts)
-3 drei
-4 vier (ie -> ii)
-5 fünf
-6 sechs
-7 sieben
-8 acht
-9 neun (eu -> oi)
-10 zehn (eh -> ee)
-11 elf
-12 zwölf
-13 dreizehn
-14 vierzehn
-15 fünfzehn
-16 sechzehn
-17 siebzehn
-18 achtzehn
-19 neunzehn
-20 zwanzig
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-40
-50
-60
-70
-80
-90
-100 ein hundert
-
-34
-43
-52
-61
-75
-86
-97
-
-
-
-
-
----
-
-# Zahlen
-
-100 (ein)hundert
-101 (ein)hunderteins
-200 zweihundert
-300 dreihundert
-400 vierhundert
-500 fünfhundert
-600 sechshundert
-1000 (ein)tausend
-2000 zweitausend
-10000 zehntausend
-20000 zwanzigtausend
-100000 (ein)hunderttausend
-1000000 eine Million
-
-248999 | zweihundertachtundvierzigtausendneunhundertneunundneunzig
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# gleich
-
-plus  +  
-minus  -  
-mal  *  
-durch  /  
-ist/gleich =  
-
-1+1 = 2 eins plus eins ist / gleich zwei  
-
-
-
-
-
-
-
-
-
-
 ---
 
 # Gegenteil
@@ -2890,6 +2898,21 @@ Meine Feiertage waren schön.
 
 Was haben Sie gemacht?
 
+
+Angelas Buch  
+Sie ist Angelas Kind.  
+Das ist Julias Buch.  
+Das ist Yunus' Buch.  
+Das ist Aziz' Buch.  
+
+Herkunff  
+
+Ich wohne in Kizilay in Ankara in der Turkei.
+
+Ich lerne Deutsch.  
+Wir lernen das Alphabet.  
+
+Kann ich Sie etwas fragen?
 
 
 ---
