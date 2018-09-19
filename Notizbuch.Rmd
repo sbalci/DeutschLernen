@@ -976,6 +976,21 @@ Meine Lieblingsveranstaltung
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 7
@@ -2375,88 +2390,122 @@ der Schlüssel | die Schlüssel
 
 ## Die Zahlen
 
+die Zahl | die Zahlen  
 
-Zahlen 0 bis 30
+Zahlen 0 bis 30  
 
-0 null
-1 eins (ei -> ai)
-2 zwei (z -> ts)
-3 drei
-4 vier (ie -> ii)
-5 fünf
-6 sechs
-7 sieben
-8 acht
-9 neun (eu -> oi)
-10 zehn (eh -> ee)
-11 elf
-12 zwölf
-13 dreizehn
-14 vierzehn
-15 fünfzehn
-16 sechzehn
-17 siebzehn
-18 achtzehn
-19 neunzehn
-20 zwanzig
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-40
-50
-60
-70
-80
-90
-100 ein hundert
+0 null  
+1 eins (ei -> ai)  
+2 zwei (z -> ts)  
+3 drei  
+4 vier (ie -> ii)  
+5 fünf  
+6 sechs  
+7 sieben  
+8 acht  
+9 neun (eu -> oi)  
+10 zehn (eh -> ee)  
+11 elf  
+12 zwölf  
+13 dreizehn  
+14 vierzehn  
+15 fünfzehn  
+16 sechzehn  
+17 siebzehn  
+18 achtzehn  
+19 neunzehn  
+20 zwanzig  
+21 einundzwanzig  
+22  
+23  
+24  
+25  
+26  
+27  
+28  
+29  
+30 dreißig  
+40 vierzig  
+50 fünfzig  
+60 sechzig  
+70 siebzig  
+80 achtzig  
+90 neunzig  
+100 (ein) hundert  
+101 hunderteins  
+34  
+43  
+52  
+61  
+75  
+86  
+97  
 
-34
-43
-52
-61
-75
-86
-97
+100 (ein)hundert  
+101 (ein)hunderteins  
+200 zweihundert  
+300 dreihundert  
+400 vierhundert  
+500 fünfhundert  
+600 sechshundert  
+1000 (ein)tausend  
+2000 zweitausend  
+10000 zehntausend  
+20000 zwanzigtausend  
+100000 (ein)hunderttausend  
+1000000 eine Million  
+die Million  
+die Milliarde  
 
+248999 | zweihundertachtundvierzigtausendneunhundertneunundneunzig  
 
-
-
-
-
-100 (ein)hundert
-101 (ein)hunderteins
-200 zweihundert
-300 dreihundert
-400 vierhundert
-500 fünfhundert
-600 sechshundert
-1000 (ein)tausend
-2000 zweitausend
-10000 zehntausend
-20000 zwanzigtausend
-100000 (ein)hunderttausend
-1000000 eine Million
-
-248999 | zweihundertachtundvierzigtausendneunhundertneunundneunzig
-
-
-
-
+rechnen | hat gerechnet  
 
 plus  +  
-minus  -  
-mal  *  
-durch  /  
-ist/gleich =  
+minus  -   
+mal  *   
+durch  /   
+ist/gleich =   
+
+das Prozent | die Prozent %   
 
 1+1 = 2 eins plus eins ist / gleich zwei  
+
+die Form | die Formen  
+der Kreis | die Kresie (çember)  
+das Dreieck | die Dreiecke (üçgen)  
+das Viereck | die Vierecke (dörtgen)  
+
+ganz (adj, yuvarlak)  
+
+der Teil | die Teile (parça)  
+
+die Hãlfte | die Hãlften (yarım)  
+das Drittel | die Drittel (üçtebir)  
+das Viertel  
+das Fünftel  
+das Sechstel  
+das Siebtel  
+das Achtel  
+das Neuntel  
+das Zehntel  
+
+erste  
+zweite  
+dritte
+vierte  
+fünfte  
+sechste  
+siebte  
+achte  
+neunte  
+zehnte  
+
+der/die/das zweite ..
+
+
+## Einkaufen und Geld
+
 
 
 
