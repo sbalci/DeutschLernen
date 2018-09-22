@@ -1686,8 +1686,28 @@ gewinnen | gewonnen
 # Adjektiven {.tabset .tabset-fade .tabset-pills}
 
 
+|**Undefiniert**       | **Nominativ**      | **Akkusativ**     | **Dativ**           | **Nomen**     | 
+|---                   |---                 |---                |---                  |---            |
+|                      |Das ist/sind        |Ich hätte gern     |mit                  |               |
+| ein                  | mager*er*          |**einen** mager*en*|**einem** magere*en* | Schinken      | 
+| ein                  | hell*es*           |**ein** hell*es*   |**einem** hell*en*   | Brot          |
+| eine                 | grün*e*            |**eine** grün*e*   |**einer** grün*en*   | Paprika       | 
+| P.L                  | hell*e*            | hell*e*           | hell*en*            | Brötchen      | 
 
+|**Definiert **        | **Nominativ**       | **Akkusativ**     | **Dativ**           | **Nomen**     | 
+|---                   |---                  |---                |---                  |---            |
+|                      |Mir gefällt/gefallen |Ich finde ...toll  |mit                  |               |
+| der                  | berühmt*e*          |**den** alte*en*   |**dem** nette*en*    | Reiseführer   | 
+| das                  | bunt*e*             |**das** bunt*e*    |**dem** bunt*en*     | Fenster       |
+| die                  | neu*e*              |**die** neu*e*     |**der** neu*en*      | Kamera        | 
+| P.L                  | nett*e*             | nette*en*         | nette*en*           | Leuiten       | 
 
+| **Nominativ**      | **Akkusativ**   | **Dativ**      | **Nomen**     | 
+|---                 |---              |---             |---            |
+| gut*er*            | gut*en*         | gut*em*        | Lohn          | 
+| groß*es*           | großes*es*      | groß*em*       | Lager         |
+| flexibl*e*         | ordentlich*e*   | flexibl*er*    | Arbeitszeit   | 
+| klein*e*           | freundlich*e*   | gunstig*en*    | Preisen       | 
 
 
 ---
