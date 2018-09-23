@@ -1683,7 +1683,10 @@ gewinnen | gewonnen
 
 ---
 
+
 # Adjektiven {.tabset .tabset-fade .tabset-pills}
+
+
 
 
 |**Undefiniert**       | **Nominativ**      | **Akkusativ**     | **Dativ**           | **Nomen**     | 
@@ -1708,6 +1711,8 @@ gewinnen | gewonnen
 | groß*es*           | großes*es*      | groß*em*       | Lager         |
 | flexibl*e*         | ordentlich*e*   | flexibl*er*    | Arbeitszeit   | 
 | klein*e*           | freundlich*e*   | gunstig*en*    | Preisen       | 
+
+
 
 
 ---
@@ -2408,6 +2413,8 @@ das Bild | die Bilder
 der Schlüssel | die Schlüssel  
 
 
+---
+
 ## Die Zahlen
 
 die Zahl | die Zahlen  
@@ -2524,6 +2531,8 @@ zehnte
 der/die/das zweite ..
 
 
+---
+
 ## Einkaufen und Geld
 
 das Geschãft | die Geschãfte  
@@ -2537,8 +2546,8 @@ der Preis
 einkaufen | ein gekauft  
 kosten | hat gekostet  
 verkaufen | hat verkauft (satmak)  
-kaufen | hat gekauft (satın almak)
-
+kaufen | hat gekauft (satın almak)  
+zahlen | hat gezahlt (to pay)  
 
 
 billig | billiger | am billigsten  (ucuz)  
@@ -2546,6 +2555,27 @@ teuer | teurer | am teuresten  (pahalı)
 
 
 
+die Tüte | die Tüten (bag)    
+die Geldbörse | die Geldbörsen (cüzdan)  
+die Brieftasche | die Brieftaschen (kart cüzdanı)  
+der Markt | die Mãrkte (pazar)  
+der Supermarkt | die Süpermãrkte  
+der Kiosk | die Kioske (büfe)  
+die Bãckerei | die Bãckereien (fırın)  
+die Fleischerei | die Fleischereien (kasap)  
+der Frisör | die Frisöre (kuaför)  
+die Rehnung | die Rehnungen  
+die Kontonummer | die Kontonummern  
+die Bankleitzahl | die Bankleitzahlen  
+die Kreditkarte | die Kreditkarten  
+das Geld  
+der Euro | die Euros  
+der Cent | die Cents  
+die Bank | die Banken  
+
+---
+
+## Angaben zur Person  
 
 
 
@@ -2565,6 +2595,7 @@ teuer | teurer | am teuresten  (pahalı)
 
 
 
+---
 
 ## Sprache
 
