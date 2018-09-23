@@ -2506,7 +2506,23 @@ der/die/das zweite ..
 
 ## Einkaufen und Geld
 
+das Geschãft | die Geschãfte  
+die Kasse | die Kassen (kasa)  
+der Verkãufer |  die Verkãuferin (seller)  
+die Verkãuferin | die Verkãuferinnen  
+der Kunde | die Kunden (alıcı, müşteri)  
+die Kundin | die Kundinnen  
+der Preis  
 
+einkaufen | ein gekauft  
+kosten | hat gekostet  
+verkaufen | hat verkauft (satmak)  
+kaufen | hat gekauft (satın almak)
+
+
+
+billig | billiger | am billigsten  (ucuz)  
+teuer | teurer | am teuresten  (pahalı)  
 
 
 
