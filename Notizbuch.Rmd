@@ -931,29 +931,29 @@ Ich schlage vor, wir gehen in den Kölner Dom, denn das ist das Wahrzeichen von 
 
 
 
+*die* freundlich*en* X die unfreundllich*en* Tourist*en*
+*die* schön*en* X hässlich*en* Postkart*en*
+*der* geschlossen*e* X geöffnet*e* Supermarkt
+*die* langweilig*e* X lustig*e* Stadtführung
+*die* lang*e* X kurz*e* Schifffahrt
+*das* gut*e* X schlecht*e* Wetter
+*das* alt*e* X neu*e* Haus
+*der* kurz*e* X lang*e* Brief
 
-die schön*en* X hässlich*en* Postkarten
-der geschlossene X geöffnete Supermarkt
-die langweilige X lustige Stadtführung
-die lange X kurze Schifffahrt
-das gute X schlechte Wetter
-das alte X neue Haus
-der kurze X lange Brief
 
-
-Den alten Dom finde ich viel schöner als die moderne Kirche.  
-In den bunten Prospekten sieht die Stadt viel schöner aus.  
-Die alte Kamera ist total schwer. Warum hast du denn nicht die neue mitgenommen?  
-In dem schicken Restaurant neben der Post würde ich auch gerne essen.  
-Hast du das nette Cafe gesehen? Da können wir nach der Führung hingehen.  
-Warum hast du denn die billigen Postkarten gekauft?  
-Wie findest du denn das grüne Haus mit dem kleinen Turm da vorne?  
-In der kleinen Kirche waren wir ja schon.  
+*Den* alt*en* Dom finde ich viel schön*er* als *die* modern*e* Kirche.  
+In *den* bunt*en* Prospekten sieht *die* Stadt viel schön*er* aus.  
+*Die* alt*e* Kamera ist total schwer. Warum hast du denn nicht *die* neu*e* mitgenommen?  
+In *dem* schick*en* Restaurant *neben* *der* Post würde ich auch gerne essen.  
+Hast du *das* nett*e* Cafe gesehen? Da können wir *nach* *der* Führung hingehen.  
+Warum hast du denn *die* billig*en* Postkart*en* gekauft?  
+Wie findest du denn *das* grün*e* Haus *mit* *dem* klein*en* Turm da vorne?  
+In *der* klein*en* Kirche waren wir ja schon.  
 
 
 Hallo ...,
-viele Grüße aus dem schönen Wien.
-Die Stadt ist toll. Am ersten Tag habe ich einen langen Rundgang durch das Zentrum gemacht. Der Stadtführer war ein total lustiger junger Wiener. Die alten Häuser hier finde ich besonders schön. Ich habe auch eine nette Schifffahrt auf der schönen blauen Donau gemacht. Gestern Abend war ich im berühmten Burgtheater. Die Schauspieler waren wirklich toll. Leider habe ich keine billige Unterkunft gefunden. Das Hotel liegt auch noch in einem ziemlich langweiligen Stadtviertel. Aber sonst ist es hier toll. Ich hoffe, du hast auch schöne Ferien.
+viele Grüße *aus* *dem* schön*en* Wien.
+Die Stadt ist toll. *Am* erst*en* Tag habe ich ein*en* lang*en* Rundgang *durch* *das* Zentrum gemacht. Der Stadtführer war ein total lustig*er* jung*er* Wiener. *Die* alt*en* Häuser hier finde ich besonders schön. Ich habe auch eine nett*e* Schifffahrt auf *der* schön*en* blau*en* Donau gemacht. Gestern Abend war ich *im* berühmt*en* Burgtheater. Die Schauspieler waren wirklich toll. Leider habe ich keine billig*e* Unterkunft gefunden. Das Hotel liegt auch noch in ein*em* ziemlich langweilig*en* Stadtviertel. Aber sonst ist es hier toll. Ich hoffe, du hast auch schön*e* Ferien.
 Bis bald!
 ..
 
@@ -971,6 +971,18 @@ Bis bald!
 Meine Lieblingsveranstaltung  
 
 
+der Begriff | die Begriffe  
+das Feuer (fire)  
+das Mittelalterfest | die Mittelalterfeste  
+das Theaterfestival | die Theaterfestivals  
+
+die Bühne | die Bühnen (sahne)   
+die Eintritskarte | die Eintritskarten  
+die Ermãßigung | die Ermãßigungen (indirim)  
+das Theaterstück | die Theaterstücke (tiyatro oyunu)  
+der Vortrag | die Vortrãge (sunum)  
+
+die Ars Electronica
 
 
 
@@ -982,11 +994,104 @@ Meine Lieblingsveranstaltung
 
 
 
+**Wie lange?**  
+vom 8. bis 10.Juli    
+beginn --------------> Ende  
 
 
 
+**Ab wann?**  
+
+jetzt ------------------------- Beginn ->----------------------------->
+
+von morgen an  
+vom 1. Januar an  
 
 
+**Seit wann?**  
+
+Vergangenheit ->--------------------------------------------------------> jetzt
+
+
+seit 1979 / Juli  
+
+
+**Wie lange?**  
+
+( ----------------------- )
+
+länger / mehr als / über 30 Jahre
+
+
+---
+
+- Fährst du eigentlich dieses Jahr wieder nach Deutschland?
+- Ja, *in* vier *Monaten* fahre ich nach Düsseldorf.
+- Und was machst du dort?
+- Ich mache *für* zwei Wochen einen Kurs.
+- Warst du da nicht schon *im* letzten Jahr?
+- Ja, das mache ich schon *seit* drei Jahren jeden Sommer. Es macht großen Spaß. Vormittags haben wir Deutschunterricht und *nach* dem Unterricht gibt es noch ein interessantes Freizeitprogramm mit vielen Ausflügen und Veranstaltungen.
+- Klingt gut.
+- Ja, ich kann dir mal einen Prospekt mitbringen. Und du, fährst du dieses Jahr auch nach Deutschland?
+- Ja, vor der Prüfung. Ich fahre nach Berlin.
+- Toll. In Berlin war ich noch nie.
+- Ich war dort schon einmal, aber das ist schon *über* 10 Jahre her.
+
+
+
+---
+
+
+- **temporale Präpositionen + Dativ**  
+
+*in* , *vor* , *seit* , *nach*  + ein*em* Monat / ein*em* Jahr / ein*er* Woche / zwei Jahre*n*  
+
+- **temporale Präpositionen + Akkusativ**  
+
+*über* , *für* + ein*en* Monat / ein Jahr / eine Woche / zwei Jahre  
+
+
+
+---
+
+
+  
+Wie lange wohnst du schon in der WG?  
+*Seit* drei *Jahren*  
+Wie lange möchtest du in Europa bleiben?  
+*Für* *ein* *Jahr*  
+Wann beginnt der Deutschkurs?  
+*In* *einem* Monat  
+Wann hast du geheiratet?  
+*Vor* zehn Jahre*n*  
+Wie lange dauert die mündliche Prüfung?  
+*Über* eine Stunde  
+Wie lange ist die Ausstellung in Berlin?  
+*Vom* erst*en* *bis* einunddreißigst*en* Juli  
+Ab wann studiert deine Freundin in Paris?  
+*Vom* erst*en* September *an*  
+
+
+
+**Eine Veranstaltung besuchen**  
+Wollen wir mit dem Deutschkurs nicht mal eine Veranstaltung besuchen?  
+Ja, gute Idee. Habt ihr einen Vorschlag?  
+Wir können zu einer Lesung gehen.  
+Ach nein, das finde ich noch zu schwer. Ich bin dagegen.  
+Darf ich etwas vorschlagen? Wir können doch ins Kino gehen. Es läuft gerade der deutsche Film "Männerherzen" im Original mit Untertiteln.  
+Einverstanden!  Wie wäre es mit morgen?  
+Das finde ich super. Wann denn?  
+Um 19 Uhr. Was haltet ihr davon?  
+Ja, okay. Das machen wir. Wollen wir zusammen hinfahren oder wollen wir uns vor dem Kino treffen?  
+Ich würde mich lieber direkt vor dem Kino verabreden. Ich wohne da in der Nähe.  
+Okay, dann treffen wir uns morgen um 18.45 Uhr vor dem Kino. Ich bestelle die Eintrittskarten.  
+
+
+
+Mein Top-Tipp ist ...  
+....... gibt es seit / ist aus dem Jahr ...  
+Früher hat ... dort gewohnt / war dort ...  
+Heute kann man ... besichtigen. Besuchen Sie /Besucht ... Hier finden Sie / findet ihr ...  
 
 
 
@@ -994,6 +1099,33 @@ Meine Lieblingsveranstaltung
 ---
 
 ## 7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
