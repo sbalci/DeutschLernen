@@ -1267,6 +1267,8 @@ Hoffentlich hast du nichts Schlimmes. Ich hoffe, es ist alles in Ordnung.
 Gestern hatte ich einen  Unfall mit dem Fahrrad. Eine Frau hat den Krankenwagen gerufen, weil meine Hand verletzt war. Sie hat stark geblutet. Der Notarzt hat gemeint, dass ich ins Krankenhaus muss. In der Notaufnahme hat man meine Hand untersuht. Es war gar nicht schlimm. Ich habe einen Verband bekommen und bin dann mit dem Taxi nach Hause gefahren. Nur meinem Fahrrad geht es leider immer noch nicht gut.
 
 
+Email über Ihren Krankenhausaufenthalt
+
 Warum waren Sie im Krankenhaus?
 Wer hat Sie ins Krankenhaus gebracht?
 Wie lange waren Sie im Krankenhaus?
@@ -1331,6 +1333,92 @@ Angst haben vor der Operation
 ---
 
 ## 9
+
+
+Freundliche Mirarbeiter gesucht!
+
+
+| Artikel | Nominativ        |      	Akkusativ          |        	Dativ
+| --- | --- | --- | --- |
+der
+das
+die
+die Pl
+
+
+guter Mechatroniker           
+
+großes Lager
+
+flexible Arbeitszeit
+
+Answer
+kleine
+Correct
+
+ Büros
+
+guten Lohn                 
+
+Answer
+großes
+Correct
+
+ Lager
+
+Answer
+ordentliche
+Correct
+
+ Haushaltshilfe
+
+Answer
+freundliche
+Correct
+
+ Mitarbeiter
+
+Answer
+gutem
+Correct
+
+ Lohn
+
+großem Lager
+
+Answer
+flexibler
+Correct
+
+ Arbeitszeit
+
+Answer
+günstigen
+Correct
+
+ Preisen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2900,21 +2988,60 @@ die Bank | die Banken
 
 ---
 
+
 ## Angaben zur Person  
 
+Angaben zur Person (Personal information)  
+
+die Adresse | die Adressen  
+der Name | die Namen  
+der Vorname | die Vornamen  
+der Familienname | die Familiennamen  
+die Straße | die Straßen  
+die Nummer | die Nummern  
+der Ort | die Orte  
+die Postleitzahl | die Postleitzahlen  
+der Geburtsort | die Geburtsorte  
+das Geburtsjahr | die Geburtsjahre  
+das Geburtsdatum | die Geburtsdaten  
+das Alter | die Alter  
+die Unterschrift | die Unterschriften  
 
 
+mãnnlich (male)  
+weiblich (female)  
+
+das Formular | die Formulare  
+
+ausfüllen | hat ausgefüllt (fill in)  
+heißen | hat geheißen  
+unterschreiben | hat unterschreiben  
 
 
+der Familienstand  
+ledig (single)  
+verheiratet (married)  
+geschieden (divorced)  
+verwitwet (widow)  
+
+heiraten | hat gehairatet  
+
+die Papiere (kimlik)  
+der Ausweis | die Ausweise  
+der Pass | die Pãsse  
 
 
+Vorname  
+Familienstand  
 
-
-
-
-
-
-
+Ich bin verheiratet.  
+Sie ist verheiratet.  
+ledig (bekar)  
+verliebt (sevgili)  
+verlobt (sözlü/nişanlı)  
+verheiratet (evli)  
+geschieden (boşanmış)  
+verwitwet (dul) 
 
 
 
@@ -2922,43 +3049,29 @@ die Bank | die Banken
 
 ---
 
-## Sprache
+## Familie und Freunde
 
-Sprache | Sprachen  
-Deutsch  
-Türkisch  
-Englisch  
-
-Ich spreche sehr gut Deutsch. (100%)  
-Ich spreche gut / fließend Englisch und Türkisch. (80%)  
-Ich spreche ein bisschen Spanisch. (20%)  
-
-
-Welche Sprachen sprichst du?  
-Welche Sprachen sprechen Sie?  
-
-Ich spreche Deutsch.  
-Englisch  
-Italienisch  
-Spanisch  
-Französich  
-Dänisch  
-Niederländisch  
-Belgisch  
-Polnisch  
-Russisch  
-Arabisch  
-Chienesisch  
-
-Deutsch ist meine Muttersprache.  
-
-die Fremdsprache  
+die Familie | die Familien  
+die Großeltern  
+der Großvater | die Großvãter  
 
 
 
 
 
-## Familie
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Eheman + Ehefrau -> Ehepaar  
 Enkel + Enkelin -> Enkelkinder  
@@ -3017,19 +3130,64 @@ Wie viele kinder hat deine Mutter?
 
 
 
-## Familienstand
 
-Vorname  
-Familienstand  
 
-Ich bin verheiratet.  
-Sie ist verheiratet.  
-ledig (bekar)  
-verliebt (sevgili)  
-verlobt (sözlü/nişanlı)  
-verheiratet (evli)  
-geschieden (boşanmış)  
-verwitwet (dul)  
+
+
+
+
+
+
+
+
+
+
+---
+
+## Sprache
+
+Sprache | Sprachen  
+Deutsch  
+Türkisch  
+Englisch  
+
+Ich spreche sehr gut Deutsch. (100%)  
+Ich spreche gut / fließend Englisch und Türkisch. (80%)  
+Ich spreche ein bisschen Spanisch. (20%)  
+
+
+Welche Sprachen sprichst du?  
+Welche Sprachen sprechen Sie?  
+
+Ich spreche Deutsch.  
+Englisch  
+Italienisch  
+Spanisch  
+Französich  
+Dänisch  
+Niederländisch  
+Belgisch  
+Polnisch  
+Russisch  
+Arabisch  
+Chienesisch  
+
+Deutsch ist meine Muttersprache.  
+
+die Fremdsprache  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
