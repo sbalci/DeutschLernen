@@ -1669,6 +1669,11 @@ https://www.youtube.com/watch?v=4J5i3yxH1ks&list=PLfBYdQ3Qs3IrRDjHUv-ny-t8_usQfP
 https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ
 
 
+
+https://www.youtube.com/embed/5zWpyE5HOxs
+
+
+
 ---
 
 ## Podcast
@@ -1679,6 +1684,7 @@ https://www.dw.com/tr/almanca-öğrenin/deutsch-warum-nicht/s-2609?maca=tur-DKpo
 
 http://rss.dw.com/xml/DKpodcast_dwn1_tur
 
+http://rss.dw.com/xml/DKpodcast_dwn2_tur
 
 
 
