@@ -1465,6 +1465,12 @@ https://www.hueber.de/media/36/Loesungsschluessel_Menschen_AB_A2-2.pdf
 
 ## 13
 
+https://hueber.de/shared/uebungen/menschen/kb/a2/livebook/l13/index.php
+
+
+
+
+
 
 
 ---
@@ -3086,23 +3092,28 @@ verwitwet (dul)
 die Familie | die Familien  
 die Großeltern  
 der Großvater | die Großvãter  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+die Großmutter | die Großmütter  
+die Eltern  
+der Vater | die Vãter  
+der Papa | die Papas  
+die Mutter | die Mütter  
+die Mama | die Mamas  
+der Sohn | die Söhne  
+die Tochter | die Töchter  
+die Geschwister  
+der Bruder | die Brüder  
+die Schwester | die Schwestern  
+die Tante | die Tanten  
+der Onkel | die Onkel  
+der Cousin | die Cousins  
+die Cousine | die Cousinen  
+das Ehepaar | die Ehepaare  
+der Mann | die Mãnner  
+die Frau | die Frauen  
+der Freund | die Freunde  
+die Freundin | die Freudinnen  
+der Partner | die Partner  
+die Partnerin | die Partnerinnen  
 
 
 Eheman + Ehefrau -> Ehepaar  
@@ -3156,57 +3167,11 @@ Ist deine Mutter verheiratet?
 
 Wie viele kinder hat deine Mutter?  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
-## Sprache
+## Arbeit
 
-Sprache | Sprachen  
-Deutsch  
-Türkisch  
-Englisch  
-
-Ich spreche sehr gut Deutsch. (100%)  
-Ich spreche gut / fließend Englisch und Türkisch. (80%)  
-Ich spreche ein bisschen Spanisch. (20%)  
-
-
-Welche Sprachen sprichst du?  
-Welche Sprachen sprechen Sie?  
-
-Ich spreche Deutsch.  
-Englisch  
-Italienisch  
-Spanisch  
-Französich  
-Dänisch  
-Niederländisch  
-Belgisch  
-Polnisch  
-Russisch  
-Arabisch  
-Chienesisch  
-
-Deutsch ist meine Muttersprache.  
-
-die Fremdsprache  
+die Firma | die Firmen  
 
 
 
@@ -3219,22 +3184,8 @@ die Fremdsprache
 
 
 
- 
 
 
-
-
-
-
-
-
-
-
-
-
----
-
-## Beruf
 
 Ich bin + Beruf  
 Ich arbeite als + Beruf (iş)  
@@ -3291,6 +3242,48 @@ Biomedizin
 
 
 
+
+
+
+
+
+
+
+
+
+---
+
+## Sprache
+
+Sprache | Sprachen  
+Deutsch  
+Türkisch  
+Englisch  
+
+Ich spreche sehr gut Deutsch. (100%)  
+Ich spreche gut / fließend Englisch und Türkisch. (80%)  
+Ich spreche ein bisschen Spanisch. (20%)  
+
+
+Welche Sprachen sprichst du?  
+Welche Sprachen sprechen Sie?  
+
+Ich spreche Deutsch.  
+Englisch  
+Italienisch  
+Spanisch  
+Französich  
+Dänisch  
+Niederländisch  
+Belgisch  
+Polnisch  
+Russisch  
+Arabisch  
+Chienesisch  
+
+Deutsch ist meine Muttersprache.  
+
+die Fremdsprache  
 
 
 
