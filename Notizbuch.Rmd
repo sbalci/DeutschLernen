@@ -9,6 +9,7 @@ output:
     toc_float: yes
 ---
 
+
 <!-- Open all links in new tab-->  
 <base target="_blank"/>   
 
@@ -1641,6 +1642,26 @@ https://ankara.bibliothek.goethe.de
 # Media {.tabset .tabset-fade .tabset-pills}
 
 ---
+
+## ARD  
+
+http://www.ard.de
+
+https://www.ardmediathek.de/tv
+
+
+## ZDF
+
+https://www.zdf.de/
+
+## NDR
+
+https://www.ndr.de/
+
+
+## Das Erste
+
+https://www.daserste.de/
 
 ## N-TV
 
@@ -3546,6 +3567,22 @@ Kann ich Sie etwas fragen?
 
 
 ---
+
+## A1.1
+
+- Lösungsschlüssel Arbeitsbuch A1.1  
+https://www.hueber.de/media/36/meh-a11-loesungsschluessel.125001.pdf
+
+
+- Lesetexte  
+
+https://www.hueber.de/seite/pg_lehren_lesetexte_sri
+
+
+
+
+---
+
 
 ## 1
 
