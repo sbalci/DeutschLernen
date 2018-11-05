@@ -3193,19 +3193,55 @@ Wie viele kinder hat deine Mutter?
 ## Arbeit
 
 die Firma | die Firmen  
+der Empfang | die Empfãnge  
+das Büro | die Büros  
+der Schreibtisch | die Schreibtische  
+die Arbeit  
+die Pause | die Pausen  
+der Feierabend | die Feierabende  
+der Chef | die Chefs  
+die Chefin | die Chefinnen  
+der Kollege | die Kollegen  
+die Kollegin | die Kolleginnen  
 
+telefonieren | hat telefoniert  
+arbeiten | hat gearbeitet  
 
-
-
-
-
-
-
-
-
-
-
-
+der Beruf | die Berufe  
+der Anwalt | die Anwãlte  
+die Anwãltin | die Anwãltinnen  
+der Arbeiter | die Arbeiterin  
+die Arbeiterin | die Arbeiterinnen  
+der Bãcker | die Bãcker  
+die Bãckerin | die Bãckerinnen  
+der Bauer | die Bauern  
+die Bãuerin | die Bãuerinnen  
+der Brieftrãger | die Brieftrãger  
+die Brieftrãgerin | die Brieftrãgerinnen  
+der Elektriker  | die Elektriker  
+der Elektrikerin | die Elektrikerinnen  
+der Fleischer | die Fleischer  
+die Fleischerin | die Fleischerinnen  
+der Gãrtner | die Gãrtnerin  
+die Gãrtnerin | die Gãrtnerinnen  
+der Hausmann | die Hausmãnner  
+die Hausfrau | die Hausfrauen  
+der Hausmeister | die Hausmeister  
+die Hausmeisterin | die Hausmeisterinnen  
+der Installateur | die Installateure  
+die Installateurin | die Installateurinnen  
+der Maler | die Maler  
+der Malerin | die Malerinnen  
+der Mauer | die Mauer  
+der Mauerin | die Mauerinnen  
+der Mechanicker | die Mechanicker  
+die Mechanickerin | die Mechanickerinnen  
+der Polizist | die Polizisten  
+die Polizisten | die Polizistinnen  
+der Schneider | die Schneider  
+der Schneiderin | die Schneiderinnen  
+der Sekretãr | die Sekretãr  
+die Sekretãrin | die Sekretãriennen  
 
 
 Ich bin + Beruf  
@@ -3255,6 +3291,13 @@ Studentiche Hilfskraft
 Bauingeniur  
 Ingeniurweiss  
 Biomedizin  
+
+---
+
+## Sport und Freizeit  
+
+der Sport  
+
 
 
 
