@@ -9,13 +9,15 @@ output:
     toc_float: yes
 ---
 
+<!-- xaringan:::inf_mr()  -->
 
 <!-- Open all links in new tab-->  
 <base target="_blank"/>   
 
 
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bc36900a405090b">  
-</script> 
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bc36900a405090b">   -->
+<!-- </script>  -->
 
 
 
@@ -1469,6 +1471,8 @@ https://www.hueber.de/media/36/Loesungsschluessel_Menschen_AB_A2-2.pdf
 https://hueber.de/shared/uebungen/menschen/kb/a2/livebook/l13/index.php
 
 
+Die Organisatoren von „Weihnachten im Schukarton “ verschicken Geschenke an arme Kinder in Osteuropa und Asien.  
+Das Projekt hat großen Erfolg.
 
 
 
@@ -1480,15 +1484,221 @@ https://hueber.de/shared/uebungen/menschen/kb/a2/livebook/l13/index.php
 
 
 
+Dankesbrief
+
+Was hat Sie gefreut?
+Was gefällt Ihnen (besonders) gut?
+Was können Sie  (besonders) gut gebrauchen?
+
+Lieber/Liebe .... ,
+vielen Dank für Deine tollen Geschenke!
+
+Schön, dass du an mich gedacht hast./ ...
+
+... hat/ haben mich sehr gefreut.
+
+Ich liebe... / ... mag ... besonders gern.
+
+... ist/sind super. / eine tolle Idee.
+
+Ich bin sehr froh, dass ...
+
+Ich freue mich sehr auf ...
+
+
+
+
+
+Lieber ...,
+schön, dass du an meinen Geburtstag   gedacht hast. Die Blumen haben mich sehr gefreut. Frühlingsblumen mag ich besonders gern.
+
+Liebe ..., lieber ...,
+vielen Dank für Eure tollen Geschenke. Der Büchergutschein ist eine super Idee
+.
+Ich freue mich schon auf meinen Urlaub. Da liege ich dann nur am Strand und lese. Und die Gesichtscreme kann ich wirklich gut gebrauchen. Die benutze ich jetzt jeden Tag. Ich glaube, ich sehe schon viel jünger aus.
+
+
+
+
+
 ---
 
 ## 15
 
 
 
+
+
+Fernsehen in Deutschland
+
+Wussten Sie, dass
+
+- 95 % der deutschen Haushalte einen Fernseher haben?
+
+- Sean Connery für mehr als die Hälfte aller Deutschen der beste James Bond- Darsteller ist?
+
+- im Jahr 2010 die meisten Zuschauer des "Tatorts" über 45 Jahre alt waren?
+
+- fast 90% aller Deutschen aufstehen und das Programm wechseln, wenn die Fernbedienung nicht funktioniert? Die anderen bleiben sitzen und schauen sich die Sendung an, auch wenn sie ihnen nicht gefällt.
+
+- 47% der Deutschen glauben, dass die Qualität des Fernsehens durch die Privatsender nicht so gut ist. 45% glauben, dass die Qualität gleich gut ist.
+
+
+Ich sehe am liebsten den Tatort.
+Ich sehe den Tatort immer zusammen mit Freunden.
+Manchmal gucke ich ihn allein zu Hause, aber meistens zusammen mit einer Freundin.
+Dazu gibt's immer Erdnüsse und ein, zwei Gläschen Sekt oder Wein.
+Ich sehe oft den Tatort, aber ich habe keine feste Gewohnheit.
+Ja, den Tatort.
+Wenn ich am Sonntag Abend keine Zeit habe, gucke ich ihn später in der Mediathek.
+Wir treffen uns am Sonntag immer in der Kneipe und sehen den neuen Fall gemeinsam.
+Meine Lieblingssendung ist der Tatort.
+Ich habe keine Lieblingssendung.
+Ich treffe mich an jedem Sonntagabend mit zwei Freundinnen.
+Dann kochen wir zusammen und anschließend sehen wir uns den neuen Tatort an.
+
+
+Was sehen Sie gern im Fernsehen?
+Haben Sie eine Lieblingssendung/ Lieblingsserie?
+Wo, wann und mit wem sehen Sie sie?
+Haben Sie bestimmte Gewohnheiten?
+
+
+Eine Woche ohne Internet
+
+
+Was konnten Sie nicht machen?
+Was haben sie stattdessen gemacht? z.B. Freunde “live“ treffen
+Wie haben Sie sich gefühlt?
+Haben Sie etwas aus der Situation gelernt?
+
+Plötzlich .../ Und weißt du, was dann passiert ist? / Also pass auf: .../ Zum Glück.../ Hoffentlich.../ Leider .../ ...
+
+
+Fernsehen früher.
+
+Ich habe nur wenig ferngesehen, *als* ich klein war.
+
+*Als* es noch keine Privatsender gegeben hat, hatten wir nur drei Programme.
+
+*Wenn* sonntags die Serie "Lindenstraße" gelaufen ist, habe ich immer vor dem Fernseher gesessen.
+
+Ich war schon 8 Jahre alt, *als* meine Eltern den ersten Fernseher gekauft haben.
+
+Ich habe immer dann den "Tatort" geguckt, *wenn* meine Eltern nicht zu Hause waren.
+
+
+
+Was wird im Deutschkurs gemacht? 
+
+Ein Test wird geschrieben.
+
+a Manchmal (Sätze übersetzen ) werden Sätze übersetzt.
+
+b Neue Wörter (aufschreiben) werden aufgeschrieben.
+
+c Ein Film (anschauen) wird angeschaut.
+
+d Oft (die Grammatik wiederholen) wird die Grammatik wiederholt.
+
+e Aufgaben (lösen) werden gelöst.
+
+f Texte (korrigieren) werden korrigiert.
+
 ---
 
 ## 16
+
+
+Ich würde gern wissen, ob Sie noch ein Zimmer frei haben.
+
+
+
+Die Personen machen eine Ausbildung in einem Hotel.
+Frau Thalau bleibt zwei Nächte und bekommt ein Einzelzimmer nur mit Halbpension.
+
+Herr Klein bekommt ein Zimmer mit Strandblick.
+
+Für die Anruferin gibt es noch ein Zimmer.
+
+
+Ich würde gern wissen, ob Sie noch ein Zimmer frei haben.
+
+Darf ich fragen, wie lange Sie bei uns bleiben möchten?
+
+Brauchen Sie ein Einzelzimmer oder ein Doppelzimmer?
+
+Im Bad sind überall Haare.
+
+Es tut mit leid, wenn sie Ärger hatten.
+
+Tut mir leid, wir sind ausgebucht.
+
+
+
+
+Ja/ Nein-Fragen  
+Haben sie noch ein Zimmer frei?  
+*Ich würde gern wissen*, *ob* Sie noch ein Zimmer frei *haben*?
+
+Fragen mit Fragewort  
+Wie lange möchten sie denn bei uns bleiben?  
+*Darf ich fragen*, *wie lange* Sie denn bei uns bleiben *möchten*?
+
+
+Darf ich fragen, wie viel ein Einzelzimmer kostet? 
+
+Können Sie mir erklären, wie das Telefon funktioniert?
+
+Wissen Sie, ob die Geschäfte noch offen sind?
+
+Können Sie mir sagen, wo man schnell einen Kaffee trinken kann?
+
+Ich weiß nicht, warum mein Gepäck noch nicht angekommen ist.
+
+Ich würde gern wissen, wohin man am Abend gehen kann?
+
+
+Darf ich fragen, ob Ihr Essen scharf ist?
+
+Ist Ihr Essen scharf?
+
+Können Sie mir sagen, ob man einen Tisch reservieren muss?
+
+Muss man einen Tisch reservieren?
+
+Wissen Sie, ob der Platz noch frei ist?
+
+Ist der Platz noch frei?
+
+Ich weiß nicht, ob man in diesem Restaurant vegetarisch essen kann.
+
+Kann man in diesem Restaurant vegetarisch essen.
+
+
+
+
+Sie reisen nach Deutschland und möchten ein Zimmer in einem Hotel buchen.
+
+Suchen Sie zuerst im Internet ein Hotel, in dem Sie wohnen wollen.
+Schreiben Sie dann eine E-Mail an das Hotel.
+Notieren Sie die Internetadresse des Hotels in Ihrem Text.
+Schreiben Sie zu folgenden Aspekten:
+Daten
+
+Preis
+
+Personen
+
+Anzahl der Nächte
+
+Mit/ohne Frühstück, WIFI, Bad/Dusche/Parkplatz
+
+Zimmertyp
+
+Serviceangebote
+
+
 
 
 
@@ -1497,10 +1707,58 @@ https://hueber.de/shared/uebungen/menschen/kb/a2/livebook/l13/index.php
 ## 17
 
 
+Simone und Felix fahren in den Urlaub.
+
+Die Nachbarin soll auf das Haus aufpassen.
+
+Simone und Felix wollen ein Tagebuch im Internet schreiben.
+
+
+Unsere Reise nach Rumänien
+
+
+
+
+
 
 ---
 
 ## 18
+
+Ihre Meinung zum Wetter
+
+
+Darf ich kurz mit Ihnen über diesen wunderbaren Winter sprechen?
+Haben Sie denn keine Lust auf Eis und Schnee?
+Ich interessiere mich nicht für Wintersport.
+Die meisten Menschen freuen sich auf einen heißen Tee.
+Sprechen Sie mit mir?
+Ich interessiere mich für Ihre Meinung zum Wetter.
+Ich denke, Sie sind so richtig zufrieden mit diesem schönen Sommertag.
+Quatsch, ich habe vom Winter geträumt.
+Ich ärgere mich über die Hitze.
+
+
+- Verben mit Präpositionen
+
+  - Verben mit Präpositionen + Akkusativ
+
+Sie freuen sich auf einen heißen Tee.
+
+Ich ärgere mich über die Hitze.
+
+auch so: sprechen über, Lust haben auf, sich interessieren für
+
+  - Verben mit Präpositionen + Dativ
+
+Sind Sie zufrieden mit diesem schönen Sommertag?
+
+Sprechen Sie mit mir?
+
+auch so: träumen von
+
+
+
 
 
 
@@ -1662,6 +1920,13 @@ https://www.ndr.de/
 ## Das Erste
 
 https://www.daserste.de/
+
+
+### Tatort  
+
+https://www.daserste.de/unterhaltung/krimi/tatort/specials/tatort-videos-in-der-mediathek100.html
+
+
 
 ## N-TV
 
@@ -2699,7 +2964,9 @@ sich ausziehen | hat sich ausgezogen (soyunmak)
 sich anziehen | hat sich angezogen (giyinmek)  
 
 
-## Essen und Trinken
+## Essen und Trinken  
+
+Im Supermarkt: https://www.hueber.de/media/36/schr1-lesetexte-L3.pdf  
 
 der Hunger  
 der Durst  
@@ -3110,6 +3377,8 @@ verwitwet (dul)
 
 ## Familie und Freunde
 
+Familie Polat:  https://www.hueber.de/media/36/schr1-lesetexte-L2.pdf  
+
 die Familie | die Familien  
 die Großeltern  
 der Großvater | die Großvãter  
@@ -3298,19 +3567,207 @@ Biomedizin
 
 der Sport  
 
+Basketball  
+Fußball  
+Jogging  
+Handball  
+Tennis  
+Tischtennis  
+Volleyball  
+
+der Ball | die Bãlle  
+der Spaziergang | die Spaziergãnge  
+das Schwimmbad | die Schwimmbãder  
+die Sporthalle | die Sporthallen  
+der Sportplatz | die Sportplãtze  
+das Kino | die Kinos  
+das Museum | die Museen  
+das Theater | die Theater  
+
+schwimmen | ist geschwommen    
+tanzen | hat getanzt  
+wandern | ist gewandert  
+
+Wie waren Ihre Feiertage?  
+Wie waren deine Feiertage?  
+
+Meine Feiertage waren schön.  
+
+Was haben Sie gemacht?
+
+---
+
+## Einladen und Besuchen  
+
+der Geburtstag | die Geburtstage  
+die Einladung | die Einladungen  
+die Torte | die Torten  
+das Geschenk | die Geschenke  
+der Gast | die Gãste  
+
+besuchen | hat besucht  
+grüßen | hat gegrüßt  
+sich verabschieden | hat sich verabschiedet  
+
+gratulieren | hat gratuliert  
+danken | hat gedankt  
 
 
 
 
+Hallo  
+Guten Tag  
+Herzlichen Glückwunsch  
+bitte  
+danke  
+Auf wiedersehen  
+tschüss  
+
+
+## die Uhrzeit  
+
+die Uhr | die Uhren  
+der Zeiger | die Zeiger  
+die Stunde | die Stunden  
+eine Halbe Stunde  
+eine viertel Stunde  
+die Minute | die Minuten  
+die Sekunde | die Sekunden  
+
+früh | früher | am frühesten  
+spãt | spãter | am spãtesten  
+
+die Uhrzeit | die Uhrzeiten  
+ein Uhr  
+zwei Uhr  
+zwei Uhr morgens  
+zwei Uhr nachmittags  
+sechs Uhr abends  
+zwölf Uhr mittags  
+zwölf Uhr nachts  
+
+Wie spãt ist es?  
+Es ist viertel nach eins.  
+halb zwei  
+viertel vor zwei  
+
+Irinas Tagesablauf: https://www.hueber.de/media/36/schr1-lesetexte-L5.pdf
 
 
 
 
+## der Kalendar
+
+die Woche  
+der Tag  
+das Jahr  
+die Stunde  
+die Minute  
+der Monat  
 
 
+der Tag | die Tage  
+
+vorgestern  
+gestern  
+heute  
+morgen  
+übermorgen  
+
+der Montag | die Montage    
+der Dienstag | die Dienstage    
+der Mittwoch | die Mittwoche    
+der Donnerstag | die Donnerstage    
+der Freitag | die Freitage    
+der Samstag | die Samstage der Sonnabend | die Sonnabende  
+der Sontag  | die Sontage  
+
+der Morgen | die Morgen  
+morgens  
+Guten Morgen  
+der Mittag | die Mittage  
+mittags  
+der Abend  | die Abende  
+abends  
+Guten Abend  
+der Tag | die Tage  
+tagsüber  
+Guten Tag  
+die Nacht | die Nãchte  
+nachts  
+Gute Nacht  
 
 
+die Woche | die Wochen  
+der Wochentag | die Wochentage  
+der Werktag | die Werktage  
+das Wochenende | die Wochenenden  
 
+das Jahr | die Jahre  
+die Jahreszeit | die Jahreszeiten  
+der Frühling das Frühjahr  
+der Sommer  
+der Hebst  
+der Winter  
+
+der Monat | die Monate  
+der Januar  
+der Februar  
+der Mãrz  
+der April  
+der Mai  
+der Juni  
+der Juli  
+der August  
+der September  
+der Oktober  
+der November  
+der Dezember  
+
+---
+
+## Maße und Gewichte  
+
+das Maß | die Maße (cetvel)  
+die Breite | die Breiten (genişlik)  
+die Höhe | die Höhen (yükseklik)  
+die Tiefe | die Tiefen  
+die Lãnge | die Lãngen  
+der Zentimeter  
+der Meter  
+der Quadratmeter  
+der Kilometer | die Kilometer  
+das Gewicht | die Gewichte  
+das Gramm | die Gramm  
+das Pfund | die Pfund  
+das Kilogramm | die Kilogramm  
+Grad Celsius  
+der Milliliter | die Milliliter  
+der Liter | die Liter  
+ein halber Liter  
+
+messen | hat gemessen  
+
+
+## Lãnder Nationalitãten  
+
+das Land | die Lãnder  
+Kontinent | Kontinente  
+
+Europa  
+Europãer | Europãer  
+die Europãerin | die Europãerinnen  
+europãisch  
+
+der/die Deutshe | die Deutschen  
+ein Deutscher | eine Deutsche  
+Deutschland  
+deutsch  
+
+der Österreicher | die Österreicher  
+die Österreicherin | die Österreicherinnen  
+Österreich  
+österreichisch  
 
 
 
@@ -3353,25 +3810,7 @@ die Fremdsprache
 
 ---
 
-## der Kalendar
-
-die Woche  
-der Tag  
-das Jahr  
-die Stunde  
-die Minute  
-der Monat  
-
-
-
-
-
-
-
-
----
-
-## weg  
+## Wege beschreiben  
 
 Bitte links abbiegen  
 Bitte rechts abbiegen  
@@ -3399,7 +3838,12 @@ einbahnstraße
 
 
 
+---
 
+# Personal und Reflexive Pronomen
+
+
+![](figures/personal_und_reflexive_pronomen.png)
 
 
 
@@ -3579,12 +4023,10 @@ Der Plural von Tasche ist/heißt TAschen.
 # Anderes
 
 
-Wie waren Ihre Feiertage?  
-Wie waren deine Feiertage?  
+Mein Traumhaus: https://www.hueber.de/media/36/schr1-lesetexte-L4.pdf
 
-Meine Feiertage waren schön.  
 
-Was haben Sie gemacht?
+
 
 
 Angelas Buch  
@@ -3756,7 +4198,7 @@ Wie bitte ?
 
 Ich wohne in ....
 
-            Beruf
+Beruf
 
 Mann- Manner
 Frau-Framen
