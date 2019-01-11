@@ -7684,7 +7684,28 @@ der Advokat | die Advokaten
 die Advokatin | die Advokatinnen  
 die Avocado | die Avocados  
 
+Sie kennen bereits die vier am häufigsten gebrauchten Präpositionen mit dem Genitiv: während, wegen, trotz und (an)statt. 
 
+Es gibt noch eine Reihe anderer Präpositionen, die mit dem Genitiv verwendet werden. 
+
+
+Temporale Präpositionen
+
+während	            Während des Flugs hat er geschlafen.
+innerhalb / binnen  Der Tisch wird innerhalb einer Woche geliefert. 
+                    Der Tisch wird binnen einer Woche geliefert.
+außerhalb	Außerhalb der Sprechzeiten kann man ihn nicht erreichen.
+
+Lokale Präpositionen:
+
+innerhalb / außerhalb	    Sie wohnen außerhalb / innerhalb der Stadt.
+oberhalb / unterhalb	    Er hat sich oberhalb / unterhalb des Knies verletzt.
+abseits	                  Das Haus liegt etwas abseits der Hauptstraße.
+unweit	                  Der Bauernhof befindet sich unweit der Stadt.
+längs                   	Längs des Flusses stehen viele alte Bäume.
+inmitten                	Die Pension ist inmitten der Berge.
+beiderseits             	Beiderseits der Straße stehen Bäume.
+diesseits / jenseits	    Jenseits / Diesseits dieser Grenze liegt Polen.
 
 
 ---
