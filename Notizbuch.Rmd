@@ -1,12 +1,15 @@
 ---
 title: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)"
-output: 
+output:
   html_notebook: 
     code_folding: hide
     fig_caption: yes
     toc: yes
     toc_depth: 4
     toc_float: yes
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    social: menu
 ---
 
 <!-- xaringan:::inf_mr()  -->
@@ -19,1825 +22,7 @@ output:
 <!-- <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5bc36900a405090b">   -->
 <!-- </script>  -->
 
-
-
 ---
-
-
-# A2 {.tabset .tabset-fade .tabset-pills}
-
-https://hueber.de/shared/uebungen/menschen/kb/a2/menu.php
-
-https://www.hueber.de/media/36/Menschen_Loesungen_AB_A2.pdf
-
----
-
-## 1
-
-Mein Opa war auch schon Bäcker.
-
-die Brezel | die Brezeln  
-
-klappen  
-
-kompliziert  
-
-der Teig | die Teige  
-
-das Studium  
-
-das Einrad | die Einräder  
-
-das Fußballbild | die Fußballbilder  
-
-klettern  
-
-übernachten  
-
-das Skateboard | die Skateboards  
-
-die Süßigkeiten  
-
-
-auf Bäume klettern  
-Comics lesen  
-Computerspiel spielen  
-draußen übernachten  
-Einrad fahren  
-Sachen auf dem Flohmarkt verkaufen  
-mit Puppet spielen  
-Geschicten erzählen  
-Fußballbilder sammeln  
-zeichnen  
-Witze erzählen  
-Süßigkeiten essen  
-Skateboard fahren  
-
-der Ausschnitt | die Ausschnitte    
-der Bäcker | die Bäcker  
-die Bäckerin | die Bäckerinnen  
-der Cousin | die Cousins  
-der Neffe | die Neffen  
-die Nichte | die Nichten  
-der Schwiegersohn | die Schwiegersöhne  
-der Schwiegervater | die Schwiegerväter  
-
-
-übergeben  
-
-
-die Zigarette | die Zigaretten  
-
-verrückt (sein)  
-
-wachsen  
-
-der Judenliche | die Judenlichen  
-die Kindheitserinnerungen  
-Familienheitserinnerungen  
-die Lieblingsdisco | die Lieblingsdiscos  
-die Sekunde | die Sekunden  
-das Wahrheitsspiel | die Wahrheitsspiele  
-
-aufmachen  
-der Schluss  
-zum Schluss  
-
-die Abstimmung | die Abstimmungen  
-
-das Ereignis | die Ereignisse  
-
-die Familiengeschichte  
-Familiengeschichten erzählen  
-die Geschichte | die Geschichten  
-
-streiten | haben gestritten (to fight)  
-Glück haben  
-rufen | haben gerufen  
-hören | haben gehört  
-sagen | haben gesagt  
-bestehen | haben bestanden  (to pass)  
-besuchen | hat besucht (to visit)  
-umziehen | haben umgezogen (to move)
-
-
-Meine Schwester und ich haben als Kinder viel gestritten.  
-
-Es gab ein Unwetter, aber wir hatten Glück. Es ist nichts passiert.  
-
-Ich habe dich gerufen, aber du hast mich leider nicht gehört.  
-
-Jan hat mir gesagt, Alina hat ihre Prüfung bestanden.  
-
-Letzte Woche haben wir Xaver und Michele besucht. Sie sind umgezogen.  
-
-
-Kolja, habe ich dir schon von meinem Cousin Fridolin erzählt?  
-Nach der Schule hat er **zuerst** eine Ausbildung als Friseur gemacht. Er war immer fleißig und hat schon mit 18 Jahren einen eigenen Friseursalon aufgemacht. Er hat viel Geld verdient und sein Geschäft ist viel gewachsen.  
-Und weißt du, **was dann passiert ist**? Eines Morgens hat er allen erzählt: Ich verkaufe das Geschäft. Er hat aber nicht sofort einen Käufer gefunden.  
-**Zum Schluss** hat er das Geschäft einfach geschlossen, ein paar Sachen gepackt und ist nach Alaska geflogen. Heute lebt er dort allein in den Wäldern und ist glücklich.
-
-
-Also passt auf: ...
-
-Und wisst ihr, was ... dann gemacht hat?
-
-Wisst ihr, was dann passiert ist?
-
-Er / Sie war schon verrückt / nett / lustig, mein / meine ...
-
-
-
-
-
-
----
-
-## 2
-
-Wohin mit der Kommode?  
-
-umziehen  
-
-blöd  
-
-ein·richten  
-
-renovieren  
-
-
-diskutieren  
-
-das Fernsehgerät | die Fernsehgeräte  
-hängen  
-das Kissen | die Kissen  
-verstecken  
-
-die Gemeinsamkeit | die Gemeinsamkeiten  
-
-**Im Zimmer**  
-
-die Kommode | die Kommoden  
-die Wand | die Wände  
-das Regal | die Regale  
-die Lampe | die Lampen  
-das Fernsehgerät | die Fernsehgeräte  
-der Schreibtisch | die Schribetische  
-der Stuhl | die Stühle  
-der Tisch | die Tische  
-der Schrank | die Schränke  
-der Vorhang | die Vorhänge  
-das Bett | die Betten  
-das Kissen | die Kissen  
-das Sofa | die Sofas  
-die Couch | die Couchs  
-der Sessel | die Sessel  
-der Teppich | die Teppiche  
-
-
-bis: bis hin  
-das Deckenlischt | die Deckenlichter  
-
-direkt  X indirekt  
-dunkel  X hell  
-
-
-die Domizil-Redaktion | die Domizil-Redaktionen  
-
-
-die Geschmackssache  
-das Heft | die Hefte  
-
-der Klassiker | die Klassiker  
-die Kuschel-Ecke  
-
-das Möbelstück | die Möbelstücke  
-das Regal | die Regale  
-
-der Romantiker | die Romantiker  
-die Romantikerin | die Romantikerinnen  
-
-die Sofa-Landschaft | die Sofa-Landschaften  
-
-gemütlich X ungemütlich  
-
-das Urlaub-Souvenir | die Urlaub-Souvenirs  
-
-der Spiegel | die Spiegel  
-
-das Werkzeug | die Werkzeuge  
-
-der Einrichtungstipp | die Einrichtungstipps  
-Einrichtungstipp geben  
-
-der Magazintext | die Magazintexte  
-der Umzug | die Umzuge  
-
-die Wechelpräposition | die Wechelpräpositionen  
-
-das Möbelhaus
-
-legen  
-stellen  
-hängen
-
-Ich lege die Zeitung auf die Couch.
-
-Wir stellen das Geschirr in die Küchenschränke.
-
-Legst du bitte den Bleistift neben das Papier?
-
-Julia hängt die Lampe über den Tisch.
-
-
-*Im Möbelhaus*
-
-Das ist doch ein toll*es* Bild. Das können wir *über das Sofa* hängen.
-Aber bei uns hängen doch schon so viele Bilder *über dem Sofa*.
-
-
-Der Teppich ist schön und nicht mal teuer. *Den* legen wir *in das Schlafzimmer*.
-Aber *vor dem Bett* liegt doch schon ein Teppich.
-
-Da steht eine Kommode *zwischen zwei Fenstern*. Das sieht gut aus.
-Ja, hier schon. Aber *in unserer Wohnung* können wir diese Kommode nicht *zwischen die Fenster stellen*. Sie ist viel zu groß.
-
-
-In der neuen Wohnung.
-
-Stell lieber nicht zu viele Möbel in das Zimmer. Sonst ...
-
-( lieber nicht zu viele Möbel in das Zimmer stellen / sonst Raum noch kleiner werden)
-( einen Spiegel an Wand hängen / dann Raum größer aussehen)
-( vorsichtig sein mit dunklen Möbeln)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 3
-
-Hier finden Sie Ruhe und Erholung  
-
-Grüzei mitenand  
-Tach  
-
-"Tach" und "Grüzei mitenand" bedeutet "Guten Tag".
-
-die Region | die Regionen  
-das Dorf | die Dörfer  
-der Froch | die Fröche  
-der Hügel | die Hügel (hill)  
-die Katze | die Katzen  
-die Pflanze | die Pflanzen  
-
-Ich mache eine Fahrt durch die Dörfer | über die Hügel.  
-
-der Strand | die Strande  (beach)  
-das Ufer | die Ufer  (river bank)  
-der Vogel | die Vögel  
-der Wald  
-der Fisch | die Fische  
-der Hund | die Hunde  
-
-aktiv  
-Ich bin sportlich aktiv  
-
-anders gehen  
-
-der Anfänger | die Anfänger  (beginner, amateur)  
-der/die Fortgeschrittene | die Fortgeschritennen (advanced learner)  
-
-
-die Anfängerin | die Anfängerinnen  
-die Anstrengung | die Ansterngungen  (effort)  
-die Ausrüstung | die Ausrüstungen (equipment)  
-außerdem  (also, in addition)  
-der Bauernhof | die Bauernhofe  (farm)  
-
-beraten (advice)  
-die Beratung | die Beratungen  (consultation)  
-der Bergkräuterre | die Bergkräutertees  (çiçek çayı)  
-der Bodensee  (Lake Constance)  
-der Campaignplatz | die Campaignplätze  
-der Einkaufsbummel  
-
-enden  
-
-entlang  (alongside)  
-
-die Entspannung (relaxation)  
-die Erholung (rest)  
-die Erfahrung (eperience)  
-der Extra-Service  
-der Großstadt-Fan | die Großstadt-Fans  
-
-hellgrün (açık yeşil)
-
-
-
-hinunter (down)   
-den Fluss hinunter (down the river)  
-
-ideal  
-
-das Inntal  (Valley of Inn)  
-
-der/das Kajak | die Kajaks (kano)  
-das Kite-Surfen  (windsurf)  
-die Landschaftsreise | die Landschaftreisen  
-die Städtreise | die Städtreisen  
-die Motivation | die Motivationen  
-
-die Naturliebhaberin | die Natürliebhaberinnen  
-
-offen (sein)  
-
-quacken  
-
-das Salzhaff | die Salzhaffe / Salzhaffs (ein durch von der Ostsee)  
-
-die Schweizer Alpen  
-
-die Segel-Schule  
-die Surf-Schule | die Surf-Schulen  
-der Spreewald  (the Green Venice near Berlin)  
-der Stadtbummel  (şehir turu)  
-
-Stopp!
-
-das Superangebot | die Superangebote  (super offer)  
-die Surf-Mode  
-der Top-Preis | die Top-Preise  
-die Tour | die Touren  
-die Velo-Tour | die Velo-Touren (bicycle tour)  
-der Velovermieter  
-der Wanderer | die Wanderer (hiking man)
-die Wanderin | die Wanderinnen  
-die Wanderung  
-das Wesserwandern  
-der Werbetext | die Werbetexte  (adversiting text)  
-
-worauf (whereon)  
-Worauf wartest du noch?  
-
-die Mode | die Moden  
-die Mitte | die Mitten (middle)  
-
-in sein  
-Kite-Surfen ist gerade in (Windsurf is just in)  
-
-das Stichwort | die Stichwörter (keyword)  
-
-der Trend | die Trends  
-
-die Geschäftsidee | die Geschäftsideen  
-der Reiseveranstalter (seyhat oragnizatörü)  
-Veranstalter(in) (organizatör)  
-der Rodel (kızak)  
-die Schlittenfahrt | die Schlittenfahrten  (kızak kaymak)  
-die Shikurs | die Shikurse  
-
-ausdrücken  (yazdırmak)  
-bewerten  (değerlendirmek)  
-buchen  
-touristisch  
-
-überhaupt (eninde sonunda) X überhaupt nicht (asla)  
-Mir gefällt das Angebot überhaupt nicht  
-
-die Vorliebe | die Vorlieben (eğilim)  
-die Werbebroschüre | die Werbebroschüren  (reklam broşürü)  
-
-50er-Jahre  
-auswandern  
-besitzen  (to possess)  
-das Börek  
-
-erraten (to guess)  
-
-der Hautarzt  (dermatologist)  
-die Hauartzin  
-die Medizin  
-
-mütterlicherseits (anne tarafı)  
-vaterlicherseits (baba tarafı)  
-
-verbringen | verbracht (spend time)  
-
-der Zwilling | die Zwillinge (twins)  
-
-stolz (auf) (proud)  
-Ich bin sehr stolz auf meine Familie.  
-
-
-das Jobangebot | die Jobangebote  (job offer)  
-der Schlüsselbund | die Schlüsselbunde  
-der Schlüsseldienst | die Schlüsseldienste (çilingir)  
-
-der Glückbringer  
-das Pech  
-die Scherbe | die Scherben (broken fragment)  
-Scherben bringen Glück  
-
-emigrieren  
-das Heimatland | die Heimatländer (homeland)  
-
-der Kaufmann Kaufleute  
-die Literatur | die Literaturen  
-der Nobelpreis | die Nobelpreise  
-der Professor | die Profesoren  
-die Professorin | die Professorinnen  
-der Roman | die Romane
-der Schriftsteller (author)    
-die Schriftstellerin  
-der Untertan https://de.wikipedia.org/wiki/Der_Untertan  
-
-
-der Gartenzwerg | die Gartenzwerge  
-die Gartenzwergfrau | die Gartenzwergfrauen  
-die Gartenzwergin | die Gartenzverginnen  
-der Gartnezwergmann | die Gartenzwergmänner  
-das Pupenhaus | die Pupenhäuser  
-die Unterwelt | die Unterwelten  (underworld)  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Das Angebot gefällt mir
-
-Welches Angebot gefällt Ihnen am besten?
-
-Wie finden Sie die Idee?
-Warum?
-Würden Sie diese Reise buchen?
-Warum / Warum nicht?
-
-ganz in Ordnung
-viele Menschen haben zu viel Stress
-auf keinen Fall
-zu langweilig, zu wenig Menschen
-
-
-*Nomen mit -ung*
-
-wandern | die Wanderung (to hike, hiking)  
-erfahren | die Erfahrung (experience)  
-anstrengen | die Anstrengung (effort)  
-beraten | die Beratung (advice)   
-anmelden | die Anmeldung (register, apply, application)  
-erholen | die Erholung (rest)  
-
-
-*Was war früher anders als heute?*  
-Früher habe ich am Tag 20 Zigaretten geraucht, heute lebe ich gesünder.    
-Als Kind habe ich mit Puppen gespielt. Meine Tochter findet Computerspiele interessanter.  
-In unserem Dorf war die Luft früher besser, heute gibt es viele Fabriken.   
-Meine Großeltern haben auf einem Bauernhof gelebt, wir wohnen in der Stadt.  
-In meiner Kindheit hatten wir auch kein Fernsehgerät.  
-Meine Schwiegermutter hat früher mit Holz gekocht, jetzt hat sie einen Herd.  
-Der Unterricht in der Schule war anders, heute diskutieren die Lehrer mehr mit den Schülern.
-
-
-
-1. Christian kann den Schlüssel nicht finden.
-
-2. Melanie und Max sind die neuen Nachbarn von Lena und Christian.
-
-3. Lena und Christian haben sich Hamburg kennengelernt.
-
-4. Sie sind nach München gezogen, weil Christian ein tolles Jobangebot bekommen hat.
-
-5. Lena und Christian brauchen doch keinen Schlüsseldienst, weil Max den Schlüsselbund auf der Straße gefunden hat.
-
-6. Max hilft Lena mit demTisch.
-
-
-Mit Brot und Salz wünschen Nachbarn Glück im neuen Haus.
-
-Ein zerbrochener Spiegel bedeutet sieben Jahre Pech.
-
-Scherben bringen Glück.
-
-
-*Gefühle beim Umzug*
-
-Schreiben Sie einem Freund eine Mail und erzählen Sie ihm, welche Gefühle Sie beim Umzug hatten, und ob Sie von jemand einen Glücksbringsel bekommen haben.
-
-Schreiben Sie mindestens 50 Wörter.
-
-Beginnen Sie so:
-
-Liebe…/Lieber…,
-
-in der letzten Woche bin ich...
-
-Redemittel:
-
-sich auf die neue Wohnung freuen/ der Stress, dass man alles packen und bewegen muss/ ein schlechtes Gefühl, weil man einen Lebensabschnitt hinter sich lässt/ Freunde/ eine bekannte Umgebung
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Michael steht um 8.15 Uhr auf.
-Michael ist um 8.15 Uhr aufgestanden.
-
-Er duscht und putzt sich die Zähne.
-Er hat geduscht und sich die Zähne geputzt.
-
-Dann kocht er Kaffee und mach Frühstück. 
-Dann hat er Kaffee gekocht und Frühstück gemacht.
-
-Michael isst Toast mit Honig , ein Ei und Müsli.
-Michael hat Toast mit Honig , ein Ei und Müsli gegessen.
-
-Er liest die Zeitung.
-Er hat die Zeitung gelesen.
-
-
-Um 9.30 Uhr geht Michael zur Schule , er zieht seinen Mantel an und holt das Fahrrad.
-Um 9.30 Uhr ist Michael zur Schule gegangen,er hat seinen Mantel angezogen und das Fahrrad geholt.
-
-Er fährt durch die Stadt und hält am Kiosk.
-Er *ist* durch die Stadt und *hat* am Kiosk gehalten.
-
-Dort kauft er Süßigkeiten und Kaugummi.
-Dort hat er Süßigkeiten und Kaugummi gekauft.
-
-Um 10.00 Uhr kommt Michael in der Schule an und geht in die Klasse. Alle anderen sind schon da.
-Um 10 Uhr ist Michael in der Schule angekommen und ist in die Klasse gegangen.Alle anderen sind schon da gewesen.
-
-
-
----
-
-## 4
-
-Was darf es sein? How may I help?, Ne vereyim abime :)  
-
-die Dose | die Dosen  
-der Einkaufszettel | die Einkaufszettel  (shopping list)  
-je (each)  
-das Kilo | die Kilos  
-die Knoblauchsalami  
-der Liter | die Liter  
-die Packung | die Packungen  
-der Senf (mustard)  
-die Weintraube | die Weintrauben  (grapes)  
-
-hungrig X satt  
-
-sonst (else, otherwise)  
-
-die Banane | die Bananen  
-der Apfel | die äpfel  
-die Birne | die Birnen  
-die Bohne | die Bohnen  (fasülye)  
-das Bonbon | die Bonbons  
-die Cola | die Colas  
-der Eistee  
-der Knoblauch (sarımsak)  
-das Mehl  
-der/die Paprika  
-der Pfirsich | die Pfirsiche   
-der Quark  
-die Salami | die Salamis  
-der Thunfisch | die Thunfische  
-der Kartoffel | die Kartoffeln  
-die Tomate | die Tomaten  
-die Weintraube | die Weintrauben  
-die Zitrone | die Zitronen  
-die Zwiebel | die Zwiebeln  
-
-die Buttermilch  
-die Essgewohnheiten  (eating habbits)  
-das Fett | die Fette  
-fettarm  
-der Frischkäse  
-das Gramm  
-das Kilogram  
-die Magermilch  
-die Vollmilch  
-die Pfeffersalami  
-das Pfund (500 gr)  
-
-roh X gecoht (raw X cooked)  
-
-der Supermarkt | die Supermärkte  
-
-weich X hart (soft X hard)  
-weichen Käse  
-harten Käse  
-
-mithilfe  
-
-das Einkaufsgespräch  
-der Obst und Gemüseladen  (manav)  
-der Teeladen  (tee shop)  
-die Wursttheke | die Wursttheken (et reyonu)  
-
-der Nerv | die Nerven  
-Ich habe keine guten Nerven  
-
-der Brotkorb | die Brotkorbe  (bread basket)  
-
-einfach/doppelt Espresso (duble)  
-
-der Espresso | die Espressos die Espressi  
-
-das Extra | die Extras  
-
-das Frühstücks-Café  
-die Frühstückskarte  
-
-der Obsalat | die Obsalate  
-
-pressen  
-Orangensaft, fresh gepresst  
-
-das Rührei | die Rühreier  (omlet)  
-
-die Scheibe | die Scheiben  (slice)  
-eine Scheibe Brot  
-
-die Adjektivedeklination nach indefinitem Artikel: einen milden Käse  
-
-das Gewicht | die Gewichte  
-
-mager  (skinny)  
-Ich hätte gern einen mageren Schinken  
-
-mild  
-Bitte einen milden Käse  
-
-die Verpackung | die Verpackungen  
-
-
-
-
-
-
----
-
-## 5
-
-Schaut mal, der schöne Dom  
-
-die Stadtbesichtigung  
-die Dom-Führung  
-
-die Führung | die Führungen  
-
-geschlossen  
-
-die Kamera | die Kameras  
-der Prospekt | die Prospekte  
-der Reiseführer | die Reiseführer  
-die Reiseführerin | die Reiseführerinnen  
-
-der Rudgang | die Rudgänge  
-Rudgang machen  
-
-die Schiffahrt | die Schiffahrten  
-
-das Trinkgeld  
-die Unterkunft | die Unterküfte (place to stay)  
-
-wescheln: Geld wescheln  
-
-
-**der Tourist** | die Touristen
-
-**T**rinkgeld  
-**O**ffen  
-**U**nterkunft  
-**R**undgang  
-**I**nteressieren  
-**S**ehenwürdigkeit  
-**T**axi  
-
-die Führung | die Führungen  
-
-besichtigen | besichtigt  
-
-abgeben | hat abgegeben (return)  
-
-abstrakt (soyut)  
-
-ärgern (sich)  
-Charlotte ärgert sich  
-
-berühmt (famous)  
-bunt (colorful)  
-
-das Bussi | die Bussis  
-dickes Bussi  
-der Dank (thank)  
-zum Dank habe ich ...   
-die Facebook-Nachrit  
-
-großartig (excellent)  
-der Höhepunkt (zirve noktası)  
-
-lassen | haben gelassen (leave sth)  
-
-das Loch | die Locher (hole)  
-Sie hat dem Reiseführer ein Loch in den Bauch gefragt (soruları ile adamı delik deşik etti)  
-
-der Rhein  
-die Rheinfahrt  
-
-das Römisch-Germanische Museum  
-
-sehenswert (worth to see)  
-
-der/die Süße | die Süßen  
-Hallo Süße (merhaba şekerim)  
-
-
-wiederfinden | haben wiedergefunden  (find again, relocate)  
-
-das Brauhaus  
-das Interesse | die Interessen  
-
-die Klosterkirsche  
-
-shick  
-in einem shicken Club  
-
-
-verteilen (spread, distribute)  
-
-
-also gut  
-
-beeindruckend  (awesome)  
-
-der Besuch (visit)  
-
-Ich bin in dafür (I favour)  
-
-Ich bin dagegen (I am against)  
-
-das Filmmuseum  
-
-die Gegend  (district)  
-
-der Keiserdom  
-
-meistens  (usually)  
-
-der Samstagabend  
-
-sicher  (certainly)  
-
-die Planung  
-
-berichten  (to report, to tell)  
-einverstanden  (okay, agreed)  
-
-der Internet-Eintrag (entry)  
-der Tourismus  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Viele Grüße aus Köln**
-
-Die Oma schreibt einen Brief an ihren Mann.
-
-Die Mutter schreibt eine Postkarte an ihren Mann..
-
-Die Tochter schreibt eine Facebook-Nachricht an ihre Freundin.
-
-Jutta freut sich am meisten auf den Ausflug mit dem Schiff.
-
-Melanie hat Charlottes Kamera im Hotel abgegeben.
-
-Charlotte ärgert sich: Sie hat ihre neue Kamera im Dom vergessen.
-
-
-Der berühmte Dom ist wirklich sehenswert
-
-berühmt (famous)  
-sehenswert (worth seeing)  
-
-
-*Nominativ*  
-Mir gefällt/gefallen ...    
-der berühmt*e* Dom  
-das bunt*e* Fenster   
-die neu*e*  Kamera  
-die nett*en*  Leute  
-
-
-*Akkusativ*  
-Ich finde  ... toll      
-*den* alt*en* Dom  
-das  bunt*e*  Fenster  
-die neu*e*  Kamera   
-die nett*en* Leute  
-
-
-*Dativ*  
-mit ...               
-*dem* nett*en*     Reiseführer  
-*dem* bunt*en*    Fenster  
-*der* neu*en*       Kamera  
-*den* nett*en*      Leuten  
-
-
-
-https://www.koelntourismus.de/
-
-Am Samstagmorgen.../Zuerst.../Mittags.../Am Nachmittag..../Am Abend..../ Und am Sonntag..../Was denkst du?
-
-Ich schlage vor, wir gehen in den Kölner Dom, denn das ist das Wahrzeichen von Köln.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*die* freundlich*en* X die unfreundllich*en* Tourist*en*
-*die* schön*en* X hässlich*en* Postkart*en*
-*der* geschlossen*e* X geöffnet*e* Supermarkt
-*die* langweilig*e* X lustig*e* Stadtführung
-*die* lang*e* X kurz*e* Schifffahrt
-*das* gut*e* X schlecht*e* Wetter
-*das* alt*e* X neu*e* Haus
-*der* kurz*e* X lang*e* Brief
-
-
-*Den* alt*en* Dom finde ich viel schön*er* als *die* modern*e* Kirche.  
-In *den* bunt*en* Prospekten sieht *die* Stadt viel schön*er* aus.  
-*Die* alt*e* Kamera ist total schwer. Warum hast du denn nicht *die* neu*e* mitgenommen?  
-In *dem* schick*en* Restaurant *neben* *der* Post würde ich auch gerne essen.  
-Hast du *das* nett*e* Cafe gesehen? Da können wir *nach* *der* Führung hingehen.  
-Warum hast du denn *die* billig*en* Postkart*en* gekauft?  
-Wie findest du denn *das* grün*e* Haus *mit* *dem* klein*en* Turm da vorne?  
-In *der* klein*en* Kirche waren wir ja schon.  
-
-
-Hallo ...,
-viele Grüße *aus* *dem* schön*en* Wien.
-Die Stadt ist toll. *Am* erst*en* Tag habe ich ein*en* lang*en* Rundgang *durch* *das* Zentrum gemacht. Der Stadtführer war ein total lustig*er* jung*er* Wiener. *Die* alt*en* Häuser hier finde ich besonders schön. Ich habe auch eine nett*e* Schifffahrt auf *der* schön*en* blau*en* Donau gemacht. Gestern Abend war ich *im* berühmt*en* Burgtheater. Die Schauspieler waren wirklich toll. Leider habe ich keine billig*e* Unterkunft gefunden. Das Hotel liegt auch noch in ein*em* ziemlich langweilig*en* Stadtviertel. Aber sonst ist es hier toll. Ich hoffe, du hast auch schön*e* Ferien.
-Bis bald!
-..
-
-
-
-
-
-
-
-
----
-
-## 6
-
-Meine Lieblingsveranstaltung  
-
-
-der Begriff | die Begriffe  
-das Feuer (fire)  
-das Mittelalterfest | die Mittelalterfeste  
-das Theaterfestival | die Theaterfestivals  
-
-die Bühne | die Bühnen (sahne)   
-die Eintritskarte | die Eintritskarten  
-die Ermãßigung | die Ermãßigungen (indirim)  
-das Theaterstück | die Theaterstücke (tiyatro oyunu)  
-der Vortrag | die Vortrãge (sunum)  
-
-die Ars Electronica
-
-
-
-
-
-
-
-
-
-
-
-**Wie lange?**  
-vom 8. bis 10.Juli    
-beginn --------------> Ende  
-
-
-
-**Ab wann?**  
-
-jetzt ------------------------- Beginn ->----------------------------->
-
-von morgen an  
-vom 1. Januar an  
-
-
-**Seit wann?**  
-
-Vergangenheit ->--------------------------------------------------------> jetzt
-
-
-seit 1979 / Juli  
-
-
-**Wie lange?**  
-
-( ----------------------- )
-
-länger / mehr als / über 30 Jahre
-
-
----
-
-- Fährst du eigentlich dieses Jahr wieder nach Deutschland?
-- Ja, *in* vier *Monaten* fahre ich nach Düsseldorf.
-- Und was machst du dort?
-- Ich mache *für* zwei Wochen einen Kurs.
-- Warst du da nicht schon *im* letzten Jahr?
-- Ja, das mache ich schon *seit* drei Jahren jeden Sommer. Es macht großen Spaß. Vormittags haben wir Deutschunterricht und *nach* dem Unterricht gibt es noch ein interessantes Freizeitprogramm mit vielen Ausflügen und Veranstaltungen.
-- Klingt gut.
-- Ja, ich kann dir mal einen Prospekt mitbringen. Und du, fährst du dieses Jahr auch nach Deutschland?
-- Ja, vor der Prüfung. Ich fahre nach Berlin.
-- Toll. In Berlin war ich noch nie.
-- Ich war dort schon einmal, aber das ist schon *über* 10 Jahre her.
-
-
-
----
-
-
-- **temporale Präpositionen + Dativ**  
-
-*in* , *vor* , *seit* , *nach*  + ein*em* Monat / ein*em* Jahr / ein*er* Woche / zwei Jahre*n*  
-
-- **temporale Präpositionen + Akkusativ**  
-
-*über* , *für* + ein*en* Monat / ein Jahr / eine Woche / zwei Jahre  
-
-
-
----
-
-
-  
-Wie lange wohnst du schon in der WG?  
-*Seit* drei *Jahren*  
-Wie lange möchtest du in Europa bleiben?  
-*Für* *ein* *Jahr*  
-Wann beginnt der Deutschkurs?  
-*In* *einem* Monat  
-Wann hast du geheiratet?  
-*Vor* zehn Jahre*n*  
-Wie lange dauert die mündliche Prüfung?  
-*Über* eine Stunde  
-Wie lange ist die Ausstellung in Berlin?  
-*Vom* erst*en* *bis* einunddreißigst*en* Juli  
-Ab wann studiert deine Freundin in Paris?  
-*Vom* erst*en* September *an*  
-
-
-
-**Eine Veranstaltung besuchen**  
-Wollen wir mit dem Deutschkurs nicht mal eine Veranstaltung besuchen?  
-Ja, gute Idee. Habt ihr einen Vorschlag?  
-Wir können zu einer Lesung gehen.  
-Ach nein, das finde ich noch zu schwer. Ich bin dagegen.  
-Darf ich etwas vorschlagen? Wir können doch ins Kino gehen. Es läuft gerade der deutsche Film "Männerherzen" im Original mit Untertiteln.  
-Einverstanden!  Wie wäre es mit morgen?  
-Das finde ich super. Wann denn?  
-Um 19 Uhr. Was haltet ihr davon?  
-Ja, okay. Das machen wir. Wollen wir zusammen hinfahren oder wollen wir uns vor dem Kino treffen?  
-Ich würde mich lieber direkt vor dem Kino verabreden. Ich wohne da in der Nähe.  
-Okay, dann treffen wir uns morgen um 18.45 Uhr vor dem Kino. Ich bestelle die Eintrittskarten.  
-
-
-
-Mein Top-Tipp ist ...  
-....... gibt es seit / ist aus dem Jahr ...  
-Früher hat ... dort gewohnt / war dort ...  
-Heute kann man ... besichtigen. Besuchen Sie /Besucht ... Hier finden Sie / findet ihr ...  
-
-
-
-
----
-
-## 7
-
-Für diese Sportarten braucht man eine Mannschaft.  
-
-Für diese Sportarten braucht man unbedingt einen Partner.  
-
-Diese Sportarten kann man auch alleine machen  
-
-
-
-
-
-
-Am Abend vor den Spielen solltet ihr euch ausruhen.  
-Schau mal, wir könnten auch einen Tauchkurs machen.  
-Abends sollten Sie keine Nudeln mehr essen.  
-Ab nächsten Monat könntet ihr freitags auch zum Lauftraining kommen.  
-Sie sollten regelmäßig Sport machen.  
-
-
-Was soll ich denn heute Abend kochen?  
-Du könntest mal wieder eine Gemüsesuppe machen.  
-
-Ich habe oft starke Halsschmerzen. Hast du einen Tipp für mich?  
-An deiner Stelle würde ich Salbeitabletten nehmen.  
-
-Ich muss unbedingt wieder mehr für meine Gesundheit tun. Wollen wir zusammen Sport machen?  
-Gute Idee! Wie wäre es mit Aqua-Fitness?  
-
-Mein Mann schläft nachts immer so schlecht. Was würden Sie ihm empfehlen.  
-Sie sollten ihm einen Tee geben.  
-
-Ich würde gerne etwas an der frischen Luft machen. Kannst du mir eine Sportart empfehlen?  
-Du könntest joggen gehen.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 8
-
-
-
-
-Er will mir nur nichts sagen, weil meine Krankheit so schlimm ist.  
-
-Ärzte sagen nicht die Wahrheit. Deshalb gehe ich nicht mehr allein hin.  
-
-
-Klaus öffnet das Fenster, weil
-
-(Es ist im Zimmer zu heiß.)
-
-Klaus öffnet das Fenster, weil es im Zimmer zu heiß ist.
-
-Ich vertraue meinem Freund, weil
-
-(Er sagt mir immer die Wahrheit.)
-
-Ich vertraue meinem Freund, weil er mir immer die Wahrheit sagt.
-
-Meine Nachbarn sind traurig, weil
-
-(Ihr Hund ist gestorben.)
-
-
-Meine Nachbarn sind traurig, weil Ihr Hund gestorben ist.
-
-Carla macht eine Diät, weil
-
-(Sie möchte abnehmen.)
-
-Carla macht eine Diät, weil sie abnehmen möchte.
-
-
-Frau Preuß liegt im Krankenhaus, denn sie hatte einen Herzinfarkt.
-
-
-Sandra kann nicht zum Arzt gehen, weil er heute keine Sprechstunde hat.
-
-
-Die Eltern machen sich sorgen, weil ihre Tochter krank ist.
-
-
-Herr Moll hat zu viel Kaffee getrunken. Deshalb tut sein Magen weh.
-
-
-Frau Winter ist krank. Deshalb kann sie nicht arbeiten.
-
-
-
-Julian hat seit Tagen Bauchschmerzen,
-
-(der Arzt - ihn - genau untersuchen wollen)
-
-Ich kann heute nicht am Fußballtraining teilnehmen,
-
-(ich - sein - erkältet)
-
-Frau Krause geht es schlecht,
-
-(eine schwere Grippe - sie - haben)
-
-Ich bin erkältet,
-
-(müssen husten - ich - so oft)
-
-Elke ist heute eine Stunde gejoggt,
-
-( sie - jetzt müde sein)
-
-
-
-Hoffentlich hast du nichts Schlimmes. 
-
-Das finde ich aber traurig.  
-
-Ich hoffe, es ist alles in Ordnung.  
-
-Oh, das tut mir wircklich sehr/ echt Leid.  
-
-Was ist los?  
-
-Ich habe Angst vor Herzkrankheiten.  
-
-Ist alles in Ordnung?  
-
-
-
-Was ist los? Ist alles in Ordnung?
-Ich habe so schlimme Zahnschmerzen.
-Oh, das tut mir wirklich sehr Leid. Warst du schon beim Zahnarzt?
-Nein, ich habe Angst vor dem Zahnarzt.
-Hoffentlich hast du nichts Schlimmes. Ich hoffe, es ist alles in Ordnung.
-
-
-Was ist los? Ist alles in Ordnung?
-Ich habe Magenschmerzen.
-Oh, das tut mir wirklich sehr Leid. Warst du schon beim Zahnarzt?
-Nein, hoffentlich muss ich nicht ins Krankenhaus. Ich habe Angst vor Krankenhäusern und Operationen.
-Hoffentlich hast du nichts Schlimmes. Ich hoffe, es ist alles in Ordnung.
-
-
-Gestern hatte ich einen  Unfall mit dem Fahrrad. Eine Frau hat den Krankenwagen gerufen, weil meine Hand verletzt war. Sie hat stark geblutet. Der Notarzt hat gemeint, dass ich ins Krankenhaus muss. In der Notaufnahme hat man meine Hand untersuht. Es war gar nicht schlimm. Ich habe einen Verband bekommen und bin dann mit dem Taxi nach Hause gefahren. Nur meinem Fahrrad geht es leider immer noch nicht gut.
-
-
-Email über Ihren Krankenhausaufenthalt
-
-Warum waren Sie im Krankenhaus?
-Wer hat Sie ins Krankenhaus gebracht?
-Wie lange waren Sie im Krankenhaus?
-Wie haben Sie sich gefühlt?
-Wie sind Sie nach Hause zurückgekommen?
-
-
-Gerstern Abend hatte ich ......
-
-einen dicken Verband um das Knie haben
-
-eine Verletzung haben
-
-einen Unfall haben
-
-mit dem Skateboard hinfallen
-
-Schmerzen haben
-
-einen Herzinfarkt haben
-
-bluten
-
-wehtun
-
-in die Notaufnahme fahren
-
-Angst haben vor der Operation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 9
-
-
-Freundliche Mirarbeiter gesucht!
-
-
-| Artikel | Nominativ        |      	Akkusativ          |        	Dativ
-| --- | --- | --- | --- |
-der
-das
-die
-die Pl
-
-
-guter Mechatroniker           
-
-großes Lager
-
-flexible Arbeitszeit
-
-Answer
-kleine
-Correct
-
- Büros
-
-guten Lohn                 
-
-Answer
-großes
-Correct
-
- Lager
-
-Answer
-ordentliche
-Correct
-
- Haushaltshilfe
-
-Answer
-freundliche
-Correct
-
- Mitarbeiter
-
-Answer
-gutem
-Correct
-
- Lohn
-
-großem Lager
-
-Answer
-flexibler
-Correct
-
- Arbeitszeit
-
-Answer
-günstigen
-Correct
-
- Preisen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-## 10
-
-
-
----
-
-## 11
-
-
-
----
-
-## 12
-
-
----
-
-# A2.2 {.tabset .tabset-fade .tabset-pills}
-
-
-https://www.hueber.de/shared/uebungen/menschen/ab/a2-2/menu.html
-
-
-https://www.hueber.de/media/36/Loesungsschluessel_Menschen_AB_A2-2.pdf
-
-
----
-
-## 13
-
-https://hueber.de/shared/uebungen/menschen/kb/a2/livebook/l13/index.php
-
-
-Die Organisatoren von „Weihnachten im Schukarton “ verschicken Geschenke an arme Kinder in Osteuropa und Asien.  
-Das Projekt hat großen Erfolg.
-
-
-
-
-
----
-
-## 14
-
-
-
-Dankesbrief
-
-Was hat Sie gefreut?
-Was gefällt Ihnen (besonders) gut?
-Was können Sie  (besonders) gut gebrauchen?
-
-Lieber/Liebe .... ,
-vielen Dank für Deine tollen Geschenke!
-
-Schön, dass du an mich gedacht hast./ ...
-
-... hat/ haben mich sehr gefreut.
-
-Ich liebe... / ... mag ... besonders gern.
-
-... ist/sind super. / eine tolle Idee.
-
-Ich bin sehr froh, dass ...
-
-Ich freue mich sehr auf ...
-
-
-
-
-
-Lieber ...,
-schön, dass du an meinen Geburtstag   gedacht hast. Die Blumen haben mich sehr gefreut. Frühlingsblumen mag ich besonders gern.
-
-Liebe ..., lieber ...,
-vielen Dank für Eure tollen Geschenke. Der Büchergutschein ist eine super Idee
-.
-Ich freue mich schon auf meinen Urlaub. Da liege ich dann nur am Strand und lese. Und die Gesichtscreme kann ich wirklich gut gebrauchen. Die benutze ich jetzt jeden Tag. Ich glaube, ich sehe schon viel jünger aus.
-
-
-
-
-
----
-
-## 15
-
-
-
-
-
-Fernsehen in Deutschland
-
-Wussten Sie, dass
-
-- 95 % der deutschen Haushalte einen Fernseher haben?
-
-- Sean Connery für mehr als die Hälfte aller Deutschen der beste James Bond- Darsteller ist?
-
-- im Jahr 2010 die meisten Zuschauer des "Tatorts" über 45 Jahre alt waren?
-
-- fast 90% aller Deutschen aufstehen und das Programm wechseln, wenn die Fernbedienung nicht funktioniert? Die anderen bleiben sitzen und schauen sich die Sendung an, auch wenn sie ihnen nicht gefällt.
-
-- 47% der Deutschen glauben, dass die Qualität des Fernsehens durch die Privatsender nicht so gut ist. 45% glauben, dass die Qualität gleich gut ist.
-
-
-Ich sehe am liebsten den Tatort.
-Ich sehe den Tatort immer zusammen mit Freunden.
-Manchmal gucke ich ihn allein zu Hause, aber meistens zusammen mit einer Freundin.
-Dazu gibt's immer Erdnüsse und ein, zwei Gläschen Sekt oder Wein.
-Ich sehe oft den Tatort, aber ich habe keine feste Gewohnheit.
-Ja, den Tatort.
-Wenn ich am Sonntag Abend keine Zeit habe, gucke ich ihn später in der Mediathek.
-Wir treffen uns am Sonntag immer in der Kneipe und sehen den neuen Fall gemeinsam.
-Meine Lieblingssendung ist der Tatort.
-Ich habe keine Lieblingssendung.
-Ich treffe mich an jedem Sonntagabend mit zwei Freundinnen.
-Dann kochen wir zusammen und anschließend sehen wir uns den neuen Tatort an.
-
-
-Was sehen Sie gern im Fernsehen?
-Haben Sie eine Lieblingssendung/ Lieblingsserie?
-Wo, wann und mit wem sehen Sie sie?
-Haben Sie bestimmte Gewohnheiten?
-
-
-Eine Woche ohne Internet
-
-
-Was konnten Sie nicht machen?
-Was haben sie stattdessen gemacht? z.B. Freunde “live“ treffen
-Wie haben Sie sich gefühlt?
-Haben Sie etwas aus der Situation gelernt?
-
-Plötzlich .../ Und weißt du, was dann passiert ist? / Also pass auf: .../ Zum Glück.../ Hoffentlich.../ Leider .../ ...
-
-
-Fernsehen früher.
-
-Ich habe nur wenig ferngesehen, *als* ich klein war.
-
-*Als* es noch keine Privatsender gegeben hat, hatten wir nur drei Programme.
-
-*Wenn* sonntags die Serie "Lindenstraße" gelaufen ist, habe ich immer vor dem Fernseher gesessen.
-
-Ich war schon 8 Jahre alt, *als* meine Eltern den ersten Fernseher gekauft haben.
-
-Ich habe immer dann den "Tatort" geguckt, *wenn* meine Eltern nicht zu Hause waren.
-
-
-
-Was wird im Deutschkurs gemacht? 
-
-Ein Test wird geschrieben.
-
-a Manchmal (Sätze übersetzen ) werden Sätze übersetzt.
-
-b Neue Wörter (aufschreiben) werden aufgeschrieben.
-
-c Ein Film (anschauen) wird angeschaut.
-
-d Oft (die Grammatik wiederholen) wird die Grammatik wiederholt.
-
-e Aufgaben (lösen) werden gelöst.
-
-f Texte (korrigieren) werden korrigiert.
-
----
-
-## 16
-
-
-Ich würde gern wissen, ob Sie noch ein Zimmer frei haben.
-
-
-
-Die Personen machen eine Ausbildung in einem Hotel.
-Frau Thalau bleibt zwei Nächte und bekommt ein Einzelzimmer nur mit Halbpension.
-
-Herr Klein bekommt ein Zimmer mit Strandblick.
-
-Für die Anruferin gibt es noch ein Zimmer.
-
-
-Ich würde gern wissen, ob Sie noch ein Zimmer frei haben.
-
-Darf ich fragen, wie lange Sie bei uns bleiben möchten?
-
-Brauchen Sie ein Einzelzimmer oder ein Doppelzimmer?
-
-Im Bad sind überall Haare.
-
-Es tut mit leid, wenn sie Ärger hatten.
-
-Tut mir leid, wir sind ausgebucht.
-
-
-
-
-Ja/ Nein-Fragen  
-Haben sie noch ein Zimmer frei?  
-*Ich würde gern wissen*, *ob* Sie noch ein Zimmer frei *haben*?
-
-Fragen mit Fragewort  
-Wie lange möchten sie denn bei uns bleiben?  
-*Darf ich fragen*, *wie lange* Sie denn bei uns bleiben *möchten*?
-
-
-Darf ich fragen, wie viel ein Einzelzimmer kostet? 
-
-Können Sie mir erklären, wie das Telefon funktioniert?
-
-Wissen Sie, ob die Geschäfte noch offen sind?
-
-Können Sie mir sagen, wo man schnell einen Kaffee trinken kann?
-
-Ich weiß nicht, warum mein Gepäck noch nicht angekommen ist.
-
-Ich würde gern wissen, wohin man am Abend gehen kann?
-
-
-Darf ich fragen, ob Ihr Essen scharf ist?
-
-Ist Ihr Essen scharf?
-
-Können Sie mir sagen, ob man einen Tisch reservieren muss?
-
-Muss man einen Tisch reservieren?
-
-Wissen Sie, ob der Platz noch frei ist?
-
-Ist der Platz noch frei?
-
-Ich weiß nicht, ob man in diesem Restaurant vegetarisch essen kann.
-
-Kann man in diesem Restaurant vegetarisch essen.
-
-
-
-
-Sie reisen nach Deutschland und möchten ein Zimmer in einem Hotel buchen.
-
-Suchen Sie zuerst im Internet ein Hotel, in dem Sie wohnen wollen.
-Schreiben Sie dann eine E-Mail an das Hotel.
-Notieren Sie die Internetadresse des Hotels in Ihrem Text.
-Schreiben Sie zu folgenden Aspekten:
-Daten
-
-Preis
-
-Personen
-
-Anzahl der Nächte
-
-Mit/ohne Frühstück, WIFI, Bad/Dusche/Parkplatz
-
-Zimmertyp
-
-Serviceangebote
-
-
-
-
-
----
-
-## 17
-
-
-Simone und Felix fahren in den Urlaub.
-
-Die Nachbarin soll auf das Haus aufpassen.
-
-Simone und Felix wollen ein Tagebuch im Internet schreiben.
-
-
-Unsere Reise nach Rumänien
-
-
-
-
-
-
----
-
-## 18
-
-Ihre Meinung zum Wetter
-
-
-Darf ich kurz mit Ihnen über diesen wunderbaren Winter sprechen?
-Haben Sie denn keine Lust auf Eis und Schnee?
-Ich interessiere mich nicht für Wintersport.
-Die meisten Menschen freuen sich auf einen heißen Tee.
-Sprechen Sie mit mir?
-Ich interessiere mich für Ihre Meinung zum Wetter.
-Ich denke, Sie sind so richtig zufrieden mit diesem schönen Sommertag.
-Quatsch, ich habe vom Winter geträumt.
-Ich ärgere mich über die Hitze.
-
-
-- Verben mit Präpositionen
-
-  - Verben mit Präpositionen + Akkusativ
-
-Sie freuen sich auf einen heißen Tee.
-
-Ich ärgere mich über die Hitze.
-
-auch so: sprechen über, Lust haben auf, sich interessieren für
-
-  - Verben mit Präpositionen + Dativ
-
-Sind Sie zufrieden mit diesem schönen Sommertag?
-
-Sprechen Sie mit mir?
-
-auch so: träumen von
-
-
-
-
-
-
----
-
-## 19
-
-
-
-Wenn eine Ausstellung eröffnet wird, dann nennt man das eine Vernissage.
-
-Im Zirkus können Sie Clowns und Artisten sehen.
-
-Wenn Sie klassische Musik mögen, ist ein klassisches Konzert genau das Richtige für Sie.
-
-
-
-
----
-
-## 20
-
-
-
----
-
-## 21
-
-
-
----
-
-## 22
-
-
-
----
-
-## 23
-
-
-
----
-
-## 24
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
 
 
 # Wörterbuch {.tabset .tabset-fade .tabset-pills}
@@ -1880,6 +65,15 @@ http://www.hueber.de/drop-a-word-go/
 
 ---
 
+## verbformen
+
+https://www.verbformen.com/
+
+https://www.verbformen.com/conjugation/examples/?w=sitzen
+
+
+---
+
 # Bibliothek {.tabset .tabset-fade .tabset-pills}
 
 ---
@@ -1905,6 +99,12 @@ https://ankara.bibliothek.goethe.de
 
 ---
 
+## Kurs
+
+
+https://www.deutschakademie.de/online-deutschkurs/audio-course/
+
+---
 
 # Media {.tabset .tabset-fade .tabset-pills}
 
@@ -1945,6 +145,12 @@ https://www.n-tv.de/mediathek/livestream/
 
 ## DW
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UBLf1ycbdy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 -Kelime ve Seviye Geliştirme
 https://seedlang.com/
 
@@ -1983,6 +189,14 @@ https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/audiotrainer/s-11213
 
 ## YouTube
 
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLxRBOaoEoP4JmPenBZ5QdBoPFcdj7or7l" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+
+
 - Die Deutschen (The Germans) S01E09 'Bismarck und das Deutsche Reich' (Ger&Eng Subs)  
 https://www.youtube.com/watch?v=Tyeu2Z_p9sM
 
@@ -1990,14 +204,21 @@ https://www.youtube.com/watch?v=Tyeu2Z_p9sM
 - National Geographic  
 https://www.youtube.com/watch?v=4J5i3yxH1ks&list=PLfBYdQ3Qs3IrRDjHUv-ny-t8_usQfP1PB
 
-- Easy German
-https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ
+- Easy German  
+https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ  
 
 
 
-https://www.youtube.com/embed/5zWpyE5HOxs
+https://www.youtube.com/embed/5zWpyE5HOxs  
 
 
+
+- Selbstgemacht: DIY Tisch aus Holzdielen  
+
+https://www.youtube.com/watch?v=ZzNKNU0qEa8  
+
+- Schweizer Käse in der Türkei  
+https://www.youtube.com/watch?v=K-c6Jexc1X0  
 
 ---
 
@@ -2032,6 +253,12 @@ https://www.youtube.com/user/Revolverheld
 
 Clueso  
 https://www.youtube.com/user/cluesomusik/videos  
+
+
+Zigeunerjunge Alexandra 1967  
+https://www.youtube.com/watch?v=xAe6fz1vndU  
+https://open.spotify.com/track/0pOgiSa8cTczv6shpUqfpG?si=reQdJJk_RTqvDb2aziY76g  
+
 
 
 ---
@@ -7397,14 +5624,2072 @@ feiern
 
 ---
 
+
+
+
+# A2 {.tabset .tabset-fade .tabset-pills}
+
+https://hueber.de/shared/uebungen/menschen/kb/a2/menu.php
+
+https://www.hueber.de/media/36/Menschen_Loesungen_AB_A2.pdf
+
+---
+
+## 1
+
+Mein Opa war auch schon Bäcker.
+
+die Brezel | die Brezeln  
+
+klappen  
+
+kompliziert  
+
+der Teig | die Teige  
+
+das Studium  
+
+das Einrad | die Einräder  
+
+das Fußballbild | die Fußballbilder  
+
+klettern  
+
+übernachten  
+
+das Skateboard | die Skateboards  
+
+die Süßigkeiten  
+
+
+auf Bäume klettern  
+Comics lesen  
+Computerspiel spielen  
+draußen übernachten  
+Einrad fahren  
+Sachen auf dem Flohmarkt verkaufen  
+mit Puppet spielen  
+Geschicten erzählen  
+Fußballbilder sammeln  
+zeichnen  
+Witze erzählen  
+Süßigkeiten essen  
+Skateboard fahren  
+
+der Ausschnitt | die Ausschnitte    
+der Bäcker | die Bäcker  
+die Bäckerin | die Bäckerinnen  
+der Cousin | die Cousins  
+der Neffe | die Neffen  
+die Nichte | die Nichten  
+der Schwiegersohn | die Schwiegersöhne  
+der Schwiegervater | die Schwiegerväter  
+
+
+übergeben  
+
+
+die Zigarette | die Zigaretten  
+
+verrückt (sein)  
+
+wachsen  
+
+der Judenliche | die Judenlichen  
+die Kindheitserinnerungen  
+Familienheitserinnerungen  
+die Lieblingsdisco | die Lieblingsdiscos  
+die Sekunde | die Sekunden  
+das Wahrheitsspiel | die Wahrheitsspiele  
+
+aufmachen  
+der Schluss  
+zum Schluss  
+
+die Abstimmung | die Abstimmungen  
+
+das Ereignis | die Ereignisse  
+
+die Familiengeschichte  
+Familiengeschichten erzählen  
+die Geschichte | die Geschichten  
+
+streiten | haben gestritten (to fight)  
+Glück haben  
+rufen | haben gerufen  
+hören | haben gehört  
+sagen | haben gesagt  
+bestehen | haben bestanden  (to pass)  
+besuchen | hat besucht (to visit)  
+umziehen | haben umgezogen (to move)
+
+
+Meine Schwester und ich haben als Kinder viel gestritten.  
+
+Es gab ein Unwetter, aber wir hatten Glück. Es ist nichts passiert.  
+
+Ich habe dich gerufen, aber du hast mich leider nicht gehört.  
+
+Jan hat mir gesagt, Alina hat ihre Prüfung bestanden.  
+
+Letzte Woche haben wir Xaver und Michele besucht. Sie sind umgezogen.  
+
+
+Kolja, habe ich dir schon von meinem Cousin Fridolin erzählt?  
+Nach der Schule hat er **zuerst** eine Ausbildung als Friseur gemacht. Er war immer fleißig und hat schon mit 18 Jahren einen eigenen Friseursalon aufgemacht. Er hat viel Geld verdient und sein Geschäft ist viel gewachsen.  
+Und weißt du, **was dann passiert ist**? Eines Morgens hat er allen erzählt: Ich verkaufe das Geschäft. Er hat aber nicht sofort einen Käufer gefunden.  
+**Zum Schluss** hat er das Geschäft einfach geschlossen, ein paar Sachen gepackt und ist nach Alaska geflogen. Heute lebt er dort allein in den Wäldern und ist glücklich.
+
+
+Also passt auf: ...
+
+Und wisst ihr, was ... dann gemacht hat?
+
+Wisst ihr, was dann passiert ist?
+
+Er / Sie war schon verrückt / nett / lustig, mein / meine ...
+
+
+
+
+
+
+---
+
+## 2
+
+Wohin mit der Kommode?  
+
+umziehen  
+
+blöd  
+
+ein·richten  
+
+renovieren  
+
+
+diskutieren  
+
+das Fernsehgerät | die Fernsehgeräte  
+hängen  
+das Kissen | die Kissen  
+verstecken  
+
+die Gemeinsamkeit | die Gemeinsamkeiten  
+
+**Im Zimmer**  
+
+die Kommode | die Kommoden  
+die Wand | die Wände  
+das Regal | die Regale  
+die Lampe | die Lampen  
+das Fernsehgerät | die Fernsehgeräte  
+der Schreibtisch | die Schribetische  
+der Stuhl | die Stühle  
+der Tisch | die Tische  
+der Schrank | die Schränke  
+der Vorhang | die Vorhänge  
+das Bett | die Betten  
+das Kissen | die Kissen  
+das Sofa | die Sofas  
+die Couch | die Couchs  
+der Sessel | die Sessel  
+der Teppich | die Teppiche  
+
+
+bis: bis hin  
+das Deckenlischt | die Deckenlichter  
+
+direkt  X indirekt  
+dunkel  X hell  
+
+
+die Domizil-Redaktion | die Domizil-Redaktionen  
+
+
+die Geschmackssache  
+das Heft | die Hefte  
+
+der Klassiker | die Klassiker  
+die Kuschel-Ecke  
+
+das Möbelstück | die Möbelstücke  
+das Regal | die Regale  
+
+der Romantiker | die Romantiker  
+die Romantikerin | die Romantikerinnen  
+
+die Sofa-Landschaft | die Sofa-Landschaften  
+
+gemütlich X ungemütlich  
+
+das Urlaub-Souvenir | die Urlaub-Souvenirs  
+
+der Spiegel | die Spiegel  
+
+das Werkzeug | die Werkzeuge  
+
+der Einrichtungstipp | die Einrichtungstipps  
+Einrichtungstipp geben  
+
+der Magazintext | die Magazintexte  
+der Umzug | die Umzuge  
+
+die Wechelpräposition | die Wechelpräpositionen  
+
+das Möbelhaus
+
+legen  
+stellen  
+hängen
+
+Ich lege die Zeitung auf die Couch.
+
+Wir stellen das Geschirr in die Küchenschränke.
+
+Legst du bitte den Bleistift neben das Papier?
+
+Julia hängt die Lampe über den Tisch.
+
+
+*Im Möbelhaus*
+
+Das ist doch ein toll*es* Bild. Das können wir *über das Sofa* hängen.
+Aber bei uns hängen doch schon so viele Bilder *über dem Sofa*.
+
+
+Der Teppich ist schön und nicht mal teuer. *Den* legen wir *in das Schlafzimmer*.
+Aber *vor dem Bett* liegt doch schon ein Teppich.
+
+Da steht eine Kommode *zwischen zwei Fenstern*. Das sieht gut aus.
+Ja, hier schon. Aber *in unserer Wohnung* können wir diese Kommode nicht *zwischen die Fenster stellen*. Sie ist viel zu groß.
+
+
+In der neuen Wohnung.
+
+Stell lieber nicht zu viele Möbel in das Zimmer. Sonst ...
+
+( lieber nicht zu viele Möbel in das Zimmer stellen / sonst Raum noch kleiner werden)
+( einen Spiegel an Wand hängen / dann Raum größer aussehen)
+( vorsichtig sein mit dunklen Möbeln)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 3
+
+Hier finden Sie Ruhe und Erholung  
+
+Grüzei mitenand  
+Tach  
+
+"Tach" und "Grüzei mitenand" bedeutet "Guten Tag".
+
+die Region | die Regionen  
+das Dorf | die Dörfer  
+der Froch | die Fröche  
+der Hügel | die Hügel (hill)  
+die Katze | die Katzen  
+die Pflanze | die Pflanzen  
+
+Ich mache eine Fahrt durch die Dörfer | über die Hügel.  
+
+der Strand | die Strande  (beach)  
+das Ufer | die Ufer  (river bank)  
+der Vogel | die Vögel  
+der Wald  
+der Fisch | die Fische  
+der Hund | die Hunde  
+
+aktiv  
+Ich bin sportlich aktiv  
+
+anders gehen  
+
+der Anfänger | die Anfänger  (beginner, amateur)  
+der/die Fortgeschrittene | die Fortgeschritennen (advanced learner)  
+
+
+die Anfängerin | die Anfängerinnen  
+die Anstrengung | die Ansterngungen  (effort)  
+die Ausrüstung | die Ausrüstungen (equipment)  
+außerdem  (also, in addition)  
+der Bauernhof | die Bauernhofe  (farm)  
+
+beraten (advice)  
+die Beratung | die Beratungen  (consultation)  
+der Bergkräuterre | die Bergkräutertees  (çiçek çayı)  
+der Bodensee  (Lake Constance)  
+der Campaignplatz | die Campaignplätze  
+der Einkaufsbummel  
+
+enden  
+
+entlang  (alongside)  
+
+die Entspannung (relaxation)  
+die Erholung (rest)  
+die Erfahrung (eperience)  
+der Extra-Service  
+der Großstadt-Fan | die Großstadt-Fans  
+
+hellgrün (açık yeşil)
+
+
+
+hinunter (down)   
+den Fluss hinunter (down the river)  
+
+ideal  
+
+das Inntal  (Valley of Inn)  
+
+der/das Kajak | die Kajaks (kano)  
+das Kite-Surfen  (windsurf)  
+die Landschaftsreise | die Landschaftreisen  
+die Städtreise | die Städtreisen  
+die Motivation | die Motivationen  
+
+die Naturliebhaberin | die Natürliebhaberinnen  
+
+offen (sein)  
+
+quacken  
+
+das Salzhaff | die Salzhaffe / Salzhaffs (ein durch von der Ostsee)  
+
+die Schweizer Alpen  
+
+die Segel-Schule  
+die Surf-Schule | die Surf-Schulen  
+der Spreewald  (the Green Venice near Berlin)  
+der Stadtbummel  (şehir turu)  
+
+Stopp!
+
+das Superangebot | die Superangebote  (super offer)  
+die Surf-Mode  
+der Top-Preis | die Top-Preise  
+die Tour | die Touren  
+die Velo-Tour | die Velo-Touren (bicycle tour)  
+der Velovermieter  
+der Wanderer | die Wanderer (hiking man)
+die Wanderin | die Wanderinnen  
+die Wanderung  
+das Wesserwandern  
+der Werbetext | die Werbetexte  (adversiting text)  
+
+worauf (whereon)  
+Worauf wartest du noch?  
+
+die Mode | die Moden  
+die Mitte | die Mitten (middle)  
+
+in sein  
+Kite-Surfen ist gerade in (Windsurf is just in)  
+
+das Stichwort | die Stichwörter (keyword)  
+
+der Trend | die Trends  
+
+die Geschäftsidee | die Geschäftsideen  
+der Reiseveranstalter (seyhat oragnizatörü)  
+Veranstalter(in) (organizatör)  
+der Rodel (kızak)  
+die Schlittenfahrt | die Schlittenfahrten  (kızak kaymak)  
+die Shikurs | die Shikurse  
+
+ausdrücken  (yazdırmak)  
+bewerten  (değerlendirmek)  
+buchen  
+touristisch  
+
+überhaupt (eninde sonunda) X überhaupt nicht (asla)  
+Mir gefällt das Angebot überhaupt nicht  
+
+die Vorliebe | die Vorlieben (eğilim)  
+die Werbebroschüre | die Werbebroschüren  (reklam broşürü)  
+
+50er-Jahre  
+auswandern  
+besitzen  (to possess)  
+das Börek  
+
+erraten (to guess)  
+
+der Hautarzt  (dermatologist)  
+die Hauartzin  
+die Medizin  
+
+mütterlicherseits (anne tarafı)  
+vaterlicherseits (baba tarafı)  
+
+verbringen | verbracht (spend time)  
+
+der Zwilling | die Zwillinge (twins)  
+
+stolz (auf) (proud)  
+Ich bin sehr stolz auf meine Familie.  
+
+
+das Jobangebot | die Jobangebote  (job offer)  
+der Schlüsselbund | die Schlüsselbunde  
+der Schlüsseldienst | die Schlüsseldienste (çilingir)  
+
+der Glückbringer  
+das Pech  
+die Scherbe | die Scherben (broken fragment)  
+Scherben bringen Glück  
+
+emigrieren  
+das Heimatland | die Heimatländer (homeland)  
+
+der Kaufmann Kaufleute  
+die Literatur | die Literaturen  
+der Nobelpreis | die Nobelpreise  
+der Professor | die Profesoren  
+die Professorin | die Professorinnen  
+der Roman | die Romane
+der Schriftsteller (author)    
+die Schriftstellerin  
+der Untertan https://de.wikipedia.org/wiki/Der_Untertan  
+
+
+der Gartenzwerg | die Gartenzwerge  
+die Gartenzwergfrau | die Gartenzwergfrauen  
+die Gartenzwergin | die Gartenzverginnen  
+der Gartnezwergmann | die Gartenzwergmänner  
+das Pupenhaus | die Pupenhäuser  
+die Unterwelt | die Unterwelten  (underworld)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Das Angebot gefällt mir
+
+Welches Angebot gefällt Ihnen am besten?
+
+Wie finden Sie die Idee?
+Warum?
+Würden Sie diese Reise buchen?
+Warum / Warum nicht?
+
+ganz in Ordnung
+viele Menschen haben zu viel Stress
+auf keinen Fall
+zu langweilig, zu wenig Menschen
+
+
+*Nomen mit -ung*
+
+wandern | die Wanderung (to hike, hiking)  
+erfahren | die Erfahrung (experience)  
+anstrengen | die Anstrengung (effort)  
+beraten | die Beratung (advice)   
+anmelden | die Anmeldung (register, apply, application)  
+erholen | die Erholung (rest)  
+
+
+*Was war früher anders als heute?*  
+Früher habe ich am Tag 20 Zigaretten geraucht, heute lebe ich gesünder.    
+Als Kind habe ich mit Puppen gespielt. Meine Tochter findet Computerspiele interessanter.  
+In unserem Dorf war die Luft früher besser, heute gibt es viele Fabriken.   
+Meine Großeltern haben auf einem Bauernhof gelebt, wir wohnen in der Stadt.  
+In meiner Kindheit hatten wir auch kein Fernsehgerät.  
+Meine Schwiegermutter hat früher mit Holz gekocht, jetzt hat sie einen Herd.  
+Der Unterricht in der Schule war anders, heute diskutieren die Lehrer mehr mit den Schülern.
+
+
+
+1. Christian kann den Schlüssel nicht finden.
+
+2. Melanie und Max sind die neuen Nachbarn von Lena und Christian.
+
+3. Lena und Christian haben sich Hamburg kennengelernt.
+
+4. Sie sind nach München gezogen, weil Christian ein tolles Jobangebot bekommen hat.
+
+5. Lena und Christian brauchen doch keinen Schlüsseldienst, weil Max den Schlüsselbund auf der Straße gefunden hat.
+
+6. Max hilft Lena mit demTisch.
+
+
+Mit Brot und Salz wünschen Nachbarn Glück im neuen Haus.
+
+Ein zerbrochener Spiegel bedeutet sieben Jahre Pech.
+
+Scherben bringen Glück.
+
+
+*Gefühle beim Umzug*
+
+Schreiben Sie einem Freund eine Mail und erzählen Sie ihm, welche Gefühle Sie beim Umzug hatten, und ob Sie von jemand einen Glücksbringsel bekommen haben.
+
+Schreiben Sie mindestens 50 Wörter.
+
+Beginnen Sie so:
+
+Liebe…/Lieber…,
+
+in der letzten Woche bin ich...
+
+Redemittel:
+
+sich auf die neue Wohnung freuen/ der Stress, dass man alles packen und bewegen muss/ ein schlechtes Gefühl, weil man einen Lebensabschnitt hinter sich lässt/ Freunde/ eine bekannte Umgebung
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Michael steht um 8.15 Uhr auf.
+Michael ist um 8.15 Uhr aufgestanden.
+
+Er duscht und putzt sich die Zähne.
+Er hat geduscht und sich die Zähne geputzt.
+
+Dann kocht er Kaffee und mach Frühstück. 
+Dann hat er Kaffee gekocht und Frühstück gemacht.
+
+Michael isst Toast mit Honig , ein Ei und Müsli.
+Michael hat Toast mit Honig , ein Ei und Müsli gegessen.
+
+Er liest die Zeitung.
+Er hat die Zeitung gelesen.
+
+
+Um 9.30 Uhr geht Michael zur Schule , er zieht seinen Mantel an und holt das Fahrrad.
+Um 9.30 Uhr ist Michael zur Schule gegangen,er hat seinen Mantel angezogen und das Fahrrad geholt.
+
+Er fährt durch die Stadt und hält am Kiosk.
+Er *ist* durch die Stadt und *hat* am Kiosk gehalten.
+
+Dort kauft er Süßigkeiten und Kaugummi.
+Dort hat er Süßigkeiten und Kaugummi gekauft.
+
+Um 10.00 Uhr kommt Michael in der Schule an und geht in die Klasse. Alle anderen sind schon da.
+Um 10 Uhr ist Michael in der Schule angekommen und ist in die Klasse gegangen.Alle anderen sind schon da gewesen.
+
+
+
+---
+
+## 4
+
+Was darf es sein? How may I help?, Ne vereyim abime :)  
+
+die Dose | die Dosen  
+der Einkaufszettel | die Einkaufszettel  (shopping list)  
+je (each)  
+das Kilo | die Kilos  
+die Knoblauchsalami  
+der Liter | die Liter  
+die Packung | die Packungen  
+der Senf (mustard)  
+die Weintraube | die Weintrauben  (grapes)  
+
+hungrig X satt  
+
+sonst (else, otherwise)  
+
+die Banane | die Bananen  
+der Apfel | die äpfel  
+die Birne | die Birnen  
+die Bohne | die Bohnen  (fasülye)  
+das Bonbon | die Bonbons  
+die Cola | die Colas  
+der Eistee  
+der Knoblauch (sarımsak)  
+das Mehl  
+der/die Paprika  
+der Pfirsich | die Pfirsiche   
+der Quark  
+die Salami | die Salamis  
+der Thunfisch | die Thunfische  
+der Kartoffel | die Kartoffeln  
+die Tomate | die Tomaten  
+die Weintraube | die Weintrauben  
+die Zitrone | die Zitronen  
+die Zwiebel | die Zwiebeln  
+
+die Buttermilch  
+die Essgewohnheiten  (eating habbits)  
+das Fett | die Fette  
+fettarm  
+der Frischkäse  
+das Gramm  
+das Kilogram  
+die Magermilch  
+die Vollmilch  
+die Pfeffersalami  
+das Pfund (500 gr)  
+
+roh X gecoht (raw X cooked)  
+
+der Supermarkt | die Supermärkte  
+
+weich X hart (soft X hard)  
+weichen Käse  
+harten Käse  
+
+mithilfe  
+
+das Einkaufsgespräch  
+der Obst und Gemüseladen  (manav)  
+der Teeladen  (tee shop)  
+die Wursttheke | die Wursttheken (et reyonu)  
+
+der Nerv | die Nerven  
+Ich habe keine guten Nerven  
+
+der Brotkorb | die Brotkorbe  (bread basket)  
+
+einfach/doppelt Espresso (duble)  
+
+der Espresso | die Espressos die Espressi  
+
+das Extra | die Extras  
+
+das Frühstücks-Café  
+die Frühstückskarte  
+
+der Obsalat | die Obsalate  
+
+pressen  
+Orangensaft, fresh gepresst  
+
+das Rührei | die Rühreier  (omlet)  
+
+die Scheibe | die Scheiben  (slice)  
+eine Scheibe Brot  
+
+die Adjektivedeklination nach indefinitem Artikel: einen milden Käse  
+
+das Gewicht | die Gewichte  
+
+mager  (skinny)  
+Ich hätte gern einen mageren Schinken  
+
+mild  
+Bitte einen milden Käse  
+
+die Verpackung | die Verpackungen  
+
+
+
+
+
+
+---
+
+## 5
+
+Schaut mal, der schöne Dom  
+
+die Stadtbesichtigung  
+die Dom-Führung  
+
+die Führung | die Führungen  
+
+geschlossen  
+
+die Kamera | die Kameras  
+der Prospekt | die Prospekte  
+der Reiseführer | die Reiseführer  
+die Reiseführerin | die Reiseführerinnen  
+
+der Rudgang | die Rudgänge  
+Rudgang machen  
+
+die Schiffahrt | die Schiffahrten  
+
+das Trinkgeld  
+die Unterkunft | die Unterküfte (place to stay)  
+
+wescheln: Geld wescheln  
+
+
+**der Tourist** | die Touristen
+
+**T**rinkgeld  
+**O**ffen  
+**U**nterkunft  
+**R**undgang  
+**I**nteressieren  
+**S**ehenwürdigkeit  
+**T**axi  
+
+die Führung | die Führungen  
+
+besichtigen | besichtigt  
+
+abgeben | hat abgegeben (return)  
+
+abstrakt (soyut)  
+
+ärgern (sich)  
+Charlotte ärgert sich  
+
+berühmt (famous)  
+bunt (colorful)  
+
+das Bussi | die Bussis  
+dickes Bussi  
+der Dank (thank)  
+zum Dank habe ich ...   
+die Facebook-Nachrit  
+
+großartig (excellent)  
+der Höhepunkt (zirve noktası)  
+
+lassen | haben gelassen (leave sth)  
+
+das Loch | die Locher (hole)  
+Sie hat dem Reiseführer ein Loch in den Bauch gefragt (soruları ile adamı delik deşik etti)  
+
+der Rhein  
+die Rheinfahrt  
+
+das Römisch-Germanische Museum  
+
+sehenswert (worth to see)  
+
+der/die Süße | die Süßen  
+Hallo Süße (merhaba şekerim)  
+
+
+wiederfinden | haben wiedergefunden  (find again, relocate)  
+
+das Brauhaus  
+das Interesse | die Interessen  
+
+die Klosterkirsche  
+
+shick  
+in einem shicken Club  
+
+
+verteilen (spread, distribute)  
+
+
+also gut  
+
+beeindruckend  (awesome)  
+
+der Besuch (visit)  
+
+Ich bin in dafür (I favour)  
+
+Ich bin dagegen (I am against)  
+
+das Filmmuseum  
+
+die Gegend  (district)  
+
+der Keiserdom  
+
+meistens  (usually)  
+
+der Samstagabend  
+
+sicher  (certainly)  
+
+die Planung  
+
+berichten  (to report, to tell)  
+einverstanden  (okay, agreed)  
+
+der Internet-Eintrag (entry)  
+der Tourismus  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Viele Grüße aus Köln**
+
+Die Oma schreibt einen Brief an ihren Mann.
+
+Die Mutter schreibt eine Postkarte an ihren Mann..
+
+Die Tochter schreibt eine Facebook-Nachricht an ihre Freundin.
+
+Jutta freut sich am meisten auf den Ausflug mit dem Schiff.
+
+Melanie hat Charlottes Kamera im Hotel abgegeben.
+
+Charlotte ärgert sich: Sie hat ihre neue Kamera im Dom vergessen.
+
+
+Der berühmte Dom ist wirklich sehenswert
+
+berühmt (famous)  
+sehenswert (worth seeing)  
+
+
+*Nominativ*  
+Mir gefällt/gefallen ...    
+der berühmt*e* Dom  
+das bunt*e* Fenster   
+die neu*e*  Kamera  
+die nett*en*  Leute  
+
+
+*Akkusativ*  
+Ich finde  ... toll      
+*den* alt*en* Dom  
+das  bunt*e*  Fenster  
+die neu*e*  Kamera   
+die nett*en* Leute  
+
+
+*Dativ*  
+mit ...               
+*dem* nett*en*     Reiseführer  
+*dem* bunt*en*    Fenster  
+*der* neu*en*       Kamera  
+*den* nett*en*      Leuten  
+
+
+
+https://www.koelntourismus.de/
+
+Am Samstagmorgen.../Zuerst.../Mittags.../Am Nachmittag..../Am Abend..../ Und am Sonntag..../Was denkst du?
+
+Ich schlage vor, wir gehen in den Kölner Dom, denn das ist das Wahrzeichen von Köln.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*die* freundlich*en* X die unfreundllich*en* Tourist*en*
+*die* schön*en* X hässlich*en* Postkart*en*
+*der* geschlossen*e* X geöffnet*e* Supermarkt
+*die* langweilig*e* X lustig*e* Stadtführung
+*die* lang*e* X kurz*e* Schifffahrt
+*das* gut*e* X schlecht*e* Wetter
+*das* alt*e* X neu*e* Haus
+*der* kurz*e* X lang*e* Brief
+
+
+*Den* alt*en* Dom finde ich viel schön*er* als *die* modern*e* Kirche.  
+In *den* bunt*en* Prospekten sieht *die* Stadt viel schön*er* aus.  
+*Die* alt*e* Kamera ist total schwer. Warum hast du denn nicht *die* neu*e* mitgenommen?  
+In *dem* schick*en* Restaurant *neben* *der* Post würde ich auch gerne essen.  
+Hast du *das* nett*e* Cafe gesehen? Da können wir *nach* *der* Führung hingehen.  
+Warum hast du denn *die* billig*en* Postkart*en* gekauft?  
+Wie findest du denn *das* grün*e* Haus *mit* *dem* klein*en* Turm da vorne?  
+In *der* klein*en* Kirche waren wir ja schon.  
+
+
+Hallo ...,
+viele Grüße *aus* *dem* schön*en* Wien.
+Die Stadt ist toll. *Am* erst*en* Tag habe ich ein*en* lang*en* Rundgang *durch* *das* Zentrum gemacht. Der Stadtführer war ein total lustig*er* jung*er* Wiener. *Die* alt*en* Häuser hier finde ich besonders schön. Ich habe auch eine nett*e* Schifffahrt auf *der* schön*en* blau*en* Donau gemacht. Gestern Abend war ich *im* berühmt*en* Burgtheater. Die Schauspieler waren wirklich toll. Leider habe ich keine billig*e* Unterkunft gefunden. Das Hotel liegt auch noch in ein*em* ziemlich langweilig*en* Stadtviertel. Aber sonst ist es hier toll. Ich hoffe, du hast auch schön*e* Ferien.
+Bis bald!
+..
+
+
+
+
+
+
+
+
+---
+
+## 6
+
+Meine Lieblingsveranstaltung  
+
+
+der Begriff | die Begriffe  
+das Feuer (fire)  
+das Mittelalterfest | die Mittelalterfeste  
+das Theaterfestival | die Theaterfestivals  
+
+die Bühne | die Bühnen (sahne)   
+die Eintritskarte | die Eintritskarten  
+die Ermãßigung | die Ermãßigungen (indirim)  
+das Theaterstück | die Theaterstücke (tiyatro oyunu)  
+der Vortrag | die Vortrãge (sunum)  
+
+die Ars Electronica
+
+
+
+
+
+
+
+
+
+
+
+**Wie lange?**  
+vom 8. bis 10.Juli    
+beginn --------------> Ende  
+
+
+
+**Ab wann?**  
+
+jetzt ------------------------- Beginn ->----------------------------->
+
+von morgen an  
+vom 1. Januar an  
+
+
+**Seit wann?**  
+
+Vergangenheit ->--------------------------------------------------------> jetzt
+
+
+seit 1979 / Juli  
+
+
+**Wie lange?**  
+
+( ----------------------- )
+
+länger / mehr als / über 30 Jahre
+
+
+---
+
+- Fährst du eigentlich dieses Jahr wieder nach Deutschland?
+- Ja, *in* vier *Monaten* fahre ich nach Düsseldorf.
+- Und was machst du dort?
+- Ich mache *für* zwei Wochen einen Kurs.
+- Warst du da nicht schon *im* letzten Jahr?
+- Ja, das mache ich schon *seit* drei Jahren jeden Sommer. Es macht großen Spaß. Vormittags haben wir Deutschunterricht und *nach* dem Unterricht gibt es noch ein interessantes Freizeitprogramm mit vielen Ausflügen und Veranstaltungen.
+- Klingt gut.
+- Ja, ich kann dir mal einen Prospekt mitbringen. Und du, fährst du dieses Jahr auch nach Deutschland?
+- Ja, vor der Prüfung. Ich fahre nach Berlin.
+- Toll. In Berlin war ich noch nie.
+- Ich war dort schon einmal, aber das ist schon *über* 10 Jahre her.
+
+
+
+---
+
+
+- **temporale Präpositionen + Dativ**  
+
+*in* , *vor* , *seit* , *nach*  + ein*em* Monat / ein*em* Jahr / ein*er* Woche / zwei Jahre*n*  
+
+- **temporale Präpositionen + Akkusativ**  
+
+*über* , *für* + ein*en* Monat / ein Jahr / eine Woche / zwei Jahre  
+
+
+
+---
+
+
+  
+Wie lange wohnst du schon in der WG?  
+*Seit* drei *Jahren*  
+Wie lange möchtest du in Europa bleiben?  
+*Für* *ein* *Jahr*  
+Wann beginnt der Deutschkurs?  
+*In* *einem* Monat  
+Wann hast du geheiratet?  
+*Vor* zehn Jahre*n*  
+Wie lange dauert die mündliche Prüfung?  
+*Über* eine Stunde  
+Wie lange ist die Ausstellung in Berlin?  
+*Vom* erst*en* *bis* einunddreißigst*en* Juli  
+Ab wann studiert deine Freundin in Paris?  
+*Vom* erst*en* September *an*  
+
+
+
+**Eine Veranstaltung besuchen**  
+Wollen wir mit dem Deutschkurs nicht mal eine Veranstaltung besuchen?  
+Ja, gute Idee. Habt ihr einen Vorschlag?  
+Wir können zu einer Lesung gehen.  
+Ach nein, das finde ich noch zu schwer. Ich bin dagegen.  
+Darf ich etwas vorschlagen? Wir können doch ins Kino gehen. Es läuft gerade der deutsche Film "Männerherzen" im Original mit Untertiteln.  
+Einverstanden!  Wie wäre es mit morgen?  
+Das finde ich super. Wann denn?  
+Um 19 Uhr. Was haltet ihr davon?  
+Ja, okay. Das machen wir. Wollen wir zusammen hinfahren oder wollen wir uns vor dem Kino treffen?  
+Ich würde mich lieber direkt vor dem Kino verabreden. Ich wohne da in der Nähe.  
+Okay, dann treffen wir uns morgen um 18.45 Uhr vor dem Kino. Ich bestelle die Eintrittskarten.  
+
+
+
+Mein Top-Tipp ist ...  
+....... gibt es seit / ist aus dem Jahr ...  
+Früher hat ... dort gewohnt / war dort ...  
+Heute kann man ... besichtigen. Besuchen Sie /Besucht ... Hier finden Sie / findet ihr ...  
+
+
+
+
+---
+
+## 7
+
+Für diese Sportarten braucht man eine Mannschaft.  
+
+Für diese Sportarten braucht man unbedingt einen Partner.  
+
+Diese Sportarten kann man auch alleine machen  
+
+
+
+
+
+
+Am Abend vor den Spielen solltet ihr euch ausruhen.  
+Schau mal, wir könnten auch einen Tauchkurs machen.  
+Abends sollten Sie keine Nudeln mehr essen.  
+Ab nächsten Monat könntet ihr freitags auch zum Lauftraining kommen.  
+Sie sollten regelmäßig Sport machen.  
+
+
+Was soll ich denn heute Abend kochen?  
+Du könntest mal wieder eine Gemüsesuppe machen.  
+
+Ich habe oft starke Halsschmerzen. Hast du einen Tipp für mich?  
+An deiner Stelle würde ich Salbeitabletten nehmen.  
+
+Ich muss unbedingt wieder mehr für meine Gesundheit tun. Wollen wir zusammen Sport machen?  
+Gute Idee! Wie wäre es mit Aqua-Fitness?  
+
+Mein Mann schläft nachts immer so schlecht. Was würden Sie ihm empfehlen.  
+Sie sollten ihm einen Tee geben.  
+
+Ich würde gerne etwas an der frischen Luft machen. Kannst du mir eine Sportart empfehlen?  
+Du könntest joggen gehen.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 8
+
+
+
+
+Er will mir nur nichts sagen, weil meine Krankheit so schlimm ist.  
+
+Ärzte sagen nicht die Wahrheit. Deshalb gehe ich nicht mehr allein hin.  
+
+
+Klaus öffnet das Fenster, weil
+
+(Es ist im Zimmer zu heiß.)
+
+Klaus öffnet das Fenster, weil es im Zimmer zu heiß ist.
+
+Ich vertraue meinem Freund, weil
+
+(Er sagt mir immer die Wahrheit.)
+
+Ich vertraue meinem Freund, weil er mir immer die Wahrheit sagt.
+
+Meine Nachbarn sind traurig, weil
+
+(Ihr Hund ist gestorben.)
+
+
+Meine Nachbarn sind traurig, weil Ihr Hund gestorben ist.
+
+Carla macht eine Diät, weil
+
+(Sie möchte abnehmen.)
+
+Carla macht eine Diät, weil sie abnehmen möchte.
+
+
+Frau Preuß liegt im Krankenhaus, denn sie hatte einen Herzinfarkt.
+
+
+Sandra kann nicht zum Arzt gehen, weil er heute keine Sprechstunde hat.
+
+
+Die Eltern machen sich sorgen, weil ihre Tochter krank ist.
+
+
+Herr Moll hat zu viel Kaffee getrunken. Deshalb tut sein Magen weh.
+
+
+Frau Winter ist krank. Deshalb kann sie nicht arbeiten.
+
+
+
+Julian hat seit Tagen Bauchschmerzen,
+
+(der Arzt - ihn - genau untersuchen wollen)
+
+Ich kann heute nicht am Fußballtraining teilnehmen,
+
+(ich - sein - erkältet)
+
+Frau Krause geht es schlecht,
+
+(eine schwere Grippe - sie - haben)
+
+Ich bin erkältet,
+
+(müssen husten - ich - so oft)
+
+Elke ist heute eine Stunde gejoggt,
+
+( sie - jetzt müde sein)
+
+
+
+Hoffentlich hast du nichts Schlimmes. 
+
+Das finde ich aber traurig.  
+
+Ich hoffe, es ist alles in Ordnung.  
+
+Oh, das tut mir wircklich sehr/ echt Leid.  
+
+Was ist los?  
+
+Ich habe Angst vor Herzkrankheiten.  
+
+Ist alles in Ordnung?  
+
+
+
+Was ist los? Ist alles in Ordnung?
+Ich habe so schlimme Zahnschmerzen.
+Oh, das tut mir wirklich sehr Leid. Warst du schon beim Zahnarzt?
+Nein, ich habe Angst vor dem Zahnarzt.
+Hoffentlich hast du nichts Schlimmes. Ich hoffe, es ist alles in Ordnung.
+
+
+Was ist los? Ist alles in Ordnung?
+Ich habe Magenschmerzen.
+Oh, das tut mir wirklich sehr Leid. Warst du schon beim Zahnarzt?
+Nein, hoffentlich muss ich nicht ins Krankenhaus. Ich habe Angst vor Krankenhäusern und Operationen.
+Hoffentlich hast du nichts Schlimmes. Ich hoffe, es ist alles in Ordnung.
+
+
+Gestern hatte ich einen  Unfall mit dem Fahrrad. Eine Frau hat den Krankenwagen gerufen, weil meine Hand verletzt war. Sie hat stark geblutet. Der Notarzt hat gemeint, dass ich ins Krankenhaus muss. In der Notaufnahme hat man meine Hand untersuht. Es war gar nicht schlimm. Ich habe einen Verband bekommen und bin dann mit dem Taxi nach Hause gefahren. Nur meinem Fahrrad geht es leider immer noch nicht gut.
+
+
+Email über Ihren Krankenhausaufenthalt
+
+Warum waren Sie im Krankenhaus?
+Wer hat Sie ins Krankenhaus gebracht?
+Wie lange waren Sie im Krankenhaus?
+Wie haben Sie sich gefühlt?
+Wie sind Sie nach Hause zurückgekommen?
+
+
+Gerstern Abend hatte ich ......
+
+einen dicken Verband um das Knie haben
+
+eine Verletzung haben
+
+einen Unfall haben
+
+mit dem Skateboard hinfallen
+
+Schmerzen haben
+
+einen Herzinfarkt haben
+
+bluten
+
+wehtun
+
+in die Notaufnahme fahren
+
+Angst haben vor der Operation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 9
+
+
+Freundliche Mirarbeiter gesucht!
+
+
+| Artikel | Nominativ        |      	Akkusativ          |        	Dativ
+| --- | --- | --- | --- |
+der
+das
+die
+die Pl
+
+
+guter Mechatroniker           
+
+großes Lager
+
+flexible Arbeitszeit
+
+Answer
+kleine
+Correct
+
+ Büros
+
+guten Lohn                 
+
+Answer
+großes
+Correct
+
+ Lager
+
+Answer
+ordentliche
+Correct
+
+ Haushaltshilfe
+
+Answer
+freundliche
+Correct
+
+ Mitarbeiter
+
+Answer
+gutem
+Correct
+
+ Lohn
+
+großem Lager
+
+Answer
+flexibler
+Correct
+
+ Arbeitszeit
+
+Answer
+günstigen
+Correct
+
+ Preisen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## 10
+
+
+
+---
+
+## 11
+
+
+
+---
+
+## 12
+
+
+---
+
+# A2.2 {.tabset .tabset-fade .tabset-pills}
+
+
+https://www.hueber.de/shared/uebungen/menschen/ab/a2-2/menu.html
+
+
+https://www.hueber.de/media/36/Loesungsschluessel_Menschen_AB_A2-2.pdf
+
+
+---
+
+## 13
+
+https://hueber.de/shared/uebungen/menschen/kb/a2/livebook/l13/index.php
+
+
+Die Organisatoren von „Weihnachten im Schukarton “ verschicken Geschenke an arme Kinder in Osteuropa und Asien.  
+Das Projekt hat großen Erfolg.
+
+
+
+
+
+---
+
+## 14
+
+
+
+Dankesbrief
+
+Was hat Sie gefreut?
+Was gefällt Ihnen (besonders) gut?
+Was können Sie  (besonders) gut gebrauchen?
+
+Lieber/Liebe .... ,
+vielen Dank für Deine tollen Geschenke!
+
+Schön, dass du an mich gedacht hast./ ...
+
+... hat/ haben mich sehr gefreut.
+
+Ich liebe... / ... mag ... besonders gern.
+
+... ist/sind super. / eine tolle Idee.
+
+Ich bin sehr froh, dass ...
+
+Ich freue mich sehr auf ...
+
+
+
+
+
+Lieber ...,
+schön, dass du an meinen Geburtstag   gedacht hast. Die Blumen haben mich sehr gefreut. Frühlingsblumen mag ich besonders gern.
+
+Liebe ..., lieber ...,
+vielen Dank für Eure tollen Geschenke. Der Büchergutschein ist eine super Idee
+.
+Ich freue mich schon auf meinen Urlaub. Da liege ich dann nur am Strand und lese. Und die Gesichtscreme kann ich wirklich gut gebrauchen. Die benutze ich jetzt jeden Tag. Ich glaube, ich sehe schon viel jünger aus.
+
+
+
+
+
+---
+
+## 15
+
+
+
+
+
+Fernsehen in Deutschland
+
+Wussten Sie, dass
+
+- 95 % der deutschen Haushalte einen Fernseher haben?
+
+- Sean Connery für mehr als die Hälfte aller Deutschen der beste James Bond- Darsteller ist?
+
+- im Jahr 2010 die meisten Zuschauer des "Tatorts" über 45 Jahre alt waren?
+
+- fast 90% aller Deutschen aufstehen und das Programm wechseln, wenn die Fernbedienung nicht funktioniert? Die anderen bleiben sitzen und schauen sich die Sendung an, auch wenn sie ihnen nicht gefällt.
+
+- 47% der Deutschen glauben, dass die Qualität des Fernsehens durch die Privatsender nicht so gut ist. 45% glauben, dass die Qualität gleich gut ist.
+
+
+Ich sehe am liebsten den Tatort.
+Ich sehe den Tatort immer zusammen mit Freunden.
+Manchmal gucke ich ihn allein zu Hause, aber meistens zusammen mit einer Freundin.
+Dazu gibt's immer Erdnüsse und ein, zwei Gläschen Sekt oder Wein.
+Ich sehe oft den Tatort, aber ich habe keine feste Gewohnheit.
+Ja, den Tatort.
+Wenn ich am Sonntag Abend keine Zeit habe, gucke ich ihn später in der Mediathek.
+Wir treffen uns am Sonntag immer in der Kneipe und sehen den neuen Fall gemeinsam.
+Meine Lieblingssendung ist der Tatort.
+Ich habe keine Lieblingssendung.
+Ich treffe mich an jedem Sonntagabend mit zwei Freundinnen.
+Dann kochen wir zusammen und anschließend sehen wir uns den neuen Tatort an.
+
+
+Was sehen Sie gern im Fernsehen?
+Haben Sie eine Lieblingssendung/ Lieblingsserie?
+Wo, wann und mit wem sehen Sie sie?
+Haben Sie bestimmte Gewohnheiten?
+
+
+Eine Woche ohne Internet
+
+
+Was konnten Sie nicht machen?
+Was haben sie stattdessen gemacht? z.B. Freunde “live“ treffen
+Wie haben Sie sich gefühlt?
+Haben Sie etwas aus der Situation gelernt?
+
+Plötzlich .../ Und weißt du, was dann passiert ist? / Also pass auf: .../ Zum Glück.../ Hoffentlich.../ Leider .../ ...
+
+
+Fernsehen früher.
+
+Ich habe nur wenig ferngesehen, *als* ich klein war.
+
+*Als* es noch keine Privatsender gegeben hat, hatten wir nur drei Programme.
+
+*Wenn* sonntags die Serie "Lindenstraße" gelaufen ist, habe ich immer vor dem Fernseher gesessen.
+
+Ich war schon 8 Jahre alt, *als* meine Eltern den ersten Fernseher gekauft haben.
+
+Ich habe immer dann den "Tatort" geguckt, *wenn* meine Eltern nicht zu Hause waren.
+
+
+
+Was wird im Deutschkurs gemacht? 
+
+Ein Test wird geschrieben.
+
+a Manchmal (Sätze übersetzen ) werden Sätze übersetzt.
+
+b Neue Wörter (aufschreiben) werden aufgeschrieben.
+
+c Ein Film (anschauen) wird angeschaut.
+
+d Oft (die Grammatik wiederholen) wird die Grammatik wiederholt.
+
+e Aufgaben (lösen) werden gelöst.
+
+f Texte (korrigieren) werden korrigiert.
+
+---
+
+## 16
+
+
+Ich würde gern wissen, ob Sie noch ein Zimmer frei haben.
+
+
+
+Die Personen machen eine Ausbildung in einem Hotel.
+Frau Thalau bleibt zwei Nächte und bekommt ein Einzelzimmer nur mit Halbpension.
+
+Herr Klein bekommt ein Zimmer mit Strandblick.
+
+Für die Anruferin gibt es noch ein Zimmer.
+
+
+Ich würde gern wissen, ob Sie noch ein Zimmer frei haben.
+
+Darf ich fragen, wie lange Sie bei uns bleiben möchten?
+
+Brauchen Sie ein Einzelzimmer oder ein Doppelzimmer?
+
+Im Bad sind überall Haare.
+
+Es tut mit leid, wenn sie Ärger hatten.
+
+Tut mir leid, wir sind ausgebucht.
+
+
+
+
+Ja/ Nein-Fragen  
+Haben sie noch ein Zimmer frei?  
+*Ich würde gern wissen*, *ob* Sie noch ein Zimmer frei *haben*?
+
+Fragen mit Fragewort  
+Wie lange möchten sie denn bei uns bleiben?  
+*Darf ich fragen*, *wie lange* Sie denn bei uns bleiben *möchten*?
+
+
+Darf ich fragen, wie viel ein Einzelzimmer kostet? 
+
+Können Sie mir erklären, wie das Telefon funktioniert?
+
+Wissen Sie, ob die Geschäfte noch offen sind?
+
+Können Sie mir sagen, wo man schnell einen Kaffee trinken kann?
+
+Ich weiß nicht, warum mein Gepäck noch nicht angekommen ist.
+
+Ich würde gern wissen, wohin man am Abend gehen kann?
+
+
+Darf ich fragen, ob Ihr Essen scharf ist?
+
+Ist Ihr Essen scharf?
+
+Können Sie mir sagen, ob man einen Tisch reservieren muss?
+
+Muss man einen Tisch reservieren?
+
+Wissen Sie, ob der Platz noch frei ist?
+
+Ist der Platz noch frei?
+
+Ich weiß nicht, ob man in diesem Restaurant vegetarisch essen kann.
+
+Kann man in diesem Restaurant vegetarisch essen.
+
+
+
+
+Sie reisen nach Deutschland und möchten ein Zimmer in einem Hotel buchen.
+
+Suchen Sie zuerst im Internet ein Hotel, in dem Sie wohnen wollen.
+Schreiben Sie dann eine E-Mail an das Hotel.
+Notieren Sie die Internetadresse des Hotels in Ihrem Text.
+Schreiben Sie zu folgenden Aspekten:
+Daten
+
+Preis
+
+Personen
+
+Anzahl der Nächte
+
+Mit/ohne Frühstück, WIFI, Bad/Dusche/Parkplatz
+
+Zimmertyp
+
+Serviceangebote
+
+
+
+
+
+---
+
+## 17
+
+
+Simone und Felix fahren in den Urlaub.
+
+Die Nachbarin soll auf das Haus aufpassen.
+
+Simone und Felix wollen ein Tagebuch im Internet schreiben.
+
+
+Unsere Reise nach Rumänien
+
+
+
+
+
+
+---
+
+## 18
+
+Ihre Meinung zum Wetter
+
+
+Darf ich kurz mit Ihnen über diesen wunderbaren Winter sprechen?
+Haben Sie denn keine Lust auf Eis und Schnee?
+Ich interessiere mich nicht für Wintersport.
+Die meisten Menschen freuen sich auf einen heißen Tee.
+Sprechen Sie mit mir?
+Ich interessiere mich für Ihre Meinung zum Wetter.
+Ich denke, Sie sind so richtig zufrieden mit diesem schönen Sommertag.
+Quatsch, ich habe vom Winter geträumt.
+Ich ärgere mich über die Hitze.
+
+
+- Verben mit Präpositionen
+
+  - Verben mit Präpositionen + Akkusativ
+
+Sie freuen sich auf einen heißen Tee.
+
+Ich ärgere mich über die Hitze.
+
+auch so: sprechen über, Lust haben auf, sich interessieren für
+
+  - Verben mit Präpositionen + Dativ
+
+Sind Sie zufrieden mit diesem schönen Sommertag?
+
+Sprechen Sie mit mir?
+
+auch so: träumen von
+
+
+
+
+
+
+---
+
+## 19
+
+
+
+Wenn eine Ausstellung eröffnet wird, dann nennt man das eine Vernissage.
+
+Im Zirkus können Sie Clowns und Artisten sehen.
+
+Wenn Sie klassische Musik mögen, ist ein klassisches Konzert genau das Richtige für Sie.
+
+
+
+Wo warst du so lange?  
+Woher kommst du so spät?  
+Wohin gehst du schon wieder?  
+
+Wo hast du deine Jacke vergessen?  
+Woher hast du diese Blumen?  
+Wohin hast du den Brief geschickt?  
+
+Wo ist dein Lachen geblieben?  
+Woher kommt meine Angst?  
+Wohin ist unsere Liebe gegangen?  
+
+
+bei + dem = beim  
+in + dem = im  
+zu + der = zur  
+in + das = ins  
+
+
+Petra ist ...  
+bei ihrer Freundin  
+*beim* Joggen  
+im Konferenzraum  
+im Schwimmbad  
+bei einer Veranstaltung  
+beim Arzt  
+in  einem Lokal  
+
+Petra geht ...  
+zu ihrer Freundin.  
+zum Joggen.  
+in den Konferenzraum.  
+ins Schwimmbad.  
+zu einer Veranstaltung.  
+zum Arzt.  
+in ein Lokal.  
+
+
+* Warst du bei deiner Tante oder kommst du erst jetzt von der Stadt?
+* Ich komme vom Einkaufen. Zu Tante Thea gehe ich erst morgen. Jetzt bin ich total müde. Ich glaube, ich kann heute nicht mehr zum Joggen gehen.
+
+* Das habe ich mir schon gedacht. Du warst doch bestimmt den ganzen Tag im Kaufhaus.
+* Na ja, in anderen Geschäften war ich natürlich auch.
+
+* Was machen wir eigentlich heute Abend? Sollen wir ins Kino gehen oder möchtest du lieber zum Essen gehen?
+* Beim Essen waren wir doch gestern schon und im Kino war ich erst letzte Woche. Lass uns ins Theater gehen.
+
+
+
+
+
+
+|           | Wo?                     | Wohin?              |
+|--:        |--:                      |--:                  |
+|Orte       |in der Werkstatt         |in den Konferenzraum |
+|Aktivitäten|beim Rauchen             |zum Schwimmen        |
+|           |                         |zur Beratung         |
+|Personen   |bei der Schwiegertochter |zu den Freunden      |
+|           |bei den Leuten           |                     |
+
+ 
+
+
+Veranstaltungstipps
+
+Für die Oper "Carmen" im Stadttheater gibt es noch Karten.
+
+Die Ausstellung mit Landschaftsbildern wird verlängert.
+
+Bei der Vernissage kann man Fotos sehen.
+
+Das kulturelle Highlight der Woche ist die Musiknacht am Samstag. An vielen verschiedenen Orten finden Konzerte und Workshops statt.
+
+Am Sonntag findet im Zentrum ab 15.00 Uhr ein Stadtspaziergang statt.
+
+
+
+
+* Wir können am Wochenende mal wieder etwas zusammen unternehmen. Hast du Lust?
+* Oh ja, lass uns zusammen weggehen.
+* Ich habe da einen Vorschlag. Am Samstag gibt es eine Lesung von Wladimir Kaminer.
+* Eine Lesung? Das hört sich ja nicht so toll an.
+* Unsinn! Eine Lesung mit Kaminer ist etwas Besonderes. Glaub mir, das lohnt sich.
+* Ich würde lieber in den neuen Club gehen.
+* Das können wir ja danach immer noch machen.
+* Also gut, dann lass uns zu der Lesung gehen.
+
+
+- Lass uns doch mal in eine Karaoke-Bar gehen.
+- Also, ich weiß nicht. Ich war noch nie in einer Karaoke-Bar.
+- Ich auch nicht. Aber das macht bestimmt Spaß. Bist du denn gar nicht neugierig?
+- Ich weiß nicht, ob ich singen kann.
+- Dann probier das doch mal.
+- Ich glaube, ich singe wirklich schlecht.
+- Sieh das doch nicht so negativ. Die anderen können doch auch nicht singen. Deshalb ist es doch so lustig.
+- Na ja. Vielleicht hast du recht.
+- Außerdem ist der Eintritt kostenlos.
+- Schon gut. Ich komme mit.
+
+
+
+
+
+
+---
+
+## 20
+
+
+
+Heute Abend gehe ich zu einer Lesung. Wollt ihr auch mitkommen?
+
+Ich mag keine Krimis.
+
+Hier in der Buchhandlung darfst du kein Eis essen. Das ist verboten.
+
+Psychologen sagen, man soll Kindern vorlesen. Es ist gut für sie.
+
+Meine Kinder gehen noch nicht in die Schule. Sie können noch nicht lesen.
+
+Für unseren Literaturkurs müssen wir bis zum nächsten Mal 500 Seiten von einem total langweiligen Autor lesen.
+
+
+
+Heute Abend gehe ich zu einer Lesung. Wollt ihr auch mitkommen?  
+Ich mag keine Krimis.  
+Hier in der Buchhandlung darfst du kein Eis essen. Das ist verboten.  
+Psychologen sagen, man soll Kindern vorlesen. Es ist gut für sie.  
+Meine Kinder gehen noch nicht in die Schule. Sie können noch nicht lesen.  
+Für unseren Literaturkurs müssen wir bis zum nächsten Mal 500 Seiten von einem total langweiligen Autor lesen.
+
+
+
+Mein großer Bruder konnte schon lesen, aber ich noch nicht. Das hat mich als kleines Kind sehr geärgert. Als ich dann endlich auch lesen konnte, wollte ich am liebsten nichts anderes mehr machen. Comics mochte ich besonders gern. Leider musste ich aber auch viel Hausaufgaben machen. Einmal sollten wir eine Geschichte schreiben. Das hat mir großen Spaß gemacht. Alle Schüler durften die Geschichte in der Schule vorlesen. Meine hat vielen am besten gefallen. Von da an wollte ich Autor werden.
+
+
+
+Ich konnte schon mit fünf Jahren meinen Namen schreiben.  
+Mochtet ihr als Kind auch so gern Märchen?  
+Wir mussten als Kinder sonntags oft Verwandte besuchen. Das war immer sehr langweilig.  
+Julia durfte als kleines Kind nicht fernsehen. Ihre Eltern haben es verboten.  
+Am liebsten mochte ich Comics. Meine Eltern meinten aber, ich sollte lieber Karl-May-Bücher lesen.  
+Dirk war sehr gut im Sport. Deshalb wollte er Profisportler werden.
+
+
+
+---
+
+## 21
+
+
+
+Eine Zeugenaussage
+- Können Sie *den* Täter wiedererkennen?
+- Oh ja. *Der* da war es! Ich bin ziemlich sicher.
+- *Welchen* meinen Sie? *Den* hier?
+- Nein. *Den* da.
+- *Den* mit der Nummer 0815?
+- Ja, genau. *Den* meine ich. *Der* kann es gewesen sein.
+
+
+
+
+Ich lasse morgen ein Sicherheitsschloss einbauen und meine Fenster sichern.
+
+Herr Winter lässt seine Reifen immer in der Werkstatt wechseln. 
+
+Wir lassen unsere Wohnung immer donnerstags putzen.
+
+Das ist schwer. Warum lässt du dir nicht helfen?
+
+Meine Nachbarn lassen kommende Woche ihre Wohnung renovieren.
+
+Lasst ihr eure Fahrräder auch immer reparieren?
+
+Meine Eltern putzen ihr Haus nicht selbst.
+Sie lassen ihr Haus putzen.
+
+Wir holen unsere Getränke nicht selbst.
+Wir lassen uns die Getränke bringen.
+
+Joachim installiert Computerprogramme nicht selbst.
+Joachim lässt sie installieren.
+
+Ich repariere mein Auto nie selbst.
+Ich lasse es reparieren.
+
+
+
+Tauschringe
+
+
+
+
+
+
+
+---
+
+## 22
+
+
+
+
+Radiosendung Carsharing - eine sinnvolle Alternative?
+
+
+
+
+
+
+
+Seitdem ich mehr Gehalt bekomme, muss ich auch mehr Steuern bezahlen.
+
+Mit dem Fahrrad dauert es höchstens eine Stunde, bis wir unser Ziel erreichen.
+
+Seitdem ich ein neues Auto habe, macht mir das Fahren wieder mehr Spaß.
+
+Seitdem wir uns ein Auto mit den Nachbarn teilen, sparen wir viel Geld.
+
+Hoffentlich kann die Werkstatt unser Auto reparieren, bis wir in Urlaub fahren.
+
+Bis mein Bus kommt, muss ich noch eine halbe Stunde warten.
+
+
+
+
+---
+
+## 23
+
+
+
+---
+
+## 24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 # B1
 
 https://hueber.de/shared/uebungen/menschen/kb/b1/menu.php
+---
+
+## B1.1
+
+https://www.hueber.de/shared/uebungen/menschen/kb/b1-1/menu.php
+
+https://www.hueber.de/media/36/Menschen_Loesungsschluessel_AB_B1-1.pdf
+
+---
+
+## B1.2
+
+---
+
+### 13 
+
+Aus diesem Grund gab es ein Missverstãndis  
+
+der Advokat | die Advokaten  
+die Advokatin | die Advokatinnen  
+die Avocado | die Avocados  
 
 
 
+
+---
+
+## B1.3
 
 
 
