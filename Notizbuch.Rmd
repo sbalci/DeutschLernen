@@ -31,6 +31,8 @@ output:
 
 ## Leo
 
+---
+
 https://www.leo.org/german-english
 
 https://dict.leo.org/trainer/joinGroup.php?token=30XGI2UJ&lp=ende&lang=en
@@ -39,11 +41,15 @@ https://dict.leo.org/trainer/joinGroup.php?token=30XGI2UJ&lp=ende&lang=en
 
 ## Pons
 
+---
+
 https://en.pons.com/translate
 
 ---
 
 ## Duden
+
+---
 
 https://www.duden.de/
 
@@ -51,13 +57,17 @@ https://www.duden.de/
 
 ## Korrekturen
 
-Superlativ-Komparativ
+---
+
+- Superlativ-Komparativ
 
 https://www.korrekturen.de
 
 ---
 
 ## Hueber
+
+---
 
 https://www.hueber.de/woerterbuch/online
 
@@ -66,6 +76,8 @@ http://www.hueber.de/drop-a-word-go/
 ---
 
 ## verbformen
+
+---
 
 https://www.verbformen.com/
 
@@ -101,8 +113,24 @@ https://ankara.bibliothek.goethe.de
 
 ## Kurs
 
+---
+
+### Deutsch Lernen
+
+---
 
 https://www.deutschakademie.de/online-deutschkurs/audio-course/
+
+
+### Coursera
+
+---
+
+#### Sprachtechnologie in den Digital Humanities
+
+https://www.coursera.org/learn/digital-humanities/home/welcome
+
+
 
 ---
 
@@ -112,32 +140,53 @@ https://www.deutschakademie.de/online-deutschkurs/audio-course/
 
 ## ARD  
 
+---
+
 http://www.ard.de
 
 https://www.ardmediathek.de/tv
 
+---
 
 ## ZDF
 
+---
+
 https://www.zdf.de/
+
+https://www.youtube.com/user/zdf
+
+---
 
 ## NDR
 
+---
+
 https://www.ndr.de/
 
+---
 
 ## Das Erste
+
+---
 
 https://www.daserste.de/
 
 
+---
+
 ### Tatort  
+
+---
 
 https://www.daserste.de/unterhaltung/krimi/tatort/specials/tatort-videos-in-der-mediathek100.html
 
 
+---
 
 ## N-TV
+
+---
 
 https://www.n-tv.de/mediathek/livestream/
 
@@ -235,27 +284,27 @@ http://rss.dw.com/xml/DKpodcast_dwn2_tur
 
 ## Musik
 
-Falco  
+- Falco  
 https://www.youtube.com/watch?v=cyrdPtEHKzE  
 
 
-Sabrina Setlur  
+- Sabrina Setlur  
 https://www.youtube.com/channel/UCHhAScrn2llnW9ullQfr47A  
 
-DIE TOTEN HOSEN   
+- DIE TOTEN HOSEN   
 https://www.youtube.com/user/jkplab  
 
-Juli  
+- Juli  
 https://www.youtube.com/watch?v=ad8ukI7Z-b8  
 
-Revolverheld  
+- Revolverheld  
 https://www.youtube.com/user/Revolverheld  
 
-Clueso  
+- Clueso  
 https://www.youtube.com/user/cluesomusik/videos  
 
 
-Zigeunerjunge Alexandra 1967  
+- Zigeunerjunge Alexandra 1967  
 https://www.youtube.com/watch?v=xAe6fz1vndU  
 https://open.spotify.com/track/0pOgiSa8cTczv6shpUqfpG?si=reQdJJk_RTqvDb2aziY76g  
 
@@ -268,6 +317,8 @@ https://open.spotify.com/track/0pOgiSa8cTczv6shpUqfpG?si=reQdJJk_RTqvDb2aziY76g
 ---
 
 ## Namen Nominativ  {.tabset .tabset-fade .tabset-pills}
+
+---
 
 Genus (Gender)  
 *maskuline* der Tisch  
@@ -885,6 +936,8 @@ ich du er sie es wir ihr sie Sie
 
 ## W frage {.tabset .tabset-fade .tabset-pills}
 
+---
+
 Hallo.  
 Wie heißen Sie? Ich heiße ...
 Freut mich. Freut mich auch.
@@ -911,6 +964,8 @@ Wo alt bist du? Ich bin ... Jahre alt.
 
 ### Was 
 
+---
+
 Was ist seine Telefonnummer? Meine telefonnummer ist ...
 
 Was heißt seine Deutschlehrerin? Wer ist seine Deutschlehrenin? Meine Deutschlehrenin heißt ...
@@ -925,6 +980,8 @@ Was ist das? Das ist ein Buch. Das sind zwei Bücher.
 ---
 
 ### Wo
+
+---
 
 Ich suche die Disco. Wo ist sie, bitte?  
 Sie ist neben das Museum.  
@@ -945,6 +1002,8 @@ Ich arbeite bei ...
 
 ### Wer
 
+---
+
 - Wer bist du?  
 - Ich bin ...
 
@@ -963,7 +1022,11 @@ Ich kenne Brad Pitt.
 
 ---
 
+
 ### Wie
+
+
+---
 
 - Wie heißen Sie?  
 
@@ -1003,6 +1066,8 @@ Ich bin zwanzig Jahre alt.
 
 ### Wie viele
 
+---
+
 Wie viele Tische sind hier? (Frage)    
 Hier sind fünf Tische. (Antwort)  
 
@@ -1022,6 +1087,8 @@ Ich habe ein kind.
 ---
 
 ### Woher
+
+---
 
 Woher kommst du? (informell)  
 Woher kommen Sie? (formell)  
@@ -1054,6 +1121,8 @@ dem Irak
 
 ### Welche
 
+---
+
 Welche Sprachen sprechen Sie? Ich spreche gut Türkisch, flueßen Englisch und ein bisschen Deutsch.
 
 
@@ -1070,6 +1139,8 @@ Welche Sprachen sprechen Sie? Ich spreche gut Türkisch, flueßen Englisch und e
 ---
 
 ### Wem
+
+---
 
 Wem gehört die Uhr?  
 Die Uhr gehört ihm.
@@ -1090,6 +1161,8 @@ Die Bücher gehören ihm.
 ---
 
 ## Ja-Nein Frage
+
+---
 
 Sind Sie verheiratet?  
 Ja, ich bin verheiratet.  
@@ -1125,7 +1198,11 @@ Nein, ich habe keine kinder.
 
 # Bildwörter {.tabset .tabset-fade .tabset-pills}
 
+---
+
 ## Körper und Gesundheit
+
+---
 
 der Körper  
 der Kopf | die Köpfe  
@@ -1188,7 +1265,11 @@ krank | kränker | am kränkesten
 tot  
 
 
+---
+
 ## Kleidung
+
+---
 
 die Kleidung  
 die Hose | die Hosen  
@@ -1219,8 +1300,11 @@ der Unterrock | die Unterröcke
 sich ausziehen | hat sich ausgezogen (soyunmak)    
 sich anziehen | hat sich angezogen (giyinmek)  
 
+---
 
 ## Essen und Trinken  
+
+---
 
 Im Supermarkt: https://www.hueber.de/media/36/schr1-lesetexte-L3.pdf  
 
@@ -1337,8 +1421,11 @@ die Speisekarte | die Spaisekarten (yemek listesi)
 
 bestellen | hat bestellt  (sipariş vermek)
 
+---
 
 ## Die Farben
+
+---
 
 die Farbe | die Farben  
 
@@ -1355,7 +1442,11 @@ orange
 lila  
 
 
+---
+
 ## Gebäude und Wohnen  
+
+---
 
 die Stadt | die Städte  
 das Dorf | die Dörfer  
@@ -1411,6 +1502,8 @@ der Schlüssel | die Schlüssel
 ---
 
 ## Die Zahlen
+
+---
 
 die Zahl | die Zahlen  
 
@@ -1530,6 +1623,8 @@ der/die/das zweite ..
 
 ## Einkaufen und Geld
 
+---
+
 das Geschãft | die Geschãfte  
 die Kasse | die Kassen (kasa)  
 der Verkãufer |  die Verkãuferin (seller)  
@@ -1572,6 +1667,8 @@ die Bank | die Banken
 
 
 ## Angaben zur Person  
+
+---
 
 Angaben zur Person (Personal information)  
 
@@ -1632,6 +1729,8 @@ verwitwet (dul)
 ---
 
 ## Familie und Freunde
+
+---
 
 Familie Polat:  https://www.hueber.de/media/36/schr1-lesetexte-L2.pdf  
 
@@ -1716,6 +1815,8 @@ Wie viele kinder hat deine Mutter?
 ---
 
 ## Arbeit
+
+---
 
 die Firma | die Firmen  
 der Empfang | die Empfãnge  
@@ -1821,6 +1922,8 @@ Biomedizin
 
 ## Sport und Freizeit  
 
+---
+
 der Sport  
 
 Basketball  
@@ -1855,6 +1958,8 @@ Was haben Sie gemacht?
 
 ## Einladen und Besuchen  
 
+---
+
 der Geburtstag | die Geburtstage  
 die Einladung | die Einladungen  
 die Torte | die Torten  
@@ -1879,8 +1984,11 @@ danke
 Auf wiedersehen  
 tschüss  
 
+---
 
 ## die Uhrzeit  
+
+---
 
 die Uhr | die Uhren  
 der Zeiger | die Zeiger  
@@ -1910,9 +2018,11 @@ viertel vor zwei
 Irinas Tagesablauf: https://www.hueber.de/media/36/schr1-lesetexte-L5.pdf
 
 
-
+---
 
 ## der Kalendar
+
+---
 
 die Woche  
 der Tag  
@@ -1984,6 +2094,8 @@ der Dezember
 
 ## Maße und Gewichte  
 
+---
+
 das Maß | die Maße (cetvel)  
 die Breite | die Breiten (genişlik)  
 die Höhe | die Höhen (yükseklik)  
@@ -2005,7 +2117,12 @@ ein halber Liter
 messen | hat gemessen  
 
 
+---
+
 ## Lãnder Nationalitãten  
+
+---
+
 
 das Land | die Lãnder  
 Kontinent | Kontinente  
@@ -2031,6 +2148,9 @@ die Österreicherin | die Österreicherinnen
 ---
 
 ## Sprache
+
+---
+
 
 Sprache | Sprachen  
 Deutsch  
@@ -2068,6 +2188,9 @@ die Fremdsprache
 
 ## Wege beschreiben  
 
+---
+
+
 Bitte links abbiegen  
 Bitte rechts abbiegen  
 Gehen/Fahren Sie geradeaus  
@@ -2098,6 +2221,7 @@ einbahnstraße
 
 # Personal und Reflexive Pronomen
 
+---
 
 ![](figures/personal_und_reflexive_pronomen.png)
 
@@ -2106,6 +2230,8 @@ einbahnstraße
 ---
 
 # Lokale Präpositionen
+
+---
 
 Lokale Pröpositionen + Dativ: Wo?
 
@@ -2184,7 +2310,7 @@ Wo ist der Stab?
 
 # Zeitpräpositionen
 
-
+---
 
 
 
@@ -2232,6 +2358,7 @@ Lang X kurz
 
 # Kurssprache
 
+---
 
 - Schreiben Sie Bitte  
 - Sprechen Sie Bitte  
@@ -2278,6 +2405,7 @@ Der Plural von Tasche ist/heißt TAschen.
 
 # Anderes
 
+---
 
 Mein Traumhaus: https://www.hueber.de/media/36/schr1-lesetexte-L4.pdf
 
@@ -2326,6 +2454,8 @@ https://www.hueber.de/seite/pg_lehren_lesetexte_sri
 
 
 ## 1
+
+---
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l01/index.php
 
@@ -2451,6 +2581,7 @@ Wie bitte ?
 
 ## 2
 
+---
 
 Ich wohne in ....
 
@@ -2571,6 +2702,7 @@ keine  Ja, Ich habe ein kind.
 
 ## 3
 
+---
 
 Wo arbeiten Sie ?
    arbeite bei Siemens
@@ -2650,6 +2782,7 @@ Regel  +Frage     +Antwort=Ja
 
 ## 4
 
+---
 
 Möbel  
 Tisch  
@@ -2767,6 +2900,7 @@ die Tasche
 
 ## 5
 
+---
 
 
 *ausweis
@@ -2911,6 +3045,7 @@ Ich habe ..... ein
 
 ## 6
 
+---
 
 
 | Sich meiden  |  Sich meiden             | Sich verabschieden
@@ -3002,6 +3137,7 @@ Mein Hobby ist singen,Basketball spielen.
 
 ## 7
 
+---
 
 tauchen
 die Harpune,n
@@ -3093,6 +3229,8 @@ Wie oft schwimmst du ?
 ---
 
 ## 8
+
+---
 
 Ich kann Bücker lesen.
 Ich lese leiber.
@@ -3260,6 +3398,7 @@ die Uhrzeit,en
 
 ## 9
 
+---
 
 
 Wieder ?
@@ -3364,6 +3503,7 @@ Was isst du gein.
 
 ## 10
 
+---
 
 
 das flugzeug
@@ -3468,6 +3608,7 @@ Wo steigst du ein ?
 
 ## 11
 
+---
 
 
 Wohin ?
@@ -3550,6 +3691,7 @@ ________________________________________________________________________________
 
 ## 12
 
+---
 
 
 | **Frühling**   | **Sommer**   |  **Herbst**   | **Winter**    |
@@ -3672,6 +3814,8 @@ Gehen/Fahren Sie die zweite Strasse links.
 
 
 ## 13
+
+---
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l13/index.php
 
@@ -3901,6 +4045,8 @@ Das Wetter ist schön und ich schwimme. Ich bin im Wasser, aber nicht im Meer. -
 
 ## 14
 
+---
+
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l14/index.php
 
 
@@ -4031,6 +4177,8 @@ die Anzeige | die Anzeigen (ilan)
 ---
 
 ## 15
+
+---
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l15/index.php
 
@@ -4175,6 +4323,8 @@ Bern und Berlin haben etwas gemeinsam. Beide Wappen haben einen Bären.
 ---
 
 ## 16
+
+---
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l16/index.php
 
@@ -4383,6 +4533,8 @@ Liebe Grüße
 
 ## 17
 
+---
+
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l17/index.php
 
 
@@ -4513,6 +4665,8 @@ Vielleicht *will* Jan Liedermacher werden.
 ---
 
 ## 18
+
+---
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l18/index.php
 
@@ -4789,6 +4943,8 @@ Das Auto hat mir früher gehört.
 
 ## 19
 
+---
+
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l19/index.php
 
 
@@ -4875,6 +5031,8 @@ Das Auto hat mir früher gehört.
 ---
 
 ## 20
+
+---
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l20/index.php
 
@@ -5101,6 +5259,8 @@ Viele Grüße
 
 ## 21
 
+---
+
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l21/index.php
 
 
@@ -5198,6 +5358,8 @@ Die Ärztin sagt, ich *soll* viel schlafen, aber ich *will* tanzen gehen.
 ---
 
 ## 22
+
+---
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l22/index.php
 
@@ -5320,6 +5482,8 @@ gern-lieber-liebsten
 ---
 
 ## 23
+
+---
 
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l23/index.php
 
@@ -5498,6 +5662,8 @@ Heute Nachmittag gibt es Gewitter.
 
 ## 24
 
+---
+
 https://hueber.de/shared/uebungen/menschen/kb/a1/livebook/l24/index.php
 
 
@@ -5637,6 +5803,8 @@ https://www.hueber.de/media/36/Menschen_Loesungen_AB_A2.pdf
 
 ## 1
 
+---
+
 Mein Opa war auch schon Bäcker.
 
 die Brezel | die Brezeln  
@@ -5757,6 +5925,8 @@ Er / Sie war schon verrückt / nett / lustig, mein / meine ...
 ---
 
 ## 2
+
+---
 
 Wohin mit der Kommode?  
 
@@ -5899,6 +6069,8 @@ Stell lieber nicht zu viele Möbel in das Zimmer. Sonst ...
 ---
 
 ## 3
+
+---
 
 Hier finden Sie Ruhe und Erholung  
 
@@ -6241,6 +6413,8 @@ Um 10 Uhr ist Michael in der Schule angekommen und ist in die Klasse gegangen.Al
 
 ## 4
 
+---
+
 Was darf es sein? How may I help?, Ne vereyim abime :)  
 
 die Dose | die Dosen  
@@ -6348,6 +6522,8 @@ die Verpackung | die Verpackungen
 ---
 
 ## 5
+
+---
 
 Schaut mal, der schöne Dom  
 
@@ -6585,6 +6761,8 @@ Bis bald!
 
 ## 6
 
+---
+
 Meine Lieblingsveranstaltung  
 
 
@@ -6717,6 +6895,8 @@ Heute kann man ... besichtigen. Besuchen Sie /Besucht ... Hier finden Sie / find
 
 ## 7
 
+---
+
 Für diese Sportarten braucht man eine Mannschaft.  
 
 Für diese Sportarten braucht man unbedingt einen Partner.  
@@ -6779,6 +6959,7 @@ Du könntest joggen gehen.
 
 ## 8
 
+---
 
 
 
@@ -6951,6 +7132,7 @@ Angst haben vor der Operation
 
 ## 9
 
+---
 
 Freundliche Mirarbeiter gesucht!
 
@@ -7043,18 +7225,21 @@ Correct
 
 ## 10
 
+---
 
 
 ---
 
 ## 11
 
+---
 
 
 ---
 
 ## 12
 
+---
 
 ---
 
@@ -7071,6 +7256,8 @@ https://www.hueber.de/media/36/Loesungsschluessel_Menschen_AB_A2-2.pdf
 
 ## 13
 
+---
+
 https://hueber.de/shared/uebungen/menschen/kb/a2/livebook/l13/index.php
 
 
@@ -7085,6 +7272,7 @@ Das Projekt hat großen Erfolg.
 
 ## 14
 
+---
 
 
 Dankesbrief
@@ -7128,6 +7316,7 @@ Ich freue mich schon auf meinen Urlaub. Da liege ich dann nur am Strand und lese
 
 ## 15
 
+---
 
 
 
@@ -7212,6 +7401,7 @@ f Texte (korrigieren) werden korrigiert.
 
 ## 16
 
+---
 
 Ich würde gern wissen, ob Sie noch ein Zimmer frei haben.
 
@@ -7309,6 +7499,7 @@ Serviceangebote
 
 ## 17
 
+---
 
 Simone und Felix fahren in den Urlaub.
 
@@ -7327,6 +7518,9 @@ Unsere Reise nach Rumänien
 ---
 
 ## 18
+
+---
+
 
 Ihre Meinung zum Wetter
 
@@ -7369,6 +7563,7 @@ auch so: träumen von
 
 ## 19
 
+---
 
 
 Wenn eine Ausstellung eröffnet wird, dann nennt man das eine Vernissage.
@@ -7487,6 +7682,7 @@ Am Sonntag findet im Zentrum ab 15.00 Uhr ein Stadtspaziergang statt.
 
 ## 20
 
+---
 
 
 Heute Abend gehe ich zu einer Lesung. Wollt ihr auch mitkommen?
@@ -7529,6 +7725,7 @@ Dirk war sehr gut im Sport. Deshalb wollte er Profisportler werden.
 
 ## 21
 
+---
 
 
 Eine Zeugenaussage
@@ -7580,6 +7777,7 @@ Tauschringe
 
 ## 22
 
+---
 
 
 
@@ -7610,12 +7808,14 @@ Bis mein Bus kommt, muss ich noch eine halbe Stunde warten.
 
 ## 23
 
+---
 
 
 ---
 
 ## 24
 
+---
 
 
 
@@ -7661,10 +7861,15 @@ Bis mein Bus kommt, muss ich noch eine halbe Stunde warten.
 
 # B1
 
+---
+
 https://hueber.de/shared/uebungen/menschen/kb/b1/menu.php
+
 ---
 
 ## B1.1
+
+---
 
 https://www.hueber.de/shared/uebungen/menschen/kb/b1-1/menu.php
 
@@ -7677,6 +7882,8 @@ https://www.hueber.de/media/36/Menschen_Loesungsschluessel_AB_B1-1.pdf
 ---
 
 ### 13 
+
+---
 
 Aus diesem Grund gab es ein Missverstãndis  
 
@@ -7712,6 +7919,7 @@ diesseits / jenseits	    Jenseits / Diesseits dieser Grenze liegt Polen.
 
 ## B1.3
 
+---
 
 
 
@@ -7731,6 +7939,8 @@ diesseits / jenseits	    Jenseits / Diesseits dieser Grenze liegt Polen.
 
 # B2- C1
 
+---
+
 https://www.hueber.de/shared/livebook/menschen-im-beruf/medizin/b2-c1/html5.html
 
 
@@ -7740,16 +7950,12 @@ https://www.hueber.de/lernen/deutsch-als-fremdsprache
 
 # Deutsch im Krankenhaus Neu
 
+---
+
 https://www.klett-sprachen.de/deutsch-im-krankenhaus-neu/r-1/78#reiter=titel&niveau=A2-B2
 
 
 ---
-
-# Coursera
-
-## Sprachtechnologie in den Digital Humanities
-
-https://www.coursera.org/learn/digital-humanities/home/welcome
 
 
 
