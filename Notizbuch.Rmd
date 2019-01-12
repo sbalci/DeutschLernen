@@ -121,6 +121,7 @@ https://ankara.bibliothek.goethe.de
 
 https://www.deutschakademie.de/online-deutschkurs/audio-course/
 
+---
 
 ### Coursera
 
@@ -273,6 +274,8 @@ https://www.youtube.com/watch?v=K-c6Jexc1X0
 
 ## Podcast
 
+---
+
 - Deutsch – warum nicht?
 
 https://www.dw.com/tr/almanca-öğrenin/deutsch-warum-nicht/s-2609?maca=tur-DKpodcast_dwn1_tur-3803-xml-mrss
@@ -281,8 +284,11 @@ http://rss.dw.com/xml/DKpodcast_dwn1_tur
 
 http://rss.dw.com/xml/DKpodcast_dwn2_tur
 
+---
 
 ## Musik
+
+---
 
 - Falco  
 https://www.youtube.com/watch?v=cyrdPtEHKzE  
@@ -308,7 +314,13 @@ https://www.youtube.com/user/cluesomusik/videos
 https://www.youtube.com/watch?v=xAe6fz1vndU  
 https://open.spotify.com/track/0pOgiSa8cTczv6shpUqfpG?si=reQdJJk_RTqvDb2aziY76g  
 
+---
 
+## Der Spiegel
+
+---
+
+http://www.spiegel.de/spiegel/
 
 ---
 
@@ -7891,6 +7903,8 @@ der Advokat | die Advokaten
 die Advokatin | die Advokatinnen  
 die Avocado | die Avocados  
 
+---
+
 Sie kennen bereits die vier am häufigsten gebrauchten Präpositionen mit dem Genitiv: während, wegen, trotz und (an)statt. 
 
 Es gibt noch eine Reihe anderer Präpositionen, die mit dem Genitiv verwendet werden. 
@@ -7957,7 +7971,34 @@ https://www.klett-sprachen.de/deutsch-im-krankenhaus-neu/r-1/78#reiter=titel&niv
 
 ---
 
+This document will be continiously updated and the last update was on `r Sys.Date()`.
 
+---
+
+<script id="dsq-count-scr" src="//https-sbalci-github-io.disqus.com/count.js" async></script>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-sbalci-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+---
 
 
 
