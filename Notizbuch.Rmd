@@ -7902,6 +7902,79 @@ Aus diesem Grund gab es ein Missverstãndis
 der Advokat | die Advokaten  
 die Advokatin | die Advokatinnen  
 die Avocado | die Avocados  
+die Essigsoße | die Essigsoßen  
+der Rechtsanwalt | die Rechtsanwãlte  
+die Rechtsanwãltin | die Rechtsanwãltinnen  
+der Übersetzungsfehler  
+
+der Hahn | die Hãhne  
+der Nagel | die Nãgel  
+die Schlange | die Schlangen  
+das Schloss | die Schlössr  
+der Schalter | die Schalter  
+die Birne | die Birnen  
+die (Glüh-)Birne | die Glühbirnen  
+der Hahn | die Hãhne  
+der (Wasser-)Hahn | die Wasserhãhne  
+die Bank | die Bãnke  
+die Bank | die Bãnken  
+die Leiter | die Leitern  
+der Leiter | die Leiter  
+die Aussprache  
+die Begabung | die Begabungen  
+der Dialekt | die Dialekte  
+der Trommelkurs | die Trommelkurse  
+die Übersetzung | die Übersetzungen  
+die Wortbedeutung | die Wortbedeutungen  
+das Wortspiel | die Wortspiele  
+der Zoobesuch | die Zoobesuche  
+der Anschlussflug | die Anschlussflüge  
+die Datei | die Dateien  
+die Geschãftskleidung  
+der Akzent | die Akzente  
+der Beamte | die Beamten  (officer)  
+die Beamtin | die Beamtinnen  
+das Redemittel-Kãrtchen  
+das Sprechen  
+das Standesamt | die Standesãmter  (registry office)  
+das Teekesselchen | die Teekesselchen  
+das Fantasiewort | die Fantasiewörter  
+der Vokal | die Vokale  
+die Bedeutung | die Bedeitungen  
+das Missverstãndis | die Missverstãndisse  
+
+
+
+---
+
+weglassen  (omit)
+umschreiben  (transcribe)  
+ein prãgen (sich) (memorise)
+durchfallen (fail a test)
+besorgen  
+abfliegen | fliegt ab | flog ab | ist abgeflogen
+nach erzãhlen  
+nach fragen  
+beißen  (bite)  
+böse sein (to be mad, angry)  
+erschrecken (sich)  
+missverstehen  
+mitwollen  
+veröffentlichen  
+
+
+---
+
+deswegen  
+daraufhin  
+
+---
+
+augenblicklich  
+sprachlich  
+undeutlich (indistinct, fuzzy)  
+kausal  
+
 
 ---
 
@@ -7927,6 +8000,17 @@ längs                   	Längs des Flusses stehen viele alte Bäume.
 inmitten                	Die Pension ist inmitten der Berge.
 beiderseits             	Beiderseits der Straße stehen Bäume.
 diesseits / jenseits	    Jenseits / Diesseits dieser Grenze liegt Polen.
+
+
+
+---
+
+14
+
+---
+
+
+
 
 
 ---
