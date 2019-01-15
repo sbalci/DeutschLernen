@@ -1,21 +1,81 @@
 ---
 title: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)"
+subtitle: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.html)"
 output:
+  rmdformats::material:
+    highlight: kate
+    self_contained: true
+    code_folding: none
+    thumbnails: true
+    gallery: true
+    fig_width: 4
+    fig_height: 4
+    df_print: kable    
   html_notebook: 
+    fig_caption: yes
+    highlight: kate
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+  rmdformats::readthedown:
+    code_folding: hide
+    self_contained: true
+    thumbnails: false
+    lightbox: false
+  rmdformats::html_docco:
+    fig_width: 6
+    fig_height: 6
+    highlight: kate
+    thumbnails: true
+    lightbox: true
+    gallery: true
+  html_document: 
     code_folding: hide
     fig_caption: yes
+    keep_md: yes
+    thumbnails: true
+    gallery: true
+    fig_width: 4
+    fig_height: 4
+    df_print: kable
     toc: yes
     toc_depth: 4
     toc_float: yes
+    lightbox: false
   flexdashboard::flex_dashboard:
     orientation: rows
     social: menu
+  rmdformats::html_clean:
+    fig_width: 6
+    fig_height: 6
+    highlight: kate
+    thumbnails: true
+    lightbox: true
+    gallery: true
 ---
+
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
 
 <!-- xaringan:::inf_mr()  -->
 
 <!-- Open all links in new tab-->  
-<base target="_blank"/>   
+<!-- <base target="_blank"/> -->
 
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
@@ -23,6 +83,15 @@ output:
 <!-- </script>  -->
 
 ---
+
+# Das Notizbuch
+
+[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)  
+[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.html)  
+
+
+---
+
 
 
 # Wörterbuch {.tabset .tabset-fade .tabset-pills}
@@ -193,11 +262,19 @@ https://www.n-tv.de/mediathek/livestream/
 
 ---
 
-## DW
+## DW  {.tabset}
+
+---
+
+### DW Live
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UBLf1ycbdy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### DW Kurs
 
 ---
 
@@ -232,8 +309,21 @@ https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/radio-d-1-b%C3%B6l%C3%BCm/s-1121
 
 https://www.dw.com/tr/almanca-%C3%B6%C4%9Frenin/audiotrainer/s-11213
 
+---
 
+### DW Top-Thema
 
+---
+
+[Schneechaos in Bayern](https://www.dw.com/de/schneechaos-in-bayern/l-47086605)
+
+---
+
+### DW SoundCloud
+
+---
+
+https://soundcloud.com/dw-learngerman
 
 ---
 
@@ -321,6 +411,15 @@ https://open.spotify.com/track/0pOgiSa8cTczv6shpUqfpG?si=reQdJJk_RTqvDb2aziY76g
 ---
 
 http://www.spiegel.de/spiegel/
+
+---
+
+## Twitter
+
+---
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="de" dir="ltr"><a href="https://twitter.com/hashtag/Deutschlernen?src=hash&amp;ref_src=twsrc%5Etfw">#Deutschlernen</a> mit dem Top-Thema: Schneechaos in Bayern <a href="https://t.co/D53ScwbENn">https://t.co/D53ScwbENn</a> [Text+Audio]</p>&mdash; DW Deutsch lernen (@dw_learngerman) <a href="https://twitter.com/dw_learngerman/status/1085187377289584642?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -7879,7 +7978,7 @@ https://hueber.de/shared/uebungen/menschen/kb/b1/menu.php
 
 ---
 
-## B1.1
+## B1.1 {.tabset .tabset-fade .tabset-pills}  
 
 ---
 
@@ -7889,7 +7988,11 @@ https://www.hueber.de/media/36/Menschen_Loesungsschluessel_AB_B1-1.pdf
 
 ---
 
-## B1.2
+http://www.almancaeskisehir.com/n-denklination.html
+
+---
+
+## B1.2 {.tabset .tabset-fade .tabset-pills}  
 
 ---
 
@@ -8012,7 +8115,87 @@ diesseits / jenseits	    Jenseits / Diesseits dieser Grenze liegt Polen.
 
 ---
 
-14
+### 14
+
+---
+
+Die Teilnahme ist auf eigene Gefahr  
+(participation is own risk)  
+
+---
+
+sich fallen lassen  
+vormachen (önceden yapıp göstermek)  
+auffrischen  (refresh)  
+ausbauen (reconstruct)  
+belegen (document, reserve)  
+benötigen (need)  
+fördern (promote, support)  
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+|  -|  -|
+|--:|--:|
+| das Gelingen  
+| der Kletterkurs | die Kletterkurse  
+| das Selbsvertrauen (kendine güven)  
+| das Multimedia  
+| das Abspielen  
+| das Afghanistan  
+| die Argumentationstechnik | die Argumentationstechnicken  
+| die Atemübung | die Atemübungen (breathing exercise)  
+| der Behãlter | die Behãlter (container, bowl)  
+| der Blickkontakt | die Blickkontakte  
+| das Chorsingen  
+| der Eindruck | die Eindrucke  
+| der Einsteiger | die Einsteiger  
+| die Einsteigerin | die Einsteigerin  
+
+
+die Fertigkeit | die Fertigkeiten  
+die Fragetechnik | die Fragetechniken  
+das Frühjahrsprogramm | die Frühjahrsprogramme  
+die Gefahr | die Gefahren (danger, hazard, risk)  
+die Geschmacksrichtung | die Geschmacksrichtungen  
+das Gesprãchsklima  
+das Gesprãchsverhalten  
+die Gestik  
+die Grammatikkenntnisse  
+die Grundlage | die Grundlagen  
+die Grundtechnik | die Grundtechniken  
+die Haftung  
+
+
+
+
+---
+
+geistig  (intellectual, mental)  
+heraus fordern (challenging)  
+
+
+
+
+
+
+
+
+
+---
+
+rückwãrts
+
 
 ---
 
@@ -8020,9 +8203,20 @@ diesseits / jenseits	    Jenseits / Diesseits dieser Grenze liegt Polen.
 
 
 
+
+
+
+
+
+
 ---
 
-## B1.3
+### 15
+
+
+---
+
+## B1.3 {.tabset .tabset-fade .tabset-pills}  
 
 ---
 
@@ -8053,16 +8247,25 @@ https://www.hueber.de/lernen/deutsch-als-fremdsprache
 
 ---
 
-# Deutsch im Krankenhaus Neu
+# Deutsch im Krankenhaus Neu  
 
 ---
 
 https://www.klett-sprachen.de/deutsch-im-krankenhaus-neu/r-1/78#reiter=titel&niveau=A2-B2
 
+---
+
+# About  
 
 ---
 
-This document will be continiously updated and the last update was on `r Sys.Date()`.
+See the code [here](https://github.com/sbalci/DeutschLernen).  
+If you want to contribute send a pull request [to this file](https://github.com/sbalci/DeutschLernen/blob/master/Notizbuch.Rmd).  
+
+
+---
+
+This document will be continiously updated and the last update was on `r Sys.Date()`.  
 
 ---
 
