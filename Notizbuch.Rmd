@@ -2,6 +2,12 @@
 title: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)"
 subtitle: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.html)"
 output:
+  html_notebook: 
+    fig_caption: yes
+    highlight: kate
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
   rmdformats::material:
     highlight: kate
     self_contained: true
@@ -11,12 +17,6 @@ output:
     fig_width: 4
     fig_height: 4
     df_print: kable    
-  html_notebook: 
-    fig_caption: yes
-    highlight: kate
-    toc: yes
-    toc_depth: 5
-    toc_float: yes
   rmdformats::readthedown:
     code_folding: hide
     self_contained: true
@@ -86,8 +86,9 @@ opts_knit$set(width=75)
 
 # Das Notizbuch
 
-[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)  
-[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.html)  
+[Das Notizbuch  Mobile](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)  
+[Das Notizbuch Desktop](https://sbalci.github.io/DeutschLernen/Notizbuch.html)  
+[About](#about)
 
 
 ---
@@ -8272,7 +8273,7 @@ https://www.klett-sprachen.de/deutsch-im-krankenhaus-neu/r-1/78#reiter=titel&niv
 
 ---
 
-# About  
+# About  {#about}
 
 ---
 
