@@ -2,12 +2,6 @@
 title: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.nb.html)"
 subtitle: "[Das Notizbuch](https://sbalci.github.io/DeutschLernen/Notizbuch.html)"
 output:
-  html_notebook: 
-    fig_caption: yes
-    highlight: kate
-    toc: yes
-    toc_depth: 5
-    toc_float: yes
   rmdformats::material:
     highlight: kate
     self_contained: true
@@ -17,6 +11,13 @@ output:
     fig_width: 4
     fig_height: 4
     df_print: kable    
+  html_notebook: 
+    fig_caption: yes
+    highlight: kate
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+    code_folding: none
   rmdformats::readthedown:
     code_folding: hide
     self_contained: true
