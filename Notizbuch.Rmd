@@ -11,18 +11,18 @@ output:
     fig_width: 4
     fig_height: 4
     df_print: kable    
+  html_notebook: 
+    fig_caption: yes
+    highlight: kate
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+    code_folding: none
   rmdformats::readthedown:
     code_folding: hide
     self_contained: true
     thumbnails: false
     lightbox: false
-  rmdformats::html_docco:
-    fig_width: 6
-    fig_height: 6
-    highlight: kate
-    thumbnails: true
-    lightbox: true
-    gallery: true
   html_document: 
     code_folding: hide
     fig_caption: yes
@@ -46,13 +46,13 @@ output:
     thumbnails: true
     lightbox: true
     gallery: true
-  html_notebook: 
-    fig_caption: yes
+  rmdformats::html_docco:
+    fig_width: 6
+    fig_height: 6
     highlight: kate
-    toc: yes
-    toc_depth: 5
-    toc_float: yes
-    code_folding: none
+    thumbnails: true
+    lightbox: true
+    gallery: true
 ---
 
 
@@ -8654,15 +8654,22 @@ https://www.youtube.com/watch?v=klnQFfE9TTw
 https://www.youtube.com/watch?v=QKe3vD6OiLo
 
 
+
+- Sicher! Übungsgrammatik Deutsch als Fremdsprache
+
+https://shop.hueber.de/de/sicher-uebungsgrammatik.html
+
+
+
 ---
 
 # UNSERE DEUTSCHPRÜFUNGEN
 
 https://www.goethe.de/de/spr/kup/prf/prf.html
 
+https://www.goethe.de/ins/tr/de/sta/ank/prf.html
 
-
-
+https://www.goethe.de/ins/tr/de/sta/ist/prf.html
 
 
 
